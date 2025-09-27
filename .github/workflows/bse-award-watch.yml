@@ -3,7 +3,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3-10 * * 1-5"
+    - cron: "0 3-10 * * *"
 
 concurrency:
   group: bse-award-watch
@@ -84,4 +84,5 @@ jobs:
         with:
           name: bse-awards-${{ github.run_id }}
           path: data
+
 
