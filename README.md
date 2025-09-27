@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-09-27 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-09-27 13:00 | Carraro India Ltd | 544320 | Carraro India Limited has informed the Exchange about favourable closure order in connection with the Show Cause Notice cum Demand under CGST Act, 2017. ([Link](https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/)) | 🚀 Likely Positive | 27 Sep 2025 • 13:40 |
 
-_Last updated: 27 Sep 2025 12:08 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-09-27.json)_
+_Last updated: 27 Sep 2025 • 16:20 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-09-27.json)_
 
 <!-- snapshot:end -->
 

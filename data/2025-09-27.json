@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-09-27",
-  "buckets": {},
+  "buckets": {
+    "2025-09-27T13": [
+      {
+        "newsId": "495ab2ed-ca9a-4344-a293-c6a33700c866",
+        "scripCode": 544320,
+        "shortName": "Carraro India Ltd",
+        "headline": "Carraro India Limited has informed the Exchange about favourable closure order in connection with the Show Cause Notice cum Demand under CGST Act, 2017.",
+        "announcedAt": "2025-09-27T13:40:34.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/",
+        "rawTime": "2025-09-27T13:40:34.36"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-09-27T12:08:00.418+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-09-27T16:20:34.339+05:30",
+    "checksum": "4b1b71dc591b779e0ad1a71c62517252c6beacd5d6e86d6b715e4dd58c78e5a1",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-27/awards-120759.json"
+    "rawPayloadPath": "data/raw/2025-09-27/awards-162033.json"
   }
 }
