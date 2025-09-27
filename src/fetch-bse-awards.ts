@@ -1,4 +1,8 @@
-﻿import axios from "axios";
+﻿/**
+ * Fetch the latest BSE "Award of Order / Receipt of Order" announcements,
+ * persist raw payloads, and expose structured outputs for downstream steps.
+ */
+import axios from "axios";
 import { writeFile } from "fs/promises";
 import path from "path";
 import { setTimeout as delay } from "timers/promises";
@@ -21,6 +25,7 @@ const MAX_ATTEMPTS = 4;
 const BASE_RETRY_DELAY_MS = 2_000;
 const RETRY_FACTOR = 2;
 
+/** Build the query URL used to poll the BSE API for a specific trading day. */
 function buildRequestUrl(dateString: string): string {
   const url = new URL(API_ENDPOINT);
   url.searchParams.set("pageno", "1");
@@ -34,6 +39,9 @@ function buildRequestUrl(dateString: string): string {
   return url.toString();
 }
 
+/**
+ * Normalize the raw BSE payload into the internal {@link Announcement} shape.
+ */
 function normaliseAnnouncements(payload: BseApiResponse): Announcement[] {
   const items = payload.Table ?? [];
   return items.map((item) => {
@@ -59,6 +67,10 @@ function normaliseAnnouncements(payload: BseApiResponse): Announcement[] {
   });
 }
 
+/**
+ * Publish structured announcement data as GitHub Actions outputs for optional
+ * downstream jobs.
+ */
 async function writeGithubOutputs(tradingDate: string, announcements: Announcement[]): Promise<void> {
   const outputFile = process.env.GITHUB_OUTPUT;
   if (!outputFile) return;
@@ -74,6 +86,9 @@ async function writeGithubOutputs(tradingDate: string, announcements: Announceme
   await writeFile(outputFile, `${lines.join("\n")}\n`, { flag: "a" });
 }
 
+/**
+ * Append a rich summary of the fetch results to the GitHub Step Summary panel.
+ */
 async function writeRunSummary(snapshot: FetchSnapshot): Promise<void> {
   const summaryFile = process.env.GITHUB_STEP_SUMMARY;
   if (!summaryFile) return;
@@ -107,6 +122,7 @@ async function writeRunSummary(snapshot: FetchSnapshot): Promise<void> {
   await writeFile(summaryFile, `${lines.join("\n")}\n`, { flag: "a" });
 }
 
+/** Perform a single HTTP GET against the BSE API. */
 async function fetchPayload(url: string): Promise<BseApiResponse> {
   const response = await axios.get<BseApiResponse>(url, {
     headers: {
@@ -122,6 +138,9 @@ async function fetchPayload(url: string): Promise<BseApiResponse> {
   return response.data ?? { Table: [], Table1: [] };
 }
 
+/**
+ * Retry wrapper around {@link fetchPayload} using exponential backoff.
+ */
 async function fetchWithRetry(url: string): Promise<{ payload: BseApiResponse; retries: number }> {
   let attempt = 0;
   let waitMs = BASE_RETRY_DELAY_MS;
@@ -146,6 +165,9 @@ async function fetchWithRetry(url: string): Promise<{ payload: BseApiResponse; r
   throw new Error("Exhausted retry attempts for BSE API request.");
 }
 
+/**
+ * Entry point executed by the GitHub Action step.
+ */
 async function main(): Promise<void> {
   const istNow = nowInIST();
   const queryDate = formatQueryDate(istNow);

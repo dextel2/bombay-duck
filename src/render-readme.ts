@@ -1,4 +1,7 @@
-﻿import { readFile, writeFile } from "fs/promises";
+﻿/**
+ * Render the intraday dataset into the README using a Mustache template.
+ */
+import { readFile, writeFile } from "fs/promises";
 import path from "path";
 import Mustache from "mustache";
 import { readJsonFile } from "./lib/io";
@@ -9,10 +12,12 @@ const MARKER_START = "<!-- snapshot:start -->";
 const MARKER_END = "<!-- snapshot:end -->";
 const TEMPLATE_PATH = path.join("templates", "awards.md.mustache");
 
+/** Escape Markdown table special characters. */
 function sanitize(value: string): string {
   return value.replace(/\\/g, "\\\\").replace(/\|/g, "\\|");
 }
 
+/** Convert the intraday state buckets into sorted rows for rendering. */
 function buildRows(state: IntradayState): RenderRow[] {
   const entries = Object.entries(state.buckets ?? {});
   entries.sort(([a], [b]) => (a > b ? -1 : 1));
@@ -37,15 +42,18 @@ function buildRows(state: IntradayState): RenderRow[] {
   return rows;
 }
 
+/** Load and cache the Mustache template from disk. */
 async function loadTemplate(): Promise<string> {
   return readFile(TEMPLATE_PATH, "utf8");
 }
 
+/** Read the JSON intraday state for a given trading date. */
 async function loadState(tradingDate: string): Promise<IntradayState | null> {
   const pathToState = path.join("data", `${tradingDate}.json`);
   return readJsonFile<IntradayState>(pathToState);
 }
 
+/** Compose the render context used by the Mustache template. */
 function buildContext(tradingDate: string, state: IntradayState | null): RenderContext {
   if (!state) {
     return {
@@ -75,6 +83,7 @@ function buildContext(tradingDate: string, state: IntradayState | null): RenderC
   };
 }
 
+/** Inject the rendered template into the README snapshot markers. */
 function injectIntoReadme(readme: string, rendered: string): string {
   const start = readme.indexOf(MARKER_START);
   const end = readme.indexOf(MARKER_END);
@@ -89,10 +98,11 @@ function injectIntoReadme(readme: string, rendered: string): string {
   return `${before}${content}${after}`;
 }
 
+/** Script entry point executed by the GitHub Action step. */
 async function main(): Promise<void> {
   const tradingDate = currentTradingDate();
-  const state = await loadState(tradingDate);
-  const template = await loadTemplate();
+  const [state, template] = await Promise.all([loadState(tradingDate), loadTemplate()]);
+
   const context = buildContext(tradingDate, state);
   const rendered = Mustache.render(template, context, {}, { escape: (value) => String(value) });
 

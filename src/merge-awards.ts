@@ -1,4 +1,8 @@
-﻿import path from "path";
+﻿/**
+ * Merge step that combines the latest fetch snapshot with the persisted
+ * intraday state, deduplicating announcements and rolling state files.
+ */
+import path from "path";
 import { readdir, rm } from "fs/promises";
 import { readJsonFile, writeJsonFile, ensureDir } from "./lib/io";
 import { createChecksum } from "./lib/checksum";
@@ -9,6 +13,7 @@ const SNAPSHOT_FILE = path.join("data", "latest-fetch.json");
 const DATA_DIR = "data";
 const STATE_FILE_PATTERN = /^\d{4}-\d{2}-\d{2}\.json$/;
 
+/** Deduplicate a combined list of announcements keeping the most recent entry. */
 function dedupeAnnouncements(existing: Announcement[], incoming: Announcement[]): Announcement[] {
   const byId = new Map(existing.map((item) => [item.newsId, item] as const));
   for (const item of incoming) {
@@ -17,6 +22,7 @@ function dedupeAnnouncements(existing: Announcement[], incoming: Announcement[])
   return Array.from(byId.values()).sort((a, b) => (a.announcedAt > b.announcedAt ? -1 : 1));
 }
 
+/** Load the most recent fetch snapshot written by the fetch script. */
 async function loadSnapshot(): Promise<FetchSnapshot> {
   const data = await readJsonFile<FetchSnapshot>(SNAPSHOT_FILE);
   if (!data) {
@@ -25,6 +31,7 @@ async function loadSnapshot(): Promise<FetchSnapshot> {
   return data;
 }
 
+/** Remove stale daily state files so only the active trading day remains. */
 async function purgeOldStateFiles(currentTradingDate: string): Promise<void> {
   const entries = await readdir(DATA_DIR, { withFileTypes: true });
   const removalTasks = entries
@@ -39,6 +46,9 @@ async function purgeOldStateFiles(currentTradingDate: string): Promise<void> {
   await Promise.all(removalTasks);
 }
 
+/**
+ * Entry point for the merge job. Updates the per-day JSON state and logs a summary.
+ */
 async function main(): Promise<void> {
   const snapshot = await loadSnapshot();
   await ensureDir(DATA_DIR);

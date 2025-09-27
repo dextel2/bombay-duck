@@ -1,4 +1,7 @@
-﻿import { setTimeout as delay } from "timers/promises";
+﻿/**
+ * Simple on-disk rate limiter so the workflow honours BSE throttling rules across retries.
+ */
+import { setTimeout as delay } from "timers/promises";
 import path from "path";
 import { DateTime } from "luxon";
 import { ensureDir, readJsonFile, writeJsonFile } from "./io";
@@ -11,6 +14,12 @@ interface RateLimitState {
 const DEFAULT_MIN_GAP_MS = 60_000;
 const STATE_FILE = path.join("data", ".rate-limit.json");
 
+/**
+ * Enforce a minimum delay between API calls across workflow steps.
+ *
+ * @param minGapMs Minimum gap in milliseconds. Defaults to one minute.
+ * @returns Milliseconds actually waited before the caller can proceed.
+ */
 export async function enforceRateLimit(minGapMs: number = DEFAULT_MIN_GAP_MS): Promise<number> {
   await ensureDir(path.dirname(STATE_FILE));
   const state = await readJsonFile<RateLimitState>(STATE_FILE);

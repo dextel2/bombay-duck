@@ -1,13 +1,19 @@
-﻿import { appendFile } from "fs/promises";
+﻿/**
+ * Guard script executed before the main workflow to decide whether the market
+ * is open. It writes a `should_run` output for downstream steps.
+ */
+import { appendFile } from "fs/promises";
 import { exit } from "process";
 import { nowInIST, isTradingDay, tradingWindowBounds, toIsoString } from "../lib/time";
 
+/** Append a key/value pair to the GitHub Actions output file. */
 async function setOutput(key: string, value: string): Promise<void> {
   const outputFile = process.env.GITHUB_OUTPUT;
   if (!outputFile) return;
   await appendFile(outputFile, `${key}=${value}\n`);
 }
 
+/** Read an integer from the environment, falling back to a default value. */
 function parseEnvInt(key: string, defaultValue: number): number {
   const raw = process.env[key];
   if (!raw) return defaultValue;
@@ -15,6 +21,10 @@ function parseEnvInt(key: string, defaultValue: number): number {
   return Number.isFinite(value) ? value : defaultValue;
 }
 
+/**
+ * Entry point for the guard script. Emits `should_run` and exits with code 0
+ * even when the trading window is closed.
+ */
 async function main(): Promise<void> {
   const now = nowInIST();
   const isoNow = toIsoString(now);

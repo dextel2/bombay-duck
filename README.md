@@ -1,36 +1,34 @@
-﻿# Bombay Duck Automation
+﻿# Bombay Duck 🦆
 
 [![BSE Award Watch](https://github.com/dextel2/bombay-duck/actions/workflows/bse-award-watch.yml/badge.svg)](https://github.com/dextel2/bombay-duck/actions/workflows/bse-award-watch.yml) ![License](https://img.shields.io/badge/license-ISC-blue.svg) ![Node](https://img.shields.io/badge/node-20.x-339933.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E.svg) [![GitHub stars](https://img.shields.io/github/stars/dextel2/bombay-duck?style=social)](https://github.com/dextel2/bombay-duck/stargazers)
 
 <!-- aim:start -->
 
-## Aim
+## Aim 🎯
 
-**Caution:** This project does not recommend buying or selling any security; it simply tracks BSE "Award of Order / Receipt of Order" announcements for informational purposes.
+⚠️ **Caution:\*\*** This project does not recommend buying or selling any security; it simply tracks BSE "Award of Order / Receipt of Order" announcements for informational purposes.
 
 Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcements so traders can spot fresh bullish catalysts without refreshing the exchange site. The goal is a hands-free tracker that respects BSE rate limits, stores every intraday fetch in git, and keeps the repository's front page as a living dashboard.
 
 <!-- aim:end -->
 
-## Intraday Snapshot
+## Intraday Snapshot 📊
 
-**Important:** The README snapshot is updated automatically by the scheduled GitHub Action. Always pull the latest changes (or rebase) before editing README content locally to avoid merge conflicts.
+ℹ️ **Important:\*\*** The README snapshot is updated automatically by the scheduled GitHub Action. Always pull the latest changes (or rebase) before editing README content locally to avoid merge conflicts.
 
 <!-- snapshot:start -->
 
 ### Today's Awarded Orders (2025-09-27 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-09-27 13:00 | Carraro India Ltd | 544320 | Carraro India Limited has informed the Exchange about favourable closure order in connection with the Show Cause Notice cum Demand under CGST Act, 2017. ([Link](https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/)) | 🚀 Likely Positive | 27 Sep 2025 • 13:40 |
+_No award announcements have been captured yet today._
 
-_Last updated: 27 Sep 2025 • 16:20 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-09-27.json)_
+_Last updated: 27 Sep 2025 - 00:00 | Entries: 0 | Requests: 0 | Retries: 0 | [Raw JSON](data/2025-09-27.json)_
 
 <!-- snapshot:end -->
 
 <!-- how-it-works:start -->
 
-## How It Works
+## How It Works ⚙️
 
 1. Scheduled GitHub Action runs at the top of each hour from 09:00 to 16:00 IST, Monday through Friday.
 2. Trading-window guard aborts early outside market hours or on weekends/holidays.
@@ -55,24 +53,22 @@ flowchart TD
 
 <!-- how-it-works:end -->
 
-## Automation Timeline
+## Automation Timeline 🕒
 
 - **09:00 IST**: First eligible run clears out yesterday's state, fetches fresh announcements, and resets the README snapshot.
-- **09:15-15:00 IST**: At the top of each hour the workflow repeats the fetch→merge→render pipeline, committing only when new data appears.
+- **09:15-15:00 IST**: At the top of each hour the workflow repeats the fetch->merge->render pipeline, committing only when new data appears.
 - **After 15:00 IST**: Guard step exits successfully; the last intraday snapshot remains until markets reopen.
 
-## Project Resources
+## Project Resources 📚
 
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [Pull Request Guide](PR_GUIDE.md)
-- [Known Issues](KNOWN_ISSUES.md)
-- [Authors](AUTHORS.md)
+- 📘 [Contributing Guidelines](CONTRIBUTING.md)
+- 🧾 [Pull Request Guide](PR_GUIDE.md)
+- 🐞 [Known Issues](KNOWN_ISSUES.md)
+- 👥 [Authors](AUTHORS.md)
 
-## Appendix
+## Appendix 📎
 
 - **API Endpoint:** `https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w`
 - **Query Parameters:** `strCat=Company Update`, `subcategory=Award of Order / Receipt of Order`; date fields align with the active IST trading day.
 - **Outputs:** Exposes `trading_date`, `announcement_count`, and the JSON-encoded announcements via `GITHUB_OUTPUT` for downstream jobs.
 - **Logs & Summaries:** Fetch step writes a Markdown table to the GitHub Step Summary for quick triage.
-
-
