@@ -1,4 +1,6 @@
-﻿# Bombay Duck 🦆
+﻿# Bombay Duck Automation 🦆
+
+[![BSE Award Watch](https://github.com/dextel2/bombay-duck/actions/workflows/bse-award-watch.yml/badge.svg)](https://github.com/dextel2/bombay-duck/actions/workflows/bse-award-watch.yml) ![License](https://img.shields.io/badge/license-ISC-blue.svg) ![Node](https://img.shields.io/badge/node-20.x-339933.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E.svg) [![GitHub stars](https://img.shields.io/github/stars/dextel2/bombay-duck?style=social)](https://github.com/dextel2/bombay-duck/stargazers)
 
 <!-- aim:start -->
 
@@ -107,3 +109,4 @@ npm run clean         # wipe dist/
 - **Query Parameters**: `strCat=Company Update`, `subcategory=Award of Order / Receipt of Order`, date fields are generated per IST trading day.
 - **Outputs**: `trading_date`, `announcement_count`, and JSON-encoded announcement list are exposed via `GITHUB_OUTPUT` for downstream jobs if needed.
 - **Logs & Summaries**: Fetch step writes a Markdown table to the GitHub Step Summary to aid triage.
+
