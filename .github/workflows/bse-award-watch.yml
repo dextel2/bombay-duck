@@ -69,6 +69,10 @@ jobs:
         run: |
           git config user.name "$GIT_AUTHOR_NAME"
           git config user.email "$GIT_AUTHOR_EMAIL"
+          if [ -z "$PAT_TOKEN" ]; then
+            echo "BOT_PAT secret is required to push changes."
+            exit 1
+          fi
           git add README.md data
           git commit -m "chore: refresh BSE award snapshot"
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
