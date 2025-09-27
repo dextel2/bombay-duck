@@ -37,7 +37,7 @@ export function formatDisplayTime(isoTimestamp: string): string {
   if (!dt.isValid) {
     return isoTimestamp;
   }
-  return dt.setZone(IST_ZONE).toFormat("dd LLL yyyy - HH:mm");
+  return dt.setZone(IST_ZONE).toFormat("dd MMM yyyy • HH:mm");
 }
 
 export function tradingWindowBounds(base: DateTime = nowInIST()): { open: DateTime; close: DateTime } {
@@ -81,6 +81,39 @@ export function parseAnnouncementDate(rawValues: Array<string | null | undefined
   }
 
   return toIso(nowInIST());
+}
+
+export function interpretProfitIndicator(headline: string): string {
+  const normalized = headline.toLowerCase();
+  const positiveKeywords = [
+    "order",
+    "contract",
+    "wins",
+    "secured",
+    "awarded",
+    "receipt",
+    "bagged",
+    "deal",
+    "profit"
+  ];
+
+  const negativeKeywords = [
+    "cancel",
+    "loss",
+    "decline",
+    "terminate",
+    "penalty"
+  ];
+
+  if (positiveKeywords.some((keyword) => normalized.includes(keyword))) {
+    return "🚀 Likely Positive";
+  }
+
+  if (negativeKeywords.some((keyword) => normalized.includes(keyword))) {
+    return "⚠️ Review Manually";
+  }
+
+  return "ℹ️ Neutral";
 }
 
 export function toIsoString(dateTime: DateTime): string {

@@ -2,8 +2,8 @@
 import path from "path";
 import Mustache from "mustache";
 import { readJsonFile } from "./lib/io";
-import { currentTradingDate, formatDisplayTime } from "./lib/time";
-import { IntradayState, RenderContext } from "./types";
+import { currentTradingDate, formatDisplayTime, interpretProfitIndicator } from "./lib/time";
+import { IntradayState, RenderContext, RenderRow } from "./types";
 
 const MARKER_START = "<!-- snapshot:start -->";
 const MARKER_END = "<!-- snapshot:end -->";
@@ -13,11 +13,11 @@ function sanitize(value: string): string {
   return value.replace(/\\/g, "\\\\").replace(/\|/g, "\\|");
 }
 
-function buildRows(state: IntradayState): RenderContext["rows"] {
+function buildRows(state: IntradayState): RenderRow[] {
   const entries = Object.entries(state.buckets ?? {});
   entries.sort(([a], [b]) => (a > b ? -1 : 1));
 
-  const rows: RenderContext["rows"] = [];
+  const rows: RenderRow[] = [];
 
   for (const [hourKey, announcements] of entries) {
     const sorted = [...announcements].sort((a, b) => (a.announcedAt > b.announcedAt ? -1 : 1));
@@ -28,7 +28,8 @@ function buildRows(state: IntradayState): RenderContext["rows"] {
         code: String(announcement.scripCode),
         headline: sanitize(announcement.headline || ""),
         url: announcement.url,
-        announcedAtLabel: formatDisplayTime(announcement.announcedAt)
+        announcedAtLabel: formatDisplayTime(announcement.announcedAt),
+        profitIndicator: interpretProfitIndicator(announcement.headline || "")
       });
     }
   }

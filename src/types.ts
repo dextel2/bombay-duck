@@ -72,6 +72,16 @@ export interface IntradayState {
   };
 }
 
+export interface RenderRow {
+  hourLabel: string;
+  company: string;
+  code: string;
+  headline: string;
+  url: string;
+  announcedAtLabel: string;
+  profitIndicator: string;
+}
+
 export interface RenderContext {
   tradingDate: string;
   tradingDateDisplay: string;
@@ -81,13 +91,5 @@ export interface RenderContext {
   retryCount: number;
   lastUpdatedDisplay: string;
   stateFileName: string;
-  rows: Array<{
-    hourLabel: string;
-    company: string;
-    code: string;
-    headline: string;
-    url: string;
-    announcedAtLabel: string;
-  }>;
+  rows: RenderRow[];
 }
-
