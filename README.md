@@ -20,9 +20,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-09-27 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-09-27 17:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform that Zaggle Prepaid Ocean Services Limited has enetered into an agreement with IDFC First Bank Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 27 Sep 2025 - 17:09 |
+| 2025-09-27 17:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, this is to inform that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IDFC FIrst Bank Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 27 Sep 2025 - 17:03 |
+| 2025-09-27 13:00 | Carraro India Ltd | 544320 | Carraro India Limited has informed the Exchange about favourable closure order in connection with the Show Cause Notice cum Demand under CGST Act, 2017. ([Link](https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/)) | Likely Positive | 27 Sep 2025 - 13:40 |
 
-_Last updated: 27 Sep 2025 - 00:00 | Entries: 0 | Requests: 0 | Retries: 0 | [Raw JSON](data/2025-09-27.json)_
+_Last updated: 27 Sep 2025 - 17:59 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-09-27.json)_
 
 <!-- snapshot:end -->
 

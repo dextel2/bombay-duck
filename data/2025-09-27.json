@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/",
         "rawTime": "2025-09-27T13:40:34.36"
       }
+    ],
+    "2025-09-27T17": [
+      {
+        "newsId": "e7caaac1-b25f-4aee-80e1-20d114636a65",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform that Zaggle Prepaid Ocean Services Limited has enetered into an agreement with IDFC First Bank Limited",
+        "announcedAt": "2025-09-27T17:09:43.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2025-09-27T17:09:43.64"
+      },
+      {
+        "newsId": "854014f4-ad66-4521-9f62-d7ee1f2f4b53",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, this is to inform that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IDFC FIrst Bank Limited",
+        "announcedAt": "2025-09-27T17:03:09.323+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2025-09-27T17:03:09.323"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-27T16:20:34.339+05:30",
-    "checksum": "4b1b71dc591b779e0ad1a71c62517252c6beacd5d6e86d6b715e4dd58c78e5a1",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-09-27T17:59:20.178+05:30",
+    "checksum": "2f433b2b261d1c0b7d091087811655ca625dcfa054a33e6e2c541f02383e6fdc",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-27/awards-162033.json"
+    "rawPayloadPath": "data/raw/2025-09-27/awards-175919.json"
   }
 }
