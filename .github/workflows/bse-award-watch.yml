@@ -44,19 +44,15 @@ jobs:
         run: npm run guard
 
       - name: Fetch BSE awards
-        if: steps.guard.outputs.should_run == 'true'
         run: npm run fetch
 
       - name: Merge intraday state
-        if: steps.guard.outputs.should_run == 'true'
         run: npm run merge
 
       - name: Render README snapshot
-        if: steps.guard.outputs.should_run == 'true'
         run: npm run render
 
       - name: Detect repository changes
-        if: steps.guard.outputs.should_run == 'true'
         id: changes
         run: |
           if git status --porcelain | grep . >/dev/null; then
@@ -85,7 +81,6 @@ jobs:
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
 
       - name: Upload data artefacts
-        if: steps.guard.outputs.should_run == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: bse-awards-${{ github.run_id }}
