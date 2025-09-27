@@ -1,0 +1,16 @@
+﻿node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Runtime cache files
+.data/
+
+# Generated data artefacts
+data/raw/
+data/latest-fetch.json
+data/.rate-limit.json
+
+# OS files
+.DS_Store
+Thumbs.db

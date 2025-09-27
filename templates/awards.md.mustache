@@ -1,0 +1,15 @@
+﻿### Today's Awarded Orders ({{tradingDateDisplay}} IST)
+
+{{#hasAnnouncements}}
+| Hour (IST) | Company | Code | Headline | Announced At |
+| --- | --- | --- | --- | --- |
+{{#rows}}
+| {{hourLabel}} | {{company}} | {{code}} | {{headline}}{{#url}} ([Link]({{url}})){{/url}} | {{announcedAtLabel}} |
+{{/rows}}
+{{/hasAnnouncements}}
+{{^hasAnnouncements}}
+_No award announcements have been captured yet today._
+{{/hasAnnouncements}}
+
+_Last updated: {{lastUpdatedDisplay}} | Entries: {{announcementCount}} | Requests: {{requestCount}} | Retries: {{retryCount}} | [Raw JSON](data/{{stateFileName}})_
+

@@ -1,0 +1,37 @@
+﻿{
+  "name": "@dextel2/bombay-duck",
+  "version": "1.0.0",
+  "description": "Automation for tracking BSE Award of Order announcements during market hours.",
+  "private": true,
+  "main": "dist/fetch-bse-awards.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "tsc -p tsconfig.json",
+    "prepare": "npm run build",
+    "fetch": "node dist/fetch-bse-awards.js",
+    "merge": "node dist/merge-awards.js",
+    "render": "node dist/render-readme.js",
+    "guard": "node dist/guards/ensure-trading-window.js",
+    "dev:fetch": "ts-node src/fetch-bse-awards.ts",
+    "dev:merge": "ts-node src/merge-awards.ts",
+    "dev:render": "ts-node src/render-readme.ts",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bottleneck": "^2.19.5",
+    "luxon": "^3.4.4",
+    "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.3.3",
+    "@types/mustache": "^4.2.5",
+    "@types/node": "^20.12.7",
+    "rimraf": "^5.0.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
