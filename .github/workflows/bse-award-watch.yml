@@ -62,7 +62,6 @@ jobs:
           fi
 
       - name: Commit intraday snapshot
-        if: steps.guard.outputs.should_run == 'true' && steps.changes.outputs.changed == 'true'
         env:
           GIT_AUTHOR_NAME: Yash Karanke
           GIT_AUTHOR_EMAIL: dex.papa@gmail.com
