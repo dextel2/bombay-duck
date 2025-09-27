@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
         "rawTime": "2025-09-27T17:03:09.323"
       }
+    ],
+    "2025-09-27T19": [
+      {
+        "newsId": "bd26b095-ee8e-4126-b746-4d8dd5b85343",
+        "scripCode": 544354,
+        "shortName": "Solarium Green Energy Ltd",
+        "headline": "In terms of Regulation 30 of SEBI (LODR) Regulations 2015, we are pleased to inform that our Company has received Notification of Awards (NOA) from GAIL of aggregating approximately of ....",
+        "announcedAt": "2025-09-27T19:06:46.077+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarium-green-energy-ltd/solarium/544354/",
+        "rawTime": "2025-09-27T19:06:46.077"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-27T17:59:20.178+05:30",
-    "checksum": "2f433b2b261d1c0b7d091087811655ca625dcfa054a33e6e2c541f02383e6fdc",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-09-27T19:19:17.007+05:30",
+    "checksum": "161bda9d0ed3bf063a8e5f5bbb7d9d5aef3069ff3d0447eb0aa3c853633b3d33",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-27/awards-175919.json"
+    "rawPayloadPath": "data/raw/2025-09-27/awards-191916.json"
   }
 }
