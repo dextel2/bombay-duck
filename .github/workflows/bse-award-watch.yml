@@ -44,15 +44,19 @@ jobs:
         run: npm run guard
 
       - name: Fetch BSE awards
+        if: steps.guard.outputs.should_run == 'true'
         run: npm run fetch
 
       - name: Merge intraday state
+        if: steps.guard.outputs.should_run == 'true'
         run: npm run merge
 
       - name: Render README snapshot
+        if: steps.guard.outputs.should_run == 'true'
         run: npm run render
 
       - name: Detect repository changes
+        if: steps.guard.outputs.should_run == 'true'
         id: changes
         run: |
           if git status --porcelain | grep . >/dev/null; then
@@ -62,6 +66,7 @@ jobs:
           fi
 
       - name: Commit intraday snapshot
+        if: steps.guard.outputs.should_run == 'true' && steps.changes.outputs.changed == 'true'
         env:
           GIT_AUTHOR_NAME: Yash Karanke
           GIT_AUTHOR_EMAIL: dex.papa@gmail.com
@@ -72,7 +77,7 @@ jobs:
           git config user.name "$GIT_AUTHOR_NAME"
           git config user.email "$GIT_AUTHOR_EMAIL"
           if [ -z "$PAT_TOKEN" ]; then
-            echo "BOT_PAT secret is required to push changes."
+            echo "GH_TOKEN secret is required to push changes."
             exit 1
           fi
           git add README.md data
@@ -80,7 +85,7 @@ jobs:
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
 
       - name: Upload data artefacts
-       
+        if: steps.guard.outputs.should_run == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: bse-awards-${{ github.run_id }}

@@ -85,8 +85,9 @@ npm run clean         # wipe dist/
 3. Monitor the first scheduled cycle via Actions UI; review the run summary table and downloaded artifacts.
 4. Investigate any multi-run gaps by checking `data/raw/` payloads and job logs stored in the run summary.
 
-## Appendix 📎
+\n## Project Resources 📚\n- [Contributing Guidelines](CONTRIBUTING.md)\n- [Pull Request Guide](PR_GUIDE.md)\n- [Known Issues](KNOWN_ISSUES.md)\n- [Authors](AUTHORS.md)\n\n## Appendix 📎
 - **API Endpoint**: `https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w`
 - **Query Parameters**: `strCat=Company Update`, `subcategory=Award of Order / Receipt of Order`, date fields are generated per IST trading day.
 - **Outputs**: `trading_date`, `announcement_count`, and JSON-encoded announcement list are exposed via `GITHUB_OUTPUT` for downstream jobs if needed.
 - **Logs & Summaries**: Fetch step writes a Markdown table to the GitHub Step Summary to aid triage.
+
