@@ -55,14 +55,54 @@
         "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
         "rawTime": "2025-09-29T16:26:41.027"
       }
+    ],
+    "2025-09-29T18": [
+      {
+        "newsId": "a7984ebd-0db8-44b5-8d5a-a15cb97bee05",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has been empanelled and awarded a Rate Contract to provide Information Technology related manpower to Goa Electronics Limited (GEL), a Government of Goa, Company and Subsidiary ....",
+        "announcedAt": "2025-09-29T18:25:22.443+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2025-09-29T18:25:22.443"
+      },
+      {
+        "newsId": "5efb8b17-5ee1-4e88-849b-6ed8f7f18b85",
+        "scripCode": 506906,
+        "shortName": "Saptak Chem And Business Ltd",
+        "headline": "Company has received purchase order for the supply of fruits and vegetables.",
+        "announcedAt": "2025-09-29T18:17:03.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saptak-chem-and-business-ltd/scbl/506906/",
+        "rawTime": "2025-09-29T18:17:03.277"
+      },
+      {
+        "newsId": "84410930-3de4-4ae8-bec9-34a3eed917a7",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2025-09-29T18:05:01.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-09-29T18:05:01.24"
+      }
+    ],
+    "2025-09-29T17": [
+      {
+        "newsId": "78f88baf-dba5-4dd8-8309-21311ba16e93",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.1092 Crore.",
+        "announcedAt": "2025-09-29T17:50:40.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2025-09-29T17:50:40.67"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-29T16:29:11.797+05:30",
-    "checksum": "9aece60f097fd6095319cd5714b1030e62b601039a4c2bc571b0f6bea8828d71",
-    "totalAnnouncements": 5,
-    "requestCount": 9,
+    "lastUpdated": "2025-09-29T23:02:01.835+05:30",
+    "checksum": "5774545d06bb19f2d782094e9ddf90e1860275b620c4fa5ccba5f7651afc94c5",
+    "totalAnnouncements": 9,
+    "requestCount": 10,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-29/awards-162911.json"
+    "rawPayloadPath": "data/raw/2025-09-29/awards-230201.json"
   }
 }
