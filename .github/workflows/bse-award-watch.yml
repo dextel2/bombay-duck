@@ -84,22 +84,6 @@ jobs:
           git commit -m "chore: refresh BSE award snapshot"
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
 
-      - name: Email README update notice
-        if: steps.changes.outputs.readme_changed == 'true'
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: ${{ secrets.MAIL_SERVER }}
-          server_port: ${{ secrets.MAIL_PORT }}
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          secure: true
-          subject: README updated for ${{ github.repository }}
-          from: Bombay Duck Bot <${{ secrets.MAIL_FROM }}>
-          to: dex.papa@gmail.com
-          body: |
-            README.md was updated during workflow run ${{ github.run_id }} (trigger: ${{ github.event_name }}).
-            Commit: ${{ github.sha }}
-            Actor: ${{ github.actor }}
 
       - name: Upload data artefacts
         uses: actions/upload-artifact@v4
