@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
         "rawTime": "2025-09-29T14:23:26.48"
       }
+    ],
+    "2025-09-29T15": [
+      {
+        "newsId": "7faa57cc-fd98-4ce1-af29-db9dd9d6f99d",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We submit herewith details of purchase order received from Emerson Measurement Systems and Solutions India Private LImited.",
+        "announcedAt": "2025-09-29T15:10:01.007+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-09-29T15:10:01.007"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-29T14:34:09.139+05:30",
-    "checksum": "0bb6fd53a1a087e10434a5665902ca8f54a187a537f5f1a9e869165dafd9430f",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2025-09-29T15:34:28.349+05:30",
+    "checksum": "a83f3e1a5b72041404b8e1e0e1127287e516d3cc6b5e8631a926e6e12de67d7b",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-29/awards-143408.json"
+    "rawPayloadPath": "data/raw/2025-09-29/awards-153427.json"
   }
 }
