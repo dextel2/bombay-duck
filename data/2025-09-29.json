@@ -95,14 +95,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
         "rawTime": "2025-09-29T17:50:40.67"
       }
+    ],
+    "2025-09-29T23": [
+      {
+        "newsId": "282cae3a-f163-4cd4-8699-22be299fde31",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for receipt of Work orders from Maharashtra Remote Sensing Application Centre (MRSAC)",
+        "announcedAt": "2025-09-29T23:09:48.257+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/",
+        "rawTime": "2025-09-29T23:09:48.257"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-29T23:02:01.835+05:30",
-    "checksum": "5774545d06bb19f2d782094e9ddf90e1860275b620c4fa5ccba5f7651afc94c5",
-    "totalAnnouncements": 9,
-    "requestCount": 10,
+    "lastUpdated": "2025-09-29T23:31:44.694+05:30",
+    "checksum": "6fac337d174c5efa8e9930600bfa24ea28096fac1e3d17398ed86c1d86bd0f0a",
+    "totalAnnouncements": 10,
+    "requestCount": 11,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-29/awards-230201.json"
+    "rawPayloadPath": "data/raw/2025-09-29/awards-233144.json"
   }
 }
