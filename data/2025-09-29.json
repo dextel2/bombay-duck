@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/",
         "rawTime": "2025-09-29T09:04:02.203"
       }
+    ],
+    "2025-09-29T14": [
+      {
+        "newsId": "a45b3d8d-70bf-4355-afc0-e71a754896ac",
+        "scripCode": 532395,
+        "shortName": "Axiscades Technologies Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2025-09-29T14:23:26.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
+        "rawTime": "2025-09-29T14:23:26.48"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-29T13:34:42.749+05:30",
-    "checksum": "9143ad36cffb8bed6ba8b3770b9669701c3d2ea89f0a11b393247ed248dd9631",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2025-09-29T14:34:09.139+05:30",
+    "checksum": "0bb6fd53a1a087e10434a5665902ca8f54a187a537f5f1a9e869165dafd9430f",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-29/awards-133441.json"
+    "rawPayloadPath": "data/raw/2025-09-29/awards-143408.json"
   }
 }

@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-09-29 14:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Neutral | 29 Sep 2025 - 14:23 |
 | 2025-09-29 09:00 | SEPC Ltd | 532945 | We hereby inform the Exchange of the receipt of Work order from Avenir International Engineers and Consultants LLC, Abu Dhabi for a total consideration of approx. Rs. 32.63 Crore (INR). .... ([Link](https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/)) | Likely Positive | 29 Sep 2025 - 09:04 |
 | 2025-09-29 00:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 29 Sep 2025 - 00:10 |
 
-_Last updated: 29 Sep 2025 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
+_Last updated: 29 Sep 2025 - 14:34 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
 
 <!-- snapshot:end -->
 
