@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-09-29 16:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of Award from Modern Coach Factory - MCF ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 29 Sep 2025 - 16:26 |
 | 2025-09-29 15:00 | Cryogenic Ogs Ltd | 544440 | We submit herewith details of purchase order received from Emerson Measurement Systems and Solutions India Private LImited. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 29 Sep 2025 - 15:10 |
 | 2025-09-29 14:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Neutral | 29 Sep 2025 - 14:23 |
 | 2025-09-29 09:00 | SEPC Ltd | 532945 | We hereby inform the Exchange of the receipt of Work order from Avenir International Engineers and Consultants LLC, Abu Dhabi for a total consideration of approx. Rs. 32.63 Crore (INR). .... ([Link](https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/)) | Likely Positive | 29 Sep 2025 - 09:04 |
 | 2025-09-29 00:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 29 Sep 2025 - 00:10 |
 
-_Last updated: 29 Sep 2025 - 15:34 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
+_Last updated: 29 Sep 2025 - 16:29 | Entries: 5 | Requests: 9 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
 
 <!-- snapshot:end -->
 
