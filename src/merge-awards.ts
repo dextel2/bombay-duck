@@ -1,13 +1,18 @@
-﻿/**
+/**
  * Merge step that combines the latest fetch snapshot with the persisted
  * intraday state, deduplicating announcements and rolling state files.
  */
 import path from "path";
 import { access, readdir, rename } from "fs/promises";
-import { readJsonFile, writeJsonFile, ensureDir } from "./lib/io";
-import { createChecksum } from "./lib/checksum";
-import { toIsoHour, formatDisplayTime } from "./lib/time";
-import { Announcement, FetchSnapshot, IntradayState } from "./types";
+import {
+  readJsonFile,
+  writeJsonFile,
+  ensureDir,
+  createChecksum,
+  toIsoHour,
+  formatDisplayTime
+} from "@/lib";
+import { Announcement, FetchSnapshot, IntradayState } from "@/types";
 
 const SNAPSHOT_FILE = path.join("data", "latest-fetch.json");
 const DATA_DIR = "data";

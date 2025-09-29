@@ -1,10 +1,10 @@
-﻿/**
+/**
  * Guard script executed before the main workflow to decide whether the market
  * is open. It writes a `should_run` output for downstream steps.
  */
 import { appendFile } from "fs/promises";
 import { exit } from "process";
-import { nowInIST, isTradingDay, tradingWindowBounds, toIsoString } from "../lib/time";
+import { nowInIST, isTradingDay, tradingWindowBounds, toIsoString } from "@/lib";
 
 /** Append a key/value pair to the GitHub Actions output file. */
 async function setOutput(key: string, value: string): Promise<void> {

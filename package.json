@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "@dextel2/bombay-duck",
   "version": "1.0.0",
   "description": "Automation for tracking BSE Award of Order announcements during market hours.",
@@ -6,15 +6,15 @@
   "main": "dist/fetch-bse-awards.js",
   "scripts": {
     "clean": "rimraf dist",
-    "build": "tsc -p tsconfig.json",
+    "build": "tsc -p tsconfig.json && tsc-alias -p tsconfig.json",
     "prepare": "npm run build",
     "fetch": "node dist/fetch-bse-awards.js",
     "merge": "node dist/merge-awards.js",
     "render": "node dist/render-readme.js",
     "guard": "node dist/guards/ensure-trading-window.js",
-    "dev:fetch": "ts-node src/fetch-bse-awards.ts",
-    "dev:merge": "ts-node src/merge-awards.ts",
-    "dev:render": "ts-node src/render-readme.ts",
+    "dev:fetch": "ts-node -r tsconfig-paths/register src/fetch-bse-awards.ts",
+    "dev:merge": "ts-node -r tsconfig-paths/register src/merge-awards.ts",
+    "dev:render": "ts-node -r tsconfig-paths/register src/render-readme.ts",
     "test": "node --test"
   },
   "keywords": [],
@@ -32,6 +32,8 @@
     "@types/node": "^20.12.7",
     "rimraf": "^5.0.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "tsconfig-paths": "^4.2.0",
+    "tsc-alias": "^1.8.7"
   }
 }

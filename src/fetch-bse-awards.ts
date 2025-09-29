@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Fetch the latest BSE "Award of Order / Receipt of Order" announcements,
  * persist raw payloads, and expose structured outputs for downstream steps.
  */
@@ -6,17 +6,18 @@ import axios from "axios";
 import { writeFile } from "fs/promises";
 import path from "path";
 import { setTimeout as delay } from "timers/promises";
-import { ensureDir, writeJsonFile } from "./lib/io";
-import { enforceRateLimit } from "./lib/rate-limit";
-import { createChecksum } from "./lib/checksum";
 import {
+  ensureDir,
+  writeJsonFile,
+  enforceRateLimit,
+  createChecksum,
   currentTradingDate,
   formatQueryDate,
   nowInIST,
   parseAnnouncementDate,
   toIsoString
-} from "./lib/time";
-import { Announcement, BseApiResponse, FetchSnapshot } from "./types";
+} from "@/lib";
+import { Announcement, BseApiResponse, FetchSnapshot } from "@/types";
 
 const API_ENDPOINT = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w";
 const RAW_DIR = path.join("data", "raw");

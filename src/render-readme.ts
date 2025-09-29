@@ -4,9 +4,13 @@
 import { readFile, writeFile } from "fs/promises";
 import path from "path";
 import Mustache from "mustache";
-import { readJsonFile } from "./lib/io";
-import { currentTradingDate, formatDisplayTime, interpretProfitIndicator } from "./lib/time";
-import { IntradayState, RenderContext, RenderRow } from "./types";
+import {
+  readJsonFile,
+  currentTradingDate,
+  formatDisplayTime,
+  interpretProfitIndicator
+} from "@/lib";
+import { IntradayState, RenderContext, RenderRow } from "@/types";
 
 const MARKER_START = "<!-- snapshot:start -->";
 const MARKER_END = "<!-- snapshot:end -->";
@@ -118,3 +122,5 @@ main().catch((error) => {
   console.error("Failed to render README:", error);
   process.exitCode = 1;
 });
+
+
