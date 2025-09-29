@@ -18,13 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-09-28 IST)
+### Today's Awarded Orders (2025-09-29 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-09-28 12:00 | Jaykay Enterprises Ltd | 500306 | Announcement under Regulation 30 of SEBI Listing Regulations- Receipt of Order from Bharat Dynamics Limited by Allen Reinforced Plastics Limited, a step down subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/jaykay-enterprises-ltd/jaykay/500306/)) | Likely Positive | 28 Sep 2025 - 12:27 |
+| 2025-09-29 00:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 29 Sep 2025 - 00:10 |
 
-_Last updated: 28 Sep 2025 - 15:33 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-09-28.json)_
+_Last updated: 29 Sep 2025 - 08:48 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
 
 <!-- snapshot:end -->
 
