@@ -3,7 +3,7 @@
  * intraday state, deduplicating announcements and rolling state files.
  */
 import path from "path";
-import { readdir, rm } from "fs/promises";
+import { access, readdir, rename } from "fs/promises";
 import { readJsonFile, writeJsonFile, ensureDir } from "./lib/io";
 import { createChecksum } from "./lib/checksum";
 import { toIsoHour, formatDisplayTime } from "./lib/time";
@@ -11,6 +11,7 @@ import { Announcement, FetchSnapshot, IntradayState } from "./types";
 
 const SNAPSHOT_FILE = path.join("data", "latest-fetch.json");
 const DATA_DIR = "data";
+const ARCHIVE_DIR = path.join(DATA_DIR, "archive");
 const STATE_FILE_PATTERN = /^\d{4}-\d{2}-\d{2}\.json$/;
 
 /** Deduplicate a combined list of announcements keeping the most recent entry. */
@@ -31,19 +32,54 @@ async function loadSnapshot(): Promise<FetchSnapshot> {
   return data;
 }
 
-/** Remove stale daily state files so only the active trading day remains. */
+/** Archive stale daily state files so only the active trading day remains in-place. */
 async function purgeOldStateFiles(currentTradingDate: string): Promise<void> {
   const entries = await readdir(DATA_DIR, { withFileTypes: true });
-  const removalTasks = entries
+  const archiveCandidates = entries
     .filter(
       (entry) =>
         entry.isFile() &&
         STATE_FILE_PATTERN.test(entry.name) &&
         entry.name !== `${currentTradingDate}.json`
-    )
-    .map((entry) => rm(path.join(DATA_DIR, entry.name), { force: true }));
+    );
 
-  await Promise.all(removalTasks);
+  if (archiveCandidates.length === 0) {
+    return;
+  }
+
+  await ensureDir(ARCHIVE_DIR);
+
+  await Promise.all(
+    archiveCandidates.map(async (entry) => {
+      const sourcePath = path.join(DATA_DIR, entry.name);
+      const destinationPath = await resolveArchivePath(entry.name);
+      await rename(sourcePath, destinationPath);
+    })
+  );
+}
+
+async function resolveArchivePath(filename: string): Promise<string> {
+  const baseTarget = path.join(ARCHIVE_DIR, filename);
+  if (!(await fileExists(baseTarget))) {
+    return baseTarget;
+  }
+
+  const ext = path.extname(filename);
+  const name = path.basename(filename, ext);
+  const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+  return path.join(ARCHIVE_DIR, `${name}.${timestamp}${ext}`);
+}
+
+async function fileExists(filePath: string): Promise<boolean> {
+  try {
+    await access(filePath);
+    return true;
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+      return false;
+    }
+    throw error;
+  }
 }
 
 /**
