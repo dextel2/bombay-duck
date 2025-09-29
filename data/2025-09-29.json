@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2025-09-29T00:10:42.113"
       }
+    ],
+    "2025-09-29T09": [
+      {
+        "newsId": "e93cc38b-3bdf-41a3-a0f6-f8a764e97e5e",
+        "scripCode": 532945,
+        "shortName": "SEPC Ltd",
+        "headline": "We hereby inform the Exchange of the receipt of Work order from Avenir International Engineers and Consultants LLC, Abu Dhabi for a total consideration of approx. Rs. 32.63 Crore (INR). ....",
+        "announcedAt": "2025-09-29T09:04:02.203+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/",
+        "rawTime": "2025-09-29T09:04:02.203"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-29T08:48:25.031+05:30",
-    "checksum": "3a9ac40392da858893dd9ab7fd45f3f947caa67d9364ad715c500316fd326ff6",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2025-09-29T09:34:18.011+05:30",
+    "checksum": "9143ad36cffb8bed6ba8b3770b9669701c3d2ea89f0a11b393247ed248dd9631",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-29/awards-084824.json"
+    "rawPayloadPath": "data/raw/2025-09-29/awards-093417.json"
   }
 }

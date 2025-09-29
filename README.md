@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-09-29 09:00 | SEPC Ltd | 532945 | We hereby inform the Exchange of the receipt of Work order from Avenir International Engineers and Consultants LLC, Abu Dhabi for a total consideration of approx. Rs. 32.63 Crore (INR). .... ([Link](https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/)) | Likely Positive | 29 Sep 2025 - 09:04 |
 | 2025-09-29 00:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 29 Sep 2025 - 00:10 |
 
-_Last updated: 29 Sep 2025 - 08:48 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
+_Last updated: 29 Sep 2025 - 09:34 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
 
 <!-- snapshot:end -->
 
