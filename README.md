@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-09-29 23:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Work orders from Maharashtra Remote Sensing Application Centre (MRSAC) ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Likely Positive | 29 Sep 2025 - 23:09 |
 | 2025-09-29 18:00 | Atishay Ltd | 538713 | The Company has been empanelled and awarded a Rate Contract to provide Information Technology related manpower to Goa Electronics Limited (GEL), a Government of Goa, Company and Subsidiary .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 29 Sep 2025 - 18:25 |
 | 2025-09-29 18:00 | Saptak Chem And Business Ltd | 506906 | Company has received purchase order for the supply of fruits and vegetables. ([Link](https://www.bseindia.com/stock-share-price/saptak-chem-and-business-ltd/scbl/506906/)) | Likely Positive | 29 Sep 2025 - 18:17 |
 | 2025-09-29 18:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 29 Sep 2025 - 18:05 |
@@ -32,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-09-29 09:00 | SEPC Ltd | 532945 | We hereby inform the Exchange of the receipt of Work order from Avenir International Engineers and Consultants LLC, Abu Dhabi for a total consideration of approx. Rs. 32.63 Crore (INR). .... ([Link](https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/)) | Likely Positive | 29 Sep 2025 - 09:04 |
 | 2025-09-29 00:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 29 Sep 2025 - 00:10 |
 
-_Last updated: 29 Sep 2025 - 23:02 | Entries: 9 | Requests: 10 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
+_Last updated: 29 Sep 2025 - 23:31 | Entries: 10 | Requests: 11 | Retries: 0 | [Raw JSON](data/2025-09-29.json)_
 
 <!-- snapshot:end -->
 
