@@ -2,11 +2,11 @@
   "tradingDate": "2025-09-30",
   "buckets": {},
   "meta": {
-    "lastUpdated": "2025-09-30T08:44:28.152+05:30",
+    "lastUpdated": "2025-09-30T09:33:55.358+05:30",
     "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "totalAnnouncements": 0,
-    "requestCount": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-30/awards-084427.json"
+    "rawPayloadPath": "data/raw/2025-09-30/awards-093354.json"
   }
 }
