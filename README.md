@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-09-30 12:00 | Bharat Heavy Electricals Ltd | 500103 | Receipt of Notificiations of Award from M.P. Power Generating Company Ltd. ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Likely Positive | 30 Sep 2025 - 12:04 |
+| 2025-09-30 11:00 | Ucal Ltd | 500464 | Intimation on receipt of show cause notice from GST authority ([Link](https://www.bseindia.com/stock-share-price/ucal--ltd/ucal/500464/)) | Likely Positive | 30 Sep 2025 - 11:47 |
 | 2025-09-30 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the applicable SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended & Company''s policy for determining materiality for disclosures, this is to .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 30 Sep 2025 - 11:28 |
 
-_Last updated: 30 Sep 2025 - 11:34 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
+_Last updated: 30 Sep 2025 - 12:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
 
 <!-- snapshot:end -->
 

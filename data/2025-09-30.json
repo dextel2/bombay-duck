@@ -3,6 +3,15 @@
   "buckets": {
     "2025-09-30T11": [
       {
+        "newsId": "b326aed6-aea6-41f0-9fef-21eb2e6b67f2",
+        "scripCode": 500464,
+        "shortName": "Ucal Ltd",
+        "headline": "Intimation on receipt of show cause notice from GST authority",
+        "announcedAt": "2025-09-30T11:47:12.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ucal--ltd/ucal/500464/",
+        "rawTime": "2025-09-30T11:47:12.68"
+      },
+      {
         "newsId": "a9e6a3b4-5d99-427c-85af-18f3a5cdcab7",
         "scripCode": 541353,
         "shortName": "Innovators Facade Systems Ltd",
@@ -11,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/",
         "rawTime": "2025-09-30T11:28:48.48"
       }
+    ],
+    "2025-09-30T12": [
+      {
+        "newsId": "13373d4b-de4c-4073-9b63-adcbdb39ee17",
+        "scripCode": 500103,
+        "shortName": "Bharat Heavy Electricals Ltd",
+        "headline": "Receipt of Notificiations of Award from M.P. Power Generating Company Ltd.",
+        "announcedAt": "2025-09-30T12:04:22.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+        "rawTime": "2025-09-30T12:04:22.217"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-30T11:34:30.567+05:30",
-    "checksum": "e875ff0e208cf85766181e7219a9d2eb86912a5435002f8d672e472c076c4287",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2025-09-30T12:34:17.547+05:30",
+    "checksum": "ae485e1a41ced1f4ec4e10f4cc1e5704c8072eac8a95a91501f07b7917fedd25",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-30/awards-113429.json"
+    "rawPayloadPath": "data/raw/2025-09-30/awards-123416.json"
   }
 }
