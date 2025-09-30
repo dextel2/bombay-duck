@@ -23,6 +23,15 @@
     ],
     "2025-09-30T12": [
       {
+        "newsId": "85ca39cb-9fe2-4b73-b182-89d0d1e297b3",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are please to inform that the company has been awarded new contract worth Rs. 4,15,00,716.03/- from UP Power Transmission Corporation Ltd., UP State Load Dispatch Centre Lucknow to provide ....",
+        "announcedAt": "2025-09-30T12:35:59.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2025-09-30T12:35:59.79"
+      },
+      {
         "newsId": "13373d4b-de4c-4073-9b63-adcbdb39ee17",
         "scripCode": 500103,
         "shortName": "Bharat Heavy Electricals Ltd",
@@ -31,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
         "rawTime": "2025-09-30T12:04:22.217"
       }
+    ],
+    "2025-09-30T13": [
+      {
+        "newsId": "6f4b0848-5a79-4d2e-b840-1dbca65b973f",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are happy to announce that the company has been awarded new Contract worth Rs. 53,06,395.15/- from ICMR, Mumbai for providing manpower services for 2 years. For more details, please ....",
+        "announcedAt": "2025-09-30T13:00:38.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2025-09-30T13:00:38.07"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-09-30T12:34:17.547+05:30",
-    "checksum": "ae485e1a41ced1f4ec4e10f4cc1e5704c8072eac8a95a91501f07b7917fedd25",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-09-30T13:34:35.105+05:30",
+    "checksum": "83d6307544ec0ea7ac6f78d6f8fde9b981e1a9a1edc527c0effbf5263f2981ef",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-30/awards-123416.json"
+    "rawPayloadPath": "data/raw/2025-09-30/awards-133434.json"
   }
 }
