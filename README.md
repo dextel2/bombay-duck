@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-09-30 11:00 | Ucal Ltd | 500464 | Intimation on receipt of show cause notice from GST authority ([Link](https://www.bseindia.com/stock-share-price/ucal--ltd/ucal/500464/)) | Likely Positive | 30 Sep 2025 - 11:47 |
 | 2025-09-30 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the applicable SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended & Company''s policy for determining materiality for disclosures, this is to .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 30 Sep 2025 - 11:28 |
 
-_Last updated: 30 Sep 2025 - 14:34 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
+_Last updated: 30 Sep 2025 - 15:33 | Entries: 5 | Requests: 9 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
 
 <!-- snapshot:end -->
 
