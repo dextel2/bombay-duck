@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-09-30 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-09-30 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the applicable SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended & Company''s policy for determining materiality for disclosures, this is to .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 30 Sep 2025 - 11:28 |
 
-_Last updated: 30 Sep 2025 - 11:25 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
+_Last updated: 30 Sep 2025 - 11:34 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
 
 <!-- snapshot:end -->
 

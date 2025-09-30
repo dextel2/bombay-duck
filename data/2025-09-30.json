@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-09-30",
-  "buckets": {},
+  "buckets": {
+    "2025-09-30T11": [
+      {
+        "newsId": "a9e6a3b4-5d99-427c-85af-18f3a5cdcab7",
+        "scripCode": 541353,
+        "shortName": "Innovators Facade Systems Ltd",
+        "headline": "Pursuant to the applicable SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended & Company''s policy for determining materiality for disclosures, this is to ....",
+        "announcedAt": "2025-09-30T11:28:48.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/",
+        "rawTime": "2025-09-30T11:28:48.48"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-09-30T11:25:49.489+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-09-30T11:34:30.567+05:30",
+    "checksum": "e875ff0e208cf85766181e7219a9d2eb86912a5435002f8d672e472c076c4287",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-09-30/awards-112548.json"
+    "rawPayloadPath": "data/raw/2025-09-30/awards-113429.json"
   }
 }
