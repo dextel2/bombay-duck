@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/",
         "rawTime": "2025-10-01T07:50:31.117"
       }
+    ],
+    "2025-10-01T09": [
+      {
+        "newsId": "c7204e34-11b4-4d73-a853-5e4471e50fdd",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of two Letter Of Awards(LOA)",
+        "announcedAt": "2025-10-01T09:49:20.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2025-10-01T09:49:20.26"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-01T09:34:08.435+05:30",
-    "checksum": "d61878df13173b1339a726ad1257bc713a48c7cd61e076fb1db9a28853b0933c",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-10-01T10:33:55.490+05:30",
+    "checksum": "da096d2ef257312f8fd89ea238af4ce28f90546779ada845b84a1547e7173b40",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-01/awards-093407.json"
+    "rawPayloadPath": "data/raw/2025-10-01/awards-103354.json"
   }
 }
