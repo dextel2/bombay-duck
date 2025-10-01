@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-01 15:00 | Continental Chemicals Ltd | 506935 | AS PER THE FILE ATTACHED ([Link](https://www.bseindia.com/stock-share-price/continental-chemicals-ltd/contchm/506935/)) | Neutral | 01 Oct 2025 - 15:31 |
+| 2025-10-01 14:00 | Jyoti Ltd-$ | 504076 | Receipt of Show Cause Notice from GST ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 01 Oct 2025 - 14:51 |
 | 2025-10-01 14:00 | CFF Fluid Control Ltd | 543920 | Announcement under Regulation 30 (LODR) -Award_of_Order ([Link](https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/)) | Likely Positive | 01 Oct 2025 - 14:32 |
 | 2025-10-01 14:00 | Prince Pipes and Fittings Ltd | 542907 | Company has received a Show Cause cum Demand Notice in Form GST DRC-1 dated September 30, 2025 ([Link](https://www.bseindia.com/stock-share-price/prince-pipes-and-fittings-ltd/princepipe/542907/)) | Neutral | 01 Oct 2025 - 14:30 |
 | 2025-10-01 14:00 | IRIS Business Services Ltd | 540735 | We hereby inform the exchange about Bagging/Receiving of order/contract. ([Link](https://www.bseindia.com/stock-share-price/iris-business-services-ltd/iris/540735/)) | Likely Positive | 01 Oct 2025 - 14:03 |
@@ -32,7 +34,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-10-01 09:00 | RMC Switchgears Ltd | 540358 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of two Letter Of Awards(LOA) ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 01 Oct 2025 - 09:49 |
 | 2025-10-01 07:00 | L&T Technology Services Ltd | 540115 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Neutral | 01 Oct 2025 - 07:50 |
 
-_Last updated: 01 Oct 2025 - 14:34 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
+_Last updated: 01 Oct 2025 - 15:34 | Entries: 11 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
 
 <!-- snapshot:end -->
 

@@ -65,6 +65,15 @@
     ],
     "2025-10-01T14": [
       {
+        "newsId": "a22ad405-48c2-47b5-955d-bb948b353d54",
+        "scripCode": 504076,
+        "shortName": "Jyoti Ltd-$",
+        "headline": "Receipt of Show Cause Notice from GST",
+        "announcedAt": "2025-10-01T14:51:02.757+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/",
+        "rawTime": "2025-10-01T14:51:02.757"
+      },
+      {
         "newsId": "f0c0d08d-d871-46e9-bc8c-79c165717dbd",
         "scripCode": 543920,
         "shortName": "CFF Fluid Control Ltd",
@@ -91,14 +100,25 @@
         "url": "https://www.bseindia.com/stock-share-price/iris-business-services-ltd/iris/540735/",
         "rawTime": "2025-10-01T14:03:28.96"
       }
+    ],
+    "2025-10-01T15": [
+      {
+        "newsId": "efd3c253-43f6-4e35-9188-ff7605ce2e11",
+        "scripCode": 506935,
+        "shortName": "Continental Chemicals Ltd",
+        "headline": "AS PER THE FILE ATTACHED",
+        "announcedAt": "2025-10-01T15:31:09.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/continental-chemicals-ltd/contchm/506935/",
+        "rawTime": "2025-10-01T15:31:09.65"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-01T14:34:20.366+05:30",
-    "checksum": "84fb20f115f3340ee4c9404930525c9870b7e6448e08f2fce1172928243baaa2",
-    "totalAnnouncements": 9,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-01T15:34:02.764+05:30",
+    "checksum": "cd5b0cdbe60e5d887d00e7061b29ed19263f93b3d96febdc9831f9d03b6125ae",
+    "totalAnnouncements": 11,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-01/awards-143419.json"
+    "rawPayloadPath": "data/raw/2025-10-01/awards-153402.json"
   }
 }
