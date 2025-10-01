@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-10-01 07:00 | L&T Technology Services Ltd | 540115 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Neutral | 01 Oct 2025 - 07:50 |
 
-_Last updated: 01 Oct 2025 - 08:51 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
+_Last updated: 01 Oct 2025 - 09:34 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
 
 <!-- snapshot:end -->
 
