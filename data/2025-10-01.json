@@ -36,6 +36,15 @@
     ],
     "2025-10-01T13": [
       {
+        "newsId": "cab4cd73-a855-4d20-8305-f022b11612e7",
+        "scripCode": 500241,
+        "shortName": "Kirloskar Brothers Ltd-$",
+        "headline": "Disclosure under Regulation 30 of the SEBI Listing Regulations, 2015",
+        "announcedAt": "2025-10-01T13:44:47.390+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/",
+        "rawTime": "2025-10-01T13:44:47.39"
+      },
+      {
         "newsId": "1c6a938f-18c6-44a3-b6aa-9ad9f6cad7d2",
         "scripCode": 540900,
         "shortName": "Newgen Software Technologies Ltd",
@@ -53,14 +62,43 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2025-10-01T13:05:32.107"
       }
+    ],
+    "2025-10-01T14": [
+      {
+        "newsId": "f0c0d08d-d871-46e9-bc8c-79c165717dbd",
+        "scripCode": 543920,
+        "shortName": "CFF Fluid Control Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) -Award_of_Order",
+        "announcedAt": "2025-10-01T14:32:00.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
+        "rawTime": "2025-10-01T14:32:00.207"
+      },
+      {
+        "newsId": "42d96a7d-c148-4a23-8caf-0b442a1d065d",
+        "scripCode": 542907,
+        "shortName": "Prince Pipes and Fittings Ltd",
+        "headline": "Company has received a Show Cause cum Demand Notice in Form GST DRC-1 dated September 30, 2025",
+        "announcedAt": "2025-10-01T14:30:31.723+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/prince-pipes-and-fittings-ltd/princepipe/542907/",
+        "rawTime": "2025-10-01T14:30:31.723"
+      },
+      {
+        "newsId": "6e65c1a5-da3c-40fc-8b57-5c6a7c166c67",
+        "scripCode": 540735,
+        "shortName": "IRIS Business Services Ltd",
+        "headline": "We hereby inform the exchange about Bagging/Receiving of order/contract.",
+        "announcedAt": "2025-10-01T14:03:28.960+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/iris-business-services-ltd/iris/540735/",
+        "rawTime": "2025-10-01T14:03:28.96"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-01T13:34:33.077+05:30",
-    "checksum": "e65eced6f9feb3f2e8d5e0bdb1f5e523c088f8066142628df557e720457aa854",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-01T14:34:20.366+05:30",
+    "checksum": "84fb20f115f3340ee4c9404930525c9870b7e6448e08f2fce1172928243baaa2",
+    "totalAnnouncements": 9,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-01/awards-133431.json"
+    "rawPayloadPath": "data/raw/2025-10-01/awards-143419.json"
   }
 }
