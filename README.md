@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-01 12:00 | Mukka Proteins Ltd | 544135 | Update on pending tax litigation. ([Link](https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/)) | Neutral | 01 Oct 2025 - 12:30 |
 | 2025-10-01 09:00 | RMC Switchgears Ltd | 540358 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of two Letter Of Awards(LOA) ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 01 Oct 2025 - 09:49 |
 | 2025-10-01 07:00 | L&T Technology Services Ltd | 540115 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Neutral | 01 Oct 2025 - 07:50 |
 
-_Last updated: 01 Oct 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
+_Last updated: 01 Oct 2025 - 12:34 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
 
 <!-- snapshot:end -->
 
