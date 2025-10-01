@@ -18,17 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-09-30 IST)
+### Today's Awarded Orders (2025-10-01 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-09-30 13:00 | ITCONS E-Solutions Ltd | 543806 | We are happy to announce that the company has been awarded new Contract worth Rs. 53,06,395.15/- from ICMR, Mumbai for providing manpower services for 2 years. For more details, please .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 30 Sep 2025 - 13:00 |
-| 2025-09-30 12:00 | ITCONS E-Solutions Ltd | 543806 | We are please to inform that the company has been awarded new contract worth Rs. 4,15,00,716.03/- from UP Power Transmission Corporation Ltd., UP State Load Dispatch Centre Lucknow to provide .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 30 Sep 2025 - 12:35 |
-| 2025-09-30 12:00 | Bharat Heavy Electricals Ltd | 500103 | Receipt of Notificiations of Award from M.P. Power Generating Company Ltd. ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Likely Positive | 30 Sep 2025 - 12:04 |
-| 2025-09-30 11:00 | Ucal Ltd | 500464 | Intimation on receipt of show cause notice from GST authority ([Link](https://www.bseindia.com/stock-share-price/ucal--ltd/ucal/500464/)) | Likely Positive | 30 Sep 2025 - 11:47 |
-| 2025-09-30 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the applicable SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended & Company''s policy for determining materiality for disclosures, this is to .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 30 Sep 2025 - 11:28 |
+| 2025-10-01 07:00 | L&T Technology Services Ltd | 540115 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Neutral | 01 Oct 2025 - 07:50 |
 
-_Last updated: 30 Sep 2025 - 15:33 | Entries: 5 | Requests: 9 | Retries: 0 | [Raw JSON](data/2025-09-30.json)_
+_Last updated: 01 Oct 2025 - 08:51 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
 
 <!-- snapshot:end -->
 

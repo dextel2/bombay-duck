@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-10-01",
+  "buckets": {
+    "2025-10-01T07": [
+      {
+        "newsId": "d61fca6e-62f7-4d08-ad1e-0db06360db19",
+        "scripCode": 540115,
+        "shortName": "L&T Technology Services Ltd",
+        "headline": "Intimation attached",
+        "announcedAt": "2025-10-01T07:50:31.117+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/",
+        "rawTime": "2025-10-01T07:50:31.117"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-10-01T08:51:32.241+05:30",
+    "checksum": "d61878df13173b1339a726ad1257bc713a48c7cd61e076fb1db9a28853b0933c",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-10-01/awards-085131.json"
+  }
+}
