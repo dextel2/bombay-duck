@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/",
         "rawTime": "2025-10-01T12:30:34.437"
       }
+    ],
+    "2025-10-01T13": [
+      {
+        "newsId": "1c6a938f-18c6-44a3-b6aa-9ad9f6cad7d2",
+        "scripCode": 540900,
+        "shortName": "Newgen Software Technologies Ltd",
+        "headline": "Disclosure of material order USD 2,593,125 is attached.",
+        "announcedAt": "2025-10-01T13:12:01.443+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
+        "rawTime": "2025-10-01T13:12:01.443"
+      },
+      {
+        "newsId": "f987df3a-2b6d-46af-a7d3-c6fe65ed6d99",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order awarded",
+        "announcedAt": "2025-10-01T13:05:32.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-10-01T13:05:32.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-01T12:34:08.006+05:30",
-    "checksum": "cbddc249f2ab420045c1fb573cfc5db27bc3d92cdccfd42b82a379042231b0af",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-01T13:34:33.077+05:30",
+    "checksum": "e65eced6f9feb3f2e8d5e0bdb1f5e523c088f8066142628df557e720457aa854",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-01/awards-123407.json"
+    "rawPayloadPath": "data/raw/2025-10-01/awards-133431.json"
   }
 }
