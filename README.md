@@ -18,23 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-10-01 IST)
+### Today's Awarded Orders (2025-10-02 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-10-01 15:00 | Continental Chemicals Ltd | 506935 | AS PER THE FILE ATTACHED ([Link](https://www.bseindia.com/stock-share-price/continental-chemicals-ltd/contchm/506935/)) | Neutral | 01 Oct 2025 - 15:31 |
-| 2025-10-01 14:00 | Jyoti Ltd-$ | 504076 | Receipt of Show Cause Notice from GST ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 01 Oct 2025 - 14:51 |
-| 2025-10-01 14:00 | CFF Fluid Control Ltd | 543920 | Announcement under Regulation 30 (LODR) -Award_of_Order ([Link](https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/)) | Likely Positive | 01 Oct 2025 - 14:32 |
-| 2025-10-01 14:00 | Prince Pipes and Fittings Ltd | 542907 | Company has received a Show Cause cum Demand Notice in Form GST DRC-1 dated September 30, 2025 ([Link](https://www.bseindia.com/stock-share-price/prince-pipes-and-fittings-ltd/princepipe/542907/)) | Neutral | 01 Oct 2025 - 14:30 |
-| 2025-10-01 14:00 | IRIS Business Services Ltd | 540735 | We hereby inform the exchange about Bagging/Receiving of order/contract. ([Link](https://www.bseindia.com/stock-share-price/iris-business-services-ltd/iris/540735/)) | Likely Positive | 01 Oct 2025 - 14:03 |
-| 2025-10-01 13:00 | Kirloskar Brothers Ltd-$ | 500241 | Disclosure under Regulation 30 of the SEBI Listing Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/)) | Neutral | 01 Oct 2025 - 13:44 |
-| 2025-10-01 13:00 | Newgen Software Technologies Ltd | 540900 | Disclosure of material order USD 2,593,125 is attached. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 01 Oct 2025 - 13:12 |
-| 2025-10-01 13:00 | RailTel Corporation of India Ltd | 543265 | New Order awarded ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 01 Oct 2025 - 13:05 |
-| 2025-10-01 12:00 | Mukka Proteins Ltd | 544135 | Update on pending tax litigation. ([Link](https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/)) | Neutral | 01 Oct 2025 - 12:30 |
-| 2025-10-01 09:00 | RMC Switchgears Ltd | 540358 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of two Letter Of Awards(LOA) ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 01 Oct 2025 - 09:49 |
-| 2025-10-01 07:00 | L&T Technology Services Ltd | 540115 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Neutral | 01 Oct 2025 - 07:50 |
+_No award announcements have been captured yet today._
 
-_Last updated: 01 Oct 2025 - 15:34 | Entries: 11 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-01.json)_
+_Last updated: 02 Oct 2025 - 08:42 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-02.json)_
 
 <!-- snapshot:end -->
 
