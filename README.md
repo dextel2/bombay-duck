@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-10-02 09:00 | Tata Power Company Ltd | 500400 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/)) | Neutral | 02 Oct 2025 - 09:51 |
 
-_Last updated: 02 Oct 2025 - 12:33 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-02.json)_
+_Last updated: 02 Oct 2025 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-02.json)_
 
 <!-- snapshot:end -->
 
