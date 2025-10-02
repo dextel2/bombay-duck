@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-02",
-  "buckets": {},
+  "buckets": {
+    "2025-10-02T09": [
+      {
+        "newsId": "6abb715c-6a45-4f9f-acb8-81191a21ede5",
+        "scripCode": 500400,
+        "shortName": "Tata Power Company Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-10-02T09:51:11.623+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/",
+        "rawTime": "2025-10-02T09:51:11.623"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-02T09:33:51.787+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-10-02T10:33:40.802+05:30",
+    "checksum": "0e90ae16c511cf801a8d070cf484129f08c9fd58245d778c0b540f0d3b2ebaae",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-02/awards-093351.json"
+    "rawPayloadPath": "data/raw/2025-10-02/awards-103340.json"
   }
 }
