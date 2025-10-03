@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/",
         "rawTime": "2025-10-03T12:31:28.547"
       }
+    ],
+    "2025-10-03T13": [
+      {
+        "newsId": "aa862a6a-51c3-4ac3-8d1a-db9cb4dad0c4",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation Regarding receipt of order from Sabarmati Gas Limited against previous intimation of L1 Bid on 26.09.2025 and other orders worth totaling Rs. 3.09 Cr",
+        "announcedAt": "2025-10-03T13:31:32.097+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2025-10-03T13:31:32.097"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-03T12:33:53.444+05:30",
-    "checksum": "fb5779aff212c5e005b50280f7d4cf61d5eafcaeab51eac5785c4d33c2105c83",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-03T13:34:05.805+05:30",
+    "checksum": "df48a3c49879c1cea72ed3552c06fe51773f8e5966553c98234ea9884c885e78",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-03/awards-123352.json"
+    "rawPayloadPath": "data/raw/2025-10-03/awards-133405.json"
   }
 }
