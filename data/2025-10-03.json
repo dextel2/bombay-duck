@@ -36,6 +36,15 @@
     ],
     "2025-10-03T13": [
       {
+        "newsId": "78d934d7-306e-4048-8363-0f97cf64914d",
+        "scripCode": 539697,
+        "shortName": "Hiliks Technologies Ltd",
+        "headline": "The Company has received a sub-contract order from M/s. MSR-Medikonda JV towards Comprehensive Signalling and Telecommunication works in connection with doubling of track between Dornakal ....",
+        "announcedAt": "2025-10-03T13:57:09.447+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hiliks-technologies-ltd/hiliks/539697/",
+        "rawTime": "2025-10-03T13:57:09.447"
+      },
+      {
         "newsId": "aa862a6a-51c3-4ac3-8d1a-db9cb4dad0c4",
         "scripCode": 544387,
         "shortName": "Desco Infratech Ltd",
@@ -44,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2025-10-03T13:31:32.097"
       }
+    ],
+    "2025-10-03T14": [
+      {
+        "newsId": "9eb7d939-f05c-4766-b11c-97f6afe9f9ea",
+        "scripCode": 531349,
+        "shortName": "Panacea Biotec Ltd",
+        "headline": "We are delighted to inform you that the Company has received a Letter of Award from Unicef for a Long-Term Agreement for supply of bivalent oral polio vaccine (bOPV) to Unicef worth ~US$ ....",
+        "announcedAt": "2025-10-03T14:27:13.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/",
+        "rawTime": "2025-10-03T14:27:13.353"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-03T13:34:05.805+05:30",
-    "checksum": "df48a3c49879c1cea72ed3552c06fe51773f8e5966553c98234ea9884c885e78",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-03T14:33:42.278+05:30",
+    "checksum": "c27749cae4935a9e161ecc50dda4cb829fdbe3d21bf18e150f89ec558efee8c2",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-03/awards-133405.json"
+    "rawPayloadPath": "data/raw/2025-10-03/awards-143341.json"
   }
 }

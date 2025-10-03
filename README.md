@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-03 14:00 | Panacea Biotec Ltd | 531349 | We are delighted to inform you that the Company has received a Letter of Award from Unicef for a Long-Term Agreement for supply of bivalent oral polio vaccine (bOPV) to Unicef worth ~US$ .... ([Link](https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/)) | Neutral | 03 Oct 2025 - 14:27 |
+| 2025-10-03 13:00 | Hiliks Technologies Ltd | 539697 | The Company has received a sub-contract order from M/s. MSR-Medikonda JV towards Comprehensive Signalling and Telecommunication works in connection with doubling of track between Dornakal .... ([Link](https://www.bseindia.com/stock-share-price/hiliks-technologies-ltd/hiliks/539697/)) | Likely Positive | 03 Oct 2025 - 13:57 |
 | 2025-10-03 13:00 | Desco Infratech Ltd | 544387 | Intimation Regarding receipt of order from Sabarmati Gas Limited against previous intimation of L1 Bid on 26.09.2025 and other orders worth totaling Rs. 3.09 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 03 Oct 2025 - 13:31 |
 | 2025-10-03 12:00 | Mukka Proteins Ltd | 544135 | Revised Intimation - Update on litigation. ([Link](https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/)) | Neutral | 03 Oct 2025 - 12:31 |
 | 2025-10-03 11:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Major*) Orders for Building & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 03 Oct 2025 - 11:24 |
 | 2025-10-03 09:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Anti-Drone Technologies Private Limited ("Paras Anti-Drone"), a subsidiary of Paras Defence and Space Technologies Limited ("PARAS"), has received an .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Neutral | 03 Oct 2025 - 09:05 |
 
-_Last updated: 03 Oct 2025 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
+_Last updated: 03 Oct 2025 - 14:33 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
 
 <!-- snapshot:end -->
 
