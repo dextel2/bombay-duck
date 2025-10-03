@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
         "rawTime": "2025-10-03T09:05:32.23"
       }
+    ],
+    "2025-10-03T11": [
+      {
+        "newsId": "fdc851ab-dea1-4090-b86c-f11e4cba9053",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins (Major*) Orders for Building & Factories Business",
+        "announcedAt": "2025-10-03T11:24:12.813+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2025-10-03T11:24:12.813"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-03T10:33:49.076+05:30",
-    "checksum": "a15e6a468a1f430e64e98d172db29e69281fb63c30093c9bfef4a77589e21c66",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-03T11:34:19.942+05:30",
+    "checksum": "ba2f08ecbb6e717ade004a6445b3ba8266c1492be07c0780481e766a3c2869d8",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-03/awards-103348.json"
+    "rawPayloadPath": "data/raw/2025-10-03/awards-113419.json"
   }
 }
