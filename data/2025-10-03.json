@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2025-10-03T11:24:12.813"
       }
+    ],
+    "2025-10-03T12": [
+      {
+        "newsId": "0986cc11-ce4d-4d87-8960-c06f1f63decc",
+        "scripCode": 544135,
+        "shortName": "Mukka Proteins Ltd",
+        "headline": "Revised Intimation - Update on litigation.",
+        "announcedAt": "2025-10-03T12:31:28.547+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/",
+        "rawTime": "2025-10-03T12:31:28.547"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-03T11:34:19.942+05:30",
-    "checksum": "ba2f08ecbb6e717ade004a6445b3ba8266c1492be07c0780481e766a3c2869d8",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2025-10-03T12:33:53.444+05:30",
+    "checksum": "fb5779aff212c5e005b50280f7d4cf61d5eafcaeab51eac5785c4d33c2105c83",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-03/awards-113419.json"
+    "rawPayloadPath": "data/raw/2025-10-03/awards-123352.json"
   }
 }

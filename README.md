@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-03 12:00 | Mukka Proteins Ltd | 544135 | Revised Intimation - Update on litigation. ([Link](https://www.bseindia.com/stock-share-price/mukka-proteins-ltd/mukka/544135/)) | Neutral | 03 Oct 2025 - 12:31 |
 | 2025-10-03 11:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Major*) Orders for Building & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 03 Oct 2025 - 11:24 |
 | 2025-10-03 09:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Anti-Drone Technologies Private Limited ("Paras Anti-Drone"), a subsidiary of Paras Defence and Space Technologies Limited ("PARAS"), has received an .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Neutral | 03 Oct 2025 - 09:05 |
 
-_Last updated: 03 Oct 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
+_Last updated: 03 Oct 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
 
 <!-- snapshot:end -->
 
