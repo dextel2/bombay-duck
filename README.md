@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-03 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-03 09:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Anti-Drone Technologies Private Limited ("Paras Anti-Drone"), a subsidiary of Paras Defence and Space Technologies Limited ("PARAS"), has received an .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Neutral | 03 Oct 2025 - 09:05 |
 
-_Last updated: 03 Oct 2025 - 08:42 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
+_Last updated: 03 Oct 2025 - 09:33 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
 
 <!-- snapshot:end -->
 

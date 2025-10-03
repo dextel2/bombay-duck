@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-03",
-  "buckets": {},
+  "buckets": {
+    "2025-10-03T09": [
+      {
+        "newsId": "a628de6c-6930-48a2-9678-37b82fd5efce",
+        "scripCode": 543367,
+        "shortName": "Paras Defence and Space Technologies Ltd",
+        "headline": "We are pleased to inform that Paras Anti-Drone Technologies Private Limited (\"Paras Anti-Drone\"), a subsidiary of Paras Defence and Space Technologies Limited (\"PARAS\"), has received an ....",
+        "announcedAt": "2025-10-03T09:05:32.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
+        "rawTime": "2025-10-03T09:05:32.23"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-03T08:42:24.396+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-10-03T09:33:48.886+05:30",
+    "checksum": "a15e6a468a1f430e64e98d172db29e69281fb63c30093c9bfef4a77589e21c66",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-03/awards-084223.json"
+    "rawPayloadPath": "data/raw/2025-10-03/awards-093348.json"
   }
 }
