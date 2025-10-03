@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-10-03 09:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Anti-Drone Technologies Private Limited ("Paras Anti-Drone"), a subsidiary of Paras Defence and Space Technologies Limited ("PARAS"), has received an .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Neutral | 03 Oct 2025 - 09:05 |
 
-_Last updated: 03 Oct 2025 - 09:33 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
+_Last updated: 03 Oct 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-03.json)_
 
 <!-- snapshot:end -->
 
