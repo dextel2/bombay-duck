@@ -31,14 +31,45 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2025-10-06T12:39:50.523"
       }
+    ],
+    "2025-10-06T14": [
+      {
+        "newsId": "4ab4b507-9711-4aa7-9501-8a763f53e1df",
+        "scripCode": 541353,
+        "shortName": "Innovators Facade Systems Ltd",
+        "headline": "Pursuant to the applicable SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended and company''s policy for determining materiality for disclosures, this is ....",
+        "announcedAt": "2025-10-06T14:26:53.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/",
+        "rawTime": "2025-10-06T14:26:53.193"
+      }
+    ],
+    "2025-10-06T13": [
+      {
+        "newsId": "937ce49b-0b73-4d8c-9746-8e6f54edfc23",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with SMC Global Securities Limited.",
+        "announcedAt": "2025-10-06T13:54:49.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2025-10-06T13:54:49.55"
+      },
+      {
+        "newsId": "f80d2580-ef8a-42f1-94e3-88c7d2b811ed",
+        "scripCode": 544167,
+        "shortName": "JNK India Ltd",
+        "headline": "Intimation regarding receipt of order",
+        "announcedAt": "2025-10-06T13:49:48.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jnk-india-ltd/jnkindia/544167/",
+        "rawTime": "2025-10-06T13:49:48.617"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-06T13:34:16.812+05:30",
-    "checksum": "d7430dc9392c9d9c263851dcd569e3a7487a258c3939aa058f9f92a55367dea9",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-06T14:34:20.519+05:30",
+    "checksum": "230bb92d883e865d802059073ab3ca210fb7c8c4b4e0e5e1597afff64ff0dc7a",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-06/awards-133415.json"
+    "rawPayloadPath": "data/raw/2025-10-06/awards-143419.json"
   }
 }
