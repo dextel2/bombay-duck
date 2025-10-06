@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-10-06 11:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for New Orders totaling Rs. 2.84 Cr and LOI Received from Adani Total Gas Limited ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 06 Oct 2025 - 11:22 |
 | 2025-10-06 11:00 | Bondada Engineering Ltd | 543971 | Receipt of LOI. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Oct 2025 - 11:20 |
 
-_Last updated: 06 Oct 2025 - 14:34 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
+_Last updated: 06 Oct 2025 - 15:34 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
 
 <!-- snapshot:end -->
 
