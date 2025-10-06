@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-06 11:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for New Orders totaling Rs. 2.84 Cr and LOI Received from Adani Total Gas Limited ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 06 Oct 2025 - 11:22 |
+| 2025-10-06 11:00 | Bondada Engineering Ltd | 543971 | Receipt of LOI. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Oct 2025 - 11:20 |
 
-_Last updated: 06 Oct 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
+_Last updated: 06 Oct 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
 
 <!-- snapshot:end -->
 
