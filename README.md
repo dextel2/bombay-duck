@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-06 12:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,102 Crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 06 Oct 2025 - 12:39 |
 | 2025-10-06 11:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for New Orders totaling Rs. 2.84 Cr and LOI Received from Adani Total Gas Limited ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 06 Oct 2025 - 11:22 |
 | 2025-10-06 11:00 | Bondada Engineering Ltd | 543971 | Receipt of LOI. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Oct 2025 - 11:20 |
 
-_Last updated: 06 Oct 2025 - 12:34 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
+_Last updated: 06 Oct 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
 
 <!-- snapshot:end -->
 

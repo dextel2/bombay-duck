@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2025-10-06T11:20:33.807"
       }
+    ],
+    "2025-10-06T12": [
+      {
+        "newsId": "b6cfc522-ff8d-48f8-a363-cf53b572b595",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,102 Crores secured by the Company. All the orders mentioned in the enclosed press release have ....",
+        "announcedAt": "2025-10-06T12:39:50.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2025-10-06T12:39:50.523"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-06T12:34:07.907+05:30",
-    "checksum": "b1f59b08b9c94d169561d2047c807f818c87229c4f42443a867291a1436d4d09",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-06T13:34:16.812+05:30",
+    "checksum": "d7430dc9392c9d9c263851dcd569e3a7487a258c3939aa058f9f92a55367dea9",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-06/awards-123407.json"
+    "rawPayloadPath": "data/raw/2025-10-06/awards-133415.json"
   }
 }
