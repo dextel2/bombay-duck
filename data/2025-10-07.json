@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
         "rawTime": "2025-10-07T11:18:48.23"
       }
+    ],
+    "2025-10-07T12": [
+      {
+        "newsId": "a47f3be2-f6db-4bca-8840-9af00ed94840",
+        "scripCode": 532683,
+        "shortName": "AIA Engineering Ltd",
+        "headline": "This is to inform you that Vega Industries Chile SpA, Chile, a Wholly Owned Step Down Subsidiary of the Company has received an order of USD 32.90 Mn. (Approx. INR 291 Crores) from a Copper ....",
+        "announcedAt": "2025-10-07T12:41:52.247+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aia-engineering-ltd/aiaeng/532683/",
+        "rawTime": "2025-10-07T12:41:52.247"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-07T12:34:24.292+05:30",
-    "checksum": "e42d216baeddc206f6986a0c73d6efd3d8cde7e715d45043ca0716fb3dc1e938",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-07T13:34:24.458+05:30",
+    "checksum": "80589ee02aef55de11783ad3850d36d9732a550d68888bc10341231e18a78c38",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-07/awards-123423.json"
+    "rawPayloadPath": "data/raw/2025-10-07/awards-133423.json"
   }
 }
