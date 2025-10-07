@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-10-07",
-  "buckets": {},
+  "buckets": {
+    "2025-10-07T11": [
+      {
+        "newsId": "9f9ead14-096f-4698-9233-9e967b414dbd",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Receipt of Work Orders.",
+        "announcedAt": "2025-10-07T11:25:33.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2025-10-07T11:25:33.05"
+      },
+      {
+        "newsId": "b8dcb968-1fc8-4239-bdb5-3b075774806f",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We submit herewith intimation of order received from Advanced Sys-Tek Limited in terms of Regulation 30 of SEBI LODR",
+        "announcedAt": "2025-10-07T11:18:48.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-10-07T11:18:48.23"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-07T10:33:10.283+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-07T11:34:18.413+05:30",
+    "checksum": "e42d216baeddc206f6986a0c73d6efd3d8cde7e715d45043ca0716fb3dc1e938",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-07/awards-103309.json"
+    "rawPayloadPath": "data/raw/2025-10-07/awards-113415.json"
   }
 }

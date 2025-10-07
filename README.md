@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-07 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-07 11:00 | Bondada Engineering Ltd | 543971 | Receipt of Work Orders. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 07 Oct 2025 - 11:25 |
+| 2025-10-07 11:00 | Cryogenic Ogs Ltd | 544440 | We submit herewith intimation of order received from Advanced Sys-Tek Limited in terms of Regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 07 Oct 2025 - 11:18 |
 
-_Last updated: 07 Oct 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-07.json)_
+_Last updated: 07 Oct 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-07.json)_
 
 <!-- snapshot:end -->
 
