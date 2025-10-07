@@ -18,18 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-10-06 IST)
+### Today's Awarded Orders (2025-10-07 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-10-06 14:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the applicable SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended and company''s policy for determining materiality for disclosures, this is .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 06 Oct 2025 - 14:26 |
-| 2025-10-06 13:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with SMC Global Securities Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 06 Oct 2025 - 13:54 |
-| 2025-10-06 13:00 | JNK India Ltd | 544167 | Intimation regarding receipt of order ([Link](https://www.bseindia.com/stock-share-price/jnk-india-ltd/jnkindia/544167/)) | Likely Positive | 06 Oct 2025 - 13:49 |
-| 2025-10-06 12:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,102 Crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 06 Oct 2025 - 12:39 |
-| 2025-10-06 11:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for New Orders totaling Rs. 2.84 Cr and LOI Received from Adani Total Gas Limited ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 06 Oct 2025 - 11:22 |
-| 2025-10-06 11:00 | Bondada Engineering Ltd | 543971 | Receipt of LOI. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Oct 2025 - 11:20 |
+_No award announcements have been captured yet today._
 
-_Last updated: 06 Oct 2025 - 15:34 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-06.json)_
+_Last updated: 07 Oct 2025 - 08:43 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-07.json)_
 
 <!-- snapshot:end -->
 
