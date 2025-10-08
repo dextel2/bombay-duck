@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
         "rawTime": "2025-10-08T08:48:06.69"
       }
+    ],
+    "2025-10-08T13": [
+      {
+        "newsId": "b4164edd-0358-4514-975b-f1b414b33cf8",
+        "scripCode": 543912,
+        "shortName": "Power and Instrumentation (Gujarat) Ltd",
+        "headline": "Intimation Under Regulation 30 of SEBI (Listing Obligations and Dsiclosure Requirements) Regualtions 2015",
+        "announcedAt": "2025-10-08T13:15:08.203+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
+        "rawTime": "2025-10-08T13:15:08.203"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-08T12:33:54.459+05:30",
-    "checksum": "e886e1daa180f067e4efb9f571ba720964423f55476b10f4aff2e7543973f654",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-08T13:34:26.080+05:30",
+    "checksum": "be255b84befa4e2111059c50e5b323416130d040b042346089940f08f922be58",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-08/awards-123353.json"
+    "rawPayloadPath": "data/raw/2025-10-08/awards-133425.json"
   }
 }
