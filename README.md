@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-10-08 13:00 | Power and Instrumentation (Gujarat) Ltd | 543912 | Intimation Under Regulation 30 of SEBI (Listing Obligations and Dsiclosure Requirements) Regualtions 2015 ([Link](https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/)) | Neutral | 08 Oct 2025 - 13:15 |
 | 2025-10-08 08:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order - Cipla Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 08 Oct 2025 - 08:48 |
 
-_Last updated: 08 Oct 2025 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-08.json)_
+_Last updated: 08 Oct 2025 - 14:34 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-08.json)_
 
 <!-- snapshot:end -->
 
