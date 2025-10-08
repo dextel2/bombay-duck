@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
         "rawTime": "2025-10-08T13:15:08.203"
       }
+    ],
+    "2025-10-08T14": [
+      {
+        "newsId": "b1c773ce-0d71-4b13-bd7e-ebfdc41ac282",
+        "scripCode": 532725,
+        "shortName": "Solar Industries India Ltd",
+        "headline": "Receipt of order of INR 483 Crores from South Eastern Coalfields Limited (SECL).",
+        "announcedAt": "2025-10-08T14:45:44.777+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/",
+        "rawTime": "2025-10-08T14:45:44.777"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-08T14:34:01.205+05:30",
-    "checksum": "be255b84befa4e2111059c50e5b323416130d040b042346089940f08f922be58",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-08T15:33:48.285+05:30",
+    "checksum": "85c0b339486172529781726fc0b5a928b0b75e72fe01af5d7208762da6f40b4e",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-08/awards-143400.json"
+    "rawPayloadPath": "data/raw/2025-10-08/awards-153347.json"
   }
 }
