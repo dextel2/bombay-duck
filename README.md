@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-10-08 08:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order - Cipla Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 08 Oct 2025 - 08:48 |
 
-_Last updated: 08 Oct 2025 - 09:33 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-10-08.json)_
+_Last updated: 08 Oct 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-08.json)_
 
 <!-- snapshot:end -->
 
