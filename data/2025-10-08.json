@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-08",
-  "buckets": {},
+  "buckets": {
+    "2025-10-08T08": [
+      {
+        "newsId": "7f09411e-9b03-4024-8487-3a6fbb5410a3",
+        "scripCode": 543991,
+        "shortName": "Techknowgreen Solutions Ltd",
+        "headline": "Receipt of work order - Cipla Limited",
+        "announcedAt": "2025-10-08T08:48:06.690+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
+        "rawTime": "2025-10-08T08:48:06.69"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-08T08:43:17.694+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-10-08T09:33:56.782+05:30",
+    "checksum": "e886e1daa180f067e4efb9f571ba720964423f55476b10f4aff2e7543973f654",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-08/awards-084317.json"
+    "rawPayloadPath": "data/raw/2025-10-08/awards-093356.json"
   }
 }
