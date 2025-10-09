@@ -16,13 +16,18 @@ export async function ensureDir(dirPath: string): Promise<void> {
  */
 export async function readJsonFile<T>(filePath: string): Promise<T | null> {
   try {
-    const data = await readFile(filePath, "utf8");
-    return JSON.parse(data) as T;
+    const rawData = await readFile(filePath, "utf8");
+    return JSON.parse(rawData) as T;
   } catch (error: unknown) {
-    if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+    const err = error as NodeJS.ErrnoException;
+
+    // Return null if file does not exist
+    if (err.code === "ENOENT") {
       return null;
     }
-    throw error;
+
+    // Rethrow any other error
+    throw err;
   }
 }
 
