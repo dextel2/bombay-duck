@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-10-08 IST)
+### Today's Awarded Orders (2025-10-09 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-10-08 14:00 | Solar Industries India Ltd | 532725 | Receipt of order of INR 483 Crores from South Eastern Coalfields Limited (SECL). ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 08 Oct 2025 - 14:45 |
-| 2025-10-08 13:00 | Power and Instrumentation (Gujarat) Ltd | 543912 | Intimation Under Regulation 30 of SEBI (Listing Obligations and Dsiclosure Requirements) Regualtions 2015 ([Link](https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/)) | Neutral | 08 Oct 2025 - 13:15 |
-| 2025-10-08 08:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order - Cipla Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 08 Oct 2025 - 08:48 |
+_No award announcements have been captured yet today._
 
-_Last updated: 08 Oct 2025 - 15:33 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-08.json)_
+_Last updated: 09 Oct 2025 - 08:45 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
 
 <!-- snapshot:end -->
 
