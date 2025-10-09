@@ -71,14 +71,34 @@
         "url": "https://www.bseindia.com/stock-share-price/sungold-capital-ltd/sungold/531433/",
         "rawTime": "2025-10-09T13:06:17.587"
       }
+    ],
+    "2025-10-09T14": [
+      {
+        "newsId": "8894749f-a0a2-4941-8ac5-8e1b26c8d8df",
+        "scripCode": 535136,
+        "shortName": "NIBE Ltd",
+        "headline": "The Company has received Purchase Order of Rs. 29.07 Crore from one of the leading Infra and Defence Company",
+        "announcedAt": "2025-10-09T14:55:09.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nibe-ltd/nibe/535136/",
+        "rawTime": "2025-10-09T14:55:09.66"
+      },
+      {
+        "newsId": "0cf1ea0f-967e-43c5-b1a3-2744678fc89d",
+        "scripCode": 540136,
+        "shortName": "HPL Electric & Power Ltd",
+        "headline": "Amendment to the Notification of award dated September 24, 2025.",
+        "announcedAt": "2025-10-09T14:51:52.917+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hpl-electric--power-ltd/hpl/540136/",
+        "rawTime": "2025-10-09T14:51:52.917"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-09T14:33:45.434+05:30",
-    "checksum": "103c9c2f5eed90987e2050e363cfcc3e3743a35edfdfc2a9fc637885ca5abe26",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-09T15:34:13.049+05:30",
+    "checksum": "fc639605dc766cc673d5cbe31d437e694d559f588195c4f870d66015015e5f41",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-09/awards-143344.json"
+    "rawPayloadPath": "data/raw/2025-10-09/awards-153412.json"
   }
 }
