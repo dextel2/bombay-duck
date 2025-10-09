@@ -25,7 +25,7 @@ function toIso(dateTime: DateTime): string {
  * Convert a {@link DateTime} to an ISO date (YYYY-MM-DD). When Luxon cannot
  * produce a value, fall back to a formatted string.
  */
-function toIsoDate(dateTime: DateTime): string {
+export function toIsoDate(dateTime: DateTime): string {
   return dateTime.toISODate() ?? dateTime.toFormat("yyyy-LL-dd");
 }
 
