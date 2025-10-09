@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-09",
-  "buckets": {},
+  "buckets": {
+    "2025-10-09T10": [
+      {
+        "newsId": "aab92207-8549-4dc0-b507-08c310650ed4",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins (Ultra-Mega*) Order for Hydrocarbon Onshore Business",
+        "announcedAt": "2025-10-09T10:47:16.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2025-10-09T10:47:16.91"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-09T10:34:07.538+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-09T11:34:31.777+05:30",
+    "checksum": "425af3c4645caed7b6f501f9ae393fd3a83bb4f12abad0b8978c68e976c4ea4b",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-09/awards-103407.json"
+    "rawPayloadPath": "data/raw/2025-10-09/awards-113430.json"
   }
 }

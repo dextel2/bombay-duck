@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-09 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-09 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Ultra-Mega*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 09 Oct 2025 - 10:47 |
 
-_Last updated: 09 Oct 2025 - 10:34 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
+_Last updated: 09 Oct 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
 
 <!-- snapshot:end -->
 
