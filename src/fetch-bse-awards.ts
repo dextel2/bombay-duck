@@ -124,16 +124,16 @@ async function writeRunSummary(snapshot: FetchSnapshot): Promise<void> {
 }
 
 /** Perform a single HTTP GET against the BSE API. */
-async function fetchPayload(url: string): Promise<BseApiResponse> {
+export async function fetchPayload(url: string): Promise<BseApiResponse> {
   const response = await axios.get<BseApiResponse>(url, {
     headers: {
       accept: "application/json, text/javascript, */*; q=0.01",
       origin: "https://www.bseindia.com",
       referer: "https://www.bseindia.com/",
       "user-agent": "@dextel2/bombay-duck/1.0",
-      "x-requested-with": "XMLHttpRequest"
+      "x-requested-with": "XMLHttpRequest",
     },
-    timeout: 15_000
+    timeout: 15_000, // 15 seconds
   });
 
   return response.data ?? { Table: [], Table1: [] };
