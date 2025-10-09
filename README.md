@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-09 12:00 | Panacea Biotec Ltd | 531349 | We are delighted to inform you that the Central Medical Services Society, Ministry of Health and Family Welfare, Government of India (CMSS) has, vide its Letter of Acceptance (LOA) dated .... ([Link](https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/)) | Neutral | 09 Oct 2025 - 12:18 |
+| 2025-10-09 11:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a Purchase Order worth Rs. 17,48,76,000/- (incl GST)(Rupees Seventeen Crores Forty Eight lakh and Seventy Six Thousand only) from .... ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 09 Oct 2025 - 11:38 |
 | 2025-10-09 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Ultra-Mega*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 09 Oct 2025 - 10:47 |
 
-_Last updated: 09 Oct 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
+_Last updated: 09 Oct 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
 
 <!-- snapshot:end -->
 

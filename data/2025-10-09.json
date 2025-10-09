@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2025-10-09T10:47:16.91"
       }
+    ],
+    "2025-10-09T12": [
+      {
+        "newsId": "4dc943e7-e943-4ec9-a811-0ffafe8fe2c9",
+        "scripCode": 531349,
+        "shortName": "Panacea Biotec Ltd",
+        "headline": "We are delighted to inform you that the Central Medical Services Society, Ministry of Health and Family Welfare, Government of India (CMSS) has, vide its Letter of Acceptance (LOA) dated ....",
+        "announcedAt": "2025-10-09T12:18:23.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/",
+        "rawTime": "2025-10-09T12:18:23.3"
+      }
+    ],
+    "2025-10-09T11": [
+      {
+        "newsId": "f1ed4b44-2df4-495b-b20b-b74bf0e50f88",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a Purchase Order worth Rs. 17,48,76,000/- (incl GST)(Rupees Seventeen Crores Forty Eight lakh and Seventy Six Thousand only) from ....",
+        "announcedAt": "2025-10-09T11:38:12.390+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2025-10-09T11:38:12.39"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-09T11:34:31.777+05:30",
-    "checksum": "425af3c4645caed7b6f501f9ae393fd3a83bb4f12abad0b8978c68e976c4ea4b",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-10-09T12:33:52.329+05:30",
+    "checksum": "58a927a58f0b1834a9c5a740ce73f8c8c655c89f0ed14748eebb9f460ab8b415",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-09/awards-113430.json"
+    "rawPayloadPath": "data/raw/2025-10-09/awards-123351.json"
   }
 }
