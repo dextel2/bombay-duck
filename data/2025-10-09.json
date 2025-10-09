@@ -14,6 +14,15 @@
     ],
     "2025-10-09T12": [
       {
+        "newsId": "6795ddf6-96b6-4634-9969-ac765bb23da1",
+        "scripCode": 533156,
+        "shortName": "Vascon Engineers Ltd",
+        "headline": "Letter of Intent for Redevelopment of \"Saudamini\" building for MSEB HCL Mahalaxmi, Mumbai amounting to Rs. 161.18 Crore",
+        "announcedAt": "2025-10-09T12:53:28.663+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
+        "rawTime": "2025-10-09T12:53:28.663"
+      },
+      {
         "newsId": "4dc943e7-e943-4ec9-a811-0ffafe8fe2c9",
         "scripCode": 531349,
         "shortName": "Panacea Biotec Ltd",
@@ -33,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
         "rawTime": "2025-10-09T11:38:12.39"
       }
+    ],
+    "2025-10-09T13": [
+      {
+        "newsId": "e10ab35c-50da-4597-a6cc-a2a5a6beb5dc",
+        "scripCode": 539876,
+        "shortName": "Crompton Greaves Consumer Electricals Ltd",
+        "headline": "Intimation of Order passed",
+        "announcedAt": "2025-10-09T13:13:36.080+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/",
+        "rawTime": "2025-10-09T13:13:36.08"
+      },
+      {
+        "newsId": "8718d909-d3fe-41e4-a4bb-20e46ffcc4fe",
+        "scripCode": 531433,
+        "shortName": "Sungold Capital Ltd",
+        "headline": "Receipt of Final Order from SEBI bearing reference no WTM/AN/IVD/AD5/31713/2025-26 dated 08.10.2025",
+        "announcedAt": "2025-10-09T13:06:17.587+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sungold-capital-ltd/sungold/531433/",
+        "rawTime": "2025-10-09T13:06:17.587"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-09T12:33:52.329+05:30",
-    "checksum": "58a927a58f0b1834a9c5a740ce73f8c8c655c89f0ed14748eebb9f460ab8b415",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-09T13:34:17.687+05:30",
+    "checksum": "d92e1989175d3173719492f6d1034ed82cc110368f0c8b0f7cce1b7b1c3d0b39",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-09/awards-123351.json"
+    "rawPayloadPath": "data/raw/2025-10-09/awards-133416.json"
   }
 }
