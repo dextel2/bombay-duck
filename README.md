@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-09 13:00 | Power and Instrumentation (Gujarat) Ltd | 543912 | Intimation under Regulation 30 of SEBI (Listing obligations and Disclosure Requirements) Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/)) | Neutral | 09 Oct 2025 - 13:44 |
 | 2025-10-09 13:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Intimation of Order passed ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 09 Oct 2025 - 13:13 |
 | 2025-10-09 13:00 | Sungold Capital Ltd | 531433 | Receipt of Final Order from SEBI bearing reference no WTM/AN/IVD/AD5/31713/2025-26 dated 08.10.2025 ([Link](https://www.bseindia.com/stock-share-price/sungold-capital-ltd/sungold/531433/)) | Likely Positive | 09 Oct 2025 - 13:06 |
 | 2025-10-09 12:00 | Vascon Engineers Ltd | 533156 | Letter of Intent for Redevelopment of "Saudamini" building for MSEB HCL Mahalaxmi, Mumbai amounting to Rs. 161.18 Crore ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Neutral | 09 Oct 2025 - 12:53 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-10-09 11:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a Purchase Order worth Rs. 17,48,76,000/- (incl GST)(Rupees Seventeen Crores Forty Eight lakh and Seventy Six Thousand only) from .... ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 09 Oct 2025 - 11:38 |
 | 2025-10-09 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Ultra-Mega*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 09 Oct 2025 - 10:47 |
 
-_Last updated: 09 Oct 2025 - 13:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
+_Last updated: 09 Oct 2025 - 14:33 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-09.json)_
 
 <!-- snapshot:end -->
 

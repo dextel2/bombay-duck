@@ -45,6 +45,15 @@
     ],
     "2025-10-09T13": [
       {
+        "newsId": "4e410363-8065-43ca-b054-b6999f034f1f",
+        "scripCode": 543912,
+        "shortName": "Power and Instrumentation (Gujarat) Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing obligations and Disclosure Requirements) Regulations 2015",
+        "announcedAt": "2025-10-09T13:44:47.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
+        "rawTime": "2025-10-09T13:44:47.767"
+      },
+      {
         "newsId": "e10ab35c-50da-4597-a6cc-a2a5a6beb5dc",
         "scripCode": 539876,
         "shortName": "Crompton Greaves Consumer Electricals Ltd",
@@ -65,11 +74,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-09T13:34:17.687+05:30",
-    "checksum": "d92e1989175d3173719492f6d1034ed82cc110368f0c8b0f7cce1b7b1c3d0b39",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-09T14:33:45.434+05:30",
+    "checksum": "103c9c2f5eed90987e2050e363cfcc3e3743a35edfdfc2a9fc637885ca5abe26",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-09/awards-133416.json"
+    "rawPayloadPath": "data/raw/2025-10-09/awards-143344.json"
   }
 }
