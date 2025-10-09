@@ -67,10 +67,10 @@ export function toIsoHour(isoTimestamp: string): string {
  */
 export function formatDisplayTime(isoTimestamp: string): string {
   const dt = DateTime.fromISO(isoTimestamp, { zone: IST_ZONE });
-  if (!dt.isValid) {
-    return isoTimestamp;
-  }
-  return dt.setZone(IST_ZONE).toFormat("dd MMM yyyy - HH:mm");
+
+  return dt.isValid 
+    ? dt.toFormat("dd MMM yyyy - HH:mm") 
+    : isoTimestamp;
 }
 
 /**
