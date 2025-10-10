@@ -14,6 +14,15 @@
     ],
     "2025-10-10T12": [
       {
+        "newsId": "0a367dcf-f98b-4f7f-83af-a58f92e47d00",
+        "scripCode": 543273,
+        "shortName": "Knowledge Marine & Engineering Works Ltd",
+        "headline": "We are pleased to inform you that KMEW has been awarded a work order from Inland Waterways Authority of India for Procurement of 4 Nos. of Cutter Suction Dredgers and Ancillary Units (Work ....",
+        "announcedAt": "2025-10-10T12:39:05.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
+        "rawTime": "2025-10-10T12:39:05.67"
+      },
+      {
         "newsId": "5a7f82ea-e108-456c-8a7e-72761b9e26af",
         "scripCode": 544440,
         "shortName": "Cryogenic Ogs Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-10T12:34:02.275+05:30",
-    "checksum": "42580f97fc605d64c96183b449c39bc8f3d6d149fa4727a9bc3c55fc96ed6e2c",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-10T13:34:44.289+05:30",
+    "checksum": "220c4e4d96bf66b47be09b53ef982b68de1e88828b931d55952fa79b2ef24c70",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-10/awards-123401.json"
+    "rawPayloadPath": "data/raw/2025-10-10/awards-133443.json"
   }
 }
