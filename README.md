@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-10 12:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform you that Cryogenic OGS Limited has received letter of intent from Advanced Sys-tek Ltd. and Purchase order from Honeywell Automation India Limited amounting to .... ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 10 Oct 2025 - 12:00 |
 | 2025-10-10 09:00 | M & B Engineering Ltd | 544470 | We wish to inform you that the company has secured a sizable domestic order for manufacturing, supply and erection of Pre Engineering Steel Building. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 10 Oct 2025 - 09:37 |
 
-_Last updated: 10 Oct 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-10.json)_
+_Last updated: 10 Oct 2025 - 12:34 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-10.json)_
 
 <!-- snapshot:end -->
 

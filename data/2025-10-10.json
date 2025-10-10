@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
         "rawTime": "2025-10-10T09:37:57.693"
       }
+    ],
+    "2025-10-10T12": [
+      {
+        "newsId": "5a7f82ea-e108-456c-8a7e-72761b9e26af",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform you that Cryogenic OGS Limited has received letter of intent from Advanced Sys-tek Ltd. and Purchase order from Honeywell Automation India Limited amounting to ....",
+        "announcedAt": "2025-10-10T12:00:27.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-10-10T12:00:27.797"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-10T11:34:24.896+05:30",
-    "checksum": "1c1c436c9dd4af3650195e8a737b11ead22deb5245357dffbbcb76c48ee6cc7f",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-10-10T12:34:02.275+05:30",
+    "checksum": "42580f97fc605d64c96183b449c39bc8f3d6d149fa4727a9bc3c55fc96ed6e2c",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-10/awards-113424.json"
+    "rawPayloadPath": "data/raw/2025-10-10/awards-123401.json"
   }
 }
