@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
         "rawTime": "2025-10-10T12:00:27.797"
       }
+    ],
+    "2025-10-10T15": [
+      {
+        "newsId": "cad52ce6-d474-407b-98b0-862ec05ab8e4",
+        "scripCode": 533339,
+        "shortName": "ZEN Technologies Ltd",
+        "headline": "Intimation of receipt of order from Ministry of Defence, Government of India",
+        "announcedAt": "2025-10-10T15:12:48.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/",
+        "rawTime": "2025-10-10T15:12:48.83"
+      },
+      {
+        "newsId": "1a19ab93-526f-4e93-9cc0-91040b3689a6",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "Secured a deal with a leading Communications Service Provider (CSP) in the Asia-Pacific region",
+        "announcedAt": "2025-10-10T15:01:18.717+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2025-10-10T15:01:18.717"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-10T14:33:58.583+05:30",
-    "checksum": "220c4e4d96bf66b47be09b53ef982b68de1e88828b931d55952fa79b2ef24c70",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-10T15:33:53.732+05:30",
+    "checksum": "653564f5602884801b7ad8ed60fcf22cd32a201247cb49219a50834c528ae0a8",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-10/awards-143357.json"
+    "rawPayloadPath": "data/raw/2025-10-10/awards-153353.json"
   }
 }
