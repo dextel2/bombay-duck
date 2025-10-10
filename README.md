@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-10-10 09:00 | M & B Engineering Ltd | 544470 | We wish to inform you that the company has secured a sizable domestic order for manufacturing, supply and erection of Pre Engineering Steel Building. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 10 Oct 2025 - 09:37 |
 
-_Last updated: 10 Oct 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-10.json)_
+_Last updated: 10 Oct 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-10.json)_
 
 <!-- snapshot:end -->
 
