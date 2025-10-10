@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-10",
-  "buckets": {},
+  "buckets": {
+    "2025-10-10T09": [
+      {
+        "newsId": "55a4cb51-ac56-42ac-bb99-48350d5602e8",
+        "scripCode": 544470,
+        "shortName": "M & B Engineering Ltd",
+        "headline": "We wish to inform you that the company has secured a sizable domestic order for manufacturing, supply and erection of Pre Engineering Steel Building.",
+        "announcedAt": "2025-10-10T09:37:57.693+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
+        "rawTime": "2025-10-10T09:37:57.693"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-10T09:33:58.802+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-10-10T10:33:52.493+05:30",
+    "checksum": "1c1c436c9dd4af3650195e8a737b11ead22deb5245357dffbbcb76c48ee6cc7f",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-10/awards-093358.json"
+    "rawPayloadPath": "data/raw/2025-10-10/awards-103351.json"
   }
 }
