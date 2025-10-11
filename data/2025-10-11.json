@@ -1,12 +1,44 @@
 {
   "tradingDate": "2025-10-11",
-  "buckets": {},
+  "buckets": {
+    "2025-10-11T11": [
+      {
+        "newsId": "54bdb615-641f-4e6a-a289-418f2c44a585",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 (Listing Regulations), we hereby inform you The Monarch Surveyors ....",
+        "announcedAt": "2025-10-11T11:10:42.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-10-11T11:10:42.973"
+      }
+    ],
+    "2025-10-11T10": [
+      {
+        "newsId": "1701ecd7-a5ff-440f-b04e-53ebc545db24",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 (Listing Regulations), we hereby inform The Monarch Surveyors ....",
+        "announcedAt": "2025-10-11T10:55:32.397+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-10-11T10:55:32.397"
+      },
+      {
+        "newsId": "39cd700f-f76a-4adb-af53-f87f72bea204",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 (Listing Regulations), The Monarch Surveyors and Engineering ....",
+        "announcedAt": "2025-10-11T10:49:56.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-10-11T10:49:56.48"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-11T10:33:42.036+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-11T11:33:57.567+05:30",
+    "checksum": "e91eaecd0e508b789a203a84b6ea57bcebae794fc6276a3729c245653a3a7d33",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-11/awards-103341.json"
+    "rawPayloadPath": "data/raw/2025-10-11/awards-113356.json"
   }
 }

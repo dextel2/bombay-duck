@@ -20,9 +20,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-11 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-11 11:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 (Listing Regulations), we hereby inform you The Monarch Surveyors .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Neutral | 11 Oct 2025 - 11:10 |
+| 2025-10-11 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 (Listing Regulations), we hereby inform The Monarch Surveyors .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Neutral | 11 Oct 2025 - 10:55 |
+| 2025-10-11 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 (Listing Regulations), The Monarch Surveyors and Engineering .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Neutral | 11 Oct 2025 - 10:49 |
 
-_Last updated: 11 Oct 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-11.json)_
+_Last updated: 11 Oct 2025 - 11:33 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-11.json)_
 
 <!-- snapshot:end -->
 
