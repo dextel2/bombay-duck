@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-10-10 IST)
+### Today's Awarded Orders (2025-10-11 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-10-10 15:00 | ZEN Technologies Ltd | 533339 | Intimation of receipt of order from Ministry of Defence, Government of India ([Link](https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/)) | Likely Positive | 10 Oct 2025 - 15:12 |
-| 2025-10-10 15:00 | Subex Ltd | 532348 | Secured a deal with a leading Communications Service Provider (CSP) in the Asia-Pacific region ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 10 Oct 2025 - 15:01 |
-| 2025-10-10 12:00 | Knowledge Marine & Engineering Works Ltd | 543273 | We are pleased to inform you that KMEW has been awarded a work order from Inland Waterways Authority of India for Procurement of 4 Nos. of Cutter Suction Dredgers and Ancillary Units (Work .... ([Link](https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/)) | Likely Positive | 10 Oct 2025 - 12:39 |
-| 2025-10-10 12:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform you that Cryogenic OGS Limited has received letter of intent from Advanced Sys-tek Ltd. and Purchase order from Honeywell Automation India Limited amounting to .... ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 10 Oct 2025 - 12:00 |
-| 2025-10-10 09:00 | M & B Engineering Ltd | 544470 | We wish to inform you that the company has secured a sizable domestic order for manufacturing, supply and erection of Pre Engineering Steel Building. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 10 Oct 2025 - 09:37 |
+_No award announcements have been captured yet today._
 
-_Last updated: 10 Oct 2025 - 15:33 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-10.json)_
+_Last updated: 11 Oct 2025 - 08:40 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-11.json)_
 
 <!-- snapshot:end -->
 
