@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-13 15:00 | United Drilling Tools Ltd | 522014 | Award of order from Brazil ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 13 Oct 2025 - 15:19 |
 | 2025-10-13 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins grid infrastructure orders (Large*) for its Power Transmission & Distribution business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 Oct 2025 - 10:36 |
 
-_Last updated: 13 Oct 2025 - 14:34 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-13.json)_
+_Last updated: 13 Oct 2025 - 15:34 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-13.json)_
 
 <!-- snapshot:end -->
 

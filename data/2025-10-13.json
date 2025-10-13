@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2025-10-13T10:36:35.16"
       }
+    ],
+    "2025-10-13T15": [
+      {
+        "newsId": "78858582-9850-4ae5-ae09-4ec1c76082c4",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of order from Brazil",
+        "announcedAt": "2025-10-13T15:19:55.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2025-10-13T15:19:55.21"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-13T14:34:17.380+05:30",
-    "checksum": "4d224a678b5cd846bb9abc44e9cb691e4b99d4f391ee2ab682843086ec9f3f15",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-13T15:34:19.551+05:30",
+    "checksum": "a88c1fda8a018e23361685c6cf1147986140efd594761a74e0f44c08f4fcb4cb",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-13/awards-143416.json"
+    "rawPayloadPath": "data/raw/2025-10-13/awards-153419.json"
   }
 }
