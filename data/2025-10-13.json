@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-13",
-  "buckets": {},
+  "buckets": {
+    "2025-10-13T10": [
+      {
+        "newsId": "466b0ef6-4186-4f56-bb82-30ccdc48abf5",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins grid infrastructure orders (Large*) for its Power Transmission & Distribution business",
+        "announcedAt": "2025-10-13T10:36:35.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2025-10-13T10:36:35.16"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-13T10:34:00.396+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-13T11:34:44.364+05:30",
+    "checksum": "4d224a678b5cd846bb9abc44e9cb691e4b99d4f391ee2ab682843086ec9f3f15",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-13/awards-103359.json"
+    "rawPayloadPath": "data/raw/2025-10-13/awards-113443.json"
   }
 }
