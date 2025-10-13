@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-10-13 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins grid infrastructure orders (Large*) for its Power Transmission & Distribution business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 Oct 2025 - 10:36 |
 
-_Last updated: 13 Oct 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-13.json)_
+_Last updated: 13 Oct 2025 - 12:34 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-13.json)_
 
 <!-- snapshot:end -->
 
