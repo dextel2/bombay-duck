@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-14 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-14 12:00 | Bharti Airtel Ltd | 532454 | Please find enclosed disclosure under Regulation 30 w.r.t. the Company entering into a strategic partnership with Google to set up India''s first Artificial Intelligence (AI hub) in Visakhapatnam. ([Link](https://www.bseindia.com/stock-share-price/bharti-airtel-ltd/bhartiartl/532454/)) | Neutral | 14 Oct 2025 - 12:30 |
+| 2025-10-14 12:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new order of Rs. 1,064 Crores secured by the Company. The order mentioned in the enclosed press release has been received .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 14 Oct 2025 - 12:13 |
 
-_Last updated: 14 Oct 2025 - 11:34 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-14.json)_
+_Last updated: 14 Oct 2025 - 12:33 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-14.json)_
 
 <!-- snapshot:end -->
 

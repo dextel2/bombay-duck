@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-10-14",
-  "buckets": {},
+  "buckets": {
+    "2025-10-14T12": [
+      {
+        "newsId": "bfc3148d-625f-4389-a729-59f8e192e1c6",
+        "scripCode": 532454,
+        "shortName": "Bharti Airtel Ltd",
+        "headline": "Please find enclosed disclosure under Regulation 30 w.r.t. the Company entering into a strategic partnership with Google to set up India''s first Artificial Intelligence (AI hub) in Visakhapatnam.",
+        "announcedAt": "2025-10-14T12:30:28.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharti-airtel-ltd/bhartiartl/532454/",
+        "rawTime": "2025-10-14T12:30:28.353"
+      },
+      {
+        "newsId": "a4db0daa-d475-4215-86f7-37c50966b6be",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new order of Rs. 1,064 Crores secured by the Company. The order mentioned in the enclosed press release has been received ....",
+        "announcedAt": "2025-10-14T12:13:51.877+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2025-10-14T12:13:51.877"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-14T11:34:32.783+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-10-14T12:33:51.690+05:30",
+    "checksum": "115f04a89b86d5ba5d5e8cb57c5926ed3eb59ca216cdd4edfa990a2e87fc426e",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-14/awards-113431.json"
+    "rawPayloadPath": "data/raw/2025-10-14/awards-123351.json"
   }
 }
