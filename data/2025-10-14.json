@@ -32,6 +32,15 @@
     ],
     "2025-10-14T13": [
       {
+        "newsId": "dc870b94-9866-4d8b-8342-339ae4645e1a",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-10-14T13:56:23.500+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2025-10-14T13:56:23.5"
+      },
+      {
         "newsId": "65a8c260-2901-4473-bae5-6f98fce854a9",
         "scripCode": 542459,
         "shortName": "Kranti Industries Ltd",
@@ -40,14 +49,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/",
         "rawTime": "2025-10-14T13:22:47.26"
       }
+    ],
+    "2025-10-14T14": [
+      {
+        "newsId": "0a914168-1184-4468-8bb0-076031e1f040",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "The Company has entered into an upgarde engaement with a marquee communications service provider in the Middle East to enhance the operator''s Fraud Management (FM) capabilities",
+        "announcedAt": "2025-10-14T14:33:17.340+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2025-10-14T14:33:17.34"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-14T13:34:20.596+05:30",
-    "checksum": "8cfb6d37be5026e2ca34e2b0cd436804bfa210449e6506d2b01b26159bd5b9f8",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-14T14:33:52.785+05:30",
+    "checksum": "10c9de30999cf5597d88a3e465d345773267815643cef125101e6899ca93155b",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-14/awards-133419.json"
+    "rawPayloadPath": "data/raw/2025-10-14/awards-143352.json"
   }
 }
