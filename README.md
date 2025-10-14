@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-14 13:00 | Kranti Industries Ltd | 542459 | Pursuant to Regulation 30 and other applicable regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and in continuation with the earlier intimation dated .... ([Link](https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/)) | Neutral | 14 Oct 2025 - 13:22 |
+| 2025-10-14 12:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new order of Rs. 295 Crores (excluding GST). ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 14 Oct 2025 - 12:34 |
 | 2025-10-14 12:00 | Bharti Airtel Ltd | 532454 | Please find enclosed disclosure under Regulation 30 w.r.t. the Company entering into a strategic partnership with Google to set up India''s first Artificial Intelligence (AI hub) in Visakhapatnam. ([Link](https://www.bseindia.com/stock-share-price/bharti-airtel-ltd/bhartiartl/532454/)) | Neutral | 14 Oct 2025 - 12:30 |
 | 2025-10-14 12:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new order of Rs. 1,064 Crores secured by the Company. The order mentioned in the enclosed press release has been received .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 14 Oct 2025 - 12:13 |
 
-_Last updated: 14 Oct 2025 - 12:33 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-14.json)_
+_Last updated: 14 Oct 2025 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-14.json)_
 
 <!-- snapshot:end -->
 

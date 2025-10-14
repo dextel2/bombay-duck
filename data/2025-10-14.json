@@ -3,6 +3,15 @@
   "buckets": {
     "2025-10-14T12": [
       {
+        "newsId": "1162b742-5725-40bf-adbc-f39f695a5514",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new order of Rs. 295 Crores (excluding GST).",
+        "announcedAt": "2025-10-14T12:34:35.633+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2025-10-14T12:34:35.633"
+      },
+      {
         "newsId": "bfc3148d-625f-4389-a729-59f8e192e1c6",
         "scripCode": 532454,
         "shortName": "Bharti Airtel Ltd",
@@ -20,14 +29,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2025-10-14T12:13:51.877"
       }
+    ],
+    "2025-10-14T13": [
+      {
+        "newsId": "65a8c260-2901-4473-bae5-6f98fce854a9",
+        "scripCode": 542459,
+        "shortName": "Kranti Industries Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and in continuation with the earlier intimation dated ....",
+        "announcedAt": "2025-10-14T13:22:47.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/",
+        "rawTime": "2025-10-14T13:22:47.26"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-14T12:33:51.690+05:30",
-    "checksum": "115f04a89b86d5ba5d5e8cb57c5926ed3eb59ca216cdd4edfa990a2e87fc426e",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-14T13:34:20.596+05:30",
+    "checksum": "8cfb6d37be5026e2ca34e2b0cd436804bfa210449e6506d2b01b26159bd5b9f8",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-14/awards-123351.json"
+    "rawPayloadPath": "data/raw/2025-10-14/awards-133419.json"
   }
 }
