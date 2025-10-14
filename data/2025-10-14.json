@@ -52,6 +52,24 @@
     ],
     "2025-10-14T14": [
       {
+        "newsId": "519ba215-2777-4a5e-b3f7-976df3d6cf60",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2025-10-14T14:57:10.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2025-10-14T14:57:10.19"
+      },
+      {
+        "newsId": "555b4478-f322-4adc-81cb-ca8ef30a6e47",
+        "scripCode": 544320,
+        "shortName": "Carraro India Ltd",
+        "headline": "Carraro India Limited has informed exchange about closure report with respect to notice from the Office of the Superintendent, Central GST, Division VII (Shirur), Pune.",
+        "announcedAt": "2025-10-14T14:41:04.627+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/",
+        "rawTime": "2025-10-14T14:41:04.627"
+      },
+      {
         "newsId": "0a914168-1184-4468-8bb0-076031e1f040",
         "scripCode": 532348,
         "shortName": "Subex Ltd",
@@ -63,11 +81,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-14T14:33:52.785+05:30",
-    "checksum": "10c9de30999cf5597d88a3e465d345773267815643cef125101e6899ca93155b",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-14T15:34:01.793+05:30",
+    "checksum": "ba0b3183feceafc8ea5831251961d748ec9c03c056ebaaca048cf210d763be4b",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-14/awards-143352.json"
+    "rawPayloadPath": "data/raw/2025-10-14/awards-153401.json"
   }
 }
