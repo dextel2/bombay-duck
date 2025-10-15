@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-10-15",
+  "buckets": {
+    "2025-10-15T08": [
+      {
+        "newsId": "f818dcc0-5591-4ff9-98e9-78f138c8e2c3",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of export order for lab-grown cut and polished diamonds amounting to USD 1.50 millions (approximately INR 13,35,00,000)",
+        "announcedAt": "2025-10-15T08:26:55.250+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2025-10-15T08:26:55.25"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-10-15T08:48:26.443+05:30",
+    "checksum": "05f872f464b3e9c805b2f10de178929151b24187fc4a4a1e57b8b863ea2d562a",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-10-15/awards-084825.json"
+  }
+}

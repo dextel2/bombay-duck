@@ -18,20 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-10-14 IST)
+### Today's Awarded Orders (2025-10-15 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-10-14 14:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Neutral | 14 Oct 2025 - 14:57 |
-| 2025-10-14 14:00 | Carraro India Ltd | 544320 | Carraro India Limited has informed exchange about closure report with respect to notice from the Office of the Superintendent, Central GST, Division VII (Shirur), Pune. ([Link](https://www.bseindia.com/stock-share-price/carraro-india-ltd/carraro/544320/)) | Neutral | 14 Oct 2025 - 14:41 |
-| 2025-10-14 14:00 | Subex Ltd | 532348 | The Company has entered into an upgarde engaement with a marquee communications service provider in the Middle East to enhance the operator''s Fraud Management (FM) capabilities ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Neutral | 14 Oct 2025 - 14:33 |
-| 2025-10-14 13:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 14 Oct 2025 - 13:56 |
-| 2025-10-14 13:00 | Kranti Industries Ltd | 542459 | Pursuant to Regulation 30 and other applicable regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and in continuation with the earlier intimation dated .... ([Link](https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/)) | Neutral | 14 Oct 2025 - 13:22 |
-| 2025-10-14 12:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new order of Rs. 295 Crores (excluding GST). ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 14 Oct 2025 - 12:34 |
-| 2025-10-14 12:00 | Bharti Airtel Ltd | 532454 | Please find enclosed disclosure under Regulation 30 w.r.t. the Company entering into a strategic partnership with Google to set up India''s first Artificial Intelligence (AI hub) in Visakhapatnam. ([Link](https://www.bseindia.com/stock-share-price/bharti-airtel-ltd/bhartiartl/532454/)) | Neutral | 14 Oct 2025 - 12:30 |
-| 2025-10-14 12:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new order of Rs. 1,064 Crores secured by the Company. The order mentioned in the enclosed press release has been received .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 14 Oct 2025 - 12:13 |
+| 2025-10-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for lab-grown cut and polished diamonds amounting to USD 1.50 millions (approximately INR 13,35,00,000) ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Oct 2025 - 08:26 |
 
-_Last updated: 14 Oct 2025 - 15:34 | Entries: 8 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-14.json)_
+_Last updated: 15 Oct 2025 - 08:48 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-15.json)_
 
 <!-- snapshot:end -->
 
