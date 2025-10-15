@@ -33,14 +33,72 @@
         "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
         "rawTime": "2025-10-15T10:50:09.043"
       }
+    ],
+    "2025-10-15T14": [
+      {
+        "newsId": "e88ed5b5-1a66-42bb-91da-0b7fba8dfb96",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our Company has received a Purchase order worth Rs. 25,84,96,779.00 (incl GST ) from West Bengal State Electricity Distribution Company Limited for manufacturing, ....",
+        "announcedAt": "2025-10-15T14:24:12.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2025-10-15T14:24:12.92"
+      },
+      {
+        "newsId": "b4568014-aa65-48f6-99f8-2aba71572a3b",
+        "scripCode": 526807,
+        "shortName": "Seamec Ltd",
+        "headline": "Please find as attached.",
+        "announcedAt": "2025-10-15T14:21:05.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
+        "rawTime": "2025-10-15T14:21:05.77"
+      }
+    ],
+    "2025-10-15T13": [
+      {
+        "newsId": "cd0a9404-165e-4588-9b9e-13ef0033863f",
+        "scripCode": 538706,
+        "shortName": "Ultracab (India) Ltd",
+        "headline": "Enclosed herewith Intimation on Awarded 50 Crores Purchase Order from Larsen & Toubro (L&T Construction), EPC Divisions.",
+        "announcedAt": "2025-10-15T13:59:25.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/",
+        "rawTime": "2025-10-15T13:59:25.367"
+      },
+      {
+        "newsId": "35ec91e0-ad7d-4721-8e31-861d92d927ab",
+        "scripCode": 544303,
+        "shortName": "Toss The Coin Ltd",
+        "headline": "Announcement under Regulation 30 (LODR)-Master Retainer Service Agreement",
+        "announcedAt": "2025-10-15T13:57:17.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/toss-the-coin-ltd/ttc/544303/",
+        "rawTime": "2025-10-15T13:57:17.353"
+      },
+      {
+        "newsId": "13921704-ac7b-45c1-9d3b-bb7cbf127ea2",
+        "scripCode": 538706,
+        "shortName": "Ultracab (India) Ltd",
+        "headline": "Enclosed herewith intimation for Award of Annual Rate Contract (ARC) from Larsen & Toubro Limited (L&T Construction) for Supply of 63 LT Cable Items Across 600+ PAN India Sites Covering ....",
+        "announcedAt": "2025-10-15T13:53:18.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/",
+        "rawTime": "2025-10-15T13:53:18.99"
+      },
+      {
+        "newsId": "1127009e-8cef-4385-9d18-ce7b9f3655ea",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "Received order of EPC work for 150 MWac/ 217.5 MWp.",
+        "announcedAt": "2025-10-15T13:42:39.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2025-10-15T13:42:39.017"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-15T13:34:26.648+05:30",
-    "checksum": "56eb8f78bc67e82cfe92781e8c52f2040b5365a0cae5dc868234b27451096c03",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-15T14:34:08.418+05:30",
+    "checksum": "10e8f050052dbf576416691f95e81c5c2b15a77d471a149bf2bb061841a69a07",
+    "totalAnnouncements": 9,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-15/awards-133425.json"
+    "rawPayloadPath": "data/raw/2025-10-15/awards-143407.json"
   }
 }
