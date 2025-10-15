@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2025-10-15T08:26:55.25"
       }
+    ],
+    "2025-10-15T11": [
+      {
+        "newsId": "8f01809b-356c-47d1-a666-726c6107c636",
+        "scripCode": 517421,
+        "shortName": "Butterfly Gandhimathi Appliances Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2025-10-15T11:32:58.723+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/",
+        "rawTime": "2025-10-15T11:32:58.723"
+      }
+    ],
+    "2025-10-15T10": [
+      {
+        "newsId": "07ef5232-41d5-4087-9c8d-a7932b384688",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please find the attched order intimation",
+        "announcedAt": "2025-10-15T10:50:09.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2025-10-15T10:50:09.043"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-15T10:33:40.806+05:30",
-    "checksum": "05f872f464b3e9c805b2f10de178929151b24187fc4a4a1e57b8b863ea2d562a",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-15T11:34:31.771+05:30",
+    "checksum": "56eb8f78bc67e82cfe92781e8c52f2040b5365a0cae5dc868234b27451096c03",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-15/awards-103340.json"
+    "rawPayloadPath": "data/raw/2025-10-15/awards-113431.json"
   }
 }
