@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-15 15:00 | Meta Infotech Ltd | 544441 | We wish to inform that company has received renewal of purchase orders amounting to Rs. 28.77/- lakhs bagged by the Company in the ordinary course of business, since previous intimation .... ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 15 Oct 2025 - 15:31 |
+| 2025-10-15 14:00 | Indobell Insulations Ltd | 544334 | New Order Awarded to the Company ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 15 Oct 2025 - 14:58 |
 | 2025-10-15 14:00 | Marsons Ltd | 517467 | We are pleased to announce that our Company has received a Purchase order worth Rs. 25,84,96,779.00 (incl GST ) from West Bengal State Electricity Distribution Company Limited for manufacturing, .... ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 15 Oct 2025 - 14:24 |
 | 2025-10-15 14:00 | Seamec Ltd | 526807 | Please find as attached. ([Link](https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/)) | Neutral | 15 Oct 2025 - 14:21 |
 | 2025-10-15 13:00 | Ultracab (India) Ltd | 538706 | Enclosed herewith Intimation on Awarded 50 Crores Purchase Order from Larsen & Toubro (L&T Construction), EPC Divisions. ([Link](https://www.bseindia.com/stock-share-price/ultracab-(india)-ltd/ultracab/538706/)) | Likely Positive | 15 Oct 2025 - 13:59 |
@@ -32,7 +34,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-10-15 10:00 | Power Mech Projects Ltd | 539302 | Please find the attched order intimation ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Likely Positive | 15 Oct 2025 - 10:50 |
 | 2025-10-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for lab-grown cut and polished diamonds amounting to USD 1.50 millions (approximately INR 13,35,00,000) ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Oct 2025 - 08:26 |
 
-_Last updated: 15 Oct 2025 - 14:34 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-15.json)_
+_Last updated: 15 Oct 2025 - 15:34 | Entries: 11 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-15.json)_
 
 <!-- snapshot:end -->
 

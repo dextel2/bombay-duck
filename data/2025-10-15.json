@@ -36,6 +36,15 @@
     ],
     "2025-10-15T14": [
       {
+        "newsId": "0f4055d2-4e48-42c4-b2e3-b2ce02569168",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Order Awarded to the Company",
+        "announcedAt": "2025-10-15T14:58:03.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2025-10-15T14:58:03.583"
+      },
+      {
         "newsId": "e88ed5b5-1a66-42bb-91da-0b7fba8dfb96",
         "scripCode": 517467,
         "shortName": "Marsons Ltd",
@@ -91,14 +100,25 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
         "rawTime": "2025-10-15T13:42:39.017"
       }
+    ],
+    "2025-10-15T15": [
+      {
+        "newsId": "063ffcda-7c7c-4fa7-a7fe-9d7590a8c110",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that company has received renewal of purchase orders amounting to Rs. 28.77/- lakhs bagged by the Company in the ordinary course of business, since previous intimation ....",
+        "announcedAt": "2025-10-15T15:31:32.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2025-10-15T15:31:32.033"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-15T14:34:08.418+05:30",
-    "checksum": "10e8f050052dbf576416691f95e81c5c2b15a77d471a149bf2bb061841a69a07",
-    "totalAnnouncements": 9,
-    "requestCount": 7,
+    "lastUpdated": "2025-10-15T15:34:25.040+05:30",
+    "checksum": "44373e7b66381c431230839c4ebdff9f69d9576a5557c04ce2297e9917bec954",
+    "totalAnnouncements": 11,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-15/awards-143407.json"
+    "rawPayloadPath": "data/raw/2025-10-15/awards-153424.json"
   }
 }
