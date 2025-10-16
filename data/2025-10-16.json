@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
         "rawTime": "2025-10-16T10:40:06.95"
       }
+    ],
+    "2025-10-16T12": [
+      {
+        "newsId": "ef3100e6-2367-439a-ac26-f9946c30c227",
+        "scripCode": 500477,
+        "shortName": "Ashok Leyland Ltd",
+        "headline": "Ashok Leyland wins order for 1937 buses from Tamil Nadu State Transport Undertakings",
+        "announcedAt": "2025-10-16T12:17:18.383+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashok-leyland-ltd/ashokley/500477/",
+        "rawTime": "2025-10-16T12:17:18.383"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-16T11:34:42.683+05:30",
-    "checksum": "b64f7f290e7304f4bc8971ede8b512ddb3ccd049c9c5d69deca75e9379cd5bc0",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-10-16T12:33:55.339+05:30",
+    "checksum": "7d1710835281868b1e57b812dbf7a384d90d136fe5602d234dea7c6db300860e",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-16/awards-113442.json"
+    "rawPayloadPath": "data/raw/2025-10-16/awards-123354.json"
   }
 }
