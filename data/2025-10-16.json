@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-16",
-  "buckets": {},
+  "buckets": {
+    "2025-10-16T10": [
+      {
+        "newsId": "141698af-6db6-4c48-9f3b-b7e6c376b5eb",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of announcement under Regulation 30 SEBI (LODR) , 2015 for receipt of order from Uttar Gujarat Vij Company Limited (UGVCL).",
+        "announcedAt": "2025-10-16T10:40:06.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2025-10-16T10:40:06.95"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-16T10:33:43.042+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-16T11:34:42.683+05:30",
+    "checksum": "b64f7f290e7304f4bc8971ede8b512ddb3ccd049c9c5d69deca75e9379cd5bc0",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-16/awards-103342.json"
+    "rawPayloadPath": "data/raw/2025-10-16/awards-113442.json"
   }
 }

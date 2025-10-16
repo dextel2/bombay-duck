@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-16 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-16 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of announcement under Regulation 30 SEBI (LODR) , 2015 for receipt of order from Uttar Gujarat Vij Company Limited (UGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 16 Oct 2025 - 10:40 |
 
-_Last updated: 16 Oct 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-16.json)_
+_Last updated: 16 Oct 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-16.json)_
 
 <!-- snapshot:end -->
 
