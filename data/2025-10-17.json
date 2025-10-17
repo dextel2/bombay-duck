@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/droneacharya-aerial-innovations-ltd/dronachrya/543713/",
         "rawTime": "2025-10-17T10:18:12.007"
       }
+    ],
+    "2025-10-17T11": [
+      {
+        "newsId": "3647269f-ef7c-4de1-ab3d-0bcaa780b01b",
+        "scripCode": 543912,
+        "shortName": "Power and Instrumentation (Gujarat) Ltd",
+        "headline": "Intimation Under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-10-17T11:12:38.340+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
+        "rawTime": "2025-10-17T11:12:38.34"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-17T10:33:45.686+05:30",
-    "checksum": "5a93b7288796a6276b073337d17901b9a3afd6a8db4c7dc687895a41ce1e56c5",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-10-17T11:34:23.192+05:30",
+    "checksum": "09cd60041c5b3eef5f823658f09aab1cef7e8fef8149d84dec3c50d9cc92631c",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-17/awards-103344.json"
+    "rawPayloadPath": "data/raw/2025-10-17/awards-113422.json"
   }
 }

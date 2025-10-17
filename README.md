@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-17 11:00 | Power and Instrumentation (Gujarat) Ltd | 543912 | Intimation Under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/)) | Neutral | 17 Oct 2025 - 11:12 |
 | 2025-10-17 10:00 | Droneacharya Aerial Innovations Ltd | 543713 | DroneAcharya secures work order worth 1.09 Cr. for the supply of 180 FPV Drones from the Indian Army ([Link](https://www.bseindia.com/stock-share-price/droneacharya-aerial-innovations-ltd/dronachrya/543713/)) | Likely Positive | 17 Oct 2025 - 10:18 |
 | 2025-10-17 09:00 | M & B Engineering Ltd | 544470 | We wish to inform the Stock Exchange regarding bagging of an Export Order. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 17 Oct 2025 - 09:28 |
 
-_Last updated: 17 Oct 2025 - 10:33 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
+_Last updated: 17 Oct 2025 - 11:34 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
 
 <!-- snapshot:end -->
 
