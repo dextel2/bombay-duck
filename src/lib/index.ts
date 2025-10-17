@@ -22,4 +22,27 @@ function buildNseSymbol(symbol: string): string {
   return `NSE:${symbol}`;
 }
 
+// index.ts - PR 4 (append below PR 3 code)
+
+function isUpperCircuit(timeSeries: any): boolean {
+  const series = timeSeries['Time Series (Daily)'];
+  if (!series) return false;
+
+  const dates = Object.keys(series).sort().reverse(); // latest first
+  if (dates.length < 2) return false;
+
+  const today = dates[0];
+  const prev = dates[1];
+
+  const recToday = series[today];
+  const recPrev = series[prev];
+
+  const closeToday = parseFloat(recToday['4. close']);
+  const highToday = parseFloat(recToday['2. high']);
+  const closePrev = parseFloat(recPrev['4. close']);
+
+  const pctMove = (closeToday - closePrev) / closePrev;
+
+  return closeToday >= highToday && pctMove >= 0.05;
+}
 
