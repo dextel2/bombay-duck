@@ -1,20 +1,25 @@
-﻿# Known Issues
+﻿# ⚠️ Known Issues
 
-## Rate Limiting & API Availability
-- The BSE endpoint is unauthenticated and occasionally throttles heavy usage. The workflow already enforces a 60-second gap, but repeated failures may require a longer cool-off period or manual intervention.
-- BSE occasionally deploys without notice. If the JSON contract changes the fetch script may fail; see the Step Summary for the raw payload path and inspect `data/raw/<date>/` for differences.
+## ⏱️ Rate Limiting & API Availability
 
-## Trading Calendar Assumptions
-- The guard currently treats every weekday as a trading day. Indian market holidays are not yet encoded; runs on holidays will bail out with "no data" logs.
-- Manual dispatches outside 09:00-15:00 IST exit early by design. Use the `FORCE_RUN` override (see `CONTRIBUTING.md`) when testing after hours.
+- The BSE endpoint is unauthenticated and may throttle heavy usage. Although the workflow enforces a 60-second delay between fetches, repeated failures might require a longer cool-off period or manual retry.
+- BSE occasionally deploys changes without notice. If the JSON contract changes, the fetch script may break. Refer to the **Step Summary** output for the `rawPayloadPath`, and inspect the corresponding files under `data/raw/<date>/` to debug differences.
 
-## Authentication & GitHub Permissions
-- The workflow relies on a repository secret (`GH_TOKEN`) with write access. Expired or revoked tokens will make the commit step fail with a 403.
-- `persist-credentials: false` is required on checkout; if removed, GitHub may restore read-only credentials and block pushes.
+## 📅 Trading Calendar Assumptions
 
-## Artifact Retention
-- GitHub removes archived artifacts after the repository-level retention window (default 90 days). Pull snapshots locally if you need a historical audit trail beyond that.
+- The guard currently assumes every weekday is a trading day. **Indian market holidays are not accounted for**. Runs on such days will exit with "no data" logs.
+- Manual dispatches outside the regular trading hours (09:00–15:00 IST) will exit early by design. Use the `FORCE_RUN` override (see [`CONTRIBUTING.md`](./CONTRIBUTING.md)) when testing after hours.
 
-## Local Development Footprint
-- Fetching from the BSE endpoint locally will still count against their rate limit; prefer mocked responses during development.
-- The `data/` directory is partially ignored. Ensure you commit only the intended daily JSON file plus README changes.
+## 🔐 Authentication & GitHub Permissions
+
+- The workflow depends on a repository secret (`GH_TOKEN`) with write permissions. If the token expires or is revoked, the commit step will fail with a `403 Forbidden` error.
+- Ensure `persist-credentials: false` is set in the `actions/checkout` step. Omitting this can cause GitHub to restore read-only credentials, which may block push operations.
+
+## 📦 Artifact Retention
+
+- GitHub automatically deletes archived workflow artifacts after the repository’s retention period (default is 90 days). If long-term storage is required, **download and store pull snapshots locally**.
+
+## 🧪 Local Development Footprint
+
+- Local fetches still hit the live BSE endpoint and are subject to the same rate limits. During development, prefer using **mocked responses** to avoid unnecessary API calls.
+- The `data/` directory is partially `.gitignore`-d. Ensure only the relevant **daily JSON state file** and **README updates** are committed.
