@@ -67,3 +67,15 @@ async function checkStocks(symbols: string[]): Promise<string[]> {
 
   return upperCircuitSymbols;
 }
+
+async function main() {
+  const symbols = ['RELIANCE', 'TCS', 'INFY']; // Add more NSE stock symbols here
+  const upperCircuits = await checkStocks(symbols);
+
+  console.log("Upper circuit stocks today:", upperCircuits);
+}
+
+main().catch((err) => {
+  console.error("Main error:", err);
+  process.exit(1);
+});
