@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-10-16 IST)
+### Today's Awarded Orders (2025-10-17 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-10-16 14:00 | United Drilling Tools Ltd | 522014 | Order from Venezuela ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 16 Oct 2025 - 14:26 |
-| 2025-10-16 14:00 | EMS Ltd | 543983 | EMS Limited has receipt a letter of Acceptance from UP Jal Nigam (Urban)-Fatehpur ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 16 Oct 2025 - 14:20 |
-| 2025-10-16 12:00 | Ashok Leyland Ltd | 500477 | Ashok Leyland wins order for 1937 buses from Tamil Nadu State Transport Undertakings ([Link](https://www.bseindia.com/stock-share-price/ashok-leyland-ltd/ashokley/500477/)) | Likely Positive | 16 Oct 2025 - 12:17 |
-| 2025-10-16 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of announcement under Regulation 30 SEBI (LODR) , 2015 for receipt of order from Uttar Gujarat Vij Company Limited (UGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 16 Oct 2025 - 10:40 |
+_No award announcements have been captured yet today._
 
-_Last updated: 16 Oct 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-10-16.json)_
+_Last updated: 17 Oct 2025 - 08:46 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
 
 <!-- snapshot:end -->
 
