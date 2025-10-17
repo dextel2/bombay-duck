@@ -46,3 +46,24 @@ function isUpperCircuit(timeSeries: any): boolean {
   return closeToday >= highToday && pctMove >= 0.05;
 }
 
+async function checkStocks(symbols: string[]): Promise<string[]> {
+  const upperCircuitSymbols: string[] = [];
+
+  for (const sym of symbols) {
+    try {
+      const fullSym = buildNseSymbol(sym);
+      const data = await fetchDaily(fullSym);
+
+      if (isUpperCircuit(data)) {
+        upperCircuitSymbols.push(sym);
+      }
+
+      // Respect rate limits: 5 requests per minute on free plan
+      await new Promise((res) => setTimeout(res, 15000)); // 15 seconds
+    } catch (err) {
+      console.error(`Error fetching ${sym}:`, err);
+    }
+  }
+
+  return upperCircuitSymbols;
+}
