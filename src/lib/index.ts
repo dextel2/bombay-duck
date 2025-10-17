@@ -21,3 +21,5 @@ async function fetchDaily(symbol: string) {
 function buildNseSymbol(symbol: string): string {
   return `NSE:${symbol}`;
 }
+
+
