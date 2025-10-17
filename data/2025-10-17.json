@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-10-17",
-  "buckets": {},
+  "buckets": {
+    "2025-10-17T09": [
+      {
+        "newsId": "10bb7799-a5c3-40c0-ba87-bf0894c51231",
+        "scripCode": 544470,
+        "shortName": "M & B Engineering Ltd",
+        "headline": "We wish to inform the Stock Exchange regarding bagging of an Export Order.",
+        "announcedAt": "2025-10-17T09:28:41.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
+        "rawTime": "2025-10-17T09:28:41.597"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-17T08:46:45.904+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-10-17T09:34:03.609+05:30",
+    "checksum": "90a90c778eab76529541dc4aa9c75c54bd2107c56b4060fa4008eb4db4f650c7",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-17/awards-084645.json"
+    "rawPayloadPath": "data/raw/2025-10-17/awards-093402.json"
   }
 }

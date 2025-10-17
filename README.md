@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-17 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-17 09:00 | M & B Engineering Ltd | 544470 | We wish to inform the Stock Exchange regarding bagging of an Export Order. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 17 Oct 2025 - 09:28 |
 
-_Last updated: 17 Oct 2025 - 08:46 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
+_Last updated: 17 Oct 2025 - 09:34 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
 
 <!-- snapshot:end -->
 
