@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
         "rawTime": "2025-10-17T09:28:41.597"
       }
+    ],
+    "2025-10-17T10": [
+      {
+        "newsId": "eeeeca0a-be69-4627-a638-cbbcd66076cf",
+        "scripCode": 543713,
+        "shortName": "Droneacharya Aerial Innovations Ltd",
+        "headline": "DroneAcharya secures work order worth 1.09 Cr. for the supply of 180 FPV Drones from the Indian Army",
+        "announcedAt": "2025-10-17T10:18:12.007+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/droneacharya-aerial-innovations-ltd/dronachrya/543713/",
+        "rawTime": "2025-10-17T10:18:12.007"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-17T09:34:03.609+05:30",
-    "checksum": "90a90c778eab76529541dc4aa9c75c54bd2107c56b4060fa4008eb4db4f650c7",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-10-17T10:33:45.686+05:30",
+    "checksum": "5a93b7288796a6276b073337d17901b9a3afd6a8db4c7dc687895a41ce1e56c5",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-17/awards-093402.json"
+    "rawPayloadPath": "data/raw/2025-10-17/awards-103344.json"
   }
 }
