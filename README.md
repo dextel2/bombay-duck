@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-17 13:00 | Emmbi Industries Ltd | 533161 | Intimation pursuant to Regulation 30(2)of SEBI (LODR) Regulation 2015 about Order on Settlement Application. ([Link](https://www.bseindia.com/stock-share-price/emmbi-industries-ltd/emmbi/533161/)) | Likely Positive | 17 Oct 2025 - 13:53 |
+| 2025-10-17 13:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export order worth USD 32.02 million approx.(equivalent to INR 281.20 crore approx.), for the supply of optical fiber .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 17 Oct 2025 - 13:49 |
 | 2025-10-17 11:00 | Power and Instrumentation (Gujarat) Ltd | 543912 | Intimation Under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/)) | Neutral | 17 Oct 2025 - 11:12 |
 | 2025-10-17 10:00 | Droneacharya Aerial Innovations Ltd | 543713 | DroneAcharya secures work order worth 1.09 Cr. for the supply of 180 FPV Drones from the Indian Army ([Link](https://www.bseindia.com/stock-share-price/droneacharya-aerial-innovations-ltd/dronachrya/543713/)) | Likely Positive | 17 Oct 2025 - 10:18 |
 | 2025-10-17 09:00 | M & B Engineering Ltd | 544470 | We wish to inform the Stock Exchange regarding bagging of an Export Order. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 17 Oct 2025 - 09:28 |
 
-_Last updated: 17 Oct 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
+_Last updated: 17 Oct 2025 - 14:34 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-10-17.json)_
 
 <!-- snapshot:end -->
 

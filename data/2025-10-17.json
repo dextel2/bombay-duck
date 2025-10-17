@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
         "rawTime": "2025-10-17T11:12:38.34"
       }
+    ],
+    "2025-10-17T13": [
+      {
+        "newsId": "871fb293-6494-460c-afe9-72d0b31259e7",
+        "scripCode": 533161,
+        "shortName": "Emmbi Industries Ltd",
+        "headline": "Intimation pursuant to Regulation 30(2)of SEBI (LODR) Regulation 2015 about Order on Settlement Application.",
+        "announcedAt": "2025-10-17T13:53:09.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/emmbi-industries-ltd/emmbi/533161/",
+        "rawTime": "2025-10-17T13:53:09.86"
+      },
+      {
+        "newsId": "b5bb1248-e6f5-434f-8ec8-764444dcd218",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "We are pleased to inform all stakeholders that the Company has secured export order worth USD 32.02 million approx.(equivalent to INR 281.20 crore approx.), for the supply of optical fiber ....",
+        "announcedAt": "2025-10-17T13:49:05.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2025-10-17T13:49:05.16"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-17T13:34:32.677+05:30",
-    "checksum": "09cd60041c5b3eef5f823658f09aab1cef7e8fef8149d84dec3c50d9cc92631c",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-10-17T14:34:09.463+05:30",
+    "checksum": "396c7b53ec444efd6a4a976a9784e424543bec19cd2ade97a25fdfebb7d0dcd9",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-17/awards-133432.json"
+    "rawPayloadPath": "data/raw/2025-10-17/awards-143408.json"
   }
 }
