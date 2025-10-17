@@ -16,3 +16,8 @@ async function fetchDaily(symbol: string) {
   const response = await axios.get(url, { params });
   return response.data;
 }
+
+
+function buildNseSymbol(symbol: string): string {
+  return `NSE:${symbol}`;
+}
