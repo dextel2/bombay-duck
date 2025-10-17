@@ -1,4 +1,6 @@
-﻿export * from "./checksum";
-export * from "./io";
-export * from "./rate-limit";
-export * from "./time";
+﻿import axios from 'axios';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
+console.log("Starting NSE Upper Circuit Checker...");
