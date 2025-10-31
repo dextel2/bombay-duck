@@ -22,14 +22,36 @@
         "url": "https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/",
         "rawTime": "2025-10-31T10:57:21.847"
       }
+    ],
+    "2025-10-31T14": [
+      {
+        "newsId": "58cec5fc-c72b-4aef-b6a9-45a4fb6ae974",
+        "scripCode": 531225,
+        "shortName": "Xtglobal Infotech Ltd",
+        "headline": "Sir/Madam, please find the attached press release regarding bagging/receiving of order for stakeholders'' information.",
+        "announcedAt": "2025-10-31T14:19:24.167+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/",
+        "rawTime": "2025-10-31T14:19:24.167"
+      }
+    ],
+    "2025-10-31T13": [
+      {
+        "newsId": "ba3e0f86-03ff-4abe-accd-dfafb763827d",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of Order",
+        "announcedAt": "2025-10-31T13:43:18.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2025-10-31T13:43:18.193"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-31T13:34:08.952+05:30",
-    "checksum": "6b914f8bcd1e406758abed84f7858f4001698b8776d668ca0d63279713d0cd94",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2025-10-31T14:33:57.865+05:30",
+    "checksum": "555364d2c757b11615df180aef8fd77a0be16cfdfdab9626a7edfa2c7181a9bc",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-31/awards-133408.json"
+    "rawPayloadPath": "data/raw/2025-10-31/awards-143357.json"
   }
 }
