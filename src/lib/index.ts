@@ -1,81 +1,32 @@
-﻿import axios from 'axios';
-import dotenv from 'dotenv';
+﻿/**
+ * Main entry point for all library utilities.
+ * Re-exports functions from individual modules for convenient imports.
+ */
 
-dotenv.config();
+// Export all functions from the checksum module
+export { createChecksum } from "./checksum";
 
-console.log("Starting NSE Upper Circuit Checker...");
-async function fetchDaily(symbol: string) {
-  const url = 'https://www.alphavantage.co/query';
-  const params = {
-    function: 'TIME_SERIES_DAILY_ADJUSTED',
-    symbol,
-    outputsize: 'compact',
-    apikey: process.env.ALPHA_VANTAGE_API_KEY,
-  };
+// Export all functions from the io module
+export { ensureDir, readJsonFile, writeJsonFile, appendFile } from "./io";
 
-  const response = await axios.get(url, { params });
-  return response.data;
-}
+// Export all functions from the rate-limit module
+export { enforceRateLimit } from "./rate-limit";
 
-
-function buildNseSymbol(symbol: string): string {
-  return `NSE:${symbol}`;
-}
-
-// index.ts - PR 4 (append below PR 3 code)
-
-function isUpperCircuit(timeSeries: any): boolean {
-  const series = timeSeries['Time Series (Daily)'];
-  if (!series) return false;
-
-  const dates = Object.keys(series).sort().reverse(); // latest first
-  if (dates.length < 2) return false;
-
-  const today = dates[0];
-  const prev = dates[1];
-
-  const recToday = series[today];
-  const recPrev = series[prev];
-
-  const closeToday = parseFloat(recToday['4. close']);
-  const highToday = parseFloat(recToday['2. high']);
-  const closePrev = parseFloat(recPrev['4. close']);
-
-  const pctMove = (closeToday - closePrev) / closePrev;
-
-  return closeToday >= highToday && pctMove >= 0.05;
-}
-
-async function checkStocks(symbols: string[]): Promise<string[]> {
-  const upperCircuitSymbols: string[] = [];
-
-  for (const sym of symbols) {
-    try {
-      const fullSym = buildNseSymbol(sym);
-      const data = await fetchDaily(fullSym);
-
-      if (isUpperCircuit(data)) {
-        upperCircuitSymbols.push(sym);
-      }
-
-      // Respect rate limits: 5 requests per minute on free plan
-      await new Promise((res) => setTimeout(res, 15000)); // 15 seconds
-    } catch (err) {
-      console.error(`Error fetching ${sym}:`, err);
-    }
-  }
-
-  return upperCircuitSymbols;
-}
-
-async function main() {
-  const symbols = ['RELIANCE', 'TCS', 'INFY']; // Add more NSE stock symbols here
-  const upperCircuits = await checkStocks(symbols);
-
-  console.log("Upper circuit stocks today:", upperCircuits);
-}
-
-main().catch((err) => {
-  console.error("Main error:", err);
-  process.exit(1);
-});
+// Export all functions from the time module
+export {
+  IST_ZONE,
+  MARKET_OPEN_HOUR,
+  MARKET_CLOSE_HOUR,
+  toIsoDate,
+  nowInIST,
+  formatQueryDate,
+  currentTradingDate,
+  toIsoHour,
+  formatDisplayTime,
+  tradingWindowBounds,
+  isTradingDay,
+  parseAnnouncementDate,
+  interpretProfitIndicator,
+  toIsoString,
+  toIsoDateString
+} from "./time";
