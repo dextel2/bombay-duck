@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-10-31 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-31 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 31 Oct 2025 - 11:19 |
+| 2025-10-31 10:00 | WEP Solutions Ltd | 532373 | Disclosure under Regulation 30 of SEBI (LODR) 2015 - Receipt of Demand Order ([Link](https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/)) | Likely Positive | 31 Oct 2025 - 10:57 |
 
-_Last updated: 31 Oct 2025 - 10:55 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-10-31.json)_
+_Last updated: 31 Oct 2025 - 11:34 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-10-31.json)_
 
 <!-- snapshot:end -->
 

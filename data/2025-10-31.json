@@ -1,12 +1,35 @@
 {
   "tradingDate": "2025-10-31",
-  "buckets": {},
+  "buckets": {
+    "2025-10-31T11": [
+      {
+        "newsId": "03f7366c-d7cb-4cd3-9ab5-bcad90962ef8",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2025-10-31T11:19:09.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-10-31T11:19:09.76"
+      }
+    ],
+    "2025-10-31T10": [
+      {
+        "newsId": "36e4e1f3-a6aa-487e-adc0-1b85dcb81427",
+        "scripCode": 532373,
+        "shortName": "WEP Solutions Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) 2015 - Receipt of Demand Order",
+        "announcedAt": "2025-10-31T10:57:21.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/",
+        "rawTime": "2025-10-31T10:57:21.847"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-10-31T10:55:14.221+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-10-31T11:34:15.969+05:30",
+    "checksum": "6b914f8bcd1e406758abed84f7858f4001698b8776d668ca0d63279713d0cd94",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-31/awards-105513.json"
+    "rawPayloadPath": "data/raw/2025-10-31/awards-113415.json"
   }
 }
