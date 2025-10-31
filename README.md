@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-10-31 14:00 | MTAR Technologies Ltd | 543270 | Bagging of order worth Rs. 27.17 crores from existing customer. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 31 Oct 2025 - 14:54 |
+| 2025-10-31 14:00 | GPT Infraprojects Ltd | 533761 | Please find press release for order bagged by the Company worth Rs. 37.8 Crore only ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 31 Oct 2025 - 14:50 |
 | 2025-10-31 14:00 | Xtglobal Infotech Ltd | 531225 | Sir/Madam, please find the attached press release regarding bagging/receiving of order for stakeholders'' information. ([Link](https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/)) | Likely Positive | 31 Oct 2025 - 14:19 |
 | 2025-10-31 13:00 | United Drilling Tools Ltd | 522014 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 31 Oct 2025 - 13:43 |
 | 2025-10-31 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 31 Oct 2025 - 11:19 |
 | 2025-10-31 10:00 | WEP Solutions Ltd | 532373 | Disclosure under Regulation 30 of SEBI (LODR) 2015 - Receipt of Demand Order ([Link](https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/)) | Likely Positive | 31 Oct 2025 - 10:57 |
 
-_Last updated: 31 Oct 2025 - 14:33 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-10-31.json)_
+_Last updated: 31 Oct 2025 - 15:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-10-31.json)_
 
 <!-- snapshot:end -->
 

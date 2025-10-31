@@ -25,6 +25,24 @@
     ],
     "2025-10-31T14": [
       {
+        "newsId": "26578c1c-edf1-4610-93c9-eed39e9b26e8",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Bagging of order worth Rs. 27.17 crores from existing customer.",
+        "announcedAt": "2025-10-31T14:54:23.817+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2025-10-31T14:54:23.817"
+      },
+      {
+        "newsId": "2a501ff8-2537-4dde-80e4-1ed61cac293f",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find press release for order bagged by the Company worth Rs. 37.8 Crore only",
+        "announcedAt": "2025-10-31T14:50:47.333+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2025-10-31T14:50:47.333"
+      },
+      {
         "newsId": "58cec5fc-c72b-4aef-b6a9-45a4fb6ae974",
         "scripCode": 531225,
         "shortName": "Xtglobal Infotech Ltd",
@@ -47,11 +65,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-10-31T14:33:57.865+05:30",
-    "checksum": "555364d2c757b11615df180aef8fd77a0be16cfdfdab9626a7edfa2c7181a9bc",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2025-10-31T15:34:02.498+05:30",
+    "checksum": "fe6789cc400f9b46534c27cd2e3111801f566d5e027d6fe491edd726e075d8cf",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-10-31/awards-143357.json"
+    "rawPayloadPath": "data/raw/2025-10-31/awards-153401.json"
   }
 }
