@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
         "rawTime": "2025-11-01T11:50:51.75"
       }
+    ],
+    "2025-11-01T15": [
+      {
+        "newsId": "7b9c34f9-8e29-4c1e-aff9-83bee9567f95",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2025-11-01T15:18:56.040+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-11-01T15:18:56.04"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-01T14:33:22.718+05:30",
-    "checksum": "55699cd56ad599fe0b73bdd289550d956e20e44712d6873ec05a83a072f0c45b",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-01T15:33:02.165+05:30",
+    "checksum": "cb6a6467c34ad0aab389e30b98cd40d8266795a7d85700011c5456a5c4a2c9cc",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-01/awards-143322.json"
+    "rawPayloadPath": "data/raw/2025-11-01/awards-153301.json"
   }
 }
