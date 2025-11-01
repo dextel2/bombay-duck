@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-11-01 11:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to regulation 30 of SEBI (LODR) Regulations 2015, This is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an Agreement with Hitachi Cash Management Services .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 01 Nov 2025 - 11:50 |
 
-_Last updated: 01 Nov 2025 - 12:33 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-01.json)_
+_Last updated: 01 Nov 2025 - 13:33 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-01.json)_
 
 <!-- snapshot:end -->
 
