@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-01",
-  "buckets": {},
+  "buckets": {
+    "2025-11-01T11": [
+      {
+        "newsId": "c3c2f042-525a-4b53-ae10-05cc8d408c16",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to regulation 30 of SEBI (LODR) Regulations 2015, This is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an Agreement with Hitachi Cash Management Services ....",
+        "announcedAt": "2025-11-01T11:50:51.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2025-11-01T11:50:51.75"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-01T11:33:57.157+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-01T12:33:23.287+05:30",
+    "checksum": "55699cd56ad599fe0b73bdd289550d956e20e44712d6873ec05a83a072f0c45b",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-01/awards-113356.json"
+    "rawPayloadPath": "data/raw/2025-11-01/awards-123322.json"
   }
 }
