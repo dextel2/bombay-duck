@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2025-11-03T08:24:01.843"
       }
+    ],
+    "2025-11-03T11": [
+      {
+        "newsId": "078535e2-03ac-455c-aaf1-42c9aa5e8110",
+        "scripCode": 517273,
+        "shortName": "S&S Power Switchgear Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Receipt of order",
+        "announcedAt": "2025-11-03T11:26:22.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
+        "rawTime": "2025-11-03T11:26:22.827"
+      },
+      {
+        "newsId": "1a3e1e8c-04c3-4a32-aa59-ea474bed484c",
+        "scripCode": 517273,
+        "shortName": "S&S Power Switchgear Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Receipt of order",
+        "announcedAt": "2025-11-03T11:24:47.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
+        "rawTime": "2025-11-03T11:24:47.58"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-03T10:34:05.285+05:30",
-    "checksum": "4d44b4fdf46bdc7a71bd3268fb8bb2010aa61e5312fd7297ac0ac2999b81555f",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-03T11:34:38.131+05:30",
+    "checksum": "1223d6378a37c381765fd79abebae0eae89edf59b722a81eff92022b824bc3c8",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-03/awards-103404.json"
+    "rawPayloadPath": "data/raw/2025-11-03/awards-113437.json"
   }
 }
