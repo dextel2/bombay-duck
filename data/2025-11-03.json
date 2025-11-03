@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
         "rawTime": "2025-11-03T11:24:47.58"
       }
+    ],
+    "2025-11-03T12": [
+      {
+        "newsId": "6ddca7ee-52af-4acf-8d23-b451d280819d",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with Regards to Shelter Pharma Secured Order From Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2025-11-03T12:41:09.103+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2025-11-03T12:41:09.103"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-03T12:33:23.105+05:30",
-    "checksum": "1223d6378a37c381765fd79abebae0eae89edf59b722a81eff92022b824bc3c8",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-03T13:34:23.453+05:30",
+    "checksum": "b8576e767fa445edccfd19e5285fe3cd0586687173dc796803e76e9609c0ef23",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-03/awards-123322.json"
+    "rawPayloadPath": "data/raw/2025-11-03/awards-133422.json"
   }
 }
