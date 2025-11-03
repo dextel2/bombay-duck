@@ -18,11 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-02 IST)
+### Today's Awarded Orders (2025-11-03 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-03 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for lab grown cut and polished diamonds amounting to USD 18,00,000 ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 03 Nov 2025 - 08:24 |
 
-_Last updated: 02 Nov 2025 - 15:33 | Entries: 0 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-02.json)_
+_Last updated: 03 Nov 2025 - 08:56 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-03.json)_
 
 <!-- snapshot:end -->
 
