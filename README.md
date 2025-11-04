@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-11-04 11:00 | BMW Ventures Ltd | 544543 | The Company has received an order of INR 9.94 Crore for Fabrication and Supplyof Bow String girders in RDSO approved facility for Indian Railways under steel girder business. ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 04 Nov 2025 - 11:59 |
 
-_Last updated: 04 Nov 2025 - 12:34 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-04.json)_
+_Last updated: 04 Nov 2025 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-04.json)_
 
 <!-- snapshot:end -->
 
