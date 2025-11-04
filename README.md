@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-04 14:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited entered into an agreement with V- Mart Retail Ltd. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 04 Nov 2025 - 14:01 |
 | 2025-11-04 11:00 | BMW Ventures Ltd | 544543 | The Company has received an order of INR 9.94 Crore for Fabrication and Supplyof Bow String girders in RDSO approved facility for Indian Railways under steel girder business. ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 04 Nov 2025 - 11:59 |
 
-_Last updated: 04 Nov 2025 - 14:34 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-04.json)_
+_Last updated: 04 Nov 2025 - 15:34 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-04.json)_
 
 <!-- snapshot:end -->
 
