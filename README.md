@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-03 IST)
+### Today's Awarded Orders (2025-11-04 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-03 13:00 | Tolins Tyres Ltd | 544254 | Receipt of purchase orders from Institute of Road Transport (IRT) ([Link](https://www.bseindia.com/stock-share-price/tolins-tyres-ltd/tolins/544254/)) | Likely Positive | 03 Nov 2025 - 13:53 |
-| 2025-11-03 12:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured Order From Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 03 Nov 2025 - 12:41 |
-| 2025-11-03 11:00 | S&S Power Switchgear Ltd | 517273 | Announcement under Regulation 30 (LODR) - Receipt of order ([Link](https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/)) | Likely Positive | 03 Nov 2025 - 11:26 |
-| 2025-11-03 11:00 | S&S Power Switchgear Ltd | 517273 | Announcement under Regulation 30 (LODR) - Receipt of order ([Link](https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/)) | Likely Positive | 03 Nov 2025 - 11:24 |
-| 2025-11-03 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for lab grown cut and polished diamonds amounting to USD 18,00,000 ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 03 Nov 2025 - 08:24 |
+_No award announcements have been captured yet today._
 
-_Last updated: 03 Nov 2025 - 15:34 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-03.json)_
+_Last updated: 04 Nov 2025 - 08:51 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-04.json)_
 
 <!-- snapshot:end -->
 
