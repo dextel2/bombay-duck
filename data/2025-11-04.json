@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-04",
-  "buckets": {},
+  "buckets": {
+    "2025-11-04T11": [
+      {
+        "newsId": "3e8cf1f0-1c7b-48ba-938c-376237e4aba6",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The Company has received an order of INR 9.94 Crore for Fabrication and Supplyof Bow String girders in RDSO approved facility for Indian Railways under steel girder business.",
+        "announcedAt": "2025-11-04T11:59:42.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2025-11-04T11:59:42.743"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-04T11:34:30.270+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-04T12:34:17.185+05:30",
+    "checksum": "679db15c6160d0146039445642261ab37c2201880c979ebeed232727448562e9",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-04/awards-113429.json"
+    "rawPayloadPath": "data/raw/2025-11-04/awards-123416.json"
   }
 }
