@@ -22,7 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 _No award announcements have been captured yet today._
 
-_Last updated: 05 Nov 2025 - 09:34 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-05.json)_
+_Last updated: 05 Nov 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-05.json)_
 
 <!-- snapshot:end -->
 
