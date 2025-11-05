@@ -49,14 +49,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bajaj-steel-industries-ltd/bajajst/507944/",
         "rawTime": "2025-11-05T13:08:44.76"
       }
+    ],
+    "2025-11-05T15": [
+      {
+        "newsId": "3b38d7e3-a884-4b40-ac14-40bcfab688fd",
+        "scripCode": 544504,
+        "shortName": "Goel Construction Company Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-11-05T15:18:05.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goel-construction-company-ltd/goelcons/544504/",
+        "rawTime": "2025-11-05T15:18:05.01"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-05T14:33:56.630+05:30",
-    "checksum": "892dba6ea199cc077f30c80f87a38481d5eefe97dfb874c24ead21ddead0e9e4",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-05T15:34:01.983+05:30",
+    "checksum": "779083f0bc9a3124ad0f60fb4d004b5681fcdf2a70e9b4a4441023f671a3ed8c",
+    "totalAnnouncements": 6,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-05/awards-143355.json"
+    "rawPayloadPath": "data/raw/2025-11-05/awards-153401.json"
   }
 }
