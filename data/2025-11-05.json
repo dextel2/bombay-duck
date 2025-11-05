@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-11-05",
-  "buckets": {},
+  "buckets": {
+    "2025-11-05T11": [
+      {
+        "newsId": "77ce43de-d300-4e31-841b-0b32093e35c3",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit the disclosure regarding the work order received ....",
+        "announcedAt": "2025-11-05T11:33:45.307+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-11-05T11:33:45.307"
+      },
+      {
+        "newsId": "0e022a58-d7b3-43d2-82dd-fbb9730e1f18",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit the disclosure regarding the work order received ....",
+        "announcedAt": "2025-11-05T11:17:40.623+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-11-05T11:17:40.623"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-05T10:33:52.581+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-05T11:34:29.890+05:30",
+    "checksum": "745c0b5314bbf6f4b315b586462074e0a214355d815e6ecf73df7dfb003def06",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-05/awards-103351.json"
+    "rawPayloadPath": "data/raw/2025-11-05/awards-113429.json"
   }
 }
