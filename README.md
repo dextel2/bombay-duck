@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-05 13:00 | Bajaj Steel Industries Ltd | 507944 | Pursuant ot Regulation 30 of SEBI Listing Regulations, 2015, this is to inform that the Company has received an order valued at approximately INR 7.14 Crores from a domestic client for .... ([Link](https://www.bseindia.com/stock-share-price/bajaj-steel-industries-ltd/bajajst/507944/)) | Likely Positive | 05 Nov 2025 - 13:08 |
 | 2025-11-05 11:00 | MSTC Ltd | 542597 | Nomination of MSTC by Director General of Foreign Trade, Govt. of India for conducting e-auction for Gold Tariff Rate Quota (TRQ) on a single source basis. ([Link](https://www.bseindia.com/stock-share-price/mstc-ltd/mstcltd/542597/)) | Neutral | 05 Nov 2025 - 11:57 |
 | 2025-11-05 11:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit the disclosure regarding the work order received .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 05 Nov 2025 - 11:33 |
 | 2025-11-05 11:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit the disclosure regarding the work order received .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 05 Nov 2025 - 11:17 |
 
-_Last updated: 05 Nov 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-05.json)_
+_Last updated: 05 Nov 2025 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-05.json)_
 
 <!-- snapshot:end -->
 

@@ -29,14 +29,25 @@
         "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
         "rawTime": "2025-11-05T11:17:40.623"
       }
+    ],
+    "2025-11-05T13": [
+      {
+        "newsId": "78d5e956-3c54-4ca3-852c-ac7f6c17c8a7",
+        "scripCode": 507944,
+        "shortName": "Bajaj Steel Industries Ltd",
+        "headline": "Pursuant ot Regulation 30 of SEBI Listing Regulations, 2015, this is to inform that the Company has received an order valued at approximately INR 7.14 Crores from a domestic client for ....",
+        "announcedAt": "2025-11-05T13:08:44.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajaj-steel-industries-ltd/bajajst/507944/",
+        "rawTime": "2025-11-05T13:08:44.76"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-05T12:33:09.707+05:30",
-    "checksum": "27b7cc50767de66a9089ac99298676e35a64eba152ff230491e7c84d9e6313dd",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-05T13:34:26.092+05:30",
+    "checksum": "66d787a0caf7b4b098732c33a4ebddbde02b0af2680a38113c8925de0a275763",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-05/awards-123309.json"
+    "rawPayloadPath": "data/raw/2025-11-05/awards-133425.json"
   }
 }
