@@ -32,6 +32,15 @@
     ],
     "2025-11-05T13": [
       {
+        "newsId": "7b04226b-e79c-4fa6-9beb-36f14de00977",
+        "scripCode": 538919,
+        "shortName": "Skyline Ventures India Ltd",
+        "headline": "Intimation of receipt of Purchase Order from Optimus Ventures Private Limited for an amount of Rs. 1,20,33,577/-.",
+        "announcedAt": "2025-11-05T13:40:37.220+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/skyline-ventures-india-ltd/skilven/538919/",
+        "rawTime": "2025-11-05T13:40:37.22"
+      },
+      {
         "newsId": "78d5e956-3c54-4ca3-852c-ac7f6c17c8a7",
         "scripCode": 507944,
         "shortName": "Bajaj Steel Industries Ltd",
@@ -43,11 +52,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-05T13:34:26.092+05:30",
-    "checksum": "66d787a0caf7b4b098732c33a4ebddbde02b0af2680a38113c8925de0a275763",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-05T14:33:56.630+05:30",
+    "checksum": "892dba6ea199cc077f30c80f87a38481d5eefe97dfb874c24ead21ddead0e9e4",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-05/awards-133425.json"
+    "rawPayloadPath": "data/raw/2025-11-05/awards-143355.json"
   }
 }
