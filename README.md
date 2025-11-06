@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-06 12:00 | SBC Exports Ltd | 542725 | Repeat work order from M/S HUXXE Readymade Garments Trading LLC. a Dubai Based company. ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 06 Nov 2025 - 12:03 |
 | 2025-11-06 11:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured order from Taha drugs & Chemicals Co. Ltd pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 06 Nov 2025 - 11:46 |
 
-_Last updated: 06 Nov 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-06.json)_
+_Last updated: 06 Nov 2025 - 14:34 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-06.json)_
 
 <!-- snapshot:end -->
 
