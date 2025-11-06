@@ -1,12 +1,44 @@
 {
   "tradingDate": "2025-11-06",
-  "buckets": {},
+  "buckets": {
+    "2025-11-06T12": [
+      {
+        "newsId": "cc625b92-4e68-4c51-90f5-ccf212e44c41",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform you that our Company has received LOI from Suzlon Western India Projects Limited amounting to Rs. 1,07,89,040/-",
+        "announcedAt": "2025-11-06T12:22:06.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-11-06T12:22:06.343"
+      },
+      {
+        "newsId": "ad9a4608-3bca-48c2-a024-658e2ebac480",
+        "scripCode": 542725,
+        "shortName": "SBC Exports Ltd",
+        "headline": "Repeat work order from M/S HUXXE Readymade Garments Trading LLC. a Dubai Based company.",
+        "announcedAt": "2025-11-06T12:03:12.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/",
+        "rawTime": "2025-11-06T12:03:12.033"
+      }
+    ],
+    "2025-11-06T11": [
+      {
+        "newsId": "daaac292-cc1b-469e-b620-add3f2832f32",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with Regards to Shelter Pharma Secured order from Taha drugs & Chemicals Co. Ltd pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation, 2015",
+        "announcedAt": "2025-11-06T11:46:28.603+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2025-11-06T11:46:28.603"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-06T11:34:28.429+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-06T12:33:47.713+05:30",
+    "checksum": "472ceb73813d52bb66efd272fd82ff952c0cd22f5e634b9e040abcc19a8710aa",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-06/awards-113428.json"
+    "rawPayloadPath": "data/raw/2025-11-06/awards-123347.json"
   }
 }
