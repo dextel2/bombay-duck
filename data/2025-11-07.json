@@ -29,14 +29,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
         "rawTime": "2025-11-07T10:34:11.533"
       }
+    ],
+    "2025-11-07T14": [
+      {
+        "newsId": "68e740d5-f353-4391-9617-277d1a121f53",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging / Receiving of order for Transportation of Pond Ash",
+        "announcedAt": "2025-11-07T14:10:37.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2025-11-07T14:10:37.88"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-07T13:34:16.379+05:30",
-    "checksum": "0a2acf89145d2260050095d4f94e6c9fcd66e7dc901480235b387286fbaaa149",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-07T14:33:53.536+05:30",
+    "checksum": "fd714e424562ba0d04d390fba183f5f908e65dff5c0f70b95e2f5527ea8363b1",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-07/awards-133415.json"
+    "rawPayloadPath": "data/raw/2025-11-07/awards-143352.json"
   }
 }
