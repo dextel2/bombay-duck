@@ -1,12 +1,42 @@
 {
   "tradingDate": "2025-11-07",
-  "buckets": {},
+  "buckets": {
+    "2025-11-07T10": [
+      {
+        "newsId": "19a6ff8d-0862-48a9-b2bd-d43e88583a9f",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order received",
+        "announcedAt": "2025-11-07T10:55:44.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-11-07T10:55:44.99"
+      },
+      {
+        "newsId": "85beb933-e4e7-43e7-95ce-b0d933bfd9ca",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New order received",
+        "announcedAt": "2025-11-07T10:54:32.947+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-11-07T10:54:32.947"
+      },
+      {
+        "newsId": "d5c1be75-e1d8-4977-b805-9db5797b90c5",
+        "scripCode": 500103,
+        "shortName": "Bharat Heavy Electricals Ltd",
+        "headline": "Receipt of Notification of Award from NTPC Limited",
+        "announcedAt": "2025-11-07T10:34:11.533+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+        "rawTime": "2025-11-07T10:34:11.533"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-07T10:33:55.619+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-07T11:34:23.278+05:30",
+    "checksum": "0a2acf89145d2260050095d4f94e6c9fcd66e7dc901480235b387286fbaaa149",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-07/awards-103355.json"
+    "rawPayloadPath": "data/raw/2025-11-07/awards-113422.json"
   }
 }
