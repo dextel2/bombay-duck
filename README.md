@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-07 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 07 Nov 2025 - 10:54 |
 | 2025-11-07 10:00 | Bharat Heavy Electricals Ltd | 500103 | Receipt of Notification of Award from NTPC Limited ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Likely Positive | 07 Nov 2025 - 10:34 |
 
-_Last updated: 07 Nov 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-07.json)_
+_Last updated: 07 Nov 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-07.json)_
 
 <!-- snapshot:end -->
 
