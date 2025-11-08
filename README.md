@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-11-08 09:00 | Ashoka Buildcon Ltd | 533271 | The Company has received Letter of Acceptance from the North Western Railway, for Ajmer Project, at accepted project price of Rs.539.35 Crore incl. GST. ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 08 Nov 2025 - 09:31 |
 
-_Last updated: 08 Nov 2025 - 09:33 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-08.json)_
+_Last updated: 08 Nov 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-08.json)_
 
 <!-- snapshot:end -->
 
