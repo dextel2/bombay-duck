@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-08",
-  "buckets": {},
+  "buckets": {
+    "2025-11-08T09": [
+      {
+        "newsId": "41df0649-81c5-4748-bf47-731da13c2065",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "The Company has received Letter of Acceptance from the North Western Railway, for Ajmer Project, at accepted project price of Rs.539.35 Crore incl. GST.",
+        "announcedAt": "2025-11-08T09:31:47.170+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2025-11-08T09:31:47.17"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-08T08:47:28.559+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-11-08T09:33:43.461+05:30",
+    "checksum": "1bf2c09345ead343798054da399638682963e6c29522bb8c1b965c1358271c5d",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-08/awards-084728.json"
+    "rawPayloadPath": "data/raw/2025-11-08/awards-093342.json"
   }
 }
