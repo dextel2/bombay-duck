@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
         "rawTime": "2025-11-08T09:31:47.17"
       }
+    ],
+    "2025-11-08T11": [
+      {
+        "newsId": "2a3359ab-8369-4831-9c43-a0af2fb1b39b",
+        "scripCode": 544203,
+        "shortName": "Allied Blenders and Distillers Ltd",
+        "headline": "Update on writ Petition",
+        "announcedAt": "2025-11-08T11:20:14.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/allied-blenders-and-distillers-ltd/abdl/544203/",
+        "rawTime": "2025-11-08T11:20:14.277"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-08T10:33:23.957+05:30",
-    "checksum": "1bf2c09345ead343798054da399638682963e6c29522bb8c1b965c1358271c5d",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-08T11:34:10.476+05:30",
+    "checksum": "3ad4959cc39f5584820cc3a7800efb59f87d82c28166ea44e6262d973e44f60e",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-08/awards-103323.json"
+    "rawPayloadPath": "data/raw/2025-11-08/awards-113409.json"
   }
 }
