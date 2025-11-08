@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-07 IST)
+### Today's Awarded Orders (2025-11-08 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-07 14:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging / Receiving of order for Transportation of Pond Ash ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 07 Nov 2025 - 14:10 |
-| 2025-11-07 10:00 | RailTel Corporation of India Ltd | 543265 | New Order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 07 Nov 2025 - 10:55 |
-| 2025-11-07 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 07 Nov 2025 - 10:54 |
-| 2025-11-07 10:00 | Bharat Heavy Electricals Ltd | 500103 | Receipt of Notification of Award from NTPC Limited ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Likely Positive | 07 Nov 2025 - 10:34 |
+_No award announcements have been captured yet today._
 
-_Last updated: 07 Nov 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-07.json)_
+_Last updated: 08 Nov 2025 - 08:47 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-08.json)_
 
 <!-- snapshot:end -->
 
