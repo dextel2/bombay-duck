@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-08 IST)
+### Today's Awarded Orders (2025-11-09 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-08 11:00 | Allied Blenders and Distillers Ltd | 544203 | Update on writ Petition ([Link](https://www.bseindia.com/stock-share-price/allied-blenders-and-distillers-ltd/abdl/544203/)) | Neutral | 08 Nov 2025 - 11:20 |
-| 2025-11-08 09:00 | Ashoka Buildcon Ltd | 533271 | The Company has received Letter of Acceptance from the North Western Railway, for Ajmer Project, at accepted project price of Rs.539.35 Crore incl. GST. ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 08 Nov 2025 - 09:31 |
+_No award announcements have been captured yet today._
 
-_Last updated: 08 Nov 2025 - 15:33 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-08.json)_
+_Last updated: 09 Nov 2025 - 08:52 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-09.json)_
 
 <!-- snapshot:end -->
 
