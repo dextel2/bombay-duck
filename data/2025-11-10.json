@@ -22,14 +22,43 @@
         "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
         "rawTime": "2025-11-10T12:15:59.857"
       }
+    ],
+    "2025-11-10T14": [
+      {
+        "newsId": "cdd6fb2a-5919-4bfa-ae43-fc1e2c837f0b",
+        "scripCode": 543367,
+        "shortName": "Paras Defence and Space Technologies Ltd",
+        "headline": "We are pleased to inform that Paras Anti-Drone Technologies Private Limited (\"Paras Anti-Drone\"), a subsidiary of Paras Defence and Space Technologies Limited (\"PARAS\"), has received an ....",
+        "announcedAt": "2025-11-10T14:23:13.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
+        "rawTime": "2025-11-10T14:23:13.14"
+      },
+      {
+        "newsId": "f0d92888-364f-4ed5-84a0-deb8b0ede5d5",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "Intimation of GETCO Order",
+        "announcedAt": "2025-11-10T14:20:21.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2025-11-10T14:20:21.68"
+      },
+      {
+        "newsId": "ee6df51a-3695-42e1-adae-f2d182c75952",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.2.56 Cr",
+        "announcedAt": "2025-11-10T14:10:45.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2025-11-10T14:10:45.023"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-10T13:34:20.172+05:30",
-    "checksum": "1370e7d601907fb4e5ffee7958baa94fb89db2ee7d0151cd482942fe5d7d40f8",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-10T14:34:10.246+05:30",
+    "checksum": "17f7cce5553c8ce871d2f3b4926ec46446d2cae65f3dc778c48377adf45e2b6e",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-10/awards-133419.json"
+    "rawPayloadPath": "data/raw/2025-11-10/awards-143409.json"
   }
 }

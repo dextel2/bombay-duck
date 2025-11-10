@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-10 14:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Anti-Drone Technologies Private Limited ("Paras Anti-Drone"), a subsidiary of Paras Defence and Space Technologies Limited ("PARAS"), has received an .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Neutral | 10 Nov 2025 - 14:23 |
+| 2025-11-10 14:00 | Transformers and Rectifiers (India) Ltd | 532928 | Intimation of GETCO Order ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 10 Nov 2025 - 14:20 |
+| 2025-11-10 14:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.2.56 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 10 Nov 2025 - 14:10 |
 | 2025-11-10 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 read with Schedule III of Securities and Exchange Board of India( Listing Obligations and Disclosure Requirements) Regulations, 2015 - Intimation of order .... ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 10 Nov 2025 - 12:15 |
 | 2025-11-10 11:00 | Valiant Communications Ltd-$ | 526775 | As attached ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 10 Nov 2025 - 11:12 |
 
-_Last updated: 10 Nov 2025 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-10.json)_
+_Last updated: 10 Nov 2025 - 14:34 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-10.json)_
 
 <!-- snapshot:end -->
 
