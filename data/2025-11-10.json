@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
         "rawTime": "2025-11-10T11:12:59.87"
       }
+    ],
+    "2025-11-10T12": [
+      {
+        "newsId": "a2b22dd3-5684-47e2-a6ab-39c9f930b626",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Disclosure under Regulation 30 read with Schedule III of Securities and Exchange Board of India( Listing Obligations and Disclosure Requirements) Regulations, 2015 - Intimation of order ....",
+        "announcedAt": "2025-11-10T12:15:59.857+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2025-11-10T12:15:59.857"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-10T11:34:31.648+05:30",
-    "checksum": "44329d9191483e262f84da9e4d8615d28b4301ac98a6fbf3ee891be514a502c4",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-10T12:33:52.232+05:30",
+    "checksum": "1370e7d601907fb4e5ffee7958baa94fb89db2ee7d0151cd482942fe5d7d40f8",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-10/awards-113431.json"
+    "rawPayloadPath": "data/raw/2025-11-10/awards-123351.json"
   }
 }

@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-10 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 read with Schedule III of Securities and Exchange Board of India( Listing Obligations and Disclosure Requirements) Regulations, 2015 - Intimation of order .... ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 10 Nov 2025 - 12:15 |
 | 2025-11-10 11:00 | Valiant Communications Ltd-$ | 526775 | As attached ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 10 Nov 2025 - 11:12 |
 
-_Last updated: 10 Nov 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-10.json)_
+_Last updated: 10 Nov 2025 - 12:33 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-10.json)_
 
 <!-- snapshot:end -->
 
