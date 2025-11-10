@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-10",
-  "buckets": {},
+  "buckets": {
+    "2025-11-10T11": [
+      {
+        "newsId": "b8cf7894-8d4b-43e7-9f3c-5a4ceeae0844",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "As attached",
+        "announcedAt": "2025-11-10T11:12:59.870+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2025-11-10T11:12:59.87"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-10T10:34:11.961+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-10T11:34:31.648+05:30",
+    "checksum": "44329d9191483e262f84da9e4d8615d28b4301ac98a6fbf3ee891be514a502c4",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-10/awards-103411.json"
+    "rawPayloadPath": "data/raw/2025-11-10/awards-113431.json"
   }
 }
