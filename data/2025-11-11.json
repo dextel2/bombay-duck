@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bartronics-india-ltd/asms/532694/",
         "rawTime": "2025-11-11T12:06:48.407"
       }
+    ],
+    "2025-11-11T14": [
+      {
+        "newsId": "6e12315c-825a-48fe-885c-bc58e7fea495",
+        "scripCode": 522101,
+        "shortName": "Kilburn Engineering Ltd",
+        "headline": "We submit herewith details for orders amounting to Rs. 8787 lakhs, bagged by the Company, since previous announcement dated 30th July, 2025. The Orders received are in ordinary course of business.",
+        "announcedAt": "2025-11-11T14:16:01.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/",
+        "rawTime": "2025-11-11T14:16:01.85"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-11T13:34:09.271+05:30",
-    "checksum": "c9e2aef12a9a4f1167081fa93e787d5621f15af864568203dc0fa60ce8530766",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-11T14:34:05.005+05:30",
+    "checksum": "b3c1a819f99ee49a50fad33f454e4152cf438fde1164cc28e1818a78fd3bcea3",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-11/awards-133408.json"
+    "rawPayloadPath": "data/raw/2025-11-11/awards-143402.json"
   }
 }
