@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-11 12:00 | Bartronics India Ltd | 532694 | Please find the enclosed Disclosure ([Link](https://www.bseindia.com/stock-share-price/bartronics-india-ltd/asms/532694/)) | Neutral | 11 Nov 2025 - 12:06 |
 | 2025-11-11 10:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Defence and Space Technologies Limited ("PARAS"), has received an order from Ministry of Defence, Government of India valued at approximately RS. 35.68 .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 11 Nov 2025 - 10:58 |
 
-_Last updated: 11 Nov 2025 - 14:34 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-11.json)_
+_Last updated: 11 Nov 2025 - 15:34 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-11.json)_
 
 <!-- snapshot:end -->
 
