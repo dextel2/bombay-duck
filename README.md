@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-10 IST)
+### Today's Awarded Orders (2025-11-11 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-10 14:00 | Conart Engineers Ltd-$ | 522231 | In accordance with the Regulation 30 of SEBI (LODR) Reg 2015, we would like to inform that the Company has received an order for Rs.21.67 Crores (Basic Value) from Styrenix Limited, Vadodara .... ([Link](https://www.bseindia.com/stock-share-price/conart-engineers-ltd/conart/522231/)) | Likely Positive | 10 Nov 2025 - 14:48 |
-| 2025-11-10 14:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.792 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 10 Nov 2025 - 14:42 |
-| 2025-11-10 14:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Anti-Drone Technologies Private Limited ("Paras Anti-Drone"), a subsidiary of Paras Defence and Space Technologies Limited ("PARAS"), has received an .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Neutral | 10 Nov 2025 - 14:23 |
-| 2025-11-10 14:00 | Transformers and Rectifiers (India) Ltd | 532928 | Intimation of GETCO Order ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 10 Nov 2025 - 14:20 |
-| 2025-11-10 14:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.2.56 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 10 Nov 2025 - 14:10 |
-| 2025-11-10 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 read with Schedule III of Securities and Exchange Board of India( Listing Obligations and Disclosure Requirements) Regulations, 2015 - Intimation of order .... ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 10 Nov 2025 - 12:15 |
-| 2025-11-10 11:00 | Valiant Communications Ltd-$ | 526775 | As attached ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 10 Nov 2025 - 11:12 |
+_No award announcements have been captured yet today._
 
-_Last updated: 10 Nov 2025 - 15:34 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-10.json)_
+_Last updated: 11 Nov 2025 - 08:53 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-11.json)_
 
 <!-- snapshot:end -->
 
