@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
         "rawTime": "2025-11-11T10:58:45.067"
       }
+    ],
+    "2025-11-11T12": [
+      {
+        "newsId": "9d7b5611-dd27-4a93-84ea-f23529a35b85",
+        "scripCode": 532694,
+        "shortName": "Bartronics India Ltd",
+        "headline": "Please find the enclosed Disclosure",
+        "announcedAt": "2025-11-11T12:06:48.407+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bartronics-india-ltd/asms/532694/",
+        "rawTime": "2025-11-11T12:06:48.407"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-11T11:34:30.506+05:30",
-    "checksum": "43ea292020deda1ec6e9b3affd04cf5c3537efae149b63e4b6b54a9d3ec56fe0",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-11T12:33:35.374+05:30",
+    "checksum": "c9e2aef12a9a4f1167081fa93e787d5621f15af864568203dc0fa60ce8530766",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-11/awards-113429.json"
+    "rawPayloadPath": "data/raw/2025-11-11/awards-123334.json"
   }
 }
