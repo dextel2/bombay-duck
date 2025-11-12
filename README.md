@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-12 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-12 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Settlement .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 12 Nov 2025 - 13:31 |
+| 2025-11-12 13:00 | MTAR Technologies Ltd | 543270 | Bagging of order worth Rs. 271.75 Crores. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 12 Nov 2025 - 13:21 |
 
-_Last updated: 12 Nov 2025 - 12:33 | Entries: 0 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-12.json)_
+_Last updated: 12 Nov 2025 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-12.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-11-12",
-  "buckets": {},
+  "buckets": {
+    "2025-11-12T13": [
+      {
+        "newsId": "1a0b8fc2-7dd0-44d5-a61f-705b1a708a1d",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Settlement ....",
+        "announcedAt": "2025-11-12T13:31:51.513+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-11-12T13:31:51.513"
+      },
+      {
+        "newsId": "e0fba6ce-6e06-4ea8-aef3-51a984160ec4",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Bagging of order worth Rs. 271.75 Crores.",
+        "announcedAt": "2025-11-12T13:21:30.080+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2025-11-12T13:21:30.08"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-12T12:33:23.702+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-12T13:34:19.557+05:30",
+    "checksum": "056d51e906ed676657ee602543f83e084163810b422ace65f7b96214b1c3ec4a",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-12/awards-123322.json"
+    "rawPayloadPath": "data/raw/2025-11-12/awards-133419.json"
   }
 }
