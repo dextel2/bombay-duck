@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-13",
-  "buckets": {},
+  "buckets": {
+    "2025-11-13T14": [
+      {
+        "newsId": "0cdffcc1-54d4-448a-b510-6c68ae0c6e9a",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond Ash",
+        "announcedAt": "2025-11-13T14:41:39.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2025-11-13T14:41:39.827"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-13T14:34:03.966+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-13T15:33:45.006+05:30",
+    "checksum": "79c60819cb405d21a80cb8aefae66da9e957a349d1e6eb17dded9c5afeeb2635",
+    "totalAnnouncements": 1,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-13/awards-143403.json"
+    "rawPayloadPath": "data/raw/2025-11-13/awards-153344.json"
   }
 }
