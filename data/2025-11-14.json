@@ -14,6 +14,15 @@
     ],
     "2025-11-14T12": [
       {
+        "newsId": "19aff8bc-ab23-42b2-9f8d-49b6d87a59cf",
+        "scripCode": 544124,
+        "shortName": "Vibhor Steel Tubes Ltd",
+        "headline": "Please find Attached",
+        "announcedAt": "2025-11-14T12:40:19.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/",
+        "rawTime": "2025-11-14T12:40:19.13"
+      },
+      {
         "newsId": "abb6c19f-2beb-4c73-b5e6-884ef61f5519",
         "scripCode": 500049,
         "shortName": "Bharat Electronics Ltd",
@@ -31,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
         "rawTime": "2025-11-14T12:05:52.09"
       }
+    ],
+    "2025-11-14T13": [
+      {
+        "newsId": "43bf47b6-cb8e-43af-b11d-3a694e0e2a7f",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of Letter of Award for 100MWAC Solar EPC with land package from MAHAGENCO.",
+        "announcedAt": "2025-11-14T13:14:18.600+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2025-11-14T13:14:18.6"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-14T12:33:23.333+05:30",
-    "checksum": "cf40ecdc4d8a2e006323c3850a536677f64dd6279247832b9ca18695192d3657",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-14T13:34:15.161+05:30",
+    "checksum": "348ca940011eedfb5187285805cf7631df320c6893339c2e2b5e56ecdfb2fa8c",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-14/awards-123322.json"
+    "rawPayloadPath": "data/raw/2025-11-14/awards-133414.json"
   }
 }

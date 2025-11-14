@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-14 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Letter of Award for 100MWAC Solar EPC with land package from MAHAGENCO. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 14 Nov 2025 - 13:14 |
+| 2025-11-14 12:00 | Vibhor Steel Tubes Ltd | 544124 | Please find Attached ([Link](https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/)) | Neutral | 14 Nov 2025 - 12:40 |
 | 2025-11-14 12:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.871 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 14 Nov 2025 - 12:32 |
 | 2025-11-14 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI(LODR) Regulations, 2015 - Bagging of order for transportation of pond/fly ash. ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 14 Nov 2025 - 12:05 |
 | 2025-11-14 10:00 | ITCONS E-Solutions Ltd | 543806 | Intimation of award of new contract. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Nov 2025 - 10:47 |
 
-_Last updated: 14 Nov 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-14.json)_
+_Last updated: 14 Nov 2025 - 13:34 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-14.json)_
 
 <!-- snapshot:end -->
 
