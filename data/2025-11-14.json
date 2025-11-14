@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2025-11-14T10:47:42.733"
       }
+    ],
+    "2025-11-14T12": [
+      {
+        "newsId": "abb6c19f-2beb-4c73-b5e6-884ef61f5519",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.871 Crore.",
+        "announcedAt": "2025-11-14T12:32:36.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2025-11-14T12:32:36.53"
+      },
+      {
+        "newsId": "3faccefc-e6f8-45a0-8383-da2658d292e7",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI(LODR) Regulations, 2015 - Bagging of order for transportation of pond/fly ash.",
+        "announcedAt": "2025-11-14T12:05:52.090+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2025-11-14T12:05:52.09"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-14T11:34:18.812+05:30",
-    "checksum": "7b3c8210aae333e67c167503170d603147a266f9c1747e8ddd0238f7257c7270",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-14T12:33:23.333+05:30",
+    "checksum": "cf40ecdc4d8a2e006323c3850a536677f64dd6279247832b9ca18695192d3657",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-14/awards-113417.json"
+    "rawPayloadPath": "data/raw/2025-11-14/awards-123322.json"
   }
 }
