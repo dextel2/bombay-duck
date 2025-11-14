@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-14 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI(LODR) Regulations, 2015 - Bagging of order for transportation of pond/fly ash. ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 14 Nov 2025 - 12:05 |
 | 2025-11-14 10:00 | ITCONS E-Solutions Ltd | 543806 | Intimation of award of new contract. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Nov 2025 - 10:47 |
 
-_Last updated: 14 Nov 2025 - 14:33 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-14.json)_
+_Last updated: 14 Nov 2025 - 15:33 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-14.json)_
 
 <!-- snapshot:end -->
 
