@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-14 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-14 10:00 | ITCONS E-Solutions Ltd | 543806 | Intimation of award of new contract. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Nov 2025 - 10:47 |
 
-_Last updated: 14 Nov 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-14.json)_
+_Last updated: 14 Nov 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-14.json)_
 
 <!-- snapshot:end -->
 

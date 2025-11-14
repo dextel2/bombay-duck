@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-14",
-  "buckets": {},
+  "buckets": {
+    "2025-11-14T10": [
+      {
+        "newsId": "74a73425-fe2c-4b26-813d-ad003d784b75",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "Intimation of award of new contract.",
+        "announcedAt": "2025-11-14T10:47:42.733+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2025-11-14T10:47:42.733"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-14T10:33:42.268+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-14T11:34:18.812+05:30",
+    "checksum": "7b3c8210aae333e67c167503170d603147a266f9c1747e8ddd0238f7257c7270",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-14/awards-103341.json"
+    "rawPayloadPath": "data/raw/2025-11-14/awards-113417.json"
   }
 }
