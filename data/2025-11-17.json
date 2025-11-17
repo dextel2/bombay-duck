@@ -60,14 +60,34 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2025-11-17T13:17:40.32"
       }
+    ],
+    "2025-11-17T15": [
+      {
+        "newsId": "23ec8f8b-d9c2-4203-acf6-e5f31d04faa2",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Receipt of order.",
+        "announcedAt": "2025-11-17T15:12:01.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2025-11-17T15:12:01.677"
+      },
+      {
+        "newsId": "955088f4-22c3-45a6-9cdd-87b9fbd1e914",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Intimation under regulation 30 of SEBI LODR, 2015",
+        "announcedAt": "2025-11-17T15:08:27.783+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2025-11-17T15:08:27.783"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-17T14:34:51.358+05:30",
-    "checksum": "65092055d351e8377cfb38f4458a9bf148bef1ffb9dfaf98d96f436d6820fe6d",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-17T15:34:18.154+05:30",
+    "checksum": "ce8115d7995d5f28657fecdca7fba159546551cb9e63bb47fae10f7ad11a31d9",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-17/awards-143450.json"
+    "rawPayloadPath": "data/raw/2025-11-17/awards-153417.json"
   }
 }
