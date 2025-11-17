@@ -34,6 +34,15 @@
     ],
     "2025-11-17T13": [
       {
+        "newsId": "558b68d9-fdf9-4d8e-942f-9826af898e72",
+        "scripCode": 540005,
+        "shortName": "LTIMindtree Ltd",
+        "headline": "Intimation attached",
+        "announcedAt": "2025-11-17T13:55:31.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
+        "rawTime": "2025-11-17T13:55:31.26"
+      },
+      {
         "newsId": "d772f15f-b109-4bcd-9d05-33da3d217f04",
         "scripCode": 544291,
         "shortName": "Rajesh Power Services Ltd",
@@ -54,11 +63,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-17T13:34:21.770+05:30",
-    "checksum": "5b1f1d5baff6324fab892aba5dafbfba07ba44da7d55ef90bbd0fb5502e83b0f",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-17T14:34:51.358+05:30",
+    "checksum": "65092055d351e8377cfb38f4458a9bf148bef1ffb9dfaf98d96f436d6820fe6d",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-17/awards-133421.json"
+    "rawPayloadPath": "data/raw/2025-11-17/awards-143450.json"
   }
 }
