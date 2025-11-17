@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-17",
-  "buckets": {},
+  "buckets": {
+    "2025-11-17T11": [
+      {
+        "newsId": "5451ba3a-d37a-4684-b2de-92589f258298",
+        "scripCode": 543367,
+        "shortName": "Paras Defence and Space Technologies Ltd",
+        "headline": "We are pleased to inform that Paras Defence and Space Technologies Limited (\"PARAS\"). has received an order from IRDE-DRDO, Ministry of Defence, Government of India valued at approximately ....",
+        "announcedAt": "2025-11-17T11:10:37.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
+        "rawTime": "2025-11-17T11:10:37.48"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-17T10:33:49.310+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-17T11:34:59.777+05:30",
+    "checksum": "5b9c6d0a5556cac289b1e3b9c0eaf277556020d23f7117a357b704b306439e47",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-17/awards-103348.json"
+    "rawPayloadPath": "data/raw/2025-11-17/awards-113459.json"
   }
 }
