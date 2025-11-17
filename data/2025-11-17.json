@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
         "rawTime": "2025-11-17T12:19:23.097"
       }
+    ],
+    "2025-11-17T13": [
+      {
+        "newsId": "d772f15f-b109-4bcd-9d05-33da3d217f04",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Announcement under Regulation 30(LODR),2015 for orders received from Gujarat Energy Transmission Corporation Limited (GETCO) and East Central Railway.",
+        "announcedAt": "2025-11-17T13:24:41.293+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2025-11-17T13:24:41.293"
+      },
+      {
+        "newsId": "eced575a-0828-4b68-8d95-63a3779f262e",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,016 crores secured by the Company. All the Orders mentioned in the enclosed press release have ....",
+        "announcedAt": "2025-11-17T13:17:40.320+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2025-11-17T13:17:40.32"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-17T12:33:56.536+05:30",
-    "checksum": "8cd9632a79765b0f9b83a50111f08d6e94d168335f67a7386bbe2e983dd80985",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-17T13:34:21.770+05:30",
+    "checksum": "5b1f1d5baff6324fab892aba5dafbfba07ba44da7d55ef90bbd0fb5502e83b0f",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-17/awards-123355.json"
+    "rawPayloadPath": "data/raw/2025-11-17/awards-133421.json"
   }
 }

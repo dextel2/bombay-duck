@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-17 13:00 | Rajesh Power Services Ltd | 544291 | Announcement under Regulation 30(LODR),2015 for orders received from Gujarat Energy Transmission Corporation Limited (GETCO) and East Central Railway. ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Nov 2025 - 13:24 |
+| 2025-11-17 13:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,016 crores secured by the Company. All the Orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 17 Nov 2025 - 13:17 |
 | 2025-11-17 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, intimation of order received- Afcons Infrastructure .... ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 17 Nov 2025 - 12:19 |
 | 2025-11-17 11:00 | Loyal Equipments Ltd | 539227 | Loyal Equipments Limited has informed BSE about the receipt of purchase order from Indian Oil Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/loyal-equipments-ltd/loyal/539227/)) | Likely Positive | 17 Nov 2025 - 11:44 |
 | 2025-11-17 11:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Defence and Space Technologies Limited ("PARAS"). has received an order from IRDE-DRDO, Ministry of Defence, Government of India valued at approximately .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 17 Nov 2025 - 11:10 |
 
-_Last updated: 17 Nov 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-17.json)_
+_Last updated: 17 Nov 2025 - 13:34 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-17.json)_
 
 <!-- snapshot:end -->
 
