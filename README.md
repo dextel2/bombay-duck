@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-17 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, intimation of order received- Afcons Infrastructure .... ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 17 Nov 2025 - 12:19 |
+| 2025-11-17 11:00 | Loyal Equipments Ltd | 539227 | Loyal Equipments Limited has informed BSE about the receipt of purchase order from Indian Oil Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/loyal-equipments-ltd/loyal/539227/)) | Likely Positive | 17 Nov 2025 - 11:44 |
 | 2025-11-17 11:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that Paras Defence and Space Technologies Limited ("PARAS"). has received an order from IRDE-DRDO, Ministry of Defence, Government of India valued at approximately .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 17 Nov 2025 - 11:10 |
 
-_Last updated: 17 Nov 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-17.json)_
+_Last updated: 17 Nov 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-17.json)_
 
 <!-- snapshot:end -->
 

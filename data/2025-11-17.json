@@ -3,6 +3,15 @@
   "buckets": {
     "2025-11-17T11": [
       {
+        "newsId": "d77fc9f8-730b-4ed5-882e-674a9f445186",
+        "scripCode": 539227,
+        "shortName": "Loyal Equipments Ltd",
+        "headline": "Loyal Equipments Limited has informed BSE about the receipt of purchase order from Indian Oil Corporation Limited.",
+        "announcedAt": "2025-11-17T11:44:56.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/loyal-equipments-ltd/loyal/539227/",
+        "rawTime": "2025-11-17T11:44:56.64"
+      },
+      {
         "newsId": "5451ba3a-d37a-4684-b2de-92589f258298",
         "scripCode": 543367,
         "shortName": "Paras Defence and Space Technologies Ltd",
@@ -11,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
         "rawTime": "2025-11-17T11:10:37.48"
       }
+    ],
+    "2025-11-17T12": [
+      {
+        "newsId": "6e6a4cb1-4b26-41e8-bfee-abed7d1b6171",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, intimation of order received- Afcons Infrastructure ....",
+        "announcedAt": "2025-11-17T12:19:23.097+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2025-11-17T12:19:23.097"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-17T11:34:59.777+05:30",
-    "checksum": "5b9c6d0a5556cac289b1e3b9c0eaf277556020d23f7117a357b704b306439e47",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-17T12:33:56.536+05:30",
+    "checksum": "8cd9632a79765b0f9b83a50111f08d6e94d168335f67a7386bbe2e983dd80985",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-17/awards-113459.json"
+    "rawPayloadPath": "data/raw/2025-11-17/awards-123355.json"
   }
 }
