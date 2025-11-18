@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-18 12:00 | Solar Industries India Ltd | 532725 | Intimation for receipt of export order of INR 1400 Crores. ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 18 Nov 2025 - 12:51 |
 | 2025-11-18 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities & Exchange Board of India (Listing Obligations & Disclosures Requirements) Regulations, 2015 - Intimation of Order received - Reliance Industries Limited ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 18 Nov 2025 - 12:23 |
 | 2025-11-18 10:00 | Newgen Software Technologies Ltd | 540900 | Disclosure of Material Order GBP 1,468,804 is attached. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 18 Nov 2025 - 10:22 |
 
-_Last updated: 18 Nov 2025 - 12:33 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-18.json)_
+_Last updated: 18 Nov 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-18.json)_
 
 <!-- snapshot:end -->
 

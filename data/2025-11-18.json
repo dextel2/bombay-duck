@@ -14,6 +14,15 @@
     ],
     "2025-11-18T12": [
       {
+        "newsId": "937f97a4-d36b-4cda-8942-82f53b377aba",
+        "scripCode": 532725,
+        "shortName": "Solar Industries India Ltd",
+        "headline": "Intimation for receipt of export order of INR 1400 Crores.",
+        "announcedAt": "2025-11-18T12:51:32.387+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/",
+        "rawTime": "2025-11-18T12:51:32.387"
+      },
+      {
         "newsId": "f6ef9e91-ffb8-4cbd-98cf-4a3d87e6e686",
         "scripCode": 531279,
         "shortName": "Trishakti Industries Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-18T12:33:54.030+05:30",
-    "checksum": "d726c658f1d9eb9db1f3a7860bb8aacbad2abbfef881c9be78f0d9ff5034a91f",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-18T13:34:17.949+05:30",
+    "checksum": "42ea5b2e910b3ef1de168947b956a0e08b934ce49b367e72daaaa34c6cc9fbe5",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-18/awards-123353.json"
+    "rawPayloadPath": "data/raw/2025-11-18/awards-133417.json"
   }
 }
