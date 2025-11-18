@@ -31,14 +31,45 @@
         "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
         "rawTime": "2025-11-18T12:23:40.58"
       }
+    ],
+    "2025-11-18T15": [
+      {
+        "newsId": "87603f59-3fe3-450e-887c-960869c1cdc5",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra ....",
+        "announcedAt": "2025-11-18T15:33:55.137+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-11-18T15:33:55.137"
+      }
+    ],
+    "2025-11-18T14": [
+      {
+        "newsId": "238e01b7-51ae-4e3c-a383-be452c14c973",
+        "scripCode": 531637,
+        "shortName": "Praveg Ltd",
+        "headline": "In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Award (LoA) dated ....",
+        "announcedAt": "2025-11-18T14:51:40.113+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/",
+        "rawTime": "2025-11-18T14:51:40.113"
+      },
+      {
+        "newsId": "4f951a9f-4d8d-4f49-8742-b4a537b437af",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The company has secured an order worth INR 4.53 Crore for the supply, fabrication and coating of structural steel (Pre Engineered Building) for a leading Oil and Gas PSU in the PEB Manufacturing ....",
+        "announcedAt": "2025-11-18T14:47:52.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2025-11-18T14:47:52.92"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-18T14:33:34.821+05:30",
-    "checksum": "42ea5b2e910b3ef1de168947b956a0e08b934ce49b367e72daaaa34c6cc9fbe5",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-18T15:34:02.442+05:30",
+    "checksum": "74064067f46df54a450e26ffa502ddb97ab712f5c7f10ab38f74d93adfaa7e2a",
+    "totalAnnouncements": 6,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-18/awards-143334.json"
+    "rawPayloadPath": "data/raw/2025-11-18/awards-153401.json"
   }
 }
