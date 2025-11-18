@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
         "rawTime": "2025-11-18T10:22:00.12"
       }
+    ],
+    "2025-11-18T12": [
+      {
+        "newsId": "f6ef9e91-ffb8-4cbd-98cf-4a3d87e6e686",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of Securities & Exchange Board of India (Listing Obligations & Disclosures Requirements) Regulations, 2015 - Intimation of Order received - Reliance Industries Limited",
+        "announcedAt": "2025-11-18T12:23:40.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2025-11-18T12:23:40.58"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-18T11:34:20.857+05:30",
-    "checksum": "a40e2bc40ba3078504c451d6be99a1c7a28656690b7e92158f2cc7c1f3bc101e",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-18T12:33:54.030+05:30",
+    "checksum": "d726c658f1d9eb9db1f3a7860bb8aacbad2abbfef881c9be78f0d9ff5034a91f",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-18/awards-113420.json"
+    "rawPayloadPath": "data/raw/2025-11-18/awards-123353.json"
   }
 }
