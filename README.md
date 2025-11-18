@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-18 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-18 10:00 | Newgen Software Technologies Ltd | 540900 | Disclosure of Material Order GBP 1,468,804 is attached. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 18 Nov 2025 - 10:22 |
 
-_Last updated: 18 Nov 2025 - 09:34 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-18.json)_
+_Last updated: 18 Nov 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-18.json)_
 
 <!-- snapshot:end -->
 
