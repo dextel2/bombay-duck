@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
         "rawTime": "2025-11-19T10:17:47.43"
       }
+    ],
+    "2025-11-19T13": [
+      {
+        "newsId": "10da4212-f0d5-4dc0-8ee5-bcecaca0e848",
+        "scripCode": 543619,
+        "shortName": "Concord Control Systems Ltd",
+        "headline": "Disclosure as per regulation 30 of SEBI (LODR), 2015",
+        "announcedAt": "2025-11-19T13:24:25.893+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
+        "rawTime": "2025-11-19T13:24:25.893"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-19T12:33:53.189+05:30",
-    "checksum": "eedb7620840d9266efddfa4a21d913dcf6dd5defded39f3cbdc5b1ff875bf5de",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-19T13:34:09.418+05:30",
+    "checksum": "0bde3d74b674984950c35e9d088803d76c3c6049ef04932265705772573f5607",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-19/awards-123352.json"
+    "rawPayloadPath": "data/raw/2025-11-19/awards-133408.json"
   }
 }
