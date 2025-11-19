@@ -18,18 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-18 IST)
+### Today's Awarded Orders (2025-11-19 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-18 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 18 Nov 2025 - 15:33 |
-| 2025-11-18 14:00 | Praveg Ltd | 531637 | In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Award (LoA) dated .... ([Link](https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/)) | Neutral | 18 Nov 2025 - 14:51 |
-| 2025-11-18 14:00 | BMW Ventures Ltd | 544543 | The company has secured an order worth INR 4.53 Crore for the supply, fabrication and coating of structural steel (Pre Engineered Building) for a leading Oil and Gas PSU in the PEB Manufacturing .... ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 18 Nov 2025 - 14:47 |
-| 2025-11-18 12:00 | Solar Industries India Ltd | 532725 | Intimation for receipt of export order of INR 1400 Crores. ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 18 Nov 2025 - 12:51 |
-| 2025-11-18 12:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities & Exchange Board of India (Listing Obligations & Disclosures Requirements) Regulations, 2015 - Intimation of Order received - Reliance Industries Limited ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 18 Nov 2025 - 12:23 |
-| 2025-11-18 10:00 | Newgen Software Technologies Ltd | 540900 | Disclosure of Material Order GBP 1,468,804 is attached. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 18 Nov 2025 - 10:22 |
+_No award announcements have been captured yet today._
 
-_Last updated: 18 Nov 2025 - 15:34 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-18.json)_
+_Last updated: 19 Nov 2025 - 08:52 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-19.json)_
 
 <!-- snapshot:end -->
 
