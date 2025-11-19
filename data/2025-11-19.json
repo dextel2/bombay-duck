@@ -14,6 +14,15 @@
     ],
     "2025-11-19T10": [
       {
+        "newsId": "7361019a-f599-4c65-9ce2-669e8102fb66",
+        "scripCode": 544203,
+        "shortName": "Allied Blenders and Distillers Ltd",
+        "headline": "Update on Writ Petition",
+        "announcedAt": "2025-11-19T10:38:09.857+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/allied-blenders-and-distillers-ltd/abdl/544203/",
+        "rawTime": "2025-11-19T10:38:09.857"
+      },
+      {
         "newsId": "00d007dc-8387-4a7d-8fa6-0e317a29400f",
         "scripCode": 543273,
         "shortName": "Knowledge Marine & Engineering Works Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-19T10:33:42.257+05:30",
-    "checksum": "18c50935893a7a33e58c98da45b9a6d504576ba7be316de5629a4a442f2a0382",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-19T11:34:14.886+05:30",
+    "checksum": "eedb7620840d9266efddfa4a21d913dcf6dd5defded39f3cbdc5b1ff875bf5de",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-19/awards-103341.json"
+    "rawPayloadPath": "data/raw/2025-11-19/awards-113414.json"
   }
 }
