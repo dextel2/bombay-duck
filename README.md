@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-19 10:00 | Knowledge Marine & Engineering Works Ltd | 543273 | KMEW has received a Letter of Award from Visakhapatnam Port Authority for "Manning, Operation, Maintenance and complete Technical Management of contractor owned 01 No. ASTDS-GTTP Tug" for .... ([Link](https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/)) | Likely Positive | 19 Nov 2025 - 10:17 |
 | 2025-11-19 09:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Work Order from Maharashtra Remote Sensing Application Centre (MRSAC) ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Likely Positive | 19 Nov 2025 - 09:20 |
 
-_Last updated: 19 Nov 2025 - 11:34 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-19.json)_
+_Last updated: 19 Nov 2025 - 12:33 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-19.json)_
 
 <!-- snapshot:end -->
 
