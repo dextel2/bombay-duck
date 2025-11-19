@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/",
         "rawTime": "2025-11-19T09:20:11.043"
       }
+    ],
+    "2025-11-19T10": [
+      {
+        "newsId": "00d007dc-8387-4a7d-8fa6-0e317a29400f",
+        "scripCode": 543273,
+        "shortName": "Knowledge Marine & Engineering Works Ltd",
+        "headline": "KMEW has received a Letter of Award from Visakhapatnam Port Authority for \"Manning, Operation, Maintenance and complete Technical Management of contractor owned 01 No. ASTDS-GTTP Tug\" for ....",
+        "announcedAt": "2025-11-19T10:17:47.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
+        "rawTime": "2025-11-19T10:17:47.43"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-19T09:34:42.230+05:30",
-    "checksum": "ff3bf6e7a2faaa8cd082adf01526066acf93d60acc369a44cd6e815dc34dae9b",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-11-19T10:33:42.257+05:30",
+    "checksum": "18c50935893a7a33e58c98da45b9a6d504576ba7be316de5629a4a442f2a0382",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-19/awards-093441.json"
+    "rawPayloadPath": "data/raw/2025-11-19/awards-103341.json"
   }
 }
