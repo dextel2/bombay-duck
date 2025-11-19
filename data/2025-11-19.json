@@ -45,6 +45,24 @@
     ],
     "2025-11-19T14": [
       {
+        "newsId": "da8e2869-62b9-42bd-9a1c-be97d0afd115",
+        "scripCode": 541019,
+        "shortName": "H.G. Infra Engineering Ltd",
+        "headline": "H.G. Infra Engineering Limited has received an order by the DLF Cyber City Developers Limited",
+        "announcedAt": "2025-11-19T14:50:57.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hg-infra-engineering-ltd/hginfra/541019/",
+        "rawTime": "2025-11-19T14:50:57.29"
+      },
+      {
+        "newsId": "121b1100-60e2-451c-a8ce-632c05778236",
+        "scripCode": 536974,
+        "shortName": "Captain Polyplast Ltd",
+        "headline": "as attached",
+        "announcedAt": "2025-11-19T14:35:33.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/",
+        "rawTime": "2025-11-19T14:35:33.26"
+      },
+      {
         "newsId": "7b808c37-7df1-4aad-b642-3134a6565367",
         "scripCode": 544047,
         "shortName": "Siyaram Recycling Industries Ltd",
@@ -56,11 +74,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-19T14:33:55.084+05:30",
-    "checksum": "dda6cc02cf4cdbe6774b0c93732e329629cc2383011c3b4a802bce03f539f355",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-19T15:33:55.209+05:30",
+    "checksum": "f4bc1db799b118536899244a3266396916bb0b1cb1723d5b234648292131cba1",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-19/awards-143354.json"
+    "rawPayloadPath": "data/raw/2025-11-19/awards-153354.json"
   }
 }
