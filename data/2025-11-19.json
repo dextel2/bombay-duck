@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
         "rawTime": "2025-11-19T13:24:25.893"
       }
+    ],
+    "2025-11-19T14": [
+      {
+        "newsId": "7b808c37-7df1-4aad-b642-3134a6565367",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs . 15233800 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2025-11-19T14:11:21.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2025-11-19T14:11:21.277"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-19T13:34:09.418+05:30",
-    "checksum": "0bde3d74b674984950c35e9d088803d76c3c6049ef04932265705772573f5607",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-19T14:33:55.084+05:30",
+    "checksum": "dda6cc02cf4cdbe6774b0c93732e329629cc2383011c3b4a802bce03f539f355",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-19/awards-133408.json"
+    "rawPayloadPath": "data/raw/2025-11-19/awards-143354.json"
   }
 }
