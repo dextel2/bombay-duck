@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-19",
-  "buckets": {},
+  "buckets": {
+    "2025-11-19T09": [
+      {
+        "newsId": "0b938118-921c-449f-91d5-38bc4b37a9e0",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for receipt of Work Order from Maharashtra Remote Sensing Application Centre (MRSAC)",
+        "announcedAt": "2025-11-19T09:20:11.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/",
+        "rawTime": "2025-11-19T09:20:11.043"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-19T08:52:34.235+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-11-19T09:34:42.230+05:30",
+    "checksum": "ff3bf6e7a2faaa8cd082adf01526066acf93d60acc369a44cd6e815dc34dae9b",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-19/awards-085233.json"
+    "rawPayloadPath": "data/raw/2025-11-19/awards-093441.json"
   }
 }

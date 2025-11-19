@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-19 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-19 09:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Work Order from Maharashtra Remote Sensing Application Centre (MRSAC) ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Likely Positive | 19 Nov 2025 - 09:20 |
 
-_Last updated: 19 Nov 2025 - 08:52 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-19.json)_
+_Last updated: 19 Nov 2025 - 09:34 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-19.json)_
 
 <!-- snapshot:end -->
 
