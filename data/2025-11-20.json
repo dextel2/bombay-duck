@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-11-20",
+  "buckets": {
+    "2025-11-20T08": [
+      {
+        "newsId": "a6bdefd5-c79e-4961-86c5-4f262f9b6c16",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG secures ADB funded ''Large'' DBO Order from Melamchi Water Supply Development Board, Government of Nepal",
+        "announcedAt": "2025-11-20T08:31:04.500+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2025-11-20T08:31:04.5"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-11-20T08:51:22.885+05:30",
+    "checksum": "816db79310c1bef69447b22de896ba41ca1a3536d890cbb8ae1bb3a86509255f",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-11-20/awards-085122.json"
+  }
+}

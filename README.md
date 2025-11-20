@@ -18,19 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-19 IST)
+### Today's Awarded Orders (2025-11-20 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-11-19 14:00 | H.G. Infra Engineering Ltd | 541019 | H.G. Infra Engineering Limited has received an order by the DLF Cyber City Developers Limited ([Link](https://www.bseindia.com/stock-share-price/hg-infra-engineering-ltd/hginfra/541019/)) | Likely Positive | 19 Nov 2025 - 14:50 |
-| 2025-11-19 14:00 | Captain Polyplast Ltd | 536974 | as attached ([Link](https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/)) | Neutral | 19 Nov 2025 - 14:35 |
-| 2025-11-19 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs . 15233800 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 19 Nov 2025 - 14:11 |
-| 2025-11-19 13:00 | Concord Control Systems Ltd | 543619 | Disclosure as per regulation 30 of SEBI (LODR), 2015 ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Neutral | 19 Nov 2025 - 13:24 |
-| 2025-11-19 10:00 | Allied Blenders and Distillers Ltd | 544203 | Update on Writ Petition ([Link](https://www.bseindia.com/stock-share-price/allied-blenders-and-distillers-ltd/abdl/544203/)) | Neutral | 19 Nov 2025 - 10:38 |
-| 2025-11-19 10:00 | Knowledge Marine & Engineering Works Ltd | 543273 | KMEW has received a Letter of Award from Visakhapatnam Port Authority for "Manning, Operation, Maintenance and complete Technical Management of contractor owned 01 No. ASTDS-GTTP Tug" for .... ([Link](https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/)) | Likely Positive | 19 Nov 2025 - 10:17 |
-| 2025-11-19 09:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Work Order from Maharashtra Remote Sensing Application Centre (MRSAC) ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Likely Positive | 19 Nov 2025 - 09:20 |
+| 2025-11-20 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures ADB funded ''Large'' DBO Order from Melamchi Water Supply Development Board, Government of Nepal ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 20 Nov 2025 - 08:31 |
 
-_Last updated: 19 Nov 2025 - 15:33 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-19.json)_
+_Last updated: 20 Nov 2025 - 08:51 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-20.json)_
 
 <!-- snapshot:end -->
 
