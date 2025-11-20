@@ -14,6 +14,15 @@
     ],
     "2025-11-20T12": [
       {
+        "newsId": "830553cb-8343-4d4d-82b5-a1de9d40dde6",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2025-11-20T12:39:54.813+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2025-11-20T12:39:54.813"
+      },
+      {
         "newsId": "29164e63-43ef-4737-ad03-f9dca83b3445",
         "scripCode": 522292,
         "shortName": "Candour Techtex Ltd",
@@ -22,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/candour-techtex-ltd/candour/522292/",
         "rawTime": "2025-11-20T12:29:00.067"
       }
+    ],
+    "2025-11-20T13": [
+      {
+        "newsId": "39113c4c-5d0a-4a56-9400-f72d53886463",
+        "scripCode": 531297,
+        "shortName": "Artefact Projects Ltd",
+        "headline": "letter of Award receipt",
+        "announcedAt": "2025-11-20T13:05:49.303+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
+        "rawTime": "2025-11-20T13:05:49.303"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-20T12:33:47.825+05:30",
-    "checksum": "767fccb29f36a69761b6bb9453768cd1641ccd2edc08d51a9ea985502a0d7c92",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-20T13:34:14.505+05:30",
+    "checksum": "2493c7f1fe283c75106ec7dc95d5d5ae0bc7723a78b71d86943086dffb7031f4",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-20/awards-123347.json"
+    "rawPayloadPath": "data/raw/2025-11-20/awards-133413.json"
   }
 }
