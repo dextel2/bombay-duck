@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-11-20 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures ADB funded ''Large'' DBO Order from Melamchi Water Supply Development Board, Government of Nepal ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 20 Nov 2025 - 08:31 |
 
-_Last updated: 20 Nov 2025 - 09:33 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-20.json)_
+_Last updated: 20 Nov 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-20.json)_
 
 <!-- snapshot:end -->
 
