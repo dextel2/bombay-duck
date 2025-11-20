@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2025-11-20T08:31:04.5"
       }
+    ],
+    "2025-11-20T12": [
+      {
+        "newsId": "29164e63-43ef-4737-ad03-f9dca83b3445",
+        "scripCode": 522292,
+        "shortName": "Candour Techtex Ltd",
+        "headline": "Announcement under regulation 30 (LODR) Regulation, 2015-Receipt of order.",
+        "announcedAt": "2025-11-20T12:29:00.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/candour-techtex-ltd/candour/522292/",
+        "rawTime": "2025-11-20T12:29:00.067"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-20T11:34:35.255+05:30",
-    "checksum": "816db79310c1bef69447b22de896ba41ca1a3536d890cbb8ae1bb3a86509255f",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-20T12:33:47.825+05:30",
+    "checksum": "767fccb29f36a69761b6bb9453768cd1641ccd2edc08d51a9ea985502a0d7c92",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-20/awards-113434.json"
+    "rawPayloadPath": "data/raw/2025-11-20/awards-123347.json"
   }
 }
