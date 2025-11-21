@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
         "rawTime": "2025-11-21T10:42:43.36"
       }
+    ],
+    "2025-11-21T14": [
+      {
+        "newsId": "734d699f-5b97-494c-beb9-2516a9da7880",
+        "scripCode": 532942,
+        "shortName": "KNR Constructions Ltd",
+        "headline": "Intimation of Bagging of order",
+        "announcedAt": "2025-11-21T14:48:06.377+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
+        "rawTime": "2025-11-21T14:48:06.377"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-21T14:34:02.402+05:30",
-    "checksum": "483f122665a78e93d63461ecb5e98aaeb50560b0e4b93b405a5bc9dcdb542621",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-21T15:33:48.699+05:30",
+    "checksum": "ca731f5055004e194a6eb8520b1f7704c04f6da89eda7940503939b7bbfdf94e",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-21/awards-143401.json"
+    "rawPayloadPath": "data/raw/2025-11-21/awards-153348.json"
   }
 }
