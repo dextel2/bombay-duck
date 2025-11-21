@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-21 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-21 11:00 | Electrosteel Castings Ltd | 500128 | Receipt of Final Compensation Order covering partial items in respect of Parbatpur Central Coal Mine ([Link](https://www.bseindia.com/stock-share-price/electrosteel-castings-ltd/electcast/500128/)) | Likely Positive | 21 Nov 2025 - 11:19 |
+| 2025-11-21 10:00 | RMC Switchgears Ltd | 540358 | Receipt of Letter of Intent from RRVPNL of Rs. 27,77,69,586.82/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 21 Nov 2025 - 10:42 |
 
-_Last updated: 21 Nov 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-21.json)_
+_Last updated: 21 Nov 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-21.json)_
 
 <!-- snapshot:end -->
 

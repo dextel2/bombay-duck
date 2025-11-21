@@ -1,12 +1,35 @@
 {
   "tradingDate": "2025-11-21",
-  "buckets": {},
+  "buckets": {
+    "2025-11-21T11": [
+      {
+        "newsId": "f0ae4193-89d2-43a0-8539-ec6b1dd1990e",
+        "scripCode": 500128,
+        "shortName": "Electrosteel Castings Ltd",
+        "headline": "Receipt of Final Compensation Order covering partial items in respect of Parbatpur Central Coal Mine",
+        "announcedAt": "2025-11-21T11:19:59.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/electrosteel-castings-ltd/electcast/500128/",
+        "rawTime": "2025-11-21T11:19:59.77"
+      }
+    ],
+    "2025-11-21T10": [
+      {
+        "newsId": "6ee2e0ce-e9ab-498e-9191-61b786eb57c0",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Receipt of Letter of Intent from RRVPNL of Rs. 27,77,69,586.82/-",
+        "announcedAt": "2025-11-21T10:42:43.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2025-11-21T10:42:43.36"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-21T10:33:45.321+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-21T11:34:25.957+05:30",
+    "checksum": "483f122665a78e93d63461ecb5e98aaeb50560b0e4b93b405a5bc9dcdb542621",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-21/awards-103344.json"
+    "rawPayloadPath": "data/raw/2025-11-21/awards-113425.json"
   }
 }
