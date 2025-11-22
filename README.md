@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-21 IST)
+### Today's Awarded Orders (2025-11-22 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-21 14:00 | KNR Constructions Ltd | 532942 | Intimation of Bagging of order ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 21 Nov 2025 - 14:48 |
-| 2025-11-21 11:00 | Electrosteel Castings Ltd | 500128 | Receipt of Final Compensation Order covering partial items in respect of Parbatpur Central Coal Mine ([Link](https://www.bseindia.com/stock-share-price/electrosteel-castings-ltd/electcast/500128/)) | Likely Positive | 21 Nov 2025 - 11:19 |
-| 2025-11-21 10:00 | RMC Switchgears Ltd | 540358 | Receipt of Letter of Intent from RRVPNL of Rs. 27,77,69,586.82/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 21 Nov 2025 - 10:42 |
+_No award announcements have been captured yet today._
 
-_Last updated: 21 Nov 2025 - 15:33 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-21.json)_
+_Last updated: 22 Nov 2025 - 08:48 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-22.json)_
 
 <!-- snapshot:end -->
 
