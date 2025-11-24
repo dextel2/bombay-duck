@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-24",
-  "buckets": {},
+  "buckets": {
+    "2025-11-24T09": [
+      {
+        "newsId": "e78f1e40-7c31-411f-921d-7f859cb19c07",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Receipt of Letter of Intent from RRVPNL of Rs. 42,23,90,437.24/-",
+        "announcedAt": "2025-11-24T09:58:10.603+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2025-11-24T09:58:10.603"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-24T09:42:32.513+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-11-24T10:33:59.613+05:30",
+    "checksum": "87eb738868238b9b6f2272dae28393d82bcac0471fab920640e449da6e173beb",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-24/awards-094231.json"
+    "rawPayloadPath": "data/raw/2025-11-24/awards-103359.json"
   }
 }

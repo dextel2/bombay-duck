@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-24 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-24 09:00 | RMC Switchgears Ltd | 540358 | Receipt of Letter of Intent from RRVPNL of Rs. 42,23,90,437.24/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 24 Nov 2025 - 09:58 |
 
-_Last updated: 24 Nov 2025 - 09:42 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-24.json)_
+_Last updated: 24 Nov 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-24.json)_
 
 <!-- snapshot:end -->
 
