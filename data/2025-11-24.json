@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
         "rawTime": "2025-11-24T09:58:10.603"
       }
+    ],
+    "2025-11-24T11": [
+      {
+        "newsId": "4652c371-4730-4499-9933-1fcff323432d",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited emerged as L-1 bidder for MDO Contract for Development and Operation of Pottangi Bauxite Mines along with Overland Conveyor Corridor (OLCC) and allied facilities.",
+        "announcedAt": "2025-11-24T11:18:34.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2025-11-24T11:18:34.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-24T10:33:59.613+05:30",
-    "checksum": "87eb738868238b9b6f2272dae28393d82bcac0471fab920640e449da6e173beb",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-24T11:35:11.378+05:30",
+    "checksum": "bdfcbeadf46a72645fc86bd53cd211d1c1beae35706d8d5b08d7ce2f03359251",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-24/awards-103359.json"
+    "rawPayloadPath": "data/raw/2025-11-24/awards-113508.json"
   }
 }
