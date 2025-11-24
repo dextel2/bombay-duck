@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-24 11:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited emerged as L-1 bidder for MDO Contract for Development and Operation of Pottangi Bauxite Mines along with Overland Conveyor Corridor (OLCC) and allied facilities. ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Likely Positive | 24 Nov 2025 - 11:18 |
 | 2025-11-24 09:00 | RMC Switchgears Ltd | 540358 | Receipt of Letter of Intent from RRVPNL of Rs. 42,23,90,437.24/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 24 Nov 2025 - 09:58 |
 
-_Last updated: 24 Nov 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-24.json)_
+_Last updated: 24 Nov 2025 - 14:34 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-24.json)_
 
 <!-- snapshot:end -->
 
