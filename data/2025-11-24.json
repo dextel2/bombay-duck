@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2025-11-24T11:18:34.82"
       }
+    ],
+    "2025-11-24T13": [
+      {
+        "newsId": "b233b8dd-c3d2-4dae-9c45-188e42473993",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW ORDER RECEIVED FOR 57000 USD",
+        "announcedAt": "2025-11-24T13:27:28.800+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2025-11-24T13:27:28.8"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-24T12:33:55.005+05:30",
-    "checksum": "bdfcbeadf46a72645fc86bd53cd211d1c1beae35706d8d5b08d7ce2f03359251",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-24T13:34:30.174+05:30",
+    "checksum": "94ba8207246230ab43c68fe73f43df86f4d092813749d883ad3124e7b8de1187",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-24/awards-123353.json"
+    "rawPayloadPath": "data/raw/2025-11-24/awards-133429.json"
   }
 }
