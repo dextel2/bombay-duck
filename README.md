@@ -22,13 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-25 12:00 | Transformers and Rectifiers (India) Ltd | 532928 | We would like to inform you that TARIL has secured order of Rs. 389.97 Cr ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 25 Nov 2025 - 12:53 |
+| 2025-11-25 12:00 | Schneider Electric Infrastructure Ltd | 534139 | Pursuant to Regulation 30 of Listing Regulations, please be informed that the Company has received the Demand Order(s) from GST authority, as per the attached intimation. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/)) | Likely Positive | 25 Nov 2025 - 12:36 |
 | 2025-11-25 12:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new Order of Rs. 254.22 Crores (excluding GST) ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 25 Nov 2025 - 12:17 |
 | 2025-11-25 11:00 | Avantel Ltd | 532406 | Receipt of Purchase Order from M/s. Bharat Electronics Limited worth of Rs.17.55 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 25 Nov 2025 - 11:04 |
 | 2025-11-25 11:00 | ZEN Technologies Ltd | 533339 | Intimation of receipt of order from Ministry of Defence, Government of India ([Link](https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/)) | Likely Positive | 25 Nov 2025 - 11:02 |
 | 2025-11-25 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 25 Nov 2025 - 09:38 |
 | 2025-11-25 09:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Orders worth totaling Rs. 8.08 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 25 Nov 2025 - 09:36 |
 
-_Last updated: 25 Nov 2025 - 12:33 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
+_Last updated: 25 Nov 2025 - 13:34 | Entries: 7 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
 
 <!-- snapshot:end -->
 

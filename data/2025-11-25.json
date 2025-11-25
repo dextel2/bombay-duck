@@ -43,6 +43,24 @@
     ],
     "2025-11-25T12": [
       {
+        "newsId": "032af36b-2812-4ef2-9913-3146dfe667e7",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "We would like to inform you that TARIL has secured order of Rs. 389.97 Cr",
+        "announcedAt": "2025-11-25T12:53:53.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2025-11-25T12:53:53.353"
+      },
+      {
+        "newsId": "754a756b-0ab2-4a72-b7cb-f6429c4a28d2",
+        "scripCode": 534139,
+        "shortName": "Schneider Electric Infrastructure Ltd",
+        "headline": "Pursuant to Regulation 30 of Listing Regulations, please be informed that the Company has received the Demand Order(s) from GST authority, as per the attached intimation.",
+        "announcedAt": "2025-11-25T12:36:40.040+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/",
+        "rawTime": "2025-11-25T12:36:40.04"
+      },
+      {
         "newsId": "b4cef4ed-13ee-4bc0-b43a-16f539a41ca3",
         "scripCode": 532719,
         "shortName": "B. L. Kashyap and Sons Ltd",
@@ -54,11 +72,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-25T12:33:51.436+05:30",
-    "checksum": "37986175510495f96dcd31d2290bcc687c5863575fa618d59bf2c658d9c144b1",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-25T13:34:24.865+05:30",
+    "checksum": "0c8435081f2ed887c159c6676c26969f7696003783821158a58c028fec17fd35",
+    "totalAnnouncements": 7,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-25/awards-123350.json"
+    "rawPayloadPath": "data/raw/2025-11-25/awards-133424.json"
   }
 }
