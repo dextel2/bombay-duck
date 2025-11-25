@@ -3,6 +3,15 @@
   "buckets": {
     "2025-11-25T09": [
       {
+        "newsId": "9f0d4c80-50fc-434f-88d1-63f39b8fd81b",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Execution of Power Purchase Agreement",
+        "announcedAt": "2025-11-25T09:38:42.943+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2025-11-25T09:38:42.943"
+      },
+      {
         "newsId": "84aadd11-15cb-4c5d-a1ea-eaf28851be5f",
         "scripCode": 544387,
         "shortName": "Desco Infratech Ltd",
@@ -14,11 +23,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-25T09:37:12.577+05:30",
-    "checksum": "7f28c197e908a97a12af74e6eb6388cce565c824caf4355130c566f066099d5b",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-11-25T10:33:53.278+05:30",
+    "checksum": "2e0ef0a53f15936200b17e17f466c008bf7d316a8d5bd618f27646b21bd4d70d",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-25/awards-093712.json"
+    "rawPayloadPath": "data/raw/2025-11-25/awards-103352.json"
   }
 }
