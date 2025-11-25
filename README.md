@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-25 14:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform you that Cryogenic OGS Limited has received an LOI from Advanced Sys-Tek Limited amounting to Rs. 97,66,448/-. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Neutral | 25 Nov 2025 - 14:29 |
+| 2025-11-25 14:00 | Oriental Rail Infrastructure Ltd | 531859 | Oriental Foundry Private Limited, a Wholly Owned Subsidiary has secured an order from Southern Railway. ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 25 Nov 2025 - 14:10 |
 | 2025-11-25 12:00 | Transformers and Rectifiers (India) Ltd | 532928 | We would like to inform you that TARIL has secured order of Rs. 389.97 Cr ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 25 Nov 2025 - 12:53 |
 | 2025-11-25 12:00 | Schneider Electric Infrastructure Ltd | 534139 | Pursuant to Regulation 30 of Listing Regulations, please be informed that the Company has received the Demand Order(s) from GST authority, as per the attached intimation. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/)) | Likely Positive | 25 Nov 2025 - 12:36 |
 | 2025-11-25 12:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new Order of Rs. 254.22 Crores (excluding GST) ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 25 Nov 2025 - 12:17 |
@@ -30,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-25 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 25 Nov 2025 - 09:38 |
 | 2025-11-25 09:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Orders worth totaling Rs. 8.08 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 25 Nov 2025 - 09:36 |
 
-_Last updated: 25 Nov 2025 - 13:34 | Entries: 7 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
+_Last updated: 25 Nov 2025 - 14:34 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
 
 <!-- snapshot:end -->
 

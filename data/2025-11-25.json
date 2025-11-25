@@ -69,14 +69,34 @@
         "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
         "rawTime": "2025-11-25T12:17:14.75"
       }
+    ],
+    "2025-11-25T14": [
+      {
+        "newsId": "1ebc0023-43ab-4e2f-a908-0d088fa1a066",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform you that Cryogenic OGS Limited has received an LOI from Advanced Sys-Tek Limited amounting to Rs. 97,66,448/-.",
+        "announcedAt": "2025-11-25T14:29:04.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-11-25T14:29:04.76"
+      },
+      {
+        "newsId": "eaf8618f-3e28-4520-8152-997cd6aa7ebd",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Oriental Foundry Private Limited, a Wholly Owned Subsidiary has secured an order from Southern Railway.",
+        "announcedAt": "2025-11-25T14:10:28.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2025-11-25T14:10:28.59"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-25T13:34:24.865+05:30",
-    "checksum": "0c8435081f2ed887c159c6676c26969f7696003783821158a58c028fec17fd35",
-    "totalAnnouncements": 7,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-25T14:34:26.535+05:30",
+    "checksum": "b9fdadf2b306d20723f0d2b3e43aafebdfc3696d73bd54c20220daeda8c14e58",
+    "totalAnnouncements": 9,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-25/awards-133424.json"
+    "rawPayloadPath": "data/raw/2025-11-25/awards-143425.json"
   }
 }
