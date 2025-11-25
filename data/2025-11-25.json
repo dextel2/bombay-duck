@@ -40,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/",
         "rawTime": "2025-11-25T11:02:02.703"
       }
+    ],
+    "2025-11-25T12": [
+      {
+        "newsId": "b4cef4ed-13ee-4bc0-b43a-16f539a41ca3",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new Order of Rs. 254.22 Crores (excluding GST)",
+        "announcedAt": "2025-11-25T12:17:14.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2025-11-25T12:17:14.75"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-25T11:34:31.087+05:30",
-    "checksum": "a98954b654553952f36b0fe3e1baecb867093ac32c5cbc999f3bfc93f9f38884",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-25T12:33:51.436+05:30",
+    "checksum": "37986175510495f96dcd31d2290bcc687c5863575fa618d59bf2c658d9c144b1",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-25/awards-113430.json"
+    "rawPayloadPath": "data/raw/2025-11-25/awards-123350.json"
   }
 }
