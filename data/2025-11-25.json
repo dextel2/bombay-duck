@@ -20,14 +20,34 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2025-11-25T09:36:13.933"
       }
+    ],
+    "2025-11-25T11": [
+      {
+        "newsId": "f378dacd-3edf-4ec5-8ca3-5eb9d1c6859d",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order from M/s. Bharat Electronics Limited worth of Rs.17.55 Cr",
+        "announcedAt": "2025-11-25T11:04:38.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2025-11-25T11:04:38.16"
+      },
+      {
+        "newsId": "76e17168-8bff-4788-bc91-1d74e3428835",
+        "scripCode": 533339,
+        "shortName": "ZEN Technologies Ltd",
+        "headline": "Intimation of receipt of order from Ministry of Defence, Government of India",
+        "announcedAt": "2025-11-25T11:02:02.703+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/",
+        "rawTime": "2025-11-25T11:02:02.703"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-25T10:33:53.278+05:30",
-    "checksum": "2e0ef0a53f15936200b17e17f466c008bf7d316a8d5bd618f27646b21bd4d70d",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-25T11:34:31.087+05:30",
+    "checksum": "a98954b654553952f36b0fe3e1baecb867093ac32c5cbc999f3bfc93f9f38884",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-25/awards-103352.json"
+    "rawPayloadPath": "data/raw/2025-11-25/awards-113430.json"
   }
 }

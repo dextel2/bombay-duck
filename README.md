@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-25 11:00 | Avantel Ltd | 532406 | Receipt of Purchase Order from M/s. Bharat Electronics Limited worth of Rs.17.55 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 25 Nov 2025 - 11:04 |
+| 2025-11-25 11:00 | ZEN Technologies Ltd | 533339 | Intimation of receipt of order from Ministry of Defence, Government of India ([Link](https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/)) | Likely Positive | 25 Nov 2025 - 11:02 |
 | 2025-11-25 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 25 Nov 2025 - 09:38 |
 | 2025-11-25 09:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Orders worth totaling Rs. 8.08 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 25 Nov 2025 - 09:36 |
 
-_Last updated: 25 Nov 2025 - 10:33 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
+_Last updated: 25 Nov 2025 - 11:34 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
 
 <!-- snapshot:end -->
 
