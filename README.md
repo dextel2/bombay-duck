@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-25 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-25 09:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Orders worth totaling Rs. 8.08 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 25 Nov 2025 - 09:36 |
 
-_Last updated: 25 Nov 2025 - 08:54 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
+_Last updated: 25 Nov 2025 - 09:37 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
 
 <!-- snapshot:end -->
 

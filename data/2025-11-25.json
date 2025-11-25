@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-25",
-  "buckets": {},
+  "buckets": {
+    "2025-11-25T09": [
+      {
+        "newsId": "84aadd11-15cb-4c5d-a1ea-eaf28851be5f",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding Receipt of Orders worth totaling Rs. 8.08 Cr",
+        "announcedAt": "2025-11-25T09:36:13.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2025-11-25T09:36:13.933"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-25T08:54:21.379+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-11-25T09:37:12.577+05:30",
+    "checksum": "7f28c197e908a97a12af74e6eb6388cce565c824caf4355130c566f066099d5b",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-25/awards-085420.json"
+    "rawPayloadPath": "data/raw/2025-11-25/awards-093712.json"
   }
 }
