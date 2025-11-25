@@ -32,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-11-25 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 25 Nov 2025 - 09:38 |
 | 2025-11-25 09:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Orders worth totaling Rs. 8.08 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 25 Nov 2025 - 09:36 |
 
-_Last updated: 25 Nov 2025 - 14:34 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
+_Last updated: 25 Nov 2025 - 15:34 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-25.json)_
 
 <!-- snapshot:end -->
 
