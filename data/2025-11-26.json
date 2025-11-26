@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-26",
-  "buckets": {},
+  "buckets": {
+    "2025-11-26T12": [
+      {
+        "newsId": "4f4d132f-1a8c-4a2c-b113-e8c71de826cc",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Award of Contracts to Material Subsidiary- Lineage Power Private Limited by Larsen and Toubro Limited Construction.",
+        "announcedAt": "2025-11-26T12:24:46.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2025-11-26T12:24:46.76"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-26T11:34:27.023+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-11-26T12:33:39.337+05:30",
+    "checksum": "26154ea60ca2f75fd041f9a5ad306effb8f0ff07125d3f6dd3821d5f4bd349bc",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-26/awards-113426.json"
+    "rawPayloadPath": "data/raw/2025-11-26/awards-123338.json"
   }
 }
