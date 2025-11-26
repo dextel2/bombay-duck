@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-11-26 12:00 | Pace Digitek Ltd | 544550 | Award of Contracts to Material Subsidiary- Lineage Power Private Limited by Larsen and Toubro Limited Construction. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 26 Nov 2025 - 12:24 |
 
-_Last updated: 26 Nov 2025 - 12:33 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-26.json)_
+_Last updated: 26 Nov 2025 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-26.json)_
 
 <!-- snapshot:end -->
 
