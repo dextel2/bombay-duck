@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-26 13:00 | Thermax Ltd | 500411 | Thermax Limited has informed the Exchanges about order concluded by Thermax Babcock & Wilcox Energy Solutions Limited, a wholly owned subsidiary of the Company. ([Link](https://www.bseindia.com/stock-share-price/thermax-ltd/thermax/500411/)) | Likely Positive | 26 Nov 2025 - 13:53 |
 | 2025-11-26 12:00 | Pace Digitek Ltd | 544550 | Award of Contracts to Material Subsidiary- Lineage Power Private Limited by Larsen and Toubro Limited Construction. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 26 Nov 2025 - 12:24 |
 
-_Last updated: 26 Nov 2025 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-26.json)_
+_Last updated: 26 Nov 2025 - 14:34 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-26.json)_
 
 <!-- snapshot:end -->
 

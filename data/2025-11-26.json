@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
         "rawTime": "2025-11-26T12:24:46.76"
       }
+    ],
+    "2025-11-26T13": [
+      {
+        "newsId": "d91a8469-b1e4-4438-992b-f3cbbc647d02",
+        "scripCode": 500411,
+        "shortName": "Thermax Ltd",
+        "headline": "Thermax Limited has informed the Exchanges about order concluded by Thermax Babcock & Wilcox Energy Solutions Limited, a wholly owned subsidiary of the Company.",
+        "announcedAt": "2025-11-26T13:53:06.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/thermax-ltd/thermax/500411/",
+        "rawTime": "2025-11-26T13:53:06.883"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-26T13:34:13.065+05:30",
-    "checksum": "26154ea60ca2f75fd041f9a5ad306effb8f0ff07125d3f6dd3821d5f4bd349bc",
-    "totalAnnouncements": 1,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-26T14:34:01.868+05:30",
+    "checksum": "8c316af3dc3d75ce1b4197e238852e29668ddf99f7e3d05a7a8f9c73d54870c0",
+    "totalAnnouncements": 2,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-26/awards-133411.json"
+    "rawPayloadPath": "data/raw/2025-11-26/awards-143401.json"
   }
 }
