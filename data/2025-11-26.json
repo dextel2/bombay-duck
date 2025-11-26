@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/thermax-ltd/thermax/500411/",
         "rawTime": "2025-11-26T13:53:06.883"
       }
+    ],
+    "2025-11-26T15": [
+      {
+        "newsId": "e2b5c55a-2f3d-483d-bfa7-b00902da8d26",
+        "scripCode": 544527,
+        "shortName": "Atlanta Electricals Ltd",
+        "headline": "Intimation of Receipt of Order from Gujarat Energy Transmission Corporation Limited (GETCO).",
+        "announcedAt": "2025-11-26T15:12:29.613+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atlanta-electricals-ltd/atlantaele/544527/",
+        "rawTime": "2025-11-26T15:12:29.613"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-26T14:34:01.868+05:30",
-    "checksum": "8c316af3dc3d75ce1b4197e238852e29668ddf99f7e3d05a7a8f9c73d54870c0",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-26T15:34:02.028+05:30",
+    "checksum": "d6fc82c34627b74199e67b8f064a668b2d247b48073b3def555e60b6130a06ca",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-26/awards-143401.json"
+    "rawPayloadPath": "data/raw/2025-11-26/awards-153401.json"
   }
 }
