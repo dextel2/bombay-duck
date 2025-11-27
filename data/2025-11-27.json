@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2025-11-27T08:29:51.513"
       }
+    ],
+    "2025-11-27T10": [
+      {
+        "newsId": "8ec2c9bd-1303-4793-9901-7346bd312585",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In Continution of our earlier letter dated 13th November 2025 and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform ....",
+        "announcedAt": "2025-11-27T10:08:01.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2025-11-27T10:08:01.053"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-27T09:34:33.719+05:30",
-    "checksum": "45177828814cfd6e4a012c7335f1539a255127aba11302fcbf609e3743f19e72",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-11-27T10:33:41.289+05:30",
+    "checksum": "aa487193b15b6657ca1c7c788dcc80e442f9b2512d9509591e416f2fcbab0502",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-27/awards-093433.json"
+    "rawPayloadPath": "data/raw/2025-11-27/awards-103340.json"
   }
 }

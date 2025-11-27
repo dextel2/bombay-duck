@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-27 10:00 | Ceigall India Ltd | 544223 | In Continution of our earlier letter dated 13th November 2025 and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 27 Nov 2025 - 10:08 |
 | 2025-11-27 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for Lab Grown cut and polished diamonds amounting to USD 2 Million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 27 Nov 2025 - 08:29 |
 
-_Last updated: 27 Nov 2025 - 09:34 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-27.json)_
+_Last updated: 27 Nov 2025 - 10:33 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-27.json)_
 
 <!-- snapshot:end -->
 
