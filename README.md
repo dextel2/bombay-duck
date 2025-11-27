@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-26 IST)
+### Today's Awarded Orders (2025-11-27 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-11-26 15:00 | Atlanta Electricals Ltd | 544527 | Intimation of Receipt of Order from Gujarat Energy Transmission Corporation Limited (GETCO). ([Link](https://www.bseindia.com/stock-share-price/atlanta-electricals-ltd/atlantaele/544527/)) | Likely Positive | 26 Nov 2025 - 15:12 |
-| 2025-11-26 13:00 | Thermax Ltd | 500411 | Thermax Limited has informed the Exchanges about order concluded by Thermax Babcock & Wilcox Energy Solutions Limited, a wholly owned subsidiary of the Company. ([Link](https://www.bseindia.com/stock-share-price/thermax-ltd/thermax/500411/)) | Likely Positive | 26 Nov 2025 - 13:53 |
-| 2025-11-26 12:00 | Pace Digitek Ltd | 544550 | Award of Contracts to Material Subsidiary- Lineage Power Private Limited by Larsen and Toubro Limited Construction. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 26 Nov 2025 - 12:24 |
+| 2025-11-27 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for Lab Grown cut and polished diamonds amounting to USD 2 Million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 27 Nov 2025 - 08:29 |
 
-_Last updated: 26 Nov 2025 - 15:34 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-26.json)_
+_Last updated: 27 Nov 2025 - 08:52 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-27.json)_
 
 <!-- snapshot:end -->
 
