@@ -14,6 +14,15 @@
     ],
     "2025-11-27T10": [
       {
+        "newsId": "e727406f-45ec-417c-8267-23f923413f7e",
+        "scripCode": 532740,
+        "shortName": "Lokesh Machines Ltd",
+        "headline": "enclosed",
+        "announcedAt": "2025-11-27T10:59:09.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/",
+        "rawTime": "2025-11-27T10:59:09.12"
+      },
+      {
         "newsId": "8ec2c9bd-1303-4793-9901-7346bd312585",
         "scripCode": 544223,
         "shortName": "Ceigall India Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-27T10:33:41.289+05:30",
-    "checksum": "aa487193b15b6657ca1c7c788dcc80e442f9b2512d9509591e416f2fcbab0502",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-27T11:34:32.459+05:30",
+    "checksum": "7061ba1f94a06cfb949162962094c06d2bfb109e6ad24d080b06059d12ff0b62",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-27/awards-103340.json"
+    "rawPayloadPath": "data/raw/2025-11-27/awards-113431.json"
   }
 }
