@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-28 12:00 | Dilip Buildcon Ltd | 540047 | In continuation to our disclosure dated October 27, 2025 and accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 28 Nov 2025 - 12:32 |
 | 2025-11-28 09:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under Regulation 30 of SEBI LODR - Signing of Contract ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Likely Positive | 28 Nov 2025 - 09:40 |
 
-_Last updated: 28 Nov 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
+_Last updated: 28 Nov 2025 - 12:33 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
 
 <!-- snapshot:end -->
 
