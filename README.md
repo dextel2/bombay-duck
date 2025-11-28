@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-28 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall Infra Projects Private Limited, a wholly .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 28 Nov 2025 - 13:59 |
 | 2025-11-28 13:00 | Kranti Industries Ltd | 542459 | Pursuant to Reg 30 of SEBI(Listing obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received 12 Purchase Orders from a New Customer .... ([Link](https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/)) | Likely Positive | 28 Nov 2025 - 13:20 |
 | 2025-11-28 12:00 | Dilip Buildcon Ltd | 540047 | In continuation to our disclosure dated October 27, 2025 and accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 28 Nov 2025 - 12:32 |
 | 2025-11-28 09:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under Regulation 30 of SEBI LODR - Signing of Contract ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Likely Positive | 28 Nov 2025 - 09:40 |
 
-_Last updated: 28 Nov 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
+_Last updated: 28 Nov 2025 - 14:33 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
 
 <!-- snapshot:end -->
 

@@ -25,6 +25,15 @@
     ],
     "2025-11-28T13": [
       {
+        "newsId": "647bac51-aadb-4ea7-81b6-47a3985ec49a",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall Infra Projects Private Limited, a wholly ....",
+        "announcedAt": "2025-11-28T13:59:49.863+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2025-11-28T13:59:49.863"
+      },
+      {
         "newsId": "d4d676f9-ac4e-44ce-8042-613cc9967a59",
         "scripCode": 542459,
         "shortName": "Kranti Industries Ltd",
@@ -36,11 +45,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-28T13:34:21.301+05:30",
-    "checksum": "81271618e4ba3ca4a263e432147997d94c799cca7522329a59783894ea77702e",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-11-28T14:33:53.798+05:30",
+    "checksum": "bfeb82ee4086cdaeeb419a58bce2066468edc6236b9cfde072b93a232a5b8c6b",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-28/awards-133420.json"
+    "rawPayloadPath": "data/raw/2025-11-28/awards-143353.json"
   }
 }
