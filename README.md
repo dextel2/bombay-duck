@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-11-28 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-11-28 09:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under Regulation 30 of SEBI LODR - Signing of Contract ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Likely Positive | 28 Nov 2025 - 09:40 |
 
-_Last updated: 28 Nov 2025 - 09:34 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
+_Last updated: 28 Nov 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
 
 <!-- snapshot:end -->
 
