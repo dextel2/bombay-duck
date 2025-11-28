@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-11-27 IST)
+### Today's Awarded Orders (2025-11-28 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-11-27 14:00 | Magellanic Cloud Ltd | 538891 | Intimation of receipt of Work Order by Scandron Private Limited, a subsidiary of Magellanic Cloud Limited. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 27 Nov 2025 - 14:34 |
-| 2025-11-27 10:00 | Lokesh Machines Ltd | 532740 | enclosed ([Link](https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/)) | Neutral | 27 Nov 2025 - 10:59 |
-| 2025-11-27 10:00 | Ceigall India Ltd | 544223 | In Continution of our earlier letter dated 13th November 2025 and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 27 Nov 2025 - 10:08 |
-| 2025-11-27 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for Lab Grown cut and polished diamonds amounting to USD 2 Million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 27 Nov 2025 - 08:29 |
+_No award announcements have been captured yet today._
 
-_Last updated: 27 Nov 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-27.json)_
+_Last updated: 28 Nov 2025 - 08:52 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-11-28.json)_
 
 <!-- snapshot:end -->
 
