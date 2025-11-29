@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/quick-heal-technologies-ltd/quickheal/539678/",
         "rawTime": "2025-11-29T10:39:42.853"
       }
+    ],
+    "2025-11-29T13": [
+      {
+        "newsId": "1e93d7ce-aec4-423d-8295-3d67c820ec42",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects",
+        "announcedAt": "2025-11-29T13:07:02.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2025-11-29T13:07:02.85"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-29T12:33:07.709+05:30",
-    "checksum": "1ebde5e265093ad74114f9fdcf49b43b2612a848fce996ee183deb7cdd521952",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2025-11-29T13:33:46.192+05:30",
+    "checksum": "def5b005cfda48dd8631f84479fe0564bb376b837248c903b927e1a760132b20",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-29/awards-123307.json"
+    "rawPayloadPath": "data/raw/2025-11-29/awards-133345.json"
   }
 }
