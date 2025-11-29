@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-11-29",
-  "buckets": {},
+  "buckets": {
+    "2025-11-29T10": [
+      {
+        "newsId": "328ab576-9816-487e-a602-f49deb4225da",
+        "scripCode": 539678,
+        "shortName": "Quick Heal Technologies Ltd",
+        "headline": "Bagging of Contract",
+        "announcedAt": "2025-11-29T10:39:42.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quick-heal-technologies-ltd/quickheal/539678/",
+        "rawTime": "2025-11-29T10:39:42.853"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-11-29T10:33:19.645+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-11-29T11:34:06.167+05:30",
+    "checksum": "1ebde5e265093ad74114f9fdcf49b43b2612a848fce996ee183deb7cdd521952",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-29/awards-103319.json"
+    "rawPayloadPath": "data/raw/2025-11-29/awards-113405.json"
   }
 }
