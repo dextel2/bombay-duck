@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-11-29 14:00 | Infinity Infoway Ltd | 544567 | Announcement under Reg 30 (LODR) the company has Received an order ERP Implementation worth Approx. 2.15 crores From the Education Committee of Shri Maheshwari Samaj , Jaipur ([Link](https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/)) | Likely Positive | 29 Nov 2025 - 14:34 |
 | 2025-11-29 13:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 29 Nov 2025 - 13:07 |
 | 2025-11-29 10:00 | Quick Heal Technologies Ltd | 539678 | Bagging of Contract ([Link](https://www.bseindia.com/stock-share-price/quick-heal-technologies-ltd/quickheal/539678/)) | Likely Positive | 29 Nov 2025 - 10:39 |
 
-_Last updated: 29 Nov 2025 - 14:33 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-11-29.json)_
+_Last updated: 29 Nov 2025 - 15:33 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-11-29.json)_
 
 <!-- snapshot:end -->
 

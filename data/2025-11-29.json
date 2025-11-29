@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
         "rawTime": "2025-11-29T13:07:02.85"
       }
+    ],
+    "2025-11-29T14": [
+      {
+        "newsId": "ca4e3de6-343f-4249-b75c-b8abf1838947",
+        "scripCode": 544567,
+        "shortName": "Infinity Infoway Ltd",
+        "headline": "Announcement under Reg 30 (LODR) the company has Received an order ERP Implementation worth Approx. 2.15 crores From the Education Committee of Shri Maheshwari Samaj , Jaipur",
+        "announcedAt": "2025-11-29T14:34:17.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/",
+        "rawTime": "2025-11-29T14:34:17.697"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-11-29T14:33:10.578+05:30",
-    "checksum": "def5b005cfda48dd8631f84479fe0564bb376b837248c903b927e1a760132b20",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2025-11-29T15:33:37.748+05:30",
+    "checksum": "c226a93b969cc6d4ab886c97144090e13cf8024c57bb44a28a606e0a009f64af",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-11-29/awards-143309.json"
+    "rawPayloadPath": "data/raw/2025-11-29/awards-153336.json"
   }
 }
