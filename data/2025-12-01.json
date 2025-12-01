@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
         "rawTime": "2025-12-01T10:26:31.03"
       }
+    ],
+    "2025-12-01T12": [
+      {
+        "newsId": "13d1bf0a-80eb-4fc9-8324-01f079b6665b",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order Transportation of Pond ash to NHAI Road Projects",
+        "announcedAt": "2025-12-01T12:25:13.423+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2025-12-01T12:25:13.423"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-01T11:35:18.858+05:30",
-    "checksum": "d859bfab3aaa3b201e9d3223e8a59cc52ef4e6f5b883a9029a7f506cabf39840",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-01T12:35:06.951+05:30",
+    "checksum": "7d32614abc005d60205d1a13e75db8255c8311daef0329f9c62ec03d08c3e226",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-01/awards-113518.json"
+    "rawPayloadPath": "data/raw/2025-12-01/awards-123506.json"
   }
 }
