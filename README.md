@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-01 10:00 | MIC Electronics Ltd | 532850 | The Company has received a Letter of Acceptance from from the Vijayawada Railway Division for the value of 1.49 Crore. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 01 Dec 2025 - 10:26 |
 
-_Last updated: 01 Dec 2025 - 10:39 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
+_Last updated: 01 Dec 2025 - 11:35 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
 
 <!-- snapshot:end -->
 
