@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-01 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-01 10:00 | MIC Electronics Ltd | 532850 | The Company has received a Letter of Acceptance from from the Vijayawada Railway Division for the value of 1.49 Crore. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 01 Dec 2025 - 10:26 |
 
-_Last updated: 01 Dec 2025 - 09:52 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
+_Last updated: 01 Dec 2025 - 10:39 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
 
 <!-- snapshot:end -->
 

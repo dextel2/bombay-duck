@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-01",
-  "buckets": {},
+  "buckets": {
+    "2025-12-01T10": [
+      {
+        "newsId": "1a185bee-198e-4278-851d-dd7a40f1b3fd",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "The Company has received a Letter of Acceptance from from the Vijayawada Railway Division for the value of 1.49 Crore.",
+        "announcedAt": "2025-12-01T10:26:31.030+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2025-12-01T10:26:31.03"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-01T09:52:16.641+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-01T10:39:33.208+05:30",
+    "checksum": "d859bfab3aaa3b201e9d3223e8a59cc52ef4e6f5b883a9029a7f506cabf39840",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-01/awards-095215.json"
+    "rawPayloadPath": "data/raw/2025-12-01/awards-103932.json"
   }
 }
