@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-01 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order Transportation of Pond ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 01 Dec 2025 - 12:25 |
 | 2025-12-01 10:00 | MIC Electronics Ltd | 532850 | The Company has received a Letter of Acceptance from from the Vijayawada Railway Division for the value of 1.49 Crore. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 01 Dec 2025 - 10:26 |
 
-_Last updated: 01 Dec 2025 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
+_Last updated: 01 Dec 2025 - 14:36 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
 
 <!-- snapshot:end -->
 
