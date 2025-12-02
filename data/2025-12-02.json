@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2025-12-02T12:04:19.067"
       }
+    ],
+    "2025-12-02T13": [
+      {
+        "newsId": "c6d9fdac-82e6-4650-947a-8128fa09261a",
+        "scripCode": 523792,
+        "shortName": "Mazda Ltd-$",
+        "headline": "Pursuant to Regulation 30 of SEBI Listing Regulations, we would like to inform that the company ('MAZDA LIMITED') has received order of Rs. 24.50 Crore (excluding tax) for supply of Condensers ....",
+        "announcedAt": "2025-12-02T13:57:17.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mazda-ltd/mazda/523792/",
+        "rawTime": "2025-12-02T13:57:17.73"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-02T13:34:21.664+05:30",
-    "checksum": "917130b78279657a9571a592d20addf0f1b1177cbc1f49ec8ef6217af1f7b183",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-02T14:35:46.217+05:30",
+    "checksum": "ce346e109c10e06d06ca891eba19aaef79eaf117ad468637041c7fa8fd154941",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-02/awards-133421.json"
+    "rawPayloadPath": "data/raw/2025-12-02/awards-143545.json"
   }
 }
