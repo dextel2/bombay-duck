@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-02 10:00 | Insolation Energy Ltd | 543620 | We are pleased to inform you that our Wholly Owned Subsidiary, Insolation Green Energy Private Limited has secured sale order amounting to Rs. 516.05 Crores inclusive GST. ([Link](https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/)) | Likely Positive | 02 Dec 2025 - 10:18 |
 | 2025-12-02 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for exclusive special cut and shaped lab-grown polished diamonds amounting to USD 1.50 million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 02 Dec 2025 - 08:49 |
 
-_Last updated: 02 Dec 2025 - 09:39 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-02.json)_
+_Last updated: 02 Dec 2025 - 10:33 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-02.json)_
 
 <!-- snapshot:end -->
 

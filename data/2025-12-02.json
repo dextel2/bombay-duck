@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2025-12-02T08:49:10.873"
       }
+    ],
+    "2025-12-02T10": [
+      {
+        "newsId": "aa19f72a-586c-4ccc-b26c-f030d1337371",
+        "scripCode": 543620,
+        "shortName": "Insolation Energy Ltd",
+        "headline": "We are pleased to inform you that our Wholly Owned Subsidiary, Insolation Green Energy Private Limited has secured sale order amounting to Rs. 516.05 Crores inclusive GST.",
+        "announcedAt": "2025-12-02T10:18:07.627+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/",
+        "rawTime": "2025-12-02T10:18:07.627"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-02T09:39:14.724+05:30",
-    "checksum": "c50e52a8298c1254393e3c816578060a4263fc4cbab0a31a7a5317c0c875a7b1",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-02T10:33:30.634+05:30",
+    "checksum": "2edf16c039813074b1a2ea3570eb3b702d0acb404c23fe268368d6179a8056be",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-02/awards-093914.json"
+    "rawPayloadPath": "data/raw/2025-12-02/awards-103330.json"
   }
 }
