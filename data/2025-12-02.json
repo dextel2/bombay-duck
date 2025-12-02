@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/",
         "rawTime": "2025-12-02T10:18:07.627"
       }
+    ],
+    "2025-12-02T12": [
+      {
+        "newsId": "de4e3d9e-f1c2-4580-937f-aa4b857a1607",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to announce that the company has been awarded new contract worth 30,59,653.5 from Centre for Development of Telematics, Ministry of Communications, Bangalore for providing ....",
+        "announcedAt": "2025-12-02T12:04:19.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2025-12-02T12:04:19.067"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-02T11:34:35.242+05:30",
-    "checksum": "533fa64d9a19fa09db74b0e7eb404c9f66eab49d7b769992c75cb3d101708639",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-02T12:34:43.444+05:30",
+    "checksum": "6d3accd02298be5719fb89261f8b52837b194b4aa13a9aa088406855f99bf804",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-02/awards-113434.json"
+    "rawPayloadPath": "data/raw/2025-12-02/awards-123442.json"
   }
 }
