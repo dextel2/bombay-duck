@@ -34,6 +34,15 @@
     ],
     "2025-12-02T12": [
       {
+        "newsId": "0fc38537-1200-4037-9ed6-f90555a4e73b",
+        "scripCode": 532998,
+        "shortName": "Lotus Eye Hospital And Institute Ltd",
+        "headline": "Imposition of fine",
+        "announcedAt": "2025-12-02T12:42:08.637+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lotus-eye-hospital-and-institute-ltd/lotuseye/532998/",
+        "rawTime": "2025-12-02T12:42:08.637"
+      },
+      {
         "newsId": "de4e3d9e-f1c2-4580-937f-aa4b857a1607",
         "scripCode": 543806,
         "shortName": "ITCONS E-Solutions Ltd",
@@ -45,11 +54,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-02T12:34:43.444+05:30",
-    "checksum": "6d3accd02298be5719fb89261f8b52837b194b4aa13a9aa088406855f99bf804",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-02T13:34:21.664+05:30",
+    "checksum": "917130b78279657a9571a592d20addf0f1b1177cbc1f49ec8ef6217af1f7b183",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-02/awards-123442.json"
+    "rawPayloadPath": "data/raw/2025-12-02/awards-133421.json"
   }
 }
