@@ -14,6 +14,15 @@
     ],
     "2025-12-02T10": [
       {
+        "newsId": "8b0bc5ac-53b9-4fbb-a692-f9936442d210",
+        "scripCode": 539216,
+        "shortName": "Garment Mantra Lifestyle Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulation, 2015 the export order received by our wholly owned subsidiary is submitted herewith",
+        "announcedAt": "2025-12-02T10:48:59.410+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/",
+        "rawTime": "2025-12-02T10:48:59.41"
+      },
+      {
         "newsId": "aa19f72a-586c-4ccc-b26c-f030d1337371",
         "scripCode": 543620,
         "shortName": "Insolation Energy Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-02T10:33:30.634+05:30",
-    "checksum": "2edf16c039813074b1a2ea3570eb3b702d0acb404c23fe268368d6179a8056be",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-02T11:34:35.242+05:30",
+    "checksum": "533fa64d9a19fa09db74b0e7eb404c9f66eab49d7b769992c75cb3d101708639",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-02/awards-103330.json"
+    "rawPayloadPath": "data/raw/2025-12-02/awards-113434.json"
   }
 }
