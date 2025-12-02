@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-02 15:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is inform you that Zaggle Prepaid Ocean Services Limited has entered into an Amendment Agreement with Pernod Ricard India .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 02 Dec 2025 - 15:22 |
 | 2025-12-02 13:00 | Mazda Ltd-$ | 523792 | Pursuant to Regulation 30 of SEBI Listing Regulations, we would like to inform that the company ('MAZDA LIMITED') has received order of Rs. 24.50 Crore (excluding tax) for supply of Condensers .... ([Link](https://www.bseindia.com/stock-share-price/mazda-ltd/mazda/523792/)) | Likely Positive | 02 Dec 2025 - 13:57 |
 | 2025-12-02 12:00 | Lotus Eye Hospital And Institute Ltd | 532998 | Imposition of fine ([Link](https://www.bseindia.com/stock-share-price/lotus-eye-hospital-and-institute-ltd/lotuseye/532998/)) | Neutral | 02 Dec 2025 - 12:42 |
 | 2025-12-02 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to announce that the company has been awarded new contract worth 30,59,653.5 from Centre for Development of Telematics, Ministry of Communications, Bangalore for providing .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 02 Dec 2025 - 12:04 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-02 10:00 | Insolation Energy Ltd | 543620 | We are pleased to inform you that our Wholly Owned Subsidiary, Insolation Green Energy Private Limited has secured sale order amounting to Rs. 516.05 Crores inclusive GST. ([Link](https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/)) | Likely Positive | 02 Dec 2025 - 10:18 |
 | 2025-12-02 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for exclusive special cut and shaped lab-grown polished diamonds amounting to USD 1.50 million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 02 Dec 2025 - 08:49 |
 
-_Last updated: 02 Dec 2025 - 14:35 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-02.json)_
+_Last updated: 02 Dec 2025 - 15:34 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-02.json)_
 
 <!-- snapshot:end -->
 

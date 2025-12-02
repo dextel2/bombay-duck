@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mazda-ltd/mazda/523792/",
         "rawTime": "2025-12-02T13:57:17.73"
       }
+    ],
+    "2025-12-02T15": [
+      {
+        "newsId": "c36a792d-e0ef-4d8a-93c3-305fcc58a9d0",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is inform you that Zaggle Prepaid Ocean Services Limited has entered into an Amendment Agreement with Pernod Ricard India ....",
+        "announcedAt": "2025-12-02T15:22:06.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2025-12-02T15:22:06.277"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-02T14:35:46.217+05:30",
-    "checksum": "ce346e109c10e06d06ca891eba19aaef79eaf117ad468637041c7fa8fd154941",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-02T15:34:05.726+05:30",
+    "checksum": "ed6b2382a9e07154eec35780b28e6cb09d0500900d409d9d68f014231146d4d2",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-02/awards-143545.json"
+    "rawPayloadPath": "data/raw/2025-12-02/awards-153404.json"
   }
 }
