@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-01 IST)
+### Today's Awarded Orders (2025-12-02 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-01 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order Transportation of Pond ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 01 Dec 2025 - 12:25 |
-| 2025-12-01 10:00 | MIC Electronics Ltd | 532850 | The Company has received a Letter of Acceptance from from the Vijayawada Railway Division for the value of 1.49 Crore. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 01 Dec 2025 - 10:26 |
+| 2025-12-02 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for exclusive special cut and shaped lab-grown polished diamonds amounting to USD 1.50 million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 02 Dec 2025 - 08:49 |
 
-_Last updated: 01 Dec 2025 - 15:34 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-01.json)_
+_Last updated: 02 Dec 2025 - 08:57 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-02.json)_
 
 <!-- snapshot:end -->
 
