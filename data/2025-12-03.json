@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
         "rawTime": "2025-12-03T12:42:34.133"
       }
+    ],
+    "2025-12-03T13": [
+      {
+        "newsId": "5ee8129e-97e8-4767-a8cd-f26c81b4ab63",
+        "scripCode": 543273,
+        "shortName": "Knowledge Marine & Engineering Works Ltd",
+        "headline": "KMEW has been received a work order from New Mangalore Port Authority for hiring of One no. of RSV type IV Security Patrol Boat with all manpower excluding High speed diesel. The said work ....",
+        "announcedAt": "2025-12-03T13:47:08.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
+        "rawTime": "2025-12-03T13:47:08.827"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-03T13:34:14.689+05:30",
-    "checksum": "0170ba6940966a3c1d8258284fc9a686a0755333049103b4dd1a5daad9fffa79",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-03T14:35:26.367+05:30",
+    "checksum": "f1a231628a8b5b35cd51970e7aff2efe3ca4eec15d4a2b4a0e9c61a25f13cba5",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-03/awards-133413.json"
+    "rawPayloadPath": "data/raw/2025-12-03/awards-143525.json"
   }
 }

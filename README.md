@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-03 13:00 | Knowledge Marine & Engineering Works Ltd | 543273 | KMEW has been received a work order from New Mangalore Port Authority for hiring of One no. of RSV type IV Security Patrol Boat with all manpower excluding High speed diesel. The said work .... ([Link](https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/)) | Likely Positive | 03 Dec 2025 - 13:47 |
 | 2025-12-03 12:00 | BEML Ltd | 500048 | BEML Limited has informed the exchange about securing an order. ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 03 Dec 2025 - 12:42 |
 | 2025-12-03 09:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of orders worth totaling Rs. 11.37 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 03 Dec 2025 - 09:35 |
 
-_Last updated: 03 Dec 2025 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-03.json)_
+_Last updated: 03 Dec 2025 - 14:35 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-03.json)_
 
 <!-- snapshot:end -->
 
