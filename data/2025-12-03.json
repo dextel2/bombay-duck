@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2025-12-03T09:35:57.067"
       }
+    ],
+    "2025-12-03T12": [
+      {
+        "newsId": "2b7f6f24-885e-4671-aea8-294c7de3806f",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "BEML Limited has informed the exchange about securing an order.",
+        "announcedAt": "2025-12-03T12:42:34.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2025-12-03T12:42:34.133"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-03T12:34:33.732+05:30",
-    "checksum": "e4aac18fb4d848f82974bd37aefc101c3c734a9061cd1b2d2f755d347cb7c35b",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-03T13:34:14.689+05:30",
+    "checksum": "0170ba6940966a3c1d8258284fc9a686a0755333049103b4dd1a5daad9fffa79",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-03/awards-123433.json"
+    "rawPayloadPath": "data/raw/2025-12-03/awards-133413.json"
   }
 }
