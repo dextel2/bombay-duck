@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
         "rawTime": "2025-12-03T13:47:08.827"
       }
+    ],
+    "2025-12-03T15": [
+      {
+        "newsId": "b380a545-39a9-497d-8812-3c858907fb13",
+        "scripCode": 524632,
+        "shortName": "Shukra Pharmaceuticals Ltd",
+        "headline": "Receipt of Letter of Authorization from Integra Medical Devices India Private Limited.",
+        "announcedAt": "2025-12-03T15:17:08.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shukra-pharmaceuticals-ltd/shukraphar/524632/",
+        "rawTime": "2025-12-03T15:17:08.803"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-03T14:35:26.367+05:30",
-    "checksum": "f1a231628a8b5b35cd51970e7aff2efe3ca4eec15d4a2b4a0e9c61a25f13cba5",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-03T15:34:08.772+05:30",
+    "checksum": "e96609de45c972b8bc8851a214f66da05104ed9f8cd1085efcb128406f9b3092",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-03/awards-143525.json"
+    "rawPayloadPath": "data/raw/2025-12-03/awards-153408.json"
   }
 }
