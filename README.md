@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-04 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-04 10:00 | Josts Engineering Company Ltd | 505750 | Intimation regarding receipt of Order from North Bihar Power Distribution Company Limited ([Link](https://www.bseindia.com/stock-share-price/josts-engineering-company-ltd/josts/505750/)) | Likely Positive | 04 Dec 2025 - 10:00 |
 
-_Last updated: 04 Dec 2025 - 09:39 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
+_Last updated: 04 Dec 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
 
 <!-- snapshot:end -->
 

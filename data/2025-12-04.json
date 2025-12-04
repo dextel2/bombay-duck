@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-04",
-  "buckets": {},
+  "buckets": {
+    "2025-12-04T10": [
+      {
+        "newsId": "6e99f954-ce32-4d62-aed1-3b609f058b5f",
+        "scripCode": 505750,
+        "shortName": "Josts Engineering Company Ltd",
+        "headline": "Intimation regarding receipt of Order from North Bihar Power Distribution Company Limited",
+        "announcedAt": "2025-12-04T10:00:52.030+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/josts-engineering-company-ltd/josts/505750/",
+        "rawTime": "2025-12-04T10:00:52.03"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-04T09:39:17.363+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-04T10:33:52.290+05:30",
+    "checksum": "6529815a8aab3f8b6741bfcdad1f1b475c65e56bd63ebbde3c5d75cafff7e61c",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-04/awards-093916.json"
+    "rawPayloadPath": "data/raw/2025-12-04/awards-103351.json"
   }
 }
