@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/asian-energy-services-ltd/asianene/530355/",
         "rawTime": "2025-12-04T12:32:14.507"
       }
+    ],
+    "2025-12-04T13": [
+      {
+        "newsId": "ae7df333-3190-428d-ac95-ca2a5afbbb3d",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "BEML Limited has informed the exchange about receipt of order",
+        "announcedAt": "2025-12-04T13:22:13.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2025-12-04T13:22:13.51"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-04T12:34:14.253+05:30",
-    "checksum": "86322dad9bfb9ee039fd39b6dccc3dbdf23aac1184e009cf0fe2a2441839d06c",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-04T13:34:24.337+05:30",
+    "checksum": "e9a2f63edad71f96283f9147f1c05290108a110d054c715eed3f88c19a2a88c7",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-04/awards-123413.json"
+    "rawPayloadPath": "data/raw/2025-12-04/awards-133423.json"
   }
 }
