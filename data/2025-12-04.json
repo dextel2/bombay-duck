@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
         "rawTime": "2025-12-04T13:22:13.51"
       }
+    ],
+    "2025-12-04T15": [
+      {
+        "newsId": "7ab9b818-0044-4220-baaa-ba05628eb226",
+        "scripCode": 532986,
+        "shortName": "Niraj Cement Structurals Ltd",
+        "headline": "Disclosure under Regulation 30 of LODR",
+        "announcedAt": "2025-12-04T15:12:57.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/niraj-cement-structurals-ltd/niraj/532986/",
+        "rawTime": "2025-12-04T15:12:57.193"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-04T14:34:49.033+05:30",
-    "checksum": "3b0d35f774860367bf2a4a52bc313717fd9f3bcd32fe69fa9a8031a36b20bbaa",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-04T15:34:06.310+05:30",
+    "checksum": "2949de0db3b4d7645794f87c0e48fe1d10e12e390deb71ff5dbca4bda0865d30",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-04/awards-143448.json"
+    "rawPayloadPath": "data/raw/2025-12-04/awards-153405.json"
   }
 }
