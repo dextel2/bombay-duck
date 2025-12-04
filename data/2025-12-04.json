@@ -45,6 +45,15 @@
     ],
     "2025-12-04T13": [
       {
+        "newsId": "57cbb4b5-6af0-4748-9214-c54affead709",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited emerged as L-1 bidder as tender floated by PWD (R&B) JAMMU of an total amount Rs. 113.54 Crores.",
+        "announcedAt": "2025-12-04T13:46:17.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2025-12-04T13:46:17.98"
+      },
+      {
         "newsId": "ae7df333-3190-428d-ac95-ca2a5afbbb3d",
         "scripCode": 500048,
         "shortName": "BEML Ltd",
@@ -56,11 +65,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-04T13:34:24.337+05:30",
-    "checksum": "e9a2f63edad71f96283f9147f1c05290108a110d054c715eed3f88c19a2a88c7",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-04T14:34:49.033+05:30",
+    "checksum": "3b0d35f774860367bf2a4a52bc313717fd9f3bcd32fe69fa9a8031a36b20bbaa",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-04/awards-133423.json"
+    "rawPayloadPath": "data/raw/2025-12-04/awards-143448.json"
   }
 }
