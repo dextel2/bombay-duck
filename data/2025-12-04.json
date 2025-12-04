@@ -14,6 +14,15 @@
     ],
     "2025-12-04T11": [
       {
+        "newsId": "06b4e5a6-db31-4a8c-a7b0-97c777a16a0c",
+        "scripCode": 517168,
+        "shortName": "Subros Ltd",
+        "headline": "New order received from Railways",
+        "announcedAt": "2025-12-04T11:47:31.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subros-ltd/subros/517168/",
+        "rawTime": "2025-12-04T11:47:31.19"
+      },
+      {
         "newsId": "8476bfbc-719f-4696-9110-809655c51d61",
         "scripCode": 532928,
         "shortName": "Transformers and Rectifiers (India) Ltd",
@@ -22,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
         "rawTime": "2025-12-04T11:03:59.36"
       }
+    ],
+    "2025-12-04T12": [
+      {
+        "newsId": "c76c9681-c134-48af-b3f1-5e1f8d826033",
+        "scripCode": 530355,
+        "shortName": "Asian Energy Services Ltd",
+        "headline": "Receipt of Letter of Award (LOA) from Sun Petrochemicals Private Limited- Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2025-12-04T12:32:14.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/asian-energy-services-ltd/asianene/530355/",
+        "rawTime": "2025-12-04T12:32:14.507"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-04T11:35:03.279+05:30",
-    "checksum": "0c2c2ccf6f707cec5b5ae13ad4a934015cb44df32e34d521b97ce60ae07b1ce6",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-04T12:34:14.253+05:30",
+    "checksum": "86322dad9bfb9ee039fd39b6dccc3dbdf23aac1184e009cf0fe2a2441839d06c",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-04/awards-113502.json"
+    "rawPayloadPath": "data/raw/2025-12-04/awards-123413.json"
   }
 }

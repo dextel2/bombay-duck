@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-04 12:00 | Asian Energy Services Ltd | 530355 | Receipt of Letter of Award (LOA) from Sun Petrochemicals Private Limited- Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/asian-energy-services-ltd/asianene/530355/)) | Likely Positive | 04 Dec 2025 - 12:32 |
+| 2025-12-04 11:00 | Subros Ltd | 517168 | New order received from Railways ([Link](https://www.bseindia.com/stock-share-price/subros-ltd/subros/517168/)) | Likely Positive | 04 Dec 2025 - 11:47 |
 | 2025-12-04 11:00 | Transformers and Rectifiers (India) Ltd | 532928 | TARIL has secured Order for HVDC Converter Transformer ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 04 Dec 2025 - 11:03 |
 | 2025-12-04 10:00 | Josts Engineering Company Ltd | 505750 | Intimation regarding receipt of Order from North Bihar Power Distribution Company Limited ([Link](https://www.bseindia.com/stock-share-price/josts-engineering-company-ltd/josts/505750/)) | Likely Positive | 04 Dec 2025 - 10:00 |
 
-_Last updated: 04 Dec 2025 - 11:35 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
+_Last updated: 04 Dec 2025 - 12:34 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
 
 <!-- snapshot:end -->
 
