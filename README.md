@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-04 11:00 | Transformers and Rectifiers (India) Ltd | 532928 | TARIL has secured Order for HVDC Converter Transformer ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 04 Dec 2025 - 11:03 |
 | 2025-12-04 10:00 | Josts Engineering Company Ltd | 505750 | Intimation regarding receipt of Order from North Bihar Power Distribution Company Limited ([Link](https://www.bseindia.com/stock-share-price/josts-engineering-company-ltd/josts/505750/)) | Likely Positive | 04 Dec 2025 - 10:00 |
 
-_Last updated: 04 Dec 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
+_Last updated: 04 Dec 2025 - 11:35 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
 
 <!-- snapshot:end -->
 

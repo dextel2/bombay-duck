@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/josts-engineering-company-ltd/josts/505750/",
         "rawTime": "2025-12-04T10:00:52.03"
       }
+    ],
+    "2025-12-04T11": [
+      {
+        "newsId": "8476bfbc-719f-4696-9110-809655c51d61",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "TARIL has secured Order for HVDC Converter Transformer",
+        "announcedAt": "2025-12-04T11:03:59.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2025-12-04T11:03:59.36"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-04T10:33:52.290+05:30",
-    "checksum": "6529815a8aab3f8b6741bfcdad1f1b475c65e56bd63ebbde3c5d75cafff7e61c",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-04T11:35:03.279+05:30",
+    "checksum": "0c2c2ccf6f707cec5b5ae13ad4a934015cb44df32e34d521b97ce60ae07b1ce6",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-04/awards-103351.json"
+    "rawPayloadPath": "data/raw/2025-12-04/awards-113502.json"
   }
 }
