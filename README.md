@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-04 IST)
+### Today's Awarded Orders (2025-12-05 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-04 15:00 | Niraj Cement Structurals Ltd | 532986 | Disclosure under Regulation 30 of LODR ([Link](https://www.bseindia.com/stock-share-price/niraj-cement-structurals-ltd/niraj/532986/)) | Neutral | 04 Dec 2025 - 15:12 |
-| 2025-12-04 13:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited emerged as L-1 bidder as tender floated by PWD (R&B) JAMMU of an total amount Rs. 113.54 Crores. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 04 Dec 2025 - 13:46 |
-| 2025-12-04 13:00 | BEML Ltd | 500048 | BEML Limited has informed the exchange about receipt of order ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 04 Dec 2025 - 13:22 |
-| 2025-12-04 12:00 | Asian Energy Services Ltd | 530355 | Receipt of Letter of Award (LOA) from Sun Petrochemicals Private Limited- Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/asian-energy-services-ltd/asianene/530355/)) | Likely Positive | 04 Dec 2025 - 12:32 |
-| 2025-12-04 11:00 | Subros Ltd | 517168 | New order received from Railways ([Link](https://www.bseindia.com/stock-share-price/subros-ltd/subros/517168/)) | Likely Positive | 04 Dec 2025 - 11:47 |
-| 2025-12-04 11:00 | Transformers and Rectifiers (India) Ltd | 532928 | TARIL has secured Order for HVDC Converter Transformer ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 04 Dec 2025 - 11:03 |
-| 2025-12-04 10:00 | Josts Engineering Company Ltd | 505750 | Intimation regarding receipt of Order from North Bihar Power Distribution Company Limited ([Link](https://www.bseindia.com/stock-share-price/josts-engineering-company-ltd/josts/505750/)) | Likely Positive | 04 Dec 2025 - 10:00 |
+_No award announcements have been captured yet today._
 
-_Last updated: 04 Dec 2025 - 15:34 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-04.json)_
+_Last updated: 05 Dec 2025 - 08:57 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-05.json)_
 
 <!-- snapshot:end -->
 
