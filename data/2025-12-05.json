@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
         "rawTime": "2025-12-05T10:40:27.147"
       }
+    ],
+    "2025-12-05T12": [
+      {
+        "newsId": "070a7731-460b-40e2-8510-fa5edef13a2d",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of Work Ordre.",
+        "announcedAt": "2025-12-05T12:24:54.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2025-12-05T12:24:54.093"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-05T11:34:33.213+05:30",
-    "checksum": "ad04e7df3a7dac5c3aa9d995f826e02b0899f47037b46d4a923a06ffbbabcb87",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-05T12:34:04.758+05:30",
+    "checksum": "86c86277bd1bc9e884cb273bb4b4bad82f2d28b8165252639489df661888f1fe",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-05/awards-113432.json"
+    "rawPayloadPath": "data/raw/2025-12-05/awards-123404.json"
   }
 }

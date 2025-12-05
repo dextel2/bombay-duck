@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-05 12:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Ordre. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 05 Dec 2025 - 12:24 |
 | 2025-12-05 10:00 | Blue Coast Hotels Ltd | 531495 | Blue Coast Hotels Limited hereby inform exchange regarding the order passed. ([Link](https://www.bseindia.com/stock-share-price/blue-coast-hotels-ltd/bluecoast/531495/)) | Likely Positive | 05 Dec 2025 - 10:48 |
 | 2025-12-05 10:00 | Waaree Energies Ltd | 544277 | Receipt of Order on December 05, 2025. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 05 Dec 2025 - 10:40 |
 
-_Last updated: 05 Dec 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-05.json)_
+_Last updated: 05 Dec 2025 - 12:34 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-05.json)_
 
 <!-- snapshot:end -->
 
