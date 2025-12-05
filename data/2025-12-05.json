@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2025-12-05T12:24:54.093"
       }
+    ],
+    "2025-12-05T13": [
+      {
+        "newsId": "200ec4bc-c296-462e-a491-a7a80b177f01",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform that the Company has received a purchase order from Endress and Hauser India amounting to Rs. 1,51,18,002/- (Rupees One Crore Fifty One Lacs Eighteen Thousand and ....",
+        "announcedAt": "2025-12-05T13:55:45.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-12-05T13:55:45.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-05T13:34:18.689+05:30",
-    "checksum": "86c86277bd1bc9e884cb273bb4b4bad82f2d28b8165252639489df661888f1fe",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-05T14:34:14.264+05:30",
+    "checksum": "6951ee55cb15d157c16bcd04e8e51b3d36e1ca732950af7243e9c8bf3679af18",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-05/awards-133418.json"
+    "rawPayloadPath": "data/raw/2025-12-05/awards-143413.json"
   }
 }
