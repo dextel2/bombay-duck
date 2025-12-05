@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
         "rawTime": "2025-12-05T13:55:45.107"
       }
+    ],
+    "2025-12-05T15": [
+      {
+        "newsId": "e88f2c39-4883-4100-b6f7-972625ce974a",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The Company has received an order of worth INR 6.02 Crores for the supply, fabrication for bow steel string girder nad composite girder in the PEB Manufacturing division of the Company.",
+        "announcedAt": "2025-12-05T15:03:39.467+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2025-12-05T15:03:39.467"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-05T14:34:14.264+05:30",
-    "checksum": "6951ee55cb15d157c16bcd04e8e51b3d36e1ca732950af7243e9c8bf3679af18",
-    "totalAnnouncements": 4,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-05T15:34:01.787+05:30",
+    "checksum": "402b3244b5ef9a8d8eeb6a23395d3c427619fd5146b299f0d4d3406a2b0d3c05",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-05/awards-143413.json"
+    "rawPayloadPath": "data/raw/2025-12-05/awards-153401.json"
   }
 }
