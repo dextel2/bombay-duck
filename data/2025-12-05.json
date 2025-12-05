@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-12-05",
-  "buckets": {},
+  "buckets": {
+    "2025-12-05T10": [
+      {
+        "newsId": "f3a2b3a3-f309-4c2d-907d-a8bb99ca0faa",
+        "scripCode": 531495,
+        "shortName": "Blue Coast Hotels Ltd",
+        "headline": "Blue Coast Hotels Limited hereby inform exchange regarding the order passed.",
+        "announcedAt": "2025-12-05T10:48:59.350+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/blue-coast-hotels-ltd/bluecoast/531495/",
+        "rawTime": "2025-12-05T10:48:59.35"
+      },
+      {
+        "newsId": "e13d7416-5c8b-48ca-8f43-25b2668c5e01",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Receipt of Order on December 05, 2025.",
+        "announcedAt": "2025-12-05T10:40:27.147+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2025-12-05T10:40:27.147"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-05T10:33:55.318+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-05T11:34:33.213+05:30",
+    "checksum": "ad04e7df3a7dac5c3aa9d995f826e02b0899f47037b46d4a923a06ffbbabcb87",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-05/awards-103354.json"
+    "rawPayloadPath": "data/raw/2025-12-05/awards-113432.json"
   }
 }
