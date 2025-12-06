@@ -14,6 +14,15 @@
     ],
     "2025-12-06T12": [
       {
+        "newsId": "32ab8d07-119b-4050-a520-2a495933336e",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has received a Work Order from Hanumangarh Kendriya Sahakari Bank Ltd. (HKSB), for Supply, Installation, Commissioning and Maintenance of Micro ATMs for PACS and DUSS of Hanumangarh ....",
+        "announcedAt": "2025-12-06T12:42:21.377+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2025-12-06T12:42:21.377"
+      },
+      {
         "newsId": "5fd98aef-cd08-4012-bca6-358b80b01b6f",
         "scripCode": 523716,
         "shortName": "Ashiana Housing Ltd-$",
@@ -22,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/",
         "rawTime": "2025-12-06T12:11:28.9"
       }
+    ],
+    "2025-12-06T13": [
+      {
+        "newsId": "23de002a-8efc-4483-af26-61c7316808ee",
+        "scripCode": 542459,
+        "shortName": "Kranti Industries Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that Kranti Industries Limited ....",
+        "announcedAt": "2025-12-06T13:31:55.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/",
+        "rawTime": "2025-12-06T13:31:55.183"
+      },
+      {
+        "newsId": "0cb8e6d4-ec6c-4710-b935-8fc0cc912edc",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Ashoka Buildcon Limited informs that the Company has received a Letter from Brihanmumbai Municipal Corporation (BMC) awarding scope of work in respect of the existing Project viz. Construction ....",
+        "announcedAt": "2025-12-06T13:22:32.667+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2025-12-06T13:22:32.667"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-06T12:33:24.072+05:30",
-    "checksum": "8c52916d7ba81b84ebc8649fc3b1b6b93bd09bd875f034420f3c5451b7f5878d",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-06T13:33:41.951+05:30",
+    "checksum": "156542d28b0ca33a147555db2ab7e8b5973d9f9693e2511d20789fbe3ae3364a",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-06/awards-123323.json"
+    "rawPayloadPath": "data/raw/2025-12-06/awards-133340.json"
   }
 }
