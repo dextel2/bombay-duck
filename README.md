@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-06 11:00 | MTAR Technologies Ltd | 543270 | Bagging of order worth Rs. 190 Crores in Civil Nuclear Power Sector. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 06 Dec 2025 - 11:21 |
 
-_Last updated: 06 Dec 2025 - 10:33 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-06.json)_
+_Last updated: 06 Dec 2025 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-06.json)_
 
 <!-- snapshot:end -->
 

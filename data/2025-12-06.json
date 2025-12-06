@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-06",
-  "buckets": {},
+  "buckets": {
+    "2025-12-06T11": [
+      {
+        "newsId": "870b89ad-d29a-4b40-afb6-04be9e2c51fe",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Bagging of order worth Rs. 190 Crores in Civil Nuclear Power Sector.",
+        "announcedAt": "2025-12-06T11:21:45.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2025-12-06T11:21:45.13"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-06T10:33:12.902+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-06T11:34:04.497+05:30",
+    "checksum": "9f4976a3f220e3bae07a07b15b490a98a8ca851e3782db976da172e922d8e432",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-06/awards-103312.json"
+    "rawPayloadPath": "data/raw/2025-12-06/awards-113403.json"
   }
 }
