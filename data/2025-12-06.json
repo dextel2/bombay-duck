@@ -34,6 +34,15 @@
     ],
     "2025-12-06T13": [
       {
+        "newsId": "12f45868-a100-4749-9bc0-11a91afa94ad",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "We are pleased to inform all stakeholders that the Company has secured export orders worth ~USD 72.96 million (equivalent to ~INR 656.10 crore), for the supply of optical fiber cables, ....",
+        "announcedAt": "2025-12-06T13:58:28.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2025-12-06T13:58:28.89"
+      },
+      {
         "newsId": "23de002a-8efc-4483-af26-61c7316808ee",
         "scripCode": 542459,
         "shortName": "Kranti Industries Ltd",
@@ -54,11 +63,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-06T13:33:41.951+05:30",
-    "checksum": "156542d28b0ca33a147555db2ab7e8b5973d9f9693e2511d20789fbe3ae3364a",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-06T14:33:47.988+05:30",
+    "checksum": "2bd013b29b3a4946a9d1c377980f2dfed84fc1a9a3ba6bc5cb7c877b2b3d33f1",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-06/awards-133340.json"
+    "rawPayloadPath": "data/raw/2025-12-06/awards-143347.json"
   }
 }

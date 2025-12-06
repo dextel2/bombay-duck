@@ -22,13 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-06 13:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export orders worth ~USD 72.96 million (equivalent to ~INR 656.10 crore), for the supply of optical fiber cables, .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 06 Dec 2025 - 13:58 |
 | 2025-12-06 13:00 | Kranti Industries Ltd | 542459 | Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that Kranti Industries Limited .... ([Link](https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/)) | Neutral | 06 Dec 2025 - 13:31 |
 | 2025-12-06 13:00 | Ashoka Buildcon Ltd | 533271 | Ashoka Buildcon Limited informs that the Company has received a Letter from Brihanmumbai Municipal Corporation (BMC) awarding scope of work in respect of the existing Project viz. Construction .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 06 Dec 2025 - 13:22 |
 | 2025-12-06 12:00 | Atishay Ltd | 538713 | The Company has received a Work Order from Hanumangarh Kendriya Sahakari Bank Ltd. (HKSB), for Supply, Installation, Commissioning and Maintenance of Micro ATMs for PACS and DUSS of Hanumangarh .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 06 Dec 2025 - 12:42 |
 | 2025-12-06 12:00 | Ashiana Housing Ltd-$ | 523716 | Intimation under Regulation 30 of SEBI (LODR) regarding demand under Section 201(1)/(1A) of the Income Tax Act 1961 ([Link](https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/)) | Neutral | 06 Dec 2025 - 12:11 |
 | 2025-12-06 11:00 | MTAR Technologies Ltd | 543270 | Bagging of order worth Rs. 190 Crores in Civil Nuclear Power Sector. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 06 Dec 2025 - 11:21 |
 
-_Last updated: 06 Dec 2025 - 13:33 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-06.json)_
+_Last updated: 06 Dec 2025 - 14:33 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-06.json)_
 
 <!-- snapshot:end -->
 
