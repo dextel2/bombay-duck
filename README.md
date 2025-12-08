@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-08 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-08 11:00 | Lotus Eye Hospital And Institute Ltd | 532998 | imposition of fine ([Link](https://www.bseindia.com/stock-share-price/lotus-eye-hospital-and-institute-ltd/lotuseye/532998/)) | Neutral | 08 Dec 2025 - 11:01 |
 
-_Last updated: 08 Dec 2025 - 10:34 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-08.json)_
+_Last updated: 08 Dec 2025 - 11:35 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-08.json)_
 
 <!-- snapshot:end -->
 

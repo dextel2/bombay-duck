@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-08",
-  "buckets": {},
+  "buckets": {
+    "2025-12-08T11": [
+      {
+        "newsId": "59969903-2207-43fb-9eb3-b28416890bfa",
+        "scripCode": 532998,
+        "shortName": "Lotus Eye Hospital And Institute Ltd",
+        "headline": "imposition of fine",
+        "announcedAt": "2025-12-08T11:01:44.393+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lotus-eye-hospital-and-institute-ltd/lotuseye/532998/",
+        "rawTime": "2025-12-08T11:01:44.393"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-08T10:34:34.634+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-08T11:35:19.425+05:30",
+    "checksum": "6d47ec716983f968138fd20e6e1ceb4b02d7ee56efbfdb25b358e4018d3e72bd",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-08/awards-103433.json"
+    "rawPayloadPath": "data/raw/2025-12-08/awards-113518.json"
   }
 }
