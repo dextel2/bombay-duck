@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/lotus-eye-hospital-and-institute-ltd/lotuseye/532998/",
         "rawTime": "2025-12-08T11:01:44.393"
       }
+    ],
+    "2025-12-08T15": [
+      {
+        "newsId": "460f8a43-9d6d-4188-bd27-ded8f403212d",
+        "scripCode": 544608,
+        "shortName": "Emmvee Photovoltaic Power Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Receipt of Order/Entering in to a Supply Agreement",
+        "announcedAt": "2025-12-08T15:00:15.993+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/",
+        "rawTime": "2025-12-08T15:00:15.993"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-08T14:36:10.022+05:30",
-    "checksum": "6d47ec716983f968138fd20e6e1ceb4b02d7ee56efbfdb25b358e4018d3e72bd",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-08T15:34:00.740+05:30",
+    "checksum": "3bcbb6a90ad869cc2e312f30073b4146b91048e513abb70efe098d87306e3230",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-08/awards-143609.json"
+    "rawPayloadPath": "data/raw/2025-12-08/awards-153359.json"
   }
 }

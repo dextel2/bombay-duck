@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-08 15:00 | Emmvee Photovoltaic Power Ltd | 544608 | Announcement under Regulation 30 (LODR) - Receipt of Order/Entering in to a Supply Agreement ([Link](https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/)) | Likely Positive | 08 Dec 2025 - 15:00 |
 | 2025-12-08 11:00 | Lotus Eye Hospital And Institute Ltd | 532998 | imposition of fine ([Link](https://www.bseindia.com/stock-share-price/lotus-eye-hospital-and-institute-ltd/lotuseye/532998/)) | Neutral | 08 Dec 2025 - 11:01 |
 
-_Last updated: 08 Dec 2025 - 14:36 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-08.json)_
+_Last updated: 08 Dec 2025 - 15:34 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-08.json)_
 
 <!-- snapshot:end -->
 
