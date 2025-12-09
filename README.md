@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-09 12:00 | Regency Ceramics Ltd | 515018 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/regency-ceramics-ltd/regenceram/515018/)) | Likely Positive | 09 Dec 2025 - 12:14 |
 
-_Last updated: 09 Dec 2025 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-09.json)_
+_Last updated: 09 Dec 2025 - 14:35 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-09.json)_
 
 <!-- snapshot:end -->
 
