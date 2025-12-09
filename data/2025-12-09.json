@@ -11,14 +11,54 @@
         "url": "https://www.bseindia.com/stock-share-price/regency-ceramics-ltd/regenceram/515018/",
         "rawTime": "2025-12-09T12:14:03.057"
       }
+    ],
+    "2025-12-09T15": [
+      {
+        "newsId": "d02d941a-2321-410f-9f1f-61e56a930571",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-12-09T15:13:16.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2025-12-09T15:13:16.653"
+      }
+    ],
+    "2025-12-09T14": [
+      {
+        "newsId": "4a5445cf-d25e-493e-9bae-3f24abb662ee",
+        "scripCode": 543977,
+        "shortName": "Rishabh Instruments Ltd",
+        "headline": "As per attachment",
+        "announcedAt": "2025-12-09T14:51:56.227+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rishabh-instruments-ltd/rishabh/543977/",
+        "rawTime": "2025-12-09T14:51:56.227"
+      },
+      {
+        "newsId": "3f7c3ced-4007-4583-a32d-753d0ba8cd13",
+        "scripCode": 504908,
+        "shortName": "Duncan Engineering Ltd-$",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 regarding order passed by Hon''ble Commercial Dispute Court, Hyderabad.",
+        "announcedAt": "2025-12-09T14:49:40.237+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/duncan-engineering-ltd/duncaneng/504908/",
+        "rawTime": "2025-12-09T14:49:40.237"
+      },
+      {
+        "newsId": "a606a960-00b5-49b4-bac3-cdaddd3385ff",
+        "scripCode": 544532,
+        "shortName": "Solarworld Energy Solutions Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Signing of binding term sheet for execution of EPC works",
+        "announcedAt": "2025-12-09T14:45:40.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
+        "rawTime": "2025-12-09T14:45:40.92"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-09T14:35:05.307+05:30",
-    "checksum": "7e67cd7c1ceb956f0b7386ce709e45ad46e73542b9c84d0e3f145c2c6d57b1b4",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-09T15:34:30.590+05:30",
+    "checksum": "bb611238169298a4308f8458b6c6e5a5c8481de08821cdefbefa286d8c4fa65e",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-09/awards-143504.json"
+    "rawPayloadPath": "data/raw/2025-12-09/awards-153429.json"
   }
 }
