@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-09",
-  "buckets": {},
+  "buckets": {
+    "2025-12-09T12": [
+      {
+        "newsId": "717bb0f6-0230-417e-9e3c-21398006dbf6",
+        "scripCode": 515018,
+        "shortName": "Regency Ceramics Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2025-12-09T12:14:03.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/regency-ceramics-ltd/regenceram/515018/",
+        "rawTime": "2025-12-09T12:14:03.057"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-09T11:34:36.548+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-09T12:34:39.484+05:30",
+    "checksum": "7e67cd7c1ceb956f0b7386ce709e45ad46e73542b9c84d0e3f145c2c6d57b1b4",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-09/awards-113436.json"
+    "rawPayloadPath": "data/raw/2025-12-09/awards-123438.json"
   }
 }
