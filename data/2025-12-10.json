@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/onix-solar-energy-ltd/onixsolar/513119/",
         "rawTime": "2025-12-10T11:12:11.783"
       }
+    ],
+    "2025-12-10T12": [
+      {
+        "newsId": "614aed3d-8226-4cc4-99b5-9e4faa0c499d",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has secured a new work order from Government of Maharashtra, State Health Assurance Society (SHAS) for printing of PVC Ayushman cards in Six (6) districts of Maharashtra State. ....",
+        "announcedAt": "2025-12-10T12:46:31.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2025-12-10T12:46:31.017"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-10T12:35:09.753+05:30",
-    "checksum": "4d12746e8014190866b92aaa51b836f81134ada1e8bf95de7f331c617f1f7f6e",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-10T13:34:29.717+05:30",
+    "checksum": "bfc141ed97294ff58634ee7ae308cc022d8d61e211bb51e58f09a6a8602c0d2d",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-123509.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-133429.json"
   }
 }
