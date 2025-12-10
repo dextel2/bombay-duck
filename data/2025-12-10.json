@@ -14,6 +14,15 @@
     ],
     "2025-12-10T10": [
       {
+        "newsId": "bef09d5d-13b7-4842-8abc-b2072d230ed2",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We hereby inform that the Company has received a purchase order amounting Rs. 1,00,30,000/- from Yokogawa India Limited",
+        "announcedAt": "2025-12-10T10:44:44.737+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2025-12-10T10:44:44.737"
+      },
+      {
         "newsId": "c0941128-dedb-4347-839a-f96ade9ea34d",
         "scripCode": 540047,
         "shortName": "Dilip Buildcon Ltd",
@@ -22,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2025-12-10T10:31:54.97"
       }
+    ],
+    "2025-12-10T11": [
+      {
+        "newsId": "a70e056a-797c-4a94-801b-7e899161cc27",
+        "scripCode": 513119,
+        "shortName": "Onix Solar Energy Ltd",
+        "headline": "Company has received Letter of intent from M/s Vikran Engineering Limited for supply of Non DCR Topcon 620 WP Solar Module\" worth Rs. 148.80 Crores.",
+        "announcedAt": "2025-12-10T11:12:11.783+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/onix-solar-energy-ltd/onixsolar/513119/",
+        "rawTime": "2025-12-10T11:12:11.783"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-10T10:34:19.254+05:30",
-    "checksum": "d5b413b4d3e7e23c991b70ae29cecb6ac16a4a1720421071a618f57ea29cd329",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-10T11:34:43.158+05:30",
+    "checksum": "53c2f57d1c83c5af21fba295dfaa264fee986432090960315e326c75699fd2cb",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-103418.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-113442.json"
   }
 }
