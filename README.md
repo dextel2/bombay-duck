@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-10 10:00 | Dilip Buildcon Ltd | 540047 | In continuation to our disclosure dated November 24, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 10 Dec 2025 - 10:31 |
 | 2025-12-10 09:00 | Kalpataru Projects International Ltd | 522287 | KPIL Awarded New Orders of Rs. 2,003 Crores - Press Release ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 10 Dec 2025 - 09:19 |
 
-_Last updated: 10 Dec 2025 - 09:41 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
+_Last updated: 10 Dec 2025 - 10:34 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
 
 <!-- snapshot:end -->
 

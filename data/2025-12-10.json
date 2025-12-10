@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2025-12-10T09:19:38.66"
       }
+    ],
+    "2025-12-10T10": [
+      {
+        "newsId": "c0941128-dedb-4347-839a-f96ade9ea34d",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "In continuation to our disclosure dated November 24, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) ....",
+        "announcedAt": "2025-12-10T10:31:54.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2025-12-10T10:31:54.97"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-10T09:41:12.509+05:30",
-    "checksum": "03f633516588248bd38cadc1800c2dd08e7570344969c1686fe0c5b1466d24be",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-10T10:34:19.254+05:30",
+    "checksum": "d5b413b4d3e7e23c991b70ae29cecb6ac16a4a1720421071a618f57ea29cd329",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-094111.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-103418.json"
   }
 }
