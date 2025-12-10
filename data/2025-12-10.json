@@ -34,6 +34,15 @@
     ],
     "2025-12-10T11": [
       {
+        "newsId": "03903ee5-1882-4835-9e25-811a3ece8850",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "Subex wins 5-year deal in Europe with a Leading Integrated Energy & Telecom Provider",
+        "announcedAt": "2025-12-10T11:46:33.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2025-12-10T11:46:33.79"
+      },
+      {
         "newsId": "a70e056a-797c-4a94-801b-7e899161cc27",
         "scripCode": 513119,
         "shortName": "Onix Solar Energy Ltd",
@@ -45,11 +54,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-10T11:34:43.158+05:30",
-    "checksum": "53c2f57d1c83c5af21fba295dfaa264fee986432090960315e326c75699fd2cb",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-10T12:35:09.753+05:30",
+    "checksum": "4d12746e8014190866b92aaa51b836f81134ada1e8bf95de7f331c617f1f7f6e",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-113442.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-123509.json"
   }
 }

@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-10 11:00 | Subex Ltd | 532348 | Subex wins 5-year deal in Europe with a Leading Integrated Energy & Telecom Provider ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 10 Dec 2025 - 11:46 |
 | 2025-12-10 11:00 | Onix Solar Energy Ltd | 513119 | Company has received Letter of intent from M/s Vikran Engineering Limited for supply of Non DCR Topcon 620 WP Solar Module" worth Rs. 148.80 Crores. ([Link](https://www.bseindia.com/stock-share-price/onix-solar-energy-ltd/onixsolar/513119/)) | Neutral | 10 Dec 2025 - 11:12 |
 | 2025-12-10 10:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform that the Company has received a purchase order amounting Rs. 1,00,30,000/- from Yokogawa India Limited ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 10 Dec 2025 - 10:44 |
 | 2025-12-10 10:00 | Dilip Buildcon Ltd | 540047 | In continuation to our disclosure dated November 24, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 10 Dec 2025 - 10:31 |
 | 2025-12-10 09:00 | Kalpataru Projects International Ltd | 522287 | KPIL Awarded New Orders of Rs. 2,003 Crores - Press Release ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 10 Dec 2025 - 09:19 |
 
-_Last updated: 10 Dec 2025 - 11:34 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
+_Last updated: 10 Dec 2025 - 12:35 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
 
 <!-- snapshot:end -->
 
