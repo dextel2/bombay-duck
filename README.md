@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-09 IST)
+### Today's Awarded Orders (2025-12-10 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-09 15:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 09 Dec 2025 - 15:13 |
-| 2025-12-09 14:00 | Rishabh Instruments Ltd | 543977 | As per attachment ([Link](https://www.bseindia.com/stock-share-price/rishabh-instruments-ltd/rishabh/543977/)) | Neutral | 09 Dec 2025 - 14:51 |
-| 2025-12-09 14:00 | Duncan Engineering Ltd-$ | 504908 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 regarding order passed by Hon''ble Commercial Dispute Court, Hyderabad. ([Link](https://www.bseindia.com/stock-share-price/duncan-engineering-ltd/duncaneng/504908/)) | Likely Positive | 09 Dec 2025 - 14:49 |
-| 2025-12-09 14:00 | Solarworld Energy Solutions Ltd | 544532 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Signing of binding term sheet for execution of EPC works ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Neutral | 09 Dec 2025 - 14:45 |
-| 2025-12-09 12:00 | Regency Ceramics Ltd | 515018 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/regency-ceramics-ltd/regenceram/515018/)) | Likely Positive | 09 Dec 2025 - 12:14 |
+_No award announcements have been captured yet today._
 
-_Last updated: 09 Dec 2025 - 15:34 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-09.json)_
+_Last updated: 10 Dec 2025 - 08:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
 
 <!-- snapshot:end -->
 
