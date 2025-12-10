@@ -65,6 +65,15 @@
     ],
     "2025-12-10T14": [
       {
+        "newsId": "c229c1e1-d183-4c58-931e-5f7cc3f6cf04",
+        "scripCode": 500336,
+        "shortName": "Surya Roshni Ltd",
+        "headline": "received order amounted to Rs. 168.71 crore (with GST)",
+        "announcedAt": "2025-12-10T14:36:00.533+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/surya-roshni-ltd/suryarosni/500336/",
+        "rawTime": "2025-12-10T14:36:00.533"
+      },
+      {
         "newsId": "ed9e0cbc-a262-410d-8ae8-bce47117afb4",
         "scripCode": 544424,
         "shortName": "Globe Civil Projects Ltd",
@@ -85,11 +94,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-10T14:34:58.624+05:30",
-    "checksum": "5872c6d96481ef445661ed2cb343ee01f185a65c9d24e2164aa52daf64bfd606",
-    "totalAnnouncements": 8,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-10T15:34:10.994+05:30",
+    "checksum": "4f4d09912e03e8f2bbca86afe932b6c76855986fffa39426be1d27b9fc270d78",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-143458.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-153410.json"
   }
 }
