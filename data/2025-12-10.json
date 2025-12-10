@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-10",
-  "buckets": {},
+  "buckets": {
+    "2025-12-10T09": [
+      {
+        "newsId": "a8d6c7d8-0432-4d79-86a9-b6bcff7314c2",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "KPIL Awarded New Orders of Rs. 2,003 Crores - Press Release",
+        "announcedAt": "2025-12-10T09:19:38.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2025-12-10T09:19:38.66"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-10T08:59:53.228+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-12-10T09:41:12.509+05:30",
+    "checksum": "03f633516588248bd38cadc1800c2dd08e7570344969c1686fe0c5b1466d24be",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-085952.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-094111.json"
   }
 }
