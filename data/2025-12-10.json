@@ -62,14 +62,34 @@
         "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
         "rawTime": "2025-12-10T12:46:31.017"
       }
+    ],
+    "2025-12-10T14": [
+      {
+        "newsId": "ed9e0cbc-a262-410d-8ae8-bce47117afb4",
+        "scripCode": 544424,
+        "shortName": "Globe Civil Projects Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR), 2015, it is to inform that M/S Glove Civil Projects Limited has received a Letter of Award for \"Construction of Indoor Sports Complex at Guru Gobind ....",
+        "announcedAt": "2025-12-10T14:31:01.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/",
+        "rawTime": "2025-12-10T14:31:01.123"
+      },
+      {
+        "newsId": "9827d1f0-bf7f-4909-9d1d-fa6661d5c62c",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding Receipt of orders worth totaling Rs. 9.38 Cr",
+        "announcedAt": "2025-12-10T14:01:43.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2025-12-10T14:01:43.093"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-10T13:34:29.717+05:30",
-    "checksum": "bfc141ed97294ff58634ee7ae308cc022d8d61e211bb51e58f09a6a8602c0d2d",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-10T14:34:58.624+05:30",
+    "checksum": "5872c6d96481ef445661ed2cb343ee01f185a65c9d24e2164aa52daf64bfd606",
+    "totalAnnouncements": 8,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-10/awards-133429.json"
+    "rawPayloadPath": "data/raw/2025-12-10/awards-143458.json"
   }
 }

@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-10 14:00 | Globe Civil Projects Ltd | 544424 | Pursuant to Regulation 30 of SEBI (LODR), 2015, it is to inform that M/S Glove Civil Projects Limited has received a Letter of Award for "Construction of Indoor Sports Complex at Guru Gobind .... ([Link](https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/)) | Neutral | 10 Dec 2025 - 14:31 |
+| 2025-12-10 14:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of orders worth totaling Rs. 9.38 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 10 Dec 2025 - 14:01 |
 | 2025-12-10 12:00 | Atishay Ltd | 538713 | The Company has secured a new work order from Government of Maharashtra, State Health Assurance Society (SHAS) for printing of PVC Ayushman cards in Six (6) districts of Maharashtra State. .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 10 Dec 2025 - 12:46 |
 | 2025-12-10 11:00 | Subex Ltd | 532348 | Subex wins 5-year deal in Europe with a Leading Integrated Energy & Telecom Provider ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 10 Dec 2025 - 11:46 |
 | 2025-12-10 11:00 | Onix Solar Energy Ltd | 513119 | Company has received Letter of intent from M/s Vikran Engineering Limited for supply of Non DCR Topcon 620 WP Solar Module" worth Rs. 148.80 Crores. ([Link](https://www.bseindia.com/stock-share-price/onix-solar-energy-ltd/onixsolar/513119/)) | Neutral | 10 Dec 2025 - 11:12 |
@@ -29,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-10 10:00 | Dilip Buildcon Ltd | 540047 | In continuation to our disclosure dated November 24, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 10 Dec 2025 - 10:31 |
 | 2025-12-10 09:00 | Kalpataru Projects International Ltd | 522287 | KPIL Awarded New Orders of Rs. 2,003 Crores - Press Release ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 10 Dec 2025 - 09:19 |
 
-_Last updated: 10 Dec 2025 - 13:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
+_Last updated: 10 Dec 2025 - 14:34 | Entries: 8 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
 
 <!-- snapshot:end -->
 
