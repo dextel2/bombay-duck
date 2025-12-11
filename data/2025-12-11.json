@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
         "rawTime": "2025-12-11T11:59:54.793"
       }
+    ],
+    "2025-12-11T13": [
+      {
+        "newsId": "b66fefe4-4a88-4248-b2ba-f48fde4a297c",
+        "scripCode": 531297,
+        "shortName": "Artefact Projects Ltd",
+        "headline": "letter of Award",
+        "announcedAt": "2025-12-11T13:00:36.707+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
+        "rawTime": "2025-12-11T13:00:36.707"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-11T12:35:21.026+05:30",
-    "checksum": "eeed5142bea721e89aae15bc4c1f812867b0022c7da15bf455e7750659f2f342",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-11T13:34:22.343+05:30",
+    "checksum": "22294d517250e872f0fa80dfb4dc9f4129d85401170ff3fcadff510498de9a23",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-11/awards-123520.json"
+    "rawPayloadPath": "data/raw/2025-12-11/awards-133421.json"
   }
 }
