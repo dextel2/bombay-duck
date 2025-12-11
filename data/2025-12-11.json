@@ -25,6 +25,15 @@
     ],
     "2025-12-11T13": [
       {
+        "newsId": "e1977032-fcc4-459c-b54a-36260fd38ad2",
+        "scripCode": 544525,
+        "shortName": "GK Energy Ltd",
+        "headline": "We would like to inform that GK Energy Limited has received Letter of Empanelment/ Letter of Award from Maharashtra State Electricity Company Limited for 13239 off grid DC Solar Photovoltaic ....",
+        "announcedAt": "2025-12-11T13:37:18.297+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
+        "rawTime": "2025-12-11T13:37:18.297"
+      },
+      {
         "newsId": "b66fefe4-4a88-4248-b2ba-f48fde4a297c",
         "scripCode": 531297,
         "shortName": "Artefact Projects Ltd",
@@ -33,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
         "rawTime": "2025-12-11T13:00:36.707"
       }
+    ],
+    "2025-12-11T14": [
+      {
+        "newsId": "68f54285-e645-456f-8e49-b4174454ff38",
+        "scripCode": 533152,
+        "shortName": "MBL Infrastructure Ltd",
+        "headline": "Update on Arbitration Award",
+        "announcedAt": "2025-12-11T14:10:24.477+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mbl-infrastructure-ltd/mblinfra/533152/",
+        "rawTime": "2025-12-11T14:10:24.477"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-11T13:34:22.343+05:30",
-    "checksum": "22294d517250e872f0fa80dfb4dc9f4129d85401170ff3fcadff510498de9a23",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-11T14:35:28.168+05:30",
+    "checksum": "2ad339f44e460ac97b7733e04fba2feee42e3c259f20df60b081e7bcb1d4ad4b",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-11/awards-133421.json"
+    "rawPayloadPath": "data/raw/2025-12-11/awards-143527.json"
   }
 }
