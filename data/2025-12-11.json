@@ -45,6 +45,15 @@
     ],
     "2025-12-11T14": [
       {
+        "newsId": "5f9cb41d-8574-4416-9901-11caf54f4c87",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached intimation letter.",
+        "announcedAt": "2025-12-11T14:57:46.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2025-12-11T14:57:46.697"
+      },
+      {
         "newsId": "68f54285-e645-456f-8e49-b4174454ff38",
         "scripCode": 533152,
         "shortName": "MBL Infrastructure Ltd",
@@ -53,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mbl-infrastructure-ltd/mblinfra/533152/",
         "rawTime": "2025-12-11T14:10:24.477"
       }
+    ],
+    "2025-12-11T15": [
+      {
+        "newsId": "4a4e75e9-0455-4ce9-b1cb-e85c4d322c5d",
+        "scripCode": 532493,
+        "shortName": "Astra Microwave Products Ltd",
+        "headline": "as per covering letter",
+        "announcedAt": "2025-12-11T15:28:14.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/astra-microwave-products-ltd/astramicro/532493/",
+        "rawTime": "2025-12-11T15:28:14.44"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-11T14:35:28.168+05:30",
-    "checksum": "2ad339f44e460ac97b7733e04fba2feee42e3c259f20df60b081e7bcb1d4ad4b",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-11T15:34:05.228+05:30",
+    "checksum": "46bfdc52bc2619640023c72050bb40b5ce4006935bd3bf0cb7bb57fb64b36774",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-11/awards-143527.json"
+    "rawPayloadPath": "data/raw/2025-12-11/awards-153404.json"
   }
 }
