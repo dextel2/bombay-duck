@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-11 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-11 12:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 16,025 Off Grid DC Solar Photovoltaic Water Pumps. .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 11 Dec 2025 - 12:12 |
+| 2025-12-11 11:00 | Seamec Ltd | 526807 | Intimation on Receipt of Contract from GRIL for charter Hire of Vessel SEAMEC III for deploying in subsea installation works of ONGC ([Link](https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/)) | Likely Positive | 11 Dec 2025 - 11:59 |
 
-_Last updated: 11 Dec 2025 - 11:34 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-11.json)_
+_Last updated: 11 Dec 2025 - 12:35 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-11.json)_
 
 <!-- snapshot:end -->
 

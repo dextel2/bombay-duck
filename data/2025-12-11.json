@@ -1,12 +1,35 @@
 {
   "tradingDate": "2025-12-11",
-  "buckets": {},
+  "buckets": {
+    "2025-12-11T12": [
+      {
+        "newsId": "476923da-ff42-4bf2-91b9-7d9d3501b767",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 16,025 Off Grid DC Solar Photovoltaic Water Pumps. ....",
+        "announcedAt": "2025-12-11T12:12:02.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2025-12-11T12:12:02.19"
+      }
+    ],
+    "2025-12-11T11": [
+      {
+        "newsId": "9d85b419-f2ce-4be4-aaef-c9522e7bf3ce",
+        "scripCode": 526807,
+        "shortName": "Seamec Ltd",
+        "headline": "Intimation on Receipt of Contract from GRIL for charter Hire of Vessel SEAMEC III for deploying in subsea installation works of ONGC",
+        "announcedAt": "2025-12-11T11:59:54.793+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
+        "rawTime": "2025-12-11T11:59:54.793"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-11T11:34:49.340+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-11T12:35:21.026+05:30",
+    "checksum": "eeed5142bea721e89aae15bc4c1f812867b0022c7da15bf455e7750659f2f342",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-11/awards-113448.json"
+    "rawPayloadPath": "data/raw/2025-12-11/awards-123520.json"
   }
 }
