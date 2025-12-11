@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-10 IST)
+### Today's Awarded Orders (2025-12-11 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-10 14:00 | Surya Roshni Ltd | 500336 | received order amounted to Rs. 168.71 crore (with GST) ([Link](https://www.bseindia.com/stock-share-price/surya-roshni-ltd/suryarosni/500336/)) | Likely Positive | 10 Dec 2025 - 14:36 |
-| 2025-12-10 14:00 | Globe Civil Projects Ltd | 544424 | Pursuant to Regulation 30 of SEBI (LODR), 2015, it is to inform that M/S Glove Civil Projects Limited has received a Letter of Award for "Construction of Indoor Sports Complex at Guru Gobind .... ([Link](https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/)) | Neutral | 10 Dec 2025 - 14:31 |
-| 2025-12-10 14:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of orders worth totaling Rs. 9.38 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 10 Dec 2025 - 14:01 |
-| 2025-12-10 12:00 | Atishay Ltd | 538713 | The Company has secured a new work order from Government of Maharashtra, State Health Assurance Society (SHAS) for printing of PVC Ayushman cards in Six (6) districts of Maharashtra State. .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 10 Dec 2025 - 12:46 |
-| 2025-12-10 11:00 | Subex Ltd | 532348 | Subex wins 5-year deal in Europe with a Leading Integrated Energy & Telecom Provider ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 10 Dec 2025 - 11:46 |
-| 2025-12-10 11:00 | Onix Solar Energy Ltd | 513119 | Company has received Letter of intent from M/s Vikran Engineering Limited for supply of Non DCR Topcon 620 WP Solar Module" worth Rs. 148.80 Crores. ([Link](https://www.bseindia.com/stock-share-price/onix-solar-energy-ltd/onixsolar/513119/)) | Neutral | 10 Dec 2025 - 11:12 |
-| 2025-12-10 10:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform that the Company has received a purchase order amounting Rs. 1,00,30,000/- from Yokogawa India Limited ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 10 Dec 2025 - 10:44 |
-| 2025-12-10 10:00 | Dilip Buildcon Ltd | 540047 | In continuation to our disclosure dated November 24, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 10 Dec 2025 - 10:31 |
-| 2025-12-10 09:00 | Kalpataru Projects International Ltd | 522287 | KPIL Awarded New Orders of Rs. 2,003 Crores - Press Release ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 10 Dec 2025 - 09:19 |
+_No award announcements have been captured yet today._
 
-_Last updated: 10 Dec 2025 - 15:34 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-10.json)_
+_Last updated: 11 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-11.json)_
 
 <!-- snapshot:end -->
 
