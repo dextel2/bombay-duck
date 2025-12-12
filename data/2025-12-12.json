@@ -23,6 +23,24 @@
     ],
     "2025-12-12T11": [
       {
+        "newsId": "fd18be67-7a40-4eaa-bf2e-09a8002d6119",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2025-12-12T11:44:04.307+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2025-12-12T11:44:04.307"
+      },
+      {
+        "newsId": "c3024dcc-0106-4894-bf7c-2e05a2c84583",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We would like to inform you that Company has received second order from State of Jharkhand. Jharkhand Renewable Energy Development Agency has given Letter of Award for 1,200 Nos. of Solar ....",
+        "announcedAt": "2025-12-12T11:36:54.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2025-12-12T11:36:54.64"
+      },
+      {
         "newsId": "b497b695-4254-483e-9891-e5c7800d85da",
         "scripCode": 544232,
         "shortName": "Interarch Building Solutions Ltd",
@@ -31,14 +49,25 @@
         "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
         "rawTime": "2025-12-12T11:33:45.687"
       }
+    ],
+    "2025-12-12T12": [
+      {
+        "newsId": "4a8807df-1ee9-4586-a3ad-bdf194be8067",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of work order",
+        "announcedAt": "2025-12-12T12:14:04.557+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2025-12-12T12:14:04.557"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-12T11:34:31.070+05:30",
-    "checksum": "219cafed1795bb87ab43782613423bc44febb2f9a225b85dff8580474796178c",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-12T12:35:10.590+05:30",
+    "checksum": "67146d43dbcb818dbb714b0e7843c16fac684da6b42ab1fad20b4893e3f0b0a6",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-12/awards-113430.json"
+    "rawPayloadPath": "data/raw/2025-12-12/awards-123510.json"
   }
 }

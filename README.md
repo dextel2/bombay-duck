@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-12 12:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 12 Dec 2025 - 12:14 |
+| 2025-12-12 11:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 12 Dec 2025 - 11:44 |
+| 2025-12-12 11:00 | Shakti Pumps India Ltd-$ | 531431 | We would like to inform you that Company has received second order from State of Jharkhand. Jharkhand Renewable Energy Development Agency has given Letter of Award for 1,200 Nos. of Solar .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 12 Dec 2025 - 11:36 |
 | 2025-12-12 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI (LODR) Regulations,2015 regarding receipt of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 12 Dec 2025 - 11:33 |
 | 2025-12-12 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 12 Dec 2025 - 10:55 |
 | 2025-12-12 10:00 | Steel Strips Wheels Ltd-$ | 513262 | As per attachment enclosed. ([Link](https://www.bseindia.com/stock-share-price/steel-strips-wheels-ltd/sswl/513262/)) | Neutral | 12 Dec 2025 - 10:09 |
 
-_Last updated: 12 Dec 2025 - 11:34 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
+_Last updated: 12 Dec 2025 - 12:35 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
 
 <!-- snapshot:end -->
 
