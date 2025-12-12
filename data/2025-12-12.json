@@ -3,6 +3,15 @@
   "buckets": {
     "2025-12-12T10": [
       {
+        "newsId": "cfcbdbe1-cdb1-4f25-a802-7776a7739527",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2025-12-12T10:55:24.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2025-12-12T10:55:24.99"
+      },
+      {
         "newsId": "ede2fbf5-bcad-44d0-9c13-7aa2e8ac4bd4",
         "scripCode": 513262,
         "shortName": "Steel Strips Wheels Ltd-$",
@@ -11,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/steel-strips-wheels-ltd/sswl/513262/",
         "rawTime": "2025-12-12T10:09:29.99"
       }
+    ],
+    "2025-12-12T11": [
+      {
+        "newsId": "b497b695-4254-483e-9891-e5c7800d85da",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (LODR) Regulations,2015 regarding receipt of an order.",
+        "announcedAt": "2025-12-12T11:33:45.687+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2025-12-12T11:33:45.687"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-12T10:33:55.605+05:30",
-    "checksum": "ef298ad0b8a2f751a9d9969c10921f4aeac5e079b8aa483b87c34e6574641dbe",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-12T11:34:31.070+05:30",
+    "checksum": "219cafed1795bb87ab43782613423bc44febb2f9a225b85dff8580474796178c",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-12/awards-103355.json"
+    "rawPayloadPath": "data/raw/2025-12-12/awards-113430.json"
   }
 }
