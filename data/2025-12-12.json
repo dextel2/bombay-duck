@@ -52,6 +52,33 @@
     ],
     "2025-12-12T12": [
       {
+        "newsId": "c50206ce-60fa-43bf-b0eb-9acc86a166f7",
+        "scripCode": 542459,
+        "shortName": "Kranti Industries Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received ....",
+        "announcedAt": "2025-12-12T12:57:46.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/",
+        "rawTime": "2025-12-12T12:57:46.217"
+      },
+      {
+        "newsId": "0c670d44-40e0-4edd-8b16-d2b73be217fd",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We would like to inform you that Company has received a Work Order from Madhya Pradesh Urja Vikas Nigam Limited for 2,033 Stand-alone Off-Grid DC Solar Photovoltaic Water Pumping System ....",
+        "announcedAt": "2025-12-12T12:55:21.923+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2025-12-12T12:55:21.923"
+      },
+      {
+        "newsId": "c501f1ee-79ff-4dce-b170-4bb15bd9a5a9",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to inform that our company has received a LOA worth Rs. 9,91,20,000.00 (incl GST) from LC Infra Projects Private Limited for supply of 1 nos. 70 MVA & 1 nos. 80 MVA Power ....",
+        "announcedAt": "2025-12-12T12:54:36.817+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2025-12-12T12:54:36.817"
+      },
+      {
         "newsId": "4a8807df-1ee9-4586-a3ad-bdf194be8067",
         "scripCode": 543410,
         "shortName": "DMR Engineering Ltd",
@@ -63,11 +90,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-12T12:35:10.590+05:30",
-    "checksum": "67146d43dbcb818dbb714b0e7843c16fac684da6b42ab1fad20b4893e3f0b0a6",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-12T13:34:22.057+05:30",
+    "checksum": "6336053704ffa8621f206da30e030e821092eb03c60c1a5590dd9de456d305cb",
+    "totalAnnouncements": 9,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-12/awards-123510.json"
+    "rawPayloadPath": "data/raw/2025-12-12/awards-133421.json"
   }
 }
