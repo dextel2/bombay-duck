@@ -87,14 +87,43 @@
         "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
         "rawTime": "2025-12-12T12:14:04.557"
       }
+    ],
+    "2025-12-12T14": [
+      {
+        "newsId": "6a37ef0f-80d3-4483-8709-d8c4ac1894a5",
+        "scripCode": 542725,
+        "shortName": "SBC Exports Ltd",
+        "headline": "Work Order awarded by Management Development Insititute (MDI Gurgaon)",
+        "announcedAt": "2025-12-12T14:24:52.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/",
+        "rawTime": "2025-12-12T14:24:52.373"
+      },
+      {
+        "newsId": "87fa3183-daf5-4bab-9d8d-7978d8047163",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to inform that our company has received a LOA/Purchase order worth Rs. 25,02,78,000.00 (incl GST) from Galaxy Solar Energy Pvt. Ltd. for supply of 72 nos of various ratings ....",
+        "announcedAt": "2025-12-12T14:22:59.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2025-12-12T14:22:59.747"
+      },
+      {
+        "newsId": "12dcbfac-3cc7-4016-ac92-806990412915",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2025-12-12T14:21:54.703+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2025-12-12T14:21:54.703"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-12T13:34:22.057+05:30",
-    "checksum": "6336053704ffa8621f206da30e030e821092eb03c60c1a5590dd9de456d305cb",
-    "totalAnnouncements": 9,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-12T14:35:25.652+05:30",
+    "checksum": "b23a554b6fc15b783cab1a78521eb0f9c75e79ece6f7271ac2907d19e91af442",
+    "totalAnnouncements": 12,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-12/awards-133421.json"
+    "rawPayloadPath": "data/raw/2025-12-12/awards-143525.json"
   }
 }
