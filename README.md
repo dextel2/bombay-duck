@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-12 15:00 | GPT Infraprojects Ltd | 533761 | Please find press release for order bagged by the Company woth Rs. 53.6 Crore ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 12 Dec 2025 - 15:23 |
 | 2025-12-12 14:00 | SBC Exports Ltd | 542725 | Work Order awarded by Management Development Insititute (MDI Gurgaon) ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 12 Dec 2025 - 14:24 |
 | 2025-12-12 14:00 | Marsons Ltd | 517467 | We are pleased to inform that our company has received a LOA/Purchase order worth Rs. 25,02,78,000.00 (incl GST) from Galaxy Solar Energy Pvt. Ltd. for supply of 72 nos of various ratings .... ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 12 Dec 2025 - 14:22 |
 | 2025-12-12 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 12 Dec 2025 - 14:21 |
@@ -35,7 +36,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-12 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 12 Dec 2025 - 10:55 |
 | 2025-12-12 10:00 | Steel Strips Wheels Ltd-$ | 513262 | As per attachment enclosed. ([Link](https://www.bseindia.com/stock-share-price/steel-strips-wheels-ltd/sswl/513262/)) | Neutral | 12 Dec 2025 - 10:09 |
 
-_Last updated: 12 Dec 2025 - 14:35 | Entries: 12 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
+_Last updated: 12 Dec 2025 - 15:33 | Entries: 13 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
 
 <!-- snapshot:end -->
 

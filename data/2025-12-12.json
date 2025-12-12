@@ -116,14 +116,25 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2025-12-12T14:21:54.703"
       }
+    ],
+    "2025-12-12T15": [
+      {
+        "newsId": "ab69432e-3fe1-4a92-a905-d6e1e8cb568a",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find press release for order bagged by the Company woth Rs. 53.6 Crore",
+        "announcedAt": "2025-12-12T15:23:51.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2025-12-12T15:23:51.463"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-12T14:35:25.652+05:30",
-    "checksum": "b23a554b6fc15b783cab1a78521eb0f9c75e79ece6f7271ac2907d19e91af442",
-    "totalAnnouncements": 12,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-12T15:33:59.592+05:30",
+    "checksum": "c6e86b3e0749355e340df75728496a42c9861cec861c8874ab8746687aaffa6e",
+    "totalAnnouncements": 13,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-12/awards-143525.json"
+    "rawPayloadPath": "data/raw/2025-12-12/awards-153359.json"
   }
 }
