@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-12",
-  "buckets": {},
+  "buckets": {
+    "2025-12-12T10": [
+      {
+        "newsId": "ede2fbf5-bcad-44d0-9c13-7aa2e8ac4bd4",
+        "scripCode": 513262,
+        "shortName": "Steel Strips Wheels Ltd-$",
+        "headline": "As per attachment enclosed.",
+        "announcedAt": "2025-12-12T10:09:29.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/steel-strips-wheels-ltd/sswl/513262/",
+        "rawTime": "2025-12-12T10:09:29.99"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-12T09:42:37.716+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-12T10:33:55.605+05:30",
+    "checksum": "ef298ad0b8a2f751a9d9969c10921f4aeac5e079b8aa483b87c34e6574641dbe",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-12/awards-094237.json"
+    "rawPayloadPath": "data/raw/2025-12-12/awards-103355.json"
   }
 }

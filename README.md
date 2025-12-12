@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-12 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-12 10:00 | Steel Strips Wheels Ltd-$ | 513262 | As per attachment enclosed. ([Link](https://www.bseindia.com/stock-share-price/steel-strips-wheels-ltd/sswl/513262/)) | Neutral | 12 Dec 2025 - 10:09 |
 
-_Last updated: 12 Dec 2025 - 09:42 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
+_Last updated: 12 Dec 2025 - 10:33 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
 
 <!-- snapshot:end -->
 
