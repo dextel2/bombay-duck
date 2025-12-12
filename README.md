@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-11 IST)
+### Today's Awarded Orders (2025-12-12 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-11 15:00 | Astra Microwave Products Ltd | 532493 | as per covering letter ([Link](https://www.bseindia.com/stock-share-price/astra-microwave-products-ltd/astramicro/532493/)) | Neutral | 11 Dec 2025 - 15:28 |
-| 2025-12-11 14:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 11 Dec 2025 - 14:57 |
-| 2025-12-11 14:00 | MBL Infrastructure Ltd | 533152 | Update on Arbitration Award ([Link](https://www.bseindia.com/stock-share-price/mbl-infrastructure-ltd/mblinfra/533152/)) | Neutral | 11 Dec 2025 - 14:10 |
-| 2025-12-11 13:00 | GK Energy Ltd | 544525 | We would like to inform that GK Energy Limited has received Letter of Empanelment/ Letter of Award from Maharashtra State Electricity Company Limited for 13239 off grid DC Solar Photovoltaic .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 11 Dec 2025 - 13:37 |
-| 2025-12-11 13:00 | Artefact Projects Ltd | 531297 | letter of Award ([Link](https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/)) | Neutral | 11 Dec 2025 - 13:00 |
-| 2025-12-11 12:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 16,025 Off Grid DC Solar Photovoltaic Water Pumps. .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 11 Dec 2025 - 12:12 |
-| 2025-12-11 11:00 | Seamec Ltd | 526807 | Intimation on Receipt of Contract from GRIL for charter Hire of Vessel SEAMEC III for deploying in subsea installation works of ONGC ([Link](https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/)) | Likely Positive | 11 Dec 2025 - 11:59 |
+_No award announcements have been captured yet today._
 
-_Last updated: 11 Dec 2025 - 15:34 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-11.json)_
+_Last updated: 12 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-12.json)_
 
 <!-- snapshot:end -->
 
