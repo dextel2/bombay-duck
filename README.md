@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-13 12:00 | TVS Supply Chain Solutions Ltd | 543965 | TVS Supply Chain Solutions Limited ("Company") has received an order from the Assistant Commissioner, Madhya Pradesh State Tax Authority. ([Link](https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/)) | Likely Positive | 13 Dec 2025 - 12:15 |
 
-_Last updated: 13 Dec 2025 - 12:33 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-13.json)_
+_Last updated: 13 Dec 2025 - 13:33 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-13.json)_
 
 <!-- snapshot:end -->
 
