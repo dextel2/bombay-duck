@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-13",
-  "buckets": {},
+  "buckets": {
+    "2025-12-13T12": [
+      {
+        "newsId": "fb91cee1-1932-446c-83e7-6d5a85f558fe",
+        "scripCode": 543965,
+        "shortName": "TVS Supply Chain Solutions Ltd",
+        "headline": "TVS Supply Chain Solutions Limited (\"Company\") has received an order from the Assistant Commissioner, Madhya Pradesh State Tax Authority.",
+        "announcedAt": "2025-12-13T12:15:14.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/",
+        "rawTime": "2025-12-13T12:15:14.647"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-13T11:34:15.660+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-13T12:33:40.900+05:30",
+    "checksum": "67f2105ff083b3a4ffa199aee5a98fa817adcd6711ae9144ff21145051f7f095",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-13/awards-113415.json"
+    "rawPayloadPath": "data/raw/2025-12-13/awards-123340.json"
   }
 }
