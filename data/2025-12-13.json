@@ -22,14 +22,36 @@
         "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
         "rawTime": "2025-12-13T13:58:09.06"
       }
+    ],
+    "2025-12-13T15": [
+      {
+        "newsId": "451ccfd7-b59e-400a-8f33-3c49572b41c5",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Order Received from Nigeria",
+        "announcedAt": "2025-12-13T15:16:36.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2025-12-13T15:16:36.98"
+      }
+    ],
+    "2025-12-13T14": [
+      {
+        "newsId": "e4cc074a-4558-4a74-a8e2-9bd472d62fbe",
+        "scripCode": 505872,
+        "shortName": "WPIL Ltd",
+        "headline": "Receipt of Contract by WPIL''s South African Subsidiary for Macassar Wastewater Treatment Works",
+        "announcedAt": "2025-12-13T14:44:21.533+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/wpil-ltd/wpil/505872/",
+        "rawTime": "2025-12-13T14:44:21.533"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-13T14:33:36.807+05:30",
-    "checksum": "a850031571b9fa6765c9a914db63d2fa13b6da5e14108f5b7ff50c84f6296ff0",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-13T15:33:34.963+05:30",
+    "checksum": "1c29d9c5cdde23a1039d999317e975fe150a74938125e1f1b31846598f03cfb1",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-13/awards-143336.json"
+    "rawPayloadPath": "data/raw/2025-12-13/awards-153334.json"
   }
 }
