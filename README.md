@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-13 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Jawaharlal .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 13 Dec 2025 - 13:58 |
 | 2025-12-13 12:00 | TVS Supply Chain Solutions Ltd | 543965 | TVS Supply Chain Solutions Limited ("Company") has received an order from the Assistant Commissioner, Madhya Pradesh State Tax Authority. ([Link](https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/)) | Likely Positive | 13 Dec 2025 - 12:15 |
 
-_Last updated: 13 Dec 2025 - 13:33 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-13.json)_
+_Last updated: 13 Dec 2025 - 14:33 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-13.json)_
 
 <!-- snapshot:end -->
 
