@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-13 IST)
+### Today's Awarded Orders (2025-12-14 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-13 15:00 | United Drilling Tools Ltd | 522014 | Order Received from Nigeria ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 13 Dec 2025 - 15:16 |
-| 2025-12-13 14:00 | WPIL Ltd | 505872 | Receipt of Contract by WPIL''s South African Subsidiary for Macassar Wastewater Treatment Works ([Link](https://www.bseindia.com/stock-share-price/wpil-ltd/wpil/505872/)) | Likely Positive | 13 Dec 2025 - 14:44 |
-| 2025-12-13 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Jawaharlal .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 13 Dec 2025 - 13:58 |
-| 2025-12-13 12:00 | TVS Supply Chain Solutions Ltd | 543965 | TVS Supply Chain Solutions Limited ("Company") has received an order from the Assistant Commissioner, Madhya Pradesh State Tax Authority. ([Link](https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/)) | Likely Positive | 13 Dec 2025 - 12:15 |
+_No award announcements have been captured yet today._
 
-_Last updated: 13 Dec 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-13.json)_
+_Last updated: 14 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-14.json)_
 
 <!-- snapshot:end -->
 
