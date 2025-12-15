@@ -20,14 +20,54 @@
         "url": "https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/",
         "rawTime": "2025-12-15T08:44:00.337"
       }
+    ],
+    "2025-12-15T13": [
+      {
+        "newsId": "98b99db2-4dfa-43bb-ad1c-6af25fad02ac",
+        "scripCode": 542725,
+        "shortName": "SBC Exports Ltd",
+        "headline": "Work order Awarded by IIT Jodhpur",
+        "announcedAt": "2025-12-15T13:25:28.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/",
+        "rawTime": "2025-12-15T13:25:28.16"
+      },
+      {
+        "newsId": "5b8b818f-6e69-4e55-b6ec-ab41000f1997",
+        "scripCode": 533156,
+        "shortName": "Vascon Engineers Ltd",
+        "headline": "Vascon Engineers Limited receives work order from Navi Mumbai, Municipal Corporation amounting to Rs. 260.09 Crore",
+        "announcedAt": "2025-12-15T13:12:17.347+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
+        "rawTime": "2025-12-15T13:12:17.347"
+      },
+      {
+        "newsId": "7882a80a-708b-4c52-a1cc-99fee1675496",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Amendment in bagging of order.",
+        "announcedAt": "2025-12-15T13:00:58.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2025-12-15T13:00:58.98"
+      }
+    ],
+    "2025-12-15T12": [
+      {
+        "newsId": "638608ea-790a-48f2-a981-a3941c615613",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2025-12-15T12:58:59.073+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2025-12-15T12:58:59.073"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-15T12:36:11.000+05:30",
-    "checksum": "a366a868bbe9639a84e8838902d1ac808e157b17e1bdc790f8f3274d9b3c8967",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-15T13:34:45.161+05:30",
+    "checksum": "4d0da5984fe9f7be40f8b41781e1e03dd589526b6f431fb0f0ba1bf88fb8512e",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-15/awards-123610.json"
+    "rawPayloadPath": "data/raw/2025-12-15/awards-133444.json"
   }
 }
