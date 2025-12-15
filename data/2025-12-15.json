@@ -60,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2025-12-15T12:58:59.073"
       }
+    ],
+    "2025-12-15T14": [
+      {
+        "newsId": "0a832cbf-3de9-4704-aa79-42b9c448aa26",
+        "scripCode": 540900,
+        "shortName": "Newgen Software Technologies Ltd",
+        "headline": "Disclosure of Material Order of Rs. 38.64 Crores is attached..",
+        "announcedAt": "2025-12-15T14:26:35.493+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
+        "rawTime": "2025-12-15T14:26:35.493"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-15T13:34:45.161+05:30",
-    "checksum": "4d0da5984fe9f7be40f8b41781e1e03dd589526b6f431fb0f0ba1bf88fb8512e",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-15T14:37:27.190+05:30",
+    "checksum": "428a81c39b88b0fa80096128ee336efca5235a6246c42ef8d5f0ca7d8a47d8c0",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-15/awards-133444.json"
+    "rawPayloadPath": "data/raw/2025-12-15/awards-143726.json"
   }
 }

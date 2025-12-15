@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-15 14:00 | Newgen Software Technologies Ltd | 540900 | Disclosure of Material Order of Rs. 38.64 Crores is attached.. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 15 Dec 2025 - 14:26 |
 | 2025-12-15 13:00 | SBC Exports Ltd | 542725 | Work order Awarded by IIT Jodhpur ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 15 Dec 2025 - 13:25 |
 | 2025-12-15 13:00 | Vascon Engineers Ltd | 533156 | Vascon Engineers Limited receives work order from Navi Mumbai, Municipal Corporation amounting to Rs. 260.09 Crore ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Likely Positive | 15 Dec 2025 - 13:12 |
 | 2025-12-15 13:00 | MTAR Technologies Ltd | 543270 | Amendment in bagging of order. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 15 Dec 2025 - 13:00 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of domestic order for lab grown polished diamonds amounting to INR 12 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Dec 2025 - 08:57 |
 | 2025-12-15 08:00 | Elitecon International Ltd | 539533 | Pursuant to provisions Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("Listing Regulations"), we are pleased .... ([Link](https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/)) | Neutral | 15 Dec 2025 - 08:44 |
 
-_Last updated: 15 Dec 2025 - 13:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-15.json)_
+_Last updated: 15 Dec 2025 - 14:37 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-15.json)_
 
 <!-- snapshot:end -->
 
