@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2025-12-15",
+  "buckets": {
+    "2025-12-15T08": [
+      {
+        "newsId": "bab91228-e94e-4184-a0df-ca83b8544cf2",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of domestic order for lab grown polished diamonds amounting to INR 12 Crores",
+        "announcedAt": "2025-12-15T08:57:54.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2025-12-15T08:57:54.867"
+      },
+      {
+        "newsId": "f235e0af-fda5-478a-8b9f-7a9d358120bd",
+        "scripCode": 539533,
+        "shortName": "Elitecon International Ltd",
+        "headline": "Pursuant to provisions Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"Listing Regulations\"), we are pleased ....",
+        "announcedAt": "2025-12-15T08:44:00.337+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/",
+        "rawTime": "2025-12-15T08:44:00.337"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-12-15T09:01:35.708+05:30",
+    "checksum": "a366a868bbe9639a84e8838902d1ac808e157b17e1bdc790f8f3274d9b3c8967",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-12-15/awards-090134.json"
+  }
+}

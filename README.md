@@ -18,11 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-14 IST)
+### Today's Awarded Orders (2025-12-15 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of domestic order for lab grown polished diamonds amounting to INR 12 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Dec 2025 - 08:57 |
+| 2025-12-15 08:00 | Elitecon International Ltd | 539533 | Pursuant to provisions Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("Listing Regulations"), we are pleased .... ([Link](https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/)) | Neutral | 15 Dec 2025 - 08:44 |
 
-_Last updated: 14 Dec 2025 - 15:33 | Entries: 0 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-14.json)_
+_Last updated: 15 Dec 2025 - 09:01 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-15.json)_
 
 <!-- snapshot:end -->
 
