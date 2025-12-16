@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-16 11:00 | RailTel Corporation of India Ltd | 543265 | New Order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 16 Dec 2025 - 11:58 |
 | 2025-12-16 11:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requitrements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 16 Dec 2025 - 11:11 |
 | 2025-12-16 10:00 | Vibhor Steel Tubes Ltd | 544124 | Please find enclosed ([Link](https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/)) | Neutral | 16 Dec 2025 - 10:17 |
 
-_Last updated: 16 Dec 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-16.json)_
+_Last updated: 16 Dec 2025 - 12:35 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-16.json)_
 
 <!-- snapshot:end -->
 
