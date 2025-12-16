@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/",
         "rawTime": "2025-12-16T10:17:23.27"
       }
+    ],
+    "2025-12-16T11": [
+      {
+        "newsId": "30a33dd9-73ba-4e5c-ad52-50aaae872da3",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requitrements) Regulation 2015",
+        "announcedAt": "2025-12-16T11:11:42.870+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2025-12-16T11:11:42.87"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-16T10:34:48.738+05:30",
-    "checksum": "149e580a4587e16cfb668adfdb60c5ed03d1962482bd4562c1f27f8d532dc6a9",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-16T11:34:36.289+05:30",
+    "checksum": "e2ae1b7288ada803a87c80c91eba8264021ba7239b40ec16a43869eae2f6f894",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-16/awards-103448.json"
+    "rawPayloadPath": "data/raw/2025-12-16/awards-113435.json"
   }
 }
