@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-16",
-  "buckets": {},
+  "buckets": {
+    "2025-12-16T10": [
+      {
+        "newsId": "13ed2c5f-1060-4796-9838-deebad4f8344",
+        "scripCode": 544124,
+        "shortName": "Vibhor Steel Tubes Ltd",
+        "headline": "Please find enclosed",
+        "announcedAt": "2025-12-16T10:17:23.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/",
+        "rawTime": "2025-12-16T10:17:23.27"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-16T09:43:33.277+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-16T10:34:48.738+05:30",
+    "checksum": "149e580a4587e16cfb668adfdb60c5ed03d1962482bd4562c1f27f8d532dc6a9",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-16/awards-094332.json"
+    "rawPayloadPath": "data/raw/2025-12-16/awards-103448.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-16 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-16 10:00 | Vibhor Steel Tubes Ltd | 544124 | Please find enclosed ([Link](https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/)) | Neutral | 16 Dec 2025 - 10:17 |
 
-_Last updated: 16 Dec 2025 - 09:43 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-16.json)_
+_Last updated: 16 Dec 2025 - 10:34 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-16.json)_
 
 <!-- snapshot:end -->
 
