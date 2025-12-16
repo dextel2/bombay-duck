@@ -31,14 +31,36 @@
         "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
         "rawTime": "2025-12-16T11:11:42.87"
       }
+    ],
+    "2025-12-16T13": [
+      {
+        "newsId": "7bba3544-13b9-40ef-88c1-925de29bf3fe",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "Please find the attached document.",
+        "announcedAt": "2025-12-16T13:04:09.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2025-12-16T13:04:09.017"
+      }
+    ],
+    "2025-12-16T12": [
+      {
+        "newsId": "49b2e92b-73d4-4fe1-84d5-85911edf2120",
+        "scripCode": 544504,
+        "shortName": "Goel Construction Company Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosre Requirements) Regulations, 2015",
+        "announcedAt": "2025-12-16T12:41:23.100+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goel-construction-company-ltd/goelcons/544504/",
+        "rawTime": "2025-12-16T12:41:23.1"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-16T12:35:30.231+05:30",
-    "checksum": "3a0f135960f75bfdb08c0c1843004eeee234175e4bec9c805764b53b39977815",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-16T13:34:25.938+05:30",
+    "checksum": "e709884d01faed2c6054dcf4706c3d548ae0dfb01fe7afb5611bae7452354ad9",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-16/awards-123529.json"
+    "rawPayloadPath": "data/raw/2025-12-16/awards-133425.json"
   }
 }
