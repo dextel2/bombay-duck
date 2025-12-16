@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/goel-construction-company-ltd/goelcons/544504/",
         "rawTime": "2025-12-16T12:41:23.1"
       }
+    ],
+    "2025-12-16T14": [
+      {
+        "newsId": "5fac8c7e-15ee-4875-be18-30ac05bed336",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulation, 2015, intimation of order received - Afcons Infrastructure ....",
+        "announcedAt": "2025-12-16T14:06:45.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2025-12-16T14:06:45.18"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-16T13:34:25.938+05:30",
-    "checksum": "e709884d01faed2c6054dcf4706c3d548ae0dfb01fe7afb5611bae7452354ad9",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-16T14:35:41.374+05:30",
+    "checksum": "5001a065c7e60770a54fa703fc413375889e9d28f682dbdb695c1a541092c0b0",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-16/awards-133425.json"
+    "rawPayloadPath": "data/raw/2025-12-16/awards-143540.json"
   }
 }
