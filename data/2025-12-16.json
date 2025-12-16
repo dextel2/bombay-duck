@@ -56,6 +56,15 @@
     ],
     "2025-12-16T14": [
       {
+        "newsId": "fcfa24f6-e251-4236-9519-dda12895a5e2",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "We hereby inform that BEML LImited has bagged order from the Ministry of Defence.",
+        "announcedAt": "2025-12-16T14:59:17.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2025-12-16T14:59:17.65"
+      },
+      {
         "newsId": "5fac8c7e-15ee-4875-be18-30ac05bed336",
         "scripCode": 531279,
         "shortName": "Trishakti Industries Ltd",
@@ -64,14 +73,34 @@
         "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
         "rawTime": "2025-12-16T14:06:45.18"
       }
+    ],
+    "2025-12-16T15": [
+      {
+        "newsId": "43162883-8b3e-43ab-914c-7606269187c7",
+        "scripCode": 500306,
+        "shortName": "Jaykay Enterprises Ltd",
+        "headline": "Announcement under Regulation 30 of SEBI Listing Regulations - Receipt of order/Letter of Acceptance from Ircon International Limited by JK Phillips LLP, a 50:50 Joint Venture between Jaykay ....",
+        "announcedAt": "2025-12-16T15:22:48.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jaykay-enterprises-ltd/jaykay/500306/",
+        "rawTime": "2025-12-16T15:22:48.713"
+      },
+      {
+        "newsId": "dece59ea-ce56-48f7-b5fa-249a83d19e39",
+        "scripCode": 544259,
+        "shortName": "Popular Foundations Ltd",
+        "headline": "Pursuant to regulation 30 read with Schedule III Part A of the SEBI (LODR), Regulations, 2015 we wish to inform you that our company has received a new order of worth Rs. 13.51 Crores from ....",
+        "announcedAt": "2025-12-16T15:17:00.103+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/popular-foundations-ltd/pfl/544259/",
+        "rawTime": "2025-12-16T15:17:00.103"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-16T14:35:41.374+05:30",
-    "checksum": "5001a065c7e60770a54fa703fc413375889e9d28f682dbdb695c1a541092c0b0",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-16T15:34:17.192+05:30",
+    "checksum": "a3cbb1dd4726611d558c1df6a7ac33dd586bd181793a6e79fe3ff882131c2a9f",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-16/awards-143540.json"
+    "rawPayloadPath": "data/raw/2025-12-16/awards-153416.json"
   }
 }
