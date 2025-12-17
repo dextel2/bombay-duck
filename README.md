@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-17 09:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Dec 2025 - 09:20 |
 
-_Last updated: 17 Dec 2025 - 09:41 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
+_Last updated: 17 Dec 2025 - 10:34 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
 
 <!-- snapshot:end -->
 
