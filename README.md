@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-17 11:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Large*) for Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 17 Dec 2025 - 11:01 |
 | 2025-12-17 09:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Dec 2025 - 09:20 |
 
-_Last updated: 17 Dec 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
+_Last updated: 17 Dec 2025 - 14:36 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
 
 <!-- snapshot:end -->
 
