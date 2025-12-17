@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-17 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-17 09:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Dec 2025 - 09:20 |
 
-_Last updated: 17 Dec 2025 - 08:58 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
+_Last updated: 17 Dec 2025 - 09:41 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
 
 <!-- snapshot:end -->
 
