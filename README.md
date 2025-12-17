@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-16 IST)
+### Today's Awarded Orders (2025-12-17 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-16 15:00 | Jaykay Enterprises Ltd | 500306 | Announcement under Regulation 30 of SEBI Listing Regulations - Receipt of order/Letter of Acceptance from Ircon International Limited by JK Phillips LLP, a 50:50 Joint Venture between Jaykay .... ([Link](https://www.bseindia.com/stock-share-price/jaykay-enterprises-ltd/jaykay/500306/)) | Likely Positive | 16 Dec 2025 - 15:22 |
-| 2025-12-16 15:00 | Popular Foundations Ltd | 544259 | Pursuant to regulation 30 read with Schedule III Part A of the SEBI (LODR), Regulations, 2015 we wish to inform you that our company has received a new order of worth Rs. 13.51 Crores from .... ([Link](https://www.bseindia.com/stock-share-price/popular-foundations-ltd/pfl/544259/)) | Likely Positive | 16 Dec 2025 - 15:17 |
-| 2025-12-16 14:00 | BEML Ltd | 500048 | We hereby inform that BEML LImited has bagged order from the Ministry of Defence. ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 16 Dec 2025 - 14:59 |
-| 2025-12-16 14:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulation, 2015, intimation of order received - Afcons Infrastructure .... ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 16 Dec 2025 - 14:06 |
-| 2025-12-16 13:00 | ITCONS E-Solutions Ltd | 543806 | Please find the attached document. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Neutral | 16 Dec 2025 - 13:04 |
-| 2025-12-16 12:00 | Goel Construction Company Ltd | 544504 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosre Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/goel-construction-company-ltd/goelcons/544504/)) | Neutral | 16 Dec 2025 - 12:41 |
-| 2025-12-16 11:00 | RailTel Corporation of India Ltd | 543265 | New Order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 16 Dec 2025 - 11:58 |
-| 2025-12-16 11:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requitrements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 16 Dec 2025 - 11:11 |
-| 2025-12-16 10:00 | Vibhor Steel Tubes Ltd | 544124 | Please find enclosed ([Link](https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/)) | Neutral | 16 Dec 2025 - 10:17 |
+_No award announcements have been captured yet today._
 
-_Last updated: 16 Dec 2025 - 15:34 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-16.json)_
+_Last updated: 17 Dec 2025 - 08:58 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
 
 <!-- snapshot:end -->
 
