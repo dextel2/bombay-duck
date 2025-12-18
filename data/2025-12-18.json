@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-18",
-  "buckets": {},
+  "buckets": {
+    "2025-12-18T09": [
+      {
+        "newsId": "2180b8db-d634-496b-856b-97059126e738",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Receipt of orders worth Rs. 310 Crores from new customer.",
+        "announcedAt": "2025-12-18T09:18:16.833+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2025-12-18T09:18:16.833"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-18T08:59:03.114+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-12-18T09:41:14.584+05:30",
+    "checksum": "b0297bb4abe6de7ceb3f69e5591a6b750c7ede9e00e16ba3e82727935621fcb0",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-18/awards-085901.json"
+    "rawPayloadPath": "data/raw/2025-12-18/awards-094114.json"
   }
 }
