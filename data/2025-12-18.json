@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
         "rawTime": "2025-12-18T09:18:16.833"
       }
+    ],
+    "2025-12-18T13": [
+      {
+        "newsId": "a6226e57-130d-4569-9662-56db29f8a4ec",
+        "scripCode": 543920,
+        "shortName": "CFF Fluid Control Ltd",
+        "headline": "Receipt of Purchase Order Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-12-18T13:47:45.080+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
+        "rawTime": "2025-12-18T13:47:45.08"
+      },
+      {
+        "newsId": "3b81ef56-d02d-4343-9576-b75e0628881d",
+        "scripCode": 531297,
+        "shortName": "Artefact Projects Ltd",
+        "headline": "letter of Award",
+        "announcedAt": "2025-12-18T13:45:53.293+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
+        "rawTime": "2025-12-18T13:45:53.293"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-18T13:34:16.966+05:30",
-    "checksum": "b0297bb4abe6de7ceb3f69e5591a6b750c7ede9e00e16ba3e82727935621fcb0",
-    "totalAnnouncements": 1,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-18T14:36:22.183+05:30",
+    "checksum": "4d1e5798bec0a9c615fb8e0c70e96bd9040de7aa9ab15f73f6ec8a9b210dd646",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-18/awards-133416.json"
+    "rawPayloadPath": "data/raw/2025-12-18/awards-143621.json"
   }
 }
