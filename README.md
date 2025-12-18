@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-18 09:00 | MTAR Technologies Ltd | 543270 | Receipt of orders worth Rs. 310 Crores from new customer. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 18 Dec 2025 - 09:18 |
 
-_Last updated: 18 Dec 2025 - 10:35 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-18.json)_
+_Last updated: 18 Dec 2025 - 11:35 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-18.json)_
 
 <!-- snapshot:end -->
 
