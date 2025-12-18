@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-17 IST)
+### Today's Awarded Orders (2025-12-18 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-17 11:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 17 Dec 2025 - 11:12 |
-| 2025-12-17 11:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Large*) for Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 17 Dec 2025 - 11:01 |
-| 2025-12-17 09:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Dec 2025 - 09:20 |
+_No award announcements have been captured yet today._
 
-_Last updated: 17 Dec 2025 - 15:33 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-17.json)_
+_Last updated: 18 Dec 2025 - 08:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-18.json)_
 
 <!-- snapshot:end -->
 
