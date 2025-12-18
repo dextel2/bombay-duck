@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-18 14:00 | Bigbloc Construction Ltd | 540061 | Intimation of receipt of Purchase Order attached ([Link](https://www.bseindia.com/stock-share-price/bigbloc-construction-ltd/bigbloc/540061/)) | Likely Positive | 18 Dec 2025 - 14:52 |
 | 2025-12-18 13:00 | CFF Fluid Control Ltd | 543920 | Receipt of Purchase Order Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/)) | Likely Positive | 18 Dec 2025 - 13:47 |
 | 2025-12-18 13:00 | Artefact Projects Ltd | 531297 | letter of Award ([Link](https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/)) | Neutral | 18 Dec 2025 - 13:45 |
 | 2025-12-18 09:00 | MTAR Technologies Ltd | 543270 | Receipt of orders worth Rs. 310 Crores from new customer. ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 18 Dec 2025 - 09:18 |
 
-_Last updated: 18 Dec 2025 - 14:36 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-18.json)_
+_Last updated: 18 Dec 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-18.json)_
 
 <!-- snapshot:end -->
 
