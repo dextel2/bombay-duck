@@ -1,12 +1,44 @@
 {
   "tradingDate": "2025-12-19",
-  "buckets": {},
+  "buckets": {
+    "2025-12-19T11": [
+      {
+        "newsId": "2b2df191-d053-4a85-95e7-c687e7ca49ef",
+        "scripCode": 539332,
+        "shortName": "Navkar Corporation Ltd",
+        "headline": "Announcement under Regulation-30 (Receipt of Letter of Acceptance)",
+        "announcedAt": "2025-12-19T11:09:06.607+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/navkar-corporation-ltd/navkarcorp/539332/",
+        "rawTime": "2025-12-19T11:09:06.607"
+      },
+      {
+        "newsId": "06301911-814c-4b36-afd6-7b61be743ce5",
+        "scripCode": 543273,
+        "shortName": "Knowledge Marine & Engineering Works Ltd",
+        "headline": "KMEW has been received a work order from Dredging Corporation of India Limited for Rock Dredging (removal of Pinnacles/ High Spots) at costal berth of JNPA and discharge of Dredged material ....",
+        "announcedAt": "2025-12-19T11:03:20.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
+        "rawTime": "2025-12-19T11:03:20.843"
+      }
+    ],
+    "2025-12-19T10": [
+      {
+        "newsId": "8c1bc0a5-6491-4cf3-9866-788b466a6f10",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has secured a new and significant work order from State Health Agency -Ayushman Bharat Pradhan Mantri Jan Arogya Yojana for printing and delivery of PVC Ayushman Cards across ....",
+        "announcedAt": "2025-12-19T10:52:55.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2025-12-19T10:52:55.543"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-19T10:34:32.895+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-19T11:34:28.819+05:30",
+    "checksum": "eba98691df20273b5d6720029f88ec5215bea99c18b90ce61ae0746f9bd58eac",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-19/awards-103432.json"
+    "rawPayloadPath": "data/raw/2025-12-19/awards-113428.json"
   }
 }
