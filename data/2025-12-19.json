@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
         "rawTime": "2025-12-19T10:52:55.543"
       }
+    ],
+    "2025-12-19T12": [
+      {
+        "newsId": "862de128-044d-4f8b-9a99-465b3a4706ae",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of work order",
+        "announcedAt": "2025-12-19T12:29:51.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2025-12-19T12:29:51.43"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-19T11:34:28.819+05:30",
-    "checksum": "eba98691df20273b5d6720029f88ec5215bea99c18b90ce61ae0746f9bd58eac",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-19T12:34:27.084+05:30",
+    "checksum": "fde9cba8fbd86b4faab016dc7247e83611d6062258b84e39617154d0801fa594",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-19/awards-113428.json"
+    "rawPayloadPath": "data/raw/2025-12-19/awards-123426.json"
   }
 }
