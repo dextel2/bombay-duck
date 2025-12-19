@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-19 11:00 | Knowledge Marine & Engineering Works Ltd | 543273 | KMEW has been received a work order from Dredging Corporation of India Limited for Rock Dredging (removal of Pinnacles/ High Spots) at costal berth of JNPA and discharge of Dredged material .... ([Link](https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/)) | Likely Positive | 19 Dec 2025 - 11:03 |
 | 2025-12-19 10:00 | Atishay Ltd | 538713 | The Company has secured a new and significant work order from State Health Agency -Ayushman Bharat Pradhan Mantri Jan Arogya Yojana for printing and delivery of PVC Ayushman Cards across .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 19 Dec 2025 - 10:52 |
 
-_Last updated: 19 Dec 2025 - 14:34 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-19.json)_
+_Last updated: 19 Dec 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-19.json)_
 
 <!-- snapshot:end -->
 
