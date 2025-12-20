@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-19 IST)
+### Today's Awarded Orders (2025-12-20 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-19 12:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 19 Dec 2025 - 12:29 |
-| 2025-12-19 11:00 | Navkar Corporation Ltd | 539332 | Announcement under Regulation-30 (Receipt of Letter of Acceptance) ([Link](https://www.bseindia.com/stock-share-price/navkar-corporation-ltd/navkarcorp/539332/)) | Likely Positive | 19 Dec 2025 - 11:09 |
-| 2025-12-19 11:00 | Knowledge Marine & Engineering Works Ltd | 543273 | KMEW has been received a work order from Dredging Corporation of India Limited for Rock Dredging (removal of Pinnacles/ High Spots) at costal berth of JNPA and discharge of Dredged material .... ([Link](https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/)) | Likely Positive | 19 Dec 2025 - 11:03 |
-| 2025-12-19 10:00 | Atishay Ltd | 538713 | The Company has secured a new and significant work order from State Health Agency -Ayushman Bharat Pradhan Mantri Jan Arogya Yojana for printing and delivery of PVC Ayushman Cards across .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 19 Dec 2025 - 10:52 |
+_No award announcements have been captured yet today._
 
-_Last updated: 19 Dec 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-19.json)_
+_Last updated: 20 Dec 2025 - 08:54 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-20.json)_
 
 <!-- snapshot:end -->
 
