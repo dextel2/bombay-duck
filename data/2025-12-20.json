@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
         "rawTime": "2025-12-20T12:58:02.207"
       }
+    ],
+    "2025-12-20T14": [
+      {
+        "newsId": "3dde795e-3b4d-4235-8bd6-faaf5a4bf0d8",
+        "scripCode": 542459,
+        "shortName": "Kranti Industries Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received ....",
+        "announcedAt": "2025-12-20T14:27:53.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/",
+        "rawTime": "2025-12-20T14:27:53.63"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-20T13:33:54.262+05:30",
-    "checksum": "6351b25b432aaa36df41172a2a3904d9f6e55d30e27721958d898daef21d58f8",
-    "totalAnnouncements": 1,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-20T14:33:34.223+05:30",
+    "checksum": "2282a3257cdccc1b6b10ff966b7918fe1079a5fd991bc9e419aa2bb36f3de584",
+    "totalAnnouncements": 2,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-20/awards-133353.json"
+    "rawPayloadPath": "data/raw/2025-12-20/awards-143333.json"
   }
 }
