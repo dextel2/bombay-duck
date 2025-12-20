@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-20",
-  "buckets": {},
+  "buckets": {
+    "2025-12-20T12": [
+      {
+        "newsId": "3ac944e8-6d01-45c7-8024-20fda7501876",
+        "scripCode": 544458,
+        "shortName": "Shree Refrigerations Ltd",
+        "headline": "Pursuant to the Provisions of Regulation 30 read with sub-para 4, para B, part A, schedule III of SEBI (LODR) Regulation, 2015, we hereby submit the disclosure regarding the order received ....",
+        "announcedAt": "2025-12-20T12:58:02.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
+        "rawTime": "2025-12-20T12:58:02.207"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-20T12:33:17.272+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-20T13:33:54.262+05:30",
+    "checksum": "6351b25b432aaa36df41172a2a3904d9f6e55d30e27721958d898daef21d58f8",
+    "totalAnnouncements": 1,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-20/awards-123316.json"
+    "rawPayloadPath": "data/raw/2025-12-20/awards-133353.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-20 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-20 12:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the Provisions of Regulation 30 read with sub-para 4, para B, part A, schedule III of SEBI (LODR) Regulation, 2015, we hereby submit the disclosure regarding the order received .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 20 Dec 2025 - 12:58 |
 
-_Last updated: 20 Dec 2025 - 12:33 | Entries: 0 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-20.json)_
+_Last updated: 20 Dec 2025 - 13:33 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-20.json)_
 
 <!-- snapshot:end -->
 
