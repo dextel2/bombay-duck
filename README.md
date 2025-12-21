@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-20 IST)
+### Today's Awarded Orders (2025-12-21 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-20 14:00 | Kranti Industries Ltd | 542459 | Pursuant to Regulation 30 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received .... ([Link](https://www.bseindia.com/stock-share-price/kranti-industries-ltd/kranti/542459/)) | Neutral | 20 Dec 2025 - 14:27 |
-| 2025-12-20 12:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the Provisions of Regulation 30 read with sub-para 4, para B, part A, schedule III of SEBI (LODR) Regulation, 2015, we hereby submit the disclosure regarding the order received .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 20 Dec 2025 - 12:58 |
+_No award announcements have been captured yet today._
 
-_Last updated: 20 Dec 2025 - 15:33 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-20.json)_
+_Last updated: 21 Dec 2025 - 09:01 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-21.json)_
 
 <!-- snapshot:end -->
 
