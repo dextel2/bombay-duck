@@ -80,14 +80,34 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2025-12-22T13:25:34.517"
       }
+    ],
+    "2025-12-22T15": [
+      {
+        "newsId": "a11ce580-3fec-466a-9175-437e4592972d",
+        "scripCode": 523209,
+        "shortName": "Nicco Uco Alliance Credit Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (LODR), 2015 we draw your attention to the earlier disclosure made by the company on 11-11-2025, regarding filing of a petition in the NCLT by UCO ....",
+        "announcedAt": "2025-12-22T15:28:45.203+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nicco-uco-alliance-credit-ltd/niccouco/523209/",
+        "rawTime": "2025-12-22T15:28:45.203"
+      },
+      {
+        "newsId": "fa62fb68-31a4-4337-ae1a-fc9262fb3df6",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Awarding of Order",
+        "announcedAt": "2025-12-22T15:09:18.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2025-12-22T15:09:18.067"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-22T14:36:20.384+05:30",
-    "checksum": "58feb843637eacdc4aaf3f9013797ac6e8e41c3c17b221a09ef2f2c55a7f7490",
-    "totalAnnouncements": 8,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-22T15:33:59.878+05:30",
+    "checksum": "906fe3b2d96849f84490a3c80c9983dfcef4643570b7e9e36c681e81a6cb5cd7",
+    "totalAnnouncements": 10,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-22/awards-143619.json"
+    "rawPayloadPath": "data/raw/2025-12-22/awards-153359.json"
   }
 }
