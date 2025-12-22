@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
         "rawTime": "2025-12-22T09:10:46.553"
       }
+    ],
+    "2025-12-22T11": [
+      {
+        "newsId": "de81e56c-2530-439a-8a59-f1ca7836bf32",
+        "scripCode": 540366,
+        "shortName": "Music Broadcast Ltd",
+        "headline": "Intimation under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2025-12-22T11:12:11.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/music-broadcast-ltd/radiocity/540366/",
+        "rawTime": "2025-12-22T11:12:11.543"
+      },
+      {
+        "newsId": "7b77d662-221f-490c-a154-e4d21180dda9",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "We are pleased to inform you that that Dilip Buildcon Limited (the Company) has been selected as the successful bidder by Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL) for a total capacity ....",
+        "announcedAt": "2025-12-22T11:00:33.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2025-12-22T11:00:33.973"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-22T10:35:49.950+05:30",
-    "checksum": "68b4d93a81e99057bbd00ee1b2eeafe31e68d373c37faaf7e293ef3202027add",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-22T11:35:15.582+05:30",
+    "checksum": "d1d168ac333df865c3dcfba5d6dfcfc8b8ebdfb1479d41030f9c80fb9db76200",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-22/awards-103549.json"
+    "rawPayloadPath": "data/raw/2025-12-22/awards-113514.json"
   }
 }
