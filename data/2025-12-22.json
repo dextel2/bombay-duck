@@ -14,6 +14,15 @@
     ],
     "2025-12-22T11": [
       {
+        "newsId": "2c00980e-5eb6-486a-8cca-cbc269c10e3f",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of LoA from NCL",
+        "announcedAt": "2025-12-22T11:58:04.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2025-12-22T11:58:04.883"
+      },
+      {
         "newsId": "de81e56c-2530-439a-8a59-f1ca7836bf32",
         "scripCode": 540366,
         "shortName": "Music Broadcast Ltd",
@@ -31,14 +40,34 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2025-12-22T11:00:33.973"
       }
+    ],
+    "2025-12-22T12": [
+      {
+        "newsId": "5b40e76f-0c15-4a2d-86d1-2b47686d9ed0",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling secured Order amounting to Rs. 17272368 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requiremens) Regulation 2015",
+        "announcedAt": "2025-12-22T12:20:06.280+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2025-12-22T12:20:06.28"
+      },
+      {
+        "newsId": "0db97e36-d502-452c-8d72-654231e8b220",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" Secured Order amounting to Rs. 1,75,23,000 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015",
+        "announcedAt": "2025-12-22T12:17:01.127+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2025-12-22T12:17:01.127"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-22T11:35:15.582+05:30",
-    "checksum": "d1d168ac333df865c3dcfba5d6dfcfc8b8ebdfb1479d41030f9c80fb9db76200",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-22T12:35:43.681+05:30",
+    "checksum": "4dc510daf2048eb3f551368b9cd9c7824a953f475b57f50501212522b0492600",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-22/awards-113514.json"
+    "rawPayloadPath": "data/raw/2025-12-22/awards-123543.json"
   }
 }

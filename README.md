@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-22 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling secured Order amounting to Rs. 17272368 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requiremens) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 22 Dec 2025 - 12:20 |
+| 2025-12-22 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" Secured Order amounting to Rs. 1,75,23,000 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 22 Dec 2025 - 12:17 |
+| 2025-12-22 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of LoA from NCL ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 22 Dec 2025 - 11:58 |
 | 2025-12-22 11:00 | Music Broadcast Ltd | 540366 | Intimation under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/music-broadcast-ltd/radiocity/540366/)) | Neutral | 22 Dec 2025 - 11:12 |
 | 2025-12-22 11:00 | Dilip Buildcon Ltd | 540047 | We are pleased to inform you that that Dilip Buildcon Limited (the Company) has been selected as the successful bidder by Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL) for a total capacity .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 22 Dec 2025 - 11:00 |
 | 2025-12-22 09:00 | Concord Control Systems Ltd | 543619 | Disclosure of Regulation 30 of SEBI LODR, 2015 ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Neutral | 22 Dec 2025 - 09:10 |
 
-_Last updated: 22 Dec 2025 - 11:35 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
+_Last updated: 22 Dec 2025 - 12:35 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
 
 <!-- snapshot:end -->
 
