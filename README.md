@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-22 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-22 09:00 | Concord Control Systems Ltd | 543619 | Disclosure of Regulation 30 of SEBI LODR, 2015 ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Neutral | 22 Dec 2025 - 09:10 |
 
-_Last updated: 22 Dec 2025 - 09:02 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
+_Last updated: 22 Dec 2025 - 09:47 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
 
 <!-- snapshot:end -->
 
