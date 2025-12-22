@@ -31,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-22 11:00 | Dilip Buildcon Ltd | 540047 | We are pleased to inform you that that Dilip Buildcon Limited (the Company) has been selected as the successful bidder by Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL) for a total capacity .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 22 Dec 2025 - 11:00 |
 | 2025-12-22 09:00 | Concord Control Systems Ltd | 543619 | Disclosure of Regulation 30 of SEBI LODR, 2015 ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Neutral | 22 Dec 2025 - 09:10 |
 
-_Last updated: 22 Dec 2025 - 13:34 | Entries: 8 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
+_Last updated: 22 Dec 2025 - 14:36 | Entries: 8 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
 
 <!-- snapshot:end -->
 
