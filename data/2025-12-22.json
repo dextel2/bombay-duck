@@ -43,6 +43,15 @@
     ],
     "2025-12-22T12": [
       {
+        "newsId": "bf620f63-2bcf-4463-85b9-733f3227e314",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "DEVIT secures order of Design, Development, Implementation and Maintenance of Application Software and Website of Bureau of Indian Standard, New Delhi, from National Informatics Centre ....",
+        "announcedAt": "2025-12-22T12:41:32.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2025-12-22T12:41:32.653"
+      },
+      {
         "newsId": "5b40e76f-0c15-4a2d-86d1-2b47686d9ed0",
         "scripCode": 544047,
         "shortName": "Siyaram Recycling Industries Ltd",
@@ -60,14 +69,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2025-12-22T12:17:01.127"
       }
+    ],
+    "2025-12-22T13": [
+      {
+        "newsId": "6704a9f9-a81e-483c-8720-363eba2c54f7",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "We are pleased to inform you that Company has emerged as L1 Bidder in the financial bid by Madhya Pradesh Urja Vikas Nigam Ltd. (MPUVNL) for Solar PV based Power Plants (SPP) for solar ....",
+        "announcedAt": "2025-12-22T13:25:34.517+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2025-12-22T13:25:34.517"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-22T12:35:43.681+05:30",
-    "checksum": "4dc510daf2048eb3f551368b9cd9c7824a953f475b57f50501212522b0492600",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-22T13:34:41.765+05:30",
+    "checksum": "58feb843637eacdc4aaf3f9013797ac6e8e41c3c17b221a09ef2f2c55a7f7490",
+    "totalAnnouncements": 8,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-22/awards-123543.json"
+    "rawPayloadPath": "data/raw/2025-12-22/awards-133441.json"
   }
 }
