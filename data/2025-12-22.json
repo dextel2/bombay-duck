@@ -1,0 +1,12 @@
+{
+  "tradingDate": "2025-12-22",
+  "buckets": {},
+  "meta": {
+    "lastUpdated": "2025-12-22T09:02:06.168+05:30",
+    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "totalAnnouncements": 0,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-12-22/awards-090205.json"
+  }
+}
