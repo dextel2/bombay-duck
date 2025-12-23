@@ -42,14 +42,63 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2025-12-23T11:08:49.647"
       }
+    ],
+    "2025-12-23T13": [
+      {
+        "newsId": "b650fa1e-6ba0-47fb-9b9d-77f4120f0757",
+        "scripCode": 516038,
+        "shortName": "Soma Papers & Industries Ltd",
+        "headline": "Intimation towards receipt of order from School Education Department, Government of Punjab to the Company''s wholly owned subsidiary.",
+        "announcedAt": "2025-12-23T13:10:39.787+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/somappr/516038/",
+        "rawTime": "2025-12-23T13:10:39.787"
+      },
+      {
+        "newsId": "4106be7e-38d7-49e5-852e-7bc225baba30",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Oriental Foundry Private Limited, a Wholly-Owned Subsidiary Company secures order",
+        "announcedAt": "2025-12-23T13:04:20.417+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2025-12-23T13:04:20.417"
+      },
+      {
+        "newsId": "a43b07f4-2daf-4056-8bca-9ddc244ea728",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Oriental Foundry Private Limited, a Wholly-Owned Subsidiary of the Company secures order",
+        "announcedAt": "2025-12-23T13:01:37.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2025-12-23T13:01:37.23"
+      }
+    ],
+    "2025-12-23T12": [
+      {
+        "newsId": "4ddddeec-ad0d-45ca-8aec-1a032ec8a2b9",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier letter dated 22nd December 2025, we are pleased to inform you that Company has received Multiple Letter of Award (LOA) from Madhya Pradesh Urja Vikas Nigam ....",
+        "announcedAt": "2025-12-23T12:47:07.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2025-12-23T12:47:07.82"
+      },
+      {
+        "newsId": "8e46020d-ad85-4803-87c4-e93b068edc0e",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "DEVIT secures order from \"Knowledge Consortium of Gujarat\" (KCG)",
+        "announcedAt": "2025-12-23T12:39:32.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2025-12-23T12:39:32.713"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-23T12:35:29.049+05:30",
-    "checksum": "40f83c28de5144e9f2c1393e49920f81c11a2eca147896ff34ab10adff6d565a",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-23T13:34:29.233+05:30",
+    "checksum": "5c753987325e5830f84fbf8b9cfddb49e6d02f7803e4e9361c261a110c33d154",
+    "totalAnnouncements": 9,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-23/awards-123528.json"
+    "rawPayloadPath": "data/raw/2025-12-23/awards-133428.json"
   }
 }

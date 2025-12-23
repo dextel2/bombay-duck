@@ -22,12 +22,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-23 13:00 | Soma Papers & Industries Ltd | 516038 | Intimation towards receipt of order from School Education Department, Government of Punjab to the Company''s wholly owned subsidiary. ([Link](https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/somappr/516038/)) | Likely Positive | 23 Dec 2025 - 13:10 |
+| 2025-12-23 13:00 | Oriental Rail Infrastructure Ltd | 531859 | Oriental Foundry Private Limited, a Wholly-Owned Subsidiary Company secures order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 23 Dec 2025 - 13:04 |
+| 2025-12-23 13:00 | Oriental Rail Infrastructure Ltd | 531859 | Oriental Foundry Private Limited, a Wholly-Owned Subsidiary of the Company secures order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 23 Dec 2025 - 13:01 |
+| 2025-12-23 12:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letter dated 22nd December 2025, we are pleased to inform you that Company has received Multiple Letter of Award (LOA) from Madhya Pradesh Urja Vikas Nigam .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 23 Dec 2025 - 12:47 |
+| 2025-12-23 12:00 | Dev Information Technology Ltd | 543462 | DEVIT secures order from "Knowledge Consortium of Gujarat" (KCG) ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 23 Dec 2025 - 12:39 |
 | 2025-12-23 11:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform you that Company has received Letter of Empanelment/Award from Maharashtra State Electricity Distribution Company Limited for 12,883 Off-Grid DC Solar Photovaltaic .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 23 Dec 2025 - 11:17 |
 | 2025-12-23 11:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has received letter of award (LOA) from Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL) for a total capacity of 1363.55 MW AC under the Non-DCR category for establishment .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 23 Dec 2025 - 11:08 |
 | 2025-12-23 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Major*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Dec 2025 - 09:48 |
 | 2025-12-23 08:00 | RITES Ltd | 541556 | Intimation regarding major order secured from Ndalama Capital (Pty) Ltd., South Africa ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 23 Dec 2025 - 08:28 |
 
-_Last updated: 23 Dec 2025 - 12:35 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
+_Last updated: 23 Dec 2025 - 13:34 | Entries: 9 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
 
 <!-- snapshot:end -->
 
