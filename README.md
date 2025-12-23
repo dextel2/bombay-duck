@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-23 14:00 | Dev Information Technology Ltd | 543462 | DEVIT secures order from "Vishakha group entities" ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 23 Dec 2025 - 14:32 |
 | 2025-12-23 13:00 | Soma Papers & Industries Ltd | 516038 | Intimation towards receipt of order from School Education Department, Government of Punjab to the Company''s wholly owned subsidiary. ([Link](https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/somappr/516038/)) | Likely Positive | 23 Dec 2025 - 13:10 |
 | 2025-12-23 13:00 | Oriental Rail Infrastructure Ltd | 531859 | Oriental Foundry Private Limited, a Wholly-Owned Subsidiary Company secures order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 23 Dec 2025 - 13:04 |
 | 2025-12-23 13:00 | Oriental Rail Infrastructure Ltd | 531859 | Oriental Foundry Private Limited, a Wholly-Owned Subsidiary of the Company secures order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 23 Dec 2025 - 13:01 |
@@ -32,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-23 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Major*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Dec 2025 - 09:48 |
 | 2025-12-23 08:00 | RITES Ltd | 541556 | Intimation regarding major order secured from Ndalama Capital (Pty) Ltd., South Africa ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 23 Dec 2025 - 08:28 |
 
-_Last updated: 23 Dec 2025 - 13:34 | Entries: 9 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
+_Last updated: 23 Dec 2025 - 14:35 | Entries: 10 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
 
 <!-- snapshot:end -->
 

@@ -91,14 +91,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
         "rawTime": "2025-12-23T12:39:32.713"
       }
+    ],
+    "2025-12-23T14": [
+      {
+        "newsId": "d149af69-90db-438b-b7eb-4795309f4681",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "DEVIT secures order from \"Vishakha group entities\"",
+        "announcedAt": "2025-12-23T14:32:24.273+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2025-12-23T14:32:24.273"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-23T13:34:29.233+05:30",
-    "checksum": "5c753987325e5830f84fbf8b9cfddb49e6d02f7803e4e9361c261a110c33d154",
-    "totalAnnouncements": 9,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-23T14:35:36.721+05:30",
+    "checksum": "67b1652e439e0092703fe11df479262ee522f998d5770f747aed0039e816af2c",
+    "totalAnnouncements": 10,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-23/awards-133428.json"
+    "rawPayloadPath": "data/raw/2025-12-23/awards-143536.json"
   }
 }
