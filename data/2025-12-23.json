@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-12-23",
+  "buckets": {
+    "2025-12-23T08": [
+      {
+        "newsId": "8869c618-4cf7-41a6-8adc-27a372e97a14",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Intimation regarding major order secured from Ndalama Capital (Pty) Ltd., South Africa",
+        "announcedAt": "2025-12-23T08:28:06.020+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2025-12-23T08:28:06.02"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-12-23T09:00:50.258+05:30",
+    "checksum": "ebb4ef92c726875146fd373e39bdac9db1ef7bccba52e86de1e187903f83fd35",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-12-23/awards-090049.json"
+  }
+}

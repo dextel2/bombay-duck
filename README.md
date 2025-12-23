@@ -18,22 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-22 IST)
+### Today's Awarded Orders (2025-12-23 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-22 15:00 | Nicco Uco Alliance Credit Ltd | 523209 | Pursuant to Regulation 30 of the SEBI (LODR), 2015 we draw your attention to the earlier disclosure made by the company on 11-11-2025, regarding filing of a petition in the NCLT by UCO .... ([Link](https://www.bseindia.com/stock-share-price/nicco-uco-alliance-credit-ltd/niccouco/523209/)) | Neutral | 22 Dec 2025 - 15:28 |
-| 2025-12-22 15:00 | Saatvik Green Energy Ltd | 544526 | Awarding of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 22 Dec 2025 - 15:09 |
-| 2025-12-22 13:00 | Ceigall India Ltd | 544223 | We are pleased to inform you that Company has emerged as L1 Bidder in the financial bid by Madhya Pradesh Urja Vikas Nigam Ltd. (MPUVNL) for Solar PV based Power Plants (SPP) for solar .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 22 Dec 2025 - 13:25 |
-| 2025-12-22 12:00 | Dev Information Technology Ltd | 543462 | DEVIT secures order of Design, Development, Implementation and Maintenance of Application Software and Website of Bureau of Indian Standard, New Delhi, from National Informatics Centre .... ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 22 Dec 2025 - 12:41 |
-| 2025-12-22 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling secured Order amounting to Rs. 17272368 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requiremens) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 22 Dec 2025 - 12:20 |
-| 2025-12-22 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" Secured Order amounting to Rs. 1,75,23,000 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 22 Dec 2025 - 12:17 |
-| 2025-12-22 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of LoA from NCL ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 22 Dec 2025 - 11:58 |
-| 2025-12-22 11:00 | Music Broadcast Ltd | 540366 | Intimation under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/music-broadcast-ltd/radiocity/540366/)) | Neutral | 22 Dec 2025 - 11:12 |
-| 2025-12-22 11:00 | Dilip Buildcon Ltd | 540047 | We are pleased to inform you that that Dilip Buildcon Limited (the Company) has been selected as the successful bidder by Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL) for a total capacity .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 22 Dec 2025 - 11:00 |
-| 2025-12-22 09:00 | Concord Control Systems Ltd | 543619 | Disclosure of Regulation 30 of SEBI LODR, 2015 ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Neutral | 22 Dec 2025 - 09:10 |
+| 2025-12-23 08:00 | RITES Ltd | 541556 | Intimation regarding major order secured from Ndalama Capital (Pty) Ltd., South Africa ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 23 Dec 2025 - 08:28 |
 
-_Last updated: 22 Dec 2025 - 15:33 | Entries: 10 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-22.json)_
+_Last updated: 23 Dec 2025 - 09:00 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
 
 <!-- snapshot:end -->
 
