@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2025-12-23T09:48:58.367"
       }
+    ],
+    "2025-12-23T11": [
+      {
+        "newsId": "f5feca30-6e52-4422-8c83-27a8fed94dd2",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We are glad to inform you that Company has received Letter of Empanelment/Award from Maharashtra State Electricity Distribution Company Limited for 12,883 Off-Grid DC Solar Photovaltaic ....",
+        "announcedAt": "2025-12-23T11:17:11.150+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2025-12-23T11:17:11.15"
+      },
+      {
+        "newsId": "05763cc0-84da-40da-b494-dc092eb5b3a8",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited has received letter of award (LOA) from Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL) for a total capacity of 1363.55 MW AC under the Non-DCR category for establishment ....",
+        "announcedAt": "2025-12-23T11:08:49.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2025-12-23T11:08:49.647"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-23T10:35:56.418+05:30",
-    "checksum": "95b3a9a4d390b6dd0241fdf96b637f81cdafcf0b6a72aee752092a5f6754da93",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-23T11:34:33.299+05:30",
+    "checksum": "40f83c28de5144e9f2c1393e49920f81c11a2eca147896ff34ab10adff6d565a",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-23/awards-103555.json"
+    "rawPayloadPath": "data/raw/2025-12-23/awards-113432.json"
   }
 }
