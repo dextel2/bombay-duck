@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-23 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Major*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Dec 2025 - 09:48 |
 | 2025-12-23 08:00 | RITES Ltd | 541556 | Intimation regarding major order secured from Ndalama Capital (Pty) Ltd., South Africa ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 23 Dec 2025 - 08:28 |
 
-_Last updated: 23 Dec 2025 - 09:45 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
+_Last updated: 23 Dec 2025 - 10:35 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-23.json)_
 
 <!-- snapshot:end -->
 

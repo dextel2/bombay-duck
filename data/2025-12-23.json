@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
         "rawTime": "2025-12-23T08:28:06.02"
       }
+    ],
+    "2025-12-23T09": [
+      {
+        "newsId": "89ed7692-785d-4992-8e75-3c954748c6dd",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins (Major*) Order for Hydrocarbon Onshore Business",
+        "announcedAt": "2025-12-23T09:48:58.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2025-12-23T09:48:58.367"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-23T09:45:24.389+05:30",
-    "checksum": "ebb4ef92c726875146fd373e39bdac9db1ef7bccba52e86de1e187903f83fd35",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-23T10:35:56.418+05:30",
+    "checksum": "95b3a9a4d390b6dd0241fdf96b637f81cdafcf0b6a72aee752092a5f6754da93",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-23/awards-094523.json"
+    "rawPayloadPath": "data/raw/2025-12-23/awards-103555.json"
   }
 }
