@@ -60,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
         "rawTime": "2025-12-24T11:10:42.11"
       }
+    ],
+    "2025-12-24T12": [
+      {
+        "newsId": "61afb0a5-89a7-46b1-80c4-f9e34748dc02",
+        "scripCode": 544525,
+        "shortName": "GK Energy Ltd",
+        "headline": "We are glad to inform that Company has received an amendment letter of Empanelment (LOE) from Maharashtra State Electricity Distribution Company Limited for additional 10,000 Off-grid DC ....",
+        "announcedAt": "2025-12-24T12:09:38.213+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
+        "rawTime": "2025-12-24T12:09:38.213"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-24T11:34:58.739+05:30",
-    "checksum": "01463b05fc30f4c04a3b6852d506dd366755242b95c0e8b3f8ce9d2918fdd873",
-    "totalAnnouncements": 6,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-24T12:35:20.368+05:30",
+    "checksum": "683b6aa17da091140c36e67b499e1cbb13778f52537873b54b997b21f86824f3",
+    "totalAnnouncements": 7,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-113458.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-123518.json"
   }
 }
