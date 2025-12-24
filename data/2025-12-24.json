@@ -23,6 +23,15 @@
     ],
     "2025-12-24T10": [
       {
+        "newsId": "b3faba80-d44f-40af-98f7-647a1d9444de",
+        "scripCode": 539876,
+        "shortName": "Crompton Greaves Consumer Electricals Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2025-12-24T10:50:28.453+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/",
+        "rawTime": "2025-12-24T10:50:28.453"
+      },
+      {
         "newsId": "5a88e639-34e0-482e-8367-64f0b3ea115e",
         "scripCode": 500510,
         "shortName": "Larsen & Toubro Ltd",
@@ -31,14 +40,34 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2025-12-24T10:11:53.333"
       }
+    ],
+    "2025-12-24T11": [
+      {
+        "newsId": "b8158781-34b7-4bb0-b097-3d5a5db19831",
+        "scripCode": 536974,
+        "shortName": "Captain Polyplast Ltd",
+        "headline": "company has received order worth Rs.27.69 crores from MAHARASHTRA STATE ELECTRICITY DISTRIBUTION COMPANY LIMITED for 1000 SPWPS. PRESS RELEASE FOR THE SAME IS ATTACHED HEREWITH",
+        "announcedAt": "2025-12-24T11:33:29.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/",
+        "rawTime": "2025-12-24T11:33:29.73"
+      },
+      {
+        "newsId": "5821d6d0-21ee-424a-b383-3a0379f76525",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Nashik ....",
+        "announcedAt": "2025-12-24T11:10:42.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-12-24T11:10:42.11"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-24T10:35:50.094+05:30",
-    "checksum": "baf6f086b6b68db3552f05bcc6e4a28f47bb226c68ce80c893e00cc7d78d9f63",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-24T11:34:58.739+05:30",
+    "checksum": "01463b05fc30f4c04a3b6852d506dd366755242b95c0e8b3f8ce9d2918fdd873",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-103549.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-113458.json"
   }
 }
