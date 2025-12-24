@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-12-24",
-  "buckets": {},
+  "buckets": {
+    "2025-12-24T09": [
+      {
+        "newsId": "57cafb28-3190-4f20-a6e2-746ffb508425",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached letter.",
+        "announcedAt": "2025-12-24T09:20:30.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2025-12-24T09:20:30.597"
+      },
+      {
+        "newsId": "8842ce40-0ffd-48e4-b07f-20f7507edb71",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Receipt of Letter of Award (LOA)",
+        "announcedAt": "2025-12-24T09:20:27.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2025-12-24T09:20:27.86"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-24T09:00:16.631+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2025-12-24T09:43:34.655+05:30",
+    "checksum": "2b7ecb54b274c4c4e8c5483b5ac076965f4c9ea6ca4b44a1a78db9463929c89b",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-090016.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-094334.json"
   }
 }

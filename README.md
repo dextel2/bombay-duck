@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-24 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-24 09:00 | Oswal Pumps Ltd | 544418 | As per attached letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 24 Dec 2025 - 09:20 |
+| 2025-12-24 09:00 | ACME Solar Holdings Ltd | 544283 | Receipt of Letter of Award (LOA) ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Likely Positive | 24 Dec 2025 - 09:20 |
 
-_Last updated: 24 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-24.json)_
+_Last updated: 24 Dec 2025 - 09:43 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-24.json)_
 
 <!-- snapshot:end -->
 
