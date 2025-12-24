@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
         "rawTime": "2025-12-24T09:20:27.86"
       }
+    ],
+    "2025-12-24T10": [
+      {
+        "newsId": "5a88e639-34e0-482e-8367-64f0b3ea115e",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins ( Significant*) Order for its Transportation Infrastructure business",
+        "announcedAt": "2025-12-24T10:11:53.333+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2025-12-24T10:11:53.333"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-24T09:43:34.655+05:30",
-    "checksum": "2b7ecb54b274c4c4e8c5483b5ac076965f4c9ea6ca4b44a1a78db9463929c89b",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-24T10:35:50.094+05:30",
+    "checksum": "baf6f086b6b68db3552f05bcc6e4a28f47bb226c68ce80c893e00cc7d78d9f63",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-094334.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-103549.json"
   }
 }
