@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-24 15:00 | IL&FS Transportation Networks Ltd | 533177 | Intimation under Regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/)) | Neutral | 24 Dec 2025 - 15:28 |
+| 2025-12-24 15:00 | CESC Ltd | 500084 | Disclosure is attached ([Link](https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/)) | Neutral | 24 Dec 2025 - 15:02 |
 | 2025-12-24 14:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform you that Company has received Work Order from Madhya Pradesh Urja Vikas Nigam Limited for 1,897 Standalone Off Grid DC Solar Photovaltaic Water Pumping Systems Pumps under .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 24 Dec 2025 - 14:29 |
 | 2025-12-24 14:00 | Ceinsys Tech Ltd | 538734 | Intimation of extension of Letter of Award from State Water and Sanitation Mission (SWSM), Uttar Pradesh for Lucknow, Devipatan and Chitrakoot Cluster. ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Neutral | 24 Dec 2025 - 14:07 |
 | 2025-12-24 13:00 | TVS Supply Chain Solutions Ltd | 543965 | TVS Supply Chain Solutions Limited ("Company") has received an order from the Assistant Commissioner, Gujarat State Tax Authority. ([Link](https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/)) | Likely Positive | 24 Dec 2025 - 13:12 |
@@ -33,7 +35,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-24 09:00 | Oswal Pumps Ltd | 544418 | As per attached letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 24 Dec 2025 - 09:20 |
 | 2025-12-24 09:00 | ACME Solar Holdings Ltd | 544283 | Receipt of Letter of Award (LOA) ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Likely Positive | 24 Dec 2025 - 09:20 |
 
-_Last updated: 24 Dec 2025 - 14:35 | Entries: 10 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-24.json)_
+_Last updated: 24 Dec 2025 - 15:33 | Entries: 12 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-24.json)_
 
 <!-- snapshot:end -->
 

@@ -102,14 +102,34 @@
         "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/",
         "rawTime": "2025-12-24T14:07:37.183"
       }
+    ],
+    "2025-12-24T15": [
+      {
+        "newsId": "2869ec81-637d-462c-bd4b-638059963317",
+        "scripCode": 533177,
+        "shortName": "IL&FS Transportation Networks Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI LODR",
+        "announcedAt": "2025-12-24T15:28:36.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/",
+        "rawTime": "2025-12-24T15:28:36.673"
+      },
+      {
+        "newsId": "3b3480e1-c363-49ae-98e1-63d6672e4415",
+        "scripCode": 500084,
+        "shortName": "CESC Ltd",
+        "headline": "Disclosure is attached",
+        "announcedAt": "2025-12-24T15:02:22.757+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/",
+        "rawTime": "2025-12-24T15:02:22.757"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-24T14:35:33.241+05:30",
-    "checksum": "a5a390f86463750348e4066b573bdf390466329107b8ee6211fbcac396abc331",
-    "totalAnnouncements": 10,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-24T15:33:39.716+05:30",
+    "checksum": "ca2e0356c91c1e09837f7e888fc3229feaa00623dfedb8ca070ed9f8d2f2fa88",
+    "totalAnnouncements": 12,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-143532.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-153339.json"
   }
 }
