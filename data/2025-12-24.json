@@ -71,14 +71,25 @@
         "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
         "rawTime": "2025-12-24T12:09:38.213"
       }
+    ],
+    "2025-12-24T13": [
+      {
+        "newsId": "a78107dd-d080-4ef8-b4f6-e0a1be2d024d",
+        "scripCode": 543965,
+        "shortName": "TVS Supply Chain Solutions Ltd",
+        "headline": "TVS Supply Chain Solutions Limited (\"Company\") has received an order from the Assistant Commissioner, Gujarat State Tax Authority.",
+        "announcedAt": "2025-12-24T13:12:00.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/",
+        "rawTime": "2025-12-24T13:12:00.63"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-24T12:35:20.368+05:30",
-    "checksum": "683b6aa17da091140c36e67b499e1cbb13778f52537873b54b997b21f86824f3",
-    "totalAnnouncements": 7,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-24T13:34:10.309+05:30",
+    "checksum": "0107e97611d004620e15cf602289f8cc63e0baf444386e7b728023ce4ffea551",
+    "totalAnnouncements": 8,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-123518.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-133409.json"
   }
 }
