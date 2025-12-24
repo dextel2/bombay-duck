@@ -82,14 +82,34 @@
         "url": "https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/",
         "rawTime": "2025-12-24T13:12:00.63"
       }
+    ],
+    "2025-12-24T14": [
+      {
+        "newsId": "cfa1fa44-d0c1-4a6a-b631-4457ba579e61",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We glad to inform you that Company has received Work Order from Madhya Pradesh Urja Vikas Nigam Limited for 1,897 Standalone Off Grid DC Solar Photovaltaic Water Pumping Systems Pumps under ....",
+        "announcedAt": "2025-12-24T14:29:39.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2025-12-24T14:29:39.677"
+      },
+      {
+        "newsId": "4e1d3f4f-2ce7-4ecd-9791-26b4fccf247a",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation of extension of Letter of Award from State Water and Sanitation Mission (SWSM), Uttar Pradesh for Lucknow, Devipatan and Chitrakoot Cluster.",
+        "announcedAt": "2025-12-24T14:07:37.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/",
+        "rawTime": "2025-12-24T14:07:37.183"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-24T13:34:10.309+05:30",
-    "checksum": "0107e97611d004620e15cf602289f8cc63e0baf444386e7b728023ce4ffea551",
-    "totalAnnouncements": 8,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-24T14:35:33.241+05:30",
+    "checksum": "a5a390f86463750348e4066b573bdf390466329107b8ee6211fbcac396abc331",
+    "totalAnnouncements": 10,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-24/awards-133409.json"
+    "rawPayloadPath": "data/raw/2025-12-24/awards-143532.json"
   }
 }
