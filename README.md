@@ -18,24 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-24 IST)
+### Today's Awarded Orders (2025-12-25 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-24 15:00 | IL&FS Transportation Networks Ltd | 533177 | Intimation under Regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/)) | Neutral | 24 Dec 2025 - 15:28 |
-| 2025-12-24 15:00 | CESC Ltd | 500084 | Disclosure is attached ([Link](https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/)) | Neutral | 24 Dec 2025 - 15:02 |
-| 2025-12-24 14:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform you that Company has received Work Order from Madhya Pradesh Urja Vikas Nigam Limited for 1,897 Standalone Off Grid DC Solar Photovaltaic Water Pumping Systems Pumps under .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 24 Dec 2025 - 14:29 |
-| 2025-12-24 14:00 | Ceinsys Tech Ltd | 538734 | Intimation of extension of Letter of Award from State Water and Sanitation Mission (SWSM), Uttar Pradesh for Lucknow, Devipatan and Chitrakoot Cluster. ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Neutral | 24 Dec 2025 - 14:07 |
-| 2025-12-24 13:00 | TVS Supply Chain Solutions Ltd | 543965 | TVS Supply Chain Solutions Limited ("Company") has received an order from the Assistant Commissioner, Gujarat State Tax Authority. ([Link](https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/)) | Likely Positive | 24 Dec 2025 - 13:12 |
-| 2025-12-24 12:00 | GK Energy Ltd | 544525 | We are glad to inform that Company has received an amendment letter of Empanelment (LOE) from Maharashtra State Electricity Distribution Company Limited for additional 10,000 Off-grid DC .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 24 Dec 2025 - 12:09 |
-| 2025-12-24 11:00 | Captain Polyplast Ltd | 536974 | company has received order worth Rs.27.69 crores from MAHARASHTRA STATE ELECTRICITY DISTRIBUTION COMPANY LIMITED for 1000 SPWPS. PRESS RELEASE FOR THE SAME IS ATTACHED HEREWITH ([Link](https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/)) | Likely Positive | 24 Dec 2025 - 11:33 |
-| 2025-12-24 11:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Nashik .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 24 Dec 2025 - 11:10 |
-| 2025-12-24 10:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 24 Dec 2025 - 10:50 |
-| 2025-12-24 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins ( Significant*) Order for its Transportation Infrastructure business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Dec 2025 - 10:11 |
-| 2025-12-24 09:00 | Oswal Pumps Ltd | 544418 | As per attached letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 24 Dec 2025 - 09:20 |
-| 2025-12-24 09:00 | ACME Solar Holdings Ltd | 544283 | Receipt of Letter of Award (LOA) ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Likely Positive | 24 Dec 2025 - 09:20 |
+_No award announcements have been captured yet today._
 
-_Last updated: 24 Dec 2025 - 15:33 | Entries: 12 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-24.json)_
+_Last updated: 25 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-25.json)_
 
 <!-- snapshot:end -->
 
