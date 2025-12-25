@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-25",
-  "buckets": {},
+  "buckets": {
+    "2025-12-25T14": [
+      {
+        "newsId": "093383c1-1a59-4fd7-b979-715f74c2930a",
+        "scripCode": 544496,
+        "shortName": "Vikran Engineering Ltd",
+        "headline": "Intimation of receipt of Notification of Award of Contract from NTPC Renewable Energy Limited of INR 459.20 Crores for EPC on BOS of 400 MW AC Solar Project in Chitrakoot in Uttar Pradesh",
+        "announcedAt": "2025-12-25T14:58:10.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/",
+        "rawTime": "2025-12-25T14:58:10.597"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-25T14:34:21.524+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-25T15:33:45.592+05:30",
+    "checksum": "1cde9a2b0c2c5942cd38392ffbeda1f41a3d7fbea6650952f7fc7b5139e12065",
+    "totalAnnouncements": 1,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-25/awards-143420.json"
+    "rawPayloadPath": "data/raw/2025-12-25/awards-153344.json"
   }
 }

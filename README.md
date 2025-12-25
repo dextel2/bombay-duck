@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-25 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-25 14:00 | Vikran Engineering Ltd | 544496 | Intimation of receipt of Notification of Award of Contract from NTPC Renewable Energy Limited of INR 459.20 Crores for EPC on BOS of 400 MW AC Solar Project in Chitrakoot in Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/)) | Likely Positive | 25 Dec 2025 - 14:58 |
 
-_Last updated: 25 Dec 2025 - 14:34 | Entries: 0 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-25.json)_
+_Last updated: 25 Dec 2025 - 15:33 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-25.json)_
 
 <!-- snapshot:end -->
 
