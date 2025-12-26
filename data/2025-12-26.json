@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2025-12-26T11:25:25.317"
       }
+    ],
+    "2025-12-26T12": [
+      {
+        "newsId": "280cb868-95ec-40a8-b023-d6a0c235e692",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of LoA from NTPC",
+        "announcedAt": "2025-12-26T12:22:31.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2025-12-26T12:22:31.507"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-26T11:34:33.281+05:30",
-    "checksum": "170add17e343b10e250960c7a786361d0e7e2a4dde33e52ac921f5ff4f49df07",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-26T12:34:47.837+05:30",
+    "checksum": "f2c0aab9bef31e7d32a7c8b7db91885d0b96c502037eae14affadd06cc748b8c",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-26/awards-113432.json"
+    "rawPayloadPath": "data/raw/2025-12-26/awards-123446.json"
   }
 }
