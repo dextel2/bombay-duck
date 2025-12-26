@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-26 11:00 | Dilip Buildcon Ltd | 540047 | In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that Dilip .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 26 Dec 2025 - 11:25 |
 | 2025-12-26 09:00 | Dilip Buildcon Ltd | 540047 | In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that that .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 26 Dec 2025 - 09:35 |
 
-_Last updated: 26 Dec 2025 - 12:34 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-26.json)_
+_Last updated: 26 Dec 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-26.json)_
 
 <!-- snapshot:end -->
 
