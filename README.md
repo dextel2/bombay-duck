@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-26 13:00 | Concord Control Systems Ltd | 543619 | Disclosure of Regulation 30 of SEBI LODR, 2015 ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Neutral | 26 Dec 2025 - 13:45 |
 | 2025-12-26 12:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of LoA from NTPC ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 26 Dec 2025 - 12:22 |
 | 2025-12-26 11:00 | Dilip Buildcon Ltd | 540047 | In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that Dilip .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 26 Dec 2025 - 11:25 |
 | 2025-12-26 09:00 | Dilip Buildcon Ltd | 540047 | In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that that .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 26 Dec 2025 - 09:35 |
 
-_Last updated: 26 Dec 2025 - 13:34 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-26.json)_
+_Last updated: 26 Dec 2025 - 14:34 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-26.json)_
 
 <!-- snapshot:end -->
 

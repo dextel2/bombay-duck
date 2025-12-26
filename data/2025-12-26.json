@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2025-12-26T12:22:31.507"
       }
+    ],
+    "2025-12-26T13": [
+      {
+        "newsId": "ecf6c990-63b1-4cf9-af3f-a86537d1a850",
+        "scripCode": 543619,
+        "shortName": "Concord Control Systems Ltd",
+        "headline": "Disclosure of Regulation 30 of SEBI LODR, 2015",
+        "announcedAt": "2025-12-26T13:45:14.587+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
+        "rawTime": "2025-12-26T13:45:14.587"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-26T13:34:07.577+05:30",
-    "checksum": "f2c0aab9bef31e7d32a7c8b7db91885d0b96c502037eae14affadd06cc748b8c",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-26T14:34:12.434+05:30",
+    "checksum": "6d3b05c370cc217ff0584e111d78dca5e01146edcab1e27edc6f3ac78e1b8479",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-26/awards-133406.json"
+    "rawPayloadPath": "data/raw/2025-12-26/awards-143410.json"
   }
 }
