@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2025-12-26T09:35:27.44"
       }
+    ],
+    "2025-12-26T11": [
+      {
+        "newsId": "8fc70bb2-99e9-425b-9362-f05ad57fa6ad",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that Dilip ....",
+        "announcedAt": "2025-12-26T11:25:25.317+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2025-12-26T11:25:25.317"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-26T10:34:30.124+05:30",
-    "checksum": "2334377bcd1ed4174f3c0e5e6b90434f9631ec8149b3fca660793dbb409c3c2b",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-26T11:34:33.281+05:30",
+    "checksum": "170add17e343b10e250960c7a786361d0e7e2a4dde33e52ac921f5ff4f49df07",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-26/awards-103428.json"
+    "rawPayloadPath": "data/raw/2025-12-26/awards-113432.json"
   }
 }
