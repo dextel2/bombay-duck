@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2025-12-26 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2025-12-26 09:00 | Dilip Buildcon Ltd | 540047 | In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that that .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 26 Dec 2025 - 09:35 |
 
-_Last updated: 26 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-26.json)_
+_Last updated: 26 Dec 2025 - 09:43 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-26.json)_
 
 <!-- snapshot:end -->
 
