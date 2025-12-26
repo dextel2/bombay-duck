@@ -44,14 +44,25 @@
         "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
         "rawTime": "2025-12-26T13:45:14.587"
       }
+    ],
+    "2025-12-26T14": [
+      {
+        "newsId": "72ba7788-0a9d-4a32-83ba-3410926bfeb7",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a letter of award/ purchase order worth INR 5,74,08,750.00 (USD 6,37,875 only) from FTC Solar Inc, USA for supply of various ratings ....",
+        "announcedAt": "2025-12-26T14:55:02.493+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2025-12-26T14:55:02.493"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-26T14:34:12.434+05:30",
-    "checksum": "6d3b05c370cc217ff0584e111d78dca5e01146edcab1e27edc6f3ac78e1b8479",
-    "totalAnnouncements": 4,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-26T15:33:44.782+05:30",
+    "checksum": "30fcbe2be2334d420bfaa6579128dd5517aec9d1c15c3bf9ab4f9655804c3075",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-26/awards-143410.json"
+    "rawPayloadPath": "data/raw/2025-12-26/awards-153343.json"
   }
 }
