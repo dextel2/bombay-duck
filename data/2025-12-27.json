@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-12-27",
+  "buckets": {
+    "2025-12-27T01": [
+      {
+        "newsId": "ee922dbd-5d32-47b5-b5f7-524df06b0b31",
+        "scripCode": 544532,
+        "shortName": "Solarworld Energy Solutions Ltd",
+        "headline": "Intimation of receipt of letter of award for execution of engineering, procurement and construction (EPC) works.",
+        "announcedAt": "2025-12-27T01:32:46.553+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
+        "rawTime": "2025-12-27T01:32:46.553"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-12-27T08:59:53.525+05:30",
+    "checksum": "cbf7dc858dd5aad53ee918143f67a14ea6e7fb12697d1b257fd60faf5d25a6d8",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-12-27/awards-085952.json"
+  }
+}
