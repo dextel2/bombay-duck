@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-27 10:00 | Avantel Ltd | 532406 | Receipt of Service Order worth of Rs.4.16 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 27 Dec 2025 - 10:44 |
 | 2025-12-27 01:00 | Solarworld Energy Solutions Ltd | 544532 | Intimation of receipt of letter of award for execution of engineering, procurement and construction (EPC) works. ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 27 Dec 2025 - 01:32 |
 
-_Last updated: 27 Dec 2025 - 10:34 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-27.json)_
+_Last updated: 27 Dec 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-27.json)_
 
 <!-- snapshot:end -->
 
