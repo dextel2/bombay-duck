@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-27 01:00 | Solarworld Energy Solutions Ltd | 544532 | Intimation of receipt of letter of award for execution of engineering, procurement and construction (EPC) works. ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 27 Dec 2025 - 01:32 |
 
-_Last updated: 27 Dec 2025 - 09:40 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-27.json)_
+_Last updated: 27 Dec 2025 - 10:34 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-27.json)_
 
 <!-- snapshot:end -->
 
