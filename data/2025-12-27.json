@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
         "rawTime": "2025-12-27T10:44:38.12"
       }
+    ],
+    "2025-12-27T12": [
+      {
+        "newsId": "099a6115-095b-4c8c-96eb-0eef83436184",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent",
+        "announcedAt": "2025-12-27T12:32:53.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2025-12-27T12:32:53.797"
+      },
+      {
+        "newsId": "8040b7b2-8f08-4339-941e-96a42830a601",
+        "scripCode": 500144,
+        "shortName": "Finolex Cables Ltd",
+        "headline": "Intimation of original order dated 26.12.2025 issued by Superintendent, Range-IV, Division-IV, CGST Goa.",
+        "announcedAt": "2025-12-27T12:06:34.177+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/",
+        "rawTime": "2025-12-27T12:06:34.177"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-27T11:34:11.910+05:30",
-    "checksum": "17ec37e1bf7d202a8d2a118af54ba6eeeef9d09dbeb37ae0008b639785c8eccf",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-27T12:33:43.611+05:30",
+    "checksum": "1b186ac58d1e50e1066537cab1ac50f2229d12d7ef547dc57dba13c2771fa63d",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-27/awards-113410.json"
+    "rawPayloadPath": "data/raw/2025-12-27/awards-123342.json"
   }
 }
