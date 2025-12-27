@@ -45,11 +45,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-27T13:33:56.698+05:30",
+    "lastUpdated": "2025-12-27T14:33:49.840+05:30",
     "checksum": "1b186ac58d1e50e1066537cab1ac50f2229d12d7ef547dc57dba13c2771fa63d",
     "totalAnnouncements": 4,
-    "requestCount": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-27/awards-133355.json"
+    "rawPayloadPath": "data/raw/2025-12-27/awards-143348.json"
   }
 }
