@@ -18,16 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-27 IST)
+### Today's Awarded Orders (2025-12-28 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-27 12:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 27 Dec 2025 - 12:32 |
-| 2025-12-27 12:00 | Finolex Cables Ltd | 500144 | Intimation of original order dated 26.12.2025 issued by Superintendent, Range-IV, Division-IV, CGST Goa. ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 27 Dec 2025 - 12:06 |
-| 2025-12-27 10:00 | Avantel Ltd | 532406 | Receipt of Service Order worth of Rs.4.16 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 27 Dec 2025 - 10:44 |
-| 2025-12-27 01:00 | Solarworld Energy Solutions Ltd | 544532 | Intimation of receipt of letter of award for execution of engineering, procurement and construction (EPC) works. ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 27 Dec 2025 - 01:32 |
+| 2025-12-28 00:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Bhavnagar .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 28 Dec 2025 - 00:09 |
 
-_Last updated: 27 Dec 2025 - 15:33 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-27.json)_
+_Last updated: 28 Dec 2025 - 09:03 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-28.json)_
 
 <!-- snapshot:end -->
 

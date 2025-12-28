@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-12-28",
+  "buckets": {
+    "2025-12-28T00": [
+      {
+        "newsId": "565ee2c2-ba4b-4483-839d-af03f5dd89bf",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Bhavnagar ....",
+        "announcedAt": "2025-12-28T00:09:26.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2025-12-28T00:09:26.38"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-12-28T09:03:15.423+05:30",
+    "checksum": "49f9bdef46abb99d803a04795254d715a0131e3ed4bbf6567100ebe0fa0dd633",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2025-12-28/awards-090314.json"
+  }
+}
