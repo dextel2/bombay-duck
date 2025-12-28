@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-28 00:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Bhavnagar .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 28 Dec 2025 - 00:09 |
 
-_Last updated: 28 Dec 2025 - 09:49 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2025-12-28.json)_
+_Last updated: 28 Dec 2025 - 10:36 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-28.json)_
 
 <!-- snapshot:end -->
 
