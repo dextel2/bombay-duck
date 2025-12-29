@@ -18,13 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-28 IST)
+### Today's Awarded Orders (2025-12-29 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-28 00:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Bhavnagar .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 28 Dec 2025 - 00:09 |
+| 2025-12-29 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Secures Letter of Award for a Large Order from SWA, towards a technologically advanced 50 MLD BWRO Plant at Aljouf, Kingdom of Saudi Arabia. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 29 Dec 2025 - 08:30 |
 
-_Last updated: 28 Dec 2025 - 15:33 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-28.json)_
+_Last updated: 29 Dec 2025 - 09:04 | Entries: 1 | Requests: 1 | Retries: 3 | [Raw JSON](data/2025-12-29.json)_
 
 <!-- snapshot:end -->
 

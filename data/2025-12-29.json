@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2025-12-29",
+  "buckets": {
+    "2025-12-29T08": [
+      {
+        "newsId": "763bd321-0624-469e-9d50-daf907467cac",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG Secures Letter of Award for a Large Order from SWA, towards a technologically advanced 50 MLD BWRO Plant at Aljouf, Kingdom of Saudi Arabia.",
+        "announcedAt": "2025-12-29T08:30:19.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2025-12-29T08:30:19.58"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2025-12-29T09:04:37.250+05:30",
+    "checksum": "9a9892bfd46a389f2db85a7d79731b23f7475520520574c8c5c6b26d498723d5",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 3,
+    "rawPayloadPath": "data/raw/2025-12-29/awards-090337.json"
+  }
+}
