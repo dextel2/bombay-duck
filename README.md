@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-29 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Secures Letter of Award for a Large Order from SWA, towards a technologically advanced 50 MLD BWRO Plant at Aljouf, Kingdom of Saudi Arabia. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 29 Dec 2025 - 08:30 |
 
-_Last updated: 29 Dec 2025 - 09:04 | Entries: 1 | Requests: 1 | Retries: 3 | [Raw JSON](data/2025-12-29.json)_
+_Last updated: 29 Dec 2025 - 09:51 | Entries: 1 | Requests: 2 | Retries: 3 | [Raw JSON](data/2025-12-29.json)_
 
 <!-- snapshot:end -->
 
