@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2025-12-29T10:41:24.087"
       }
+    ],
+    "2025-12-29T12": [
+      {
+        "newsId": "887ec050-1cd8-46c9-9835-df7037e02f36",
+        "scripCode": 539151,
+        "shortName": "Arfin India Ltd",
+        "headline": "Intimation under regulation 30 of SEBI (LODR) Regulation, 2015 for receiving the order",
+        "announcedAt": "2025-12-29T12:17:39.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/arfin-india-ltd/arfin/539151/",
+        "rawTime": "2025-12-29T12:17:39.85"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-29T11:35:31.105+05:30",
-    "checksum": "c4db1b64f0864b88865bc0653930be7671ccc3703c7238c08f48140548934791",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-29T12:36:53.351+05:30",
+    "checksum": "97ef7f3882a2cebc6fe047100b45084b60f42993e5be0646351685ea551815a7",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 3,
-    "rawPayloadPath": "data/raw/2025-12-29/awards-113530.json"
+    "rawPayloadPath": "data/raw/2025-12-29/awards-123652.json"
   }
 }
