@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2025-12-29T08:30:19.58"
       }
+    ],
+    "2025-12-29T11": [
+      {
+        "newsId": "cdf83862-4e20-491f-be36-b106438145da",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to Siyaram Recycling Secured Order amounting to Rs. 14336410 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2025-12-29T11:29:02.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2025-12-29T11:29:02.53"
+      }
+    ],
+    "2025-12-29T10": [
+      {
+        "newsId": "1f9c00d2-a01a-4db2-ac27-4fb7347d8788",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins (Significant*) Order for its Transportation Infrastructure Business",
+        "announcedAt": "2025-12-29T10:41:24.087+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2025-12-29T10:41:24.087"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-29T10:39:29.533+05:30",
-    "checksum": "9a9892bfd46a389f2db85a7d79731b23f7475520520574c8c5c6b26d498723d5",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-29T11:35:31.105+05:30",
+    "checksum": "c4db1b64f0864b88865bc0653930be7671ccc3703c7238c08f48140548934791",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 3,
-    "rawPayloadPath": "data/raw/2025-12-29/awards-103928.json"
+    "rawPayloadPath": "data/raw/2025-12-29/awards-113530.json"
   }
 }

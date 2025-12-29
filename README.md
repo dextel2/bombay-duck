@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-29 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to Siyaram Recycling Secured Order amounting to Rs. 14336410 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 29 Dec 2025 - 11:29 |
+| 2025-12-29 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Significant*) Order for its Transportation Infrastructure Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 29 Dec 2025 - 10:41 |
 | 2025-12-29 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Secures Letter of Award for a Large Order from SWA, towards a technologically advanced 50 MLD BWRO Plant at Aljouf, Kingdom of Saudi Arabia. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 29 Dec 2025 - 08:30 |
 
-_Last updated: 29 Dec 2025 - 10:39 | Entries: 1 | Requests: 3 | Retries: 3 | [Raw JSON](data/2025-12-29.json)_
+_Last updated: 29 Dec 2025 - 11:35 | Entries: 3 | Requests: 4 | Retries: 3 | [Raw JSON](data/2025-12-29.json)_
 
 <!-- snapshot:end -->
 
