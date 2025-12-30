@@ -60,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
         "rawTime": "2025-12-30T12:55:19.243"
       }
+    ],
+    "2025-12-30T14": [
+      {
+        "newsId": "577b8a08-2ed3-4d67-8299-972de24f4960",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new order worth Rs. 364.07 crores.",
+        "announcedAt": "2025-12-30T14:54:57.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2025-12-30T14:54:57.653"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-30T14:35:59.335+05:30",
-    "checksum": "fff23e73fcce26f5d60b0279eea9fef4e11b2a4ad68e8434e75e9bd0850a4ce4",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-30T15:33:50.154+05:30",
+    "checksum": "0e39053670455b0f8ccf9df53da68dd942c1b82507d44470430fa555cd36bf78",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-30/awards-143558.json"
+    "rawPayloadPath": "data/raw/2025-12-30/awards-153348.json"
   }
 }
