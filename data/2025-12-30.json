@@ -1,12 +1,33 @@
 {
   "tradingDate": "2025-12-30",
-  "buckets": {},
+  "buckets": {
+    "2025-12-30T11": [
+      {
+        "newsId": "4aa91edf-6dde-48a6-8719-aa334911916e",
+        "scripCode": 538965,
+        "shortName": "Concord Drugs Ltd",
+        "headline": "Company has received purchase orders from various entities for supply of it''s products.",
+        "announcedAt": "2025-12-30T11:31:21.740+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/concord-drugs-ltd/concord/538965/",
+        "rawTime": "2025-12-30T11:31:21.74"
+      },
+      {
+        "newsId": "7c137d35-6d92-456b-8f8d-f33fb8218276",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "With reference to our earlier intimation dated July 15, 2024, regarding the Letter of Award, we are please to inform you that WAAREERTL has received enhancement in the capacity under the ....",
+        "announcedAt": "2025-12-30T11:29:37.633+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2025-12-30T11:29:37.633"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-30T10:36:13.699+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2025-12-30T11:34:26.986+05:30",
+    "checksum": "66e49088e8a87f6ff7427fe0aea93a4471d4a43b7c76e74afbaabfa3c74bd41e",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-30/awards-103612.json"
+    "rawPayloadPath": "data/raw/2025-12-30/awards-113426.json"
   }
 }
