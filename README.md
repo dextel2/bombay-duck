@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-30 13:00 | Moil Ltd | 533286 | Submission of receipt of Order from Deputy Commissioner of State Tax, Nagpur. ([Link](https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/)) | Likely Positive | 30 Dec 2025 - 13:06 |
+| 2025-12-30 12:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform you that Company has received a work order from Jharkhand Renewable Energy Development Agency for 1000 Nos. of stand-alone off grid Solar Photovoltaic Water Pumping System .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 30 Dec 2025 - 12:55 |
 | 2025-12-30 11:00 | Concord Drugs Ltd | 538965 | Company has received purchase orders from various entities for supply of it''s products. ([Link](https://www.bseindia.com/stock-share-price/concord-drugs-ltd/concord/538965/)) | Likely Positive | 30 Dec 2025 - 11:31 |
 | 2025-12-30 11:00 | Waaree Renewable Technologies Ltd | 534618 | With reference to our earlier intimation dated July 15, 2024, regarding the Letter of Award, we are please to inform you that WAAREERTL has received enhancement in the capacity under the .... ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 30 Dec 2025 - 11:29 |
 
-_Last updated: 30 Dec 2025 - 12:34 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-30.json)_
+_Last updated: 30 Dec 2025 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2025-12-30.json)_
 
 <!-- snapshot:end -->
 

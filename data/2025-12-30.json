@@ -20,14 +20,36 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
         "rawTime": "2025-12-30T11:29:37.633"
       }
+    ],
+    "2025-12-30T13": [
+      {
+        "newsId": "9d8fb472-bc70-4535-b6ec-30649f029e1c",
+        "scripCode": 533286,
+        "shortName": "Moil Ltd",
+        "headline": "Submission of receipt of Order from Deputy Commissioner of State Tax, Nagpur.",
+        "announcedAt": "2025-12-30T13:06:03.003+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/",
+        "rawTime": "2025-12-30T13:06:03.003"
+      }
+    ],
+    "2025-12-30T12": [
+      {
+        "newsId": "a59b3197-2e9b-4bdb-b059-9828d672811f",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We glad to inform you that Company has received a work order from Jharkhand Renewable Energy Development Agency for 1000 Nos. of stand-alone off grid Solar Photovoltaic Water Pumping System ....",
+        "announcedAt": "2025-12-30T12:55:19.243+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2025-12-30T12:55:19.243"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-30T12:34:55.172+05:30",
-    "checksum": "66e49088e8a87f6ff7427fe0aea93a4471d4a43b7c76e74afbaabfa3c74bd41e",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-30T13:34:21.888+05:30",
+    "checksum": "ec912676caa9ffc22cd3e02543ecef46d752f61a31237817fb2f0c5d049ab45e",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-30/awards-123454.json"
+    "rawPayloadPath": "data/raw/2025-12-30/awards-133420.json"
   }
 }
