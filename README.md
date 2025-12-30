@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-30 11:00 | Concord Drugs Ltd | 538965 | Company has received purchase orders from various entities for supply of it''s products. ([Link](https://www.bseindia.com/stock-share-price/concord-drugs-ltd/concord/538965/)) | Likely Positive | 30 Dec 2025 - 11:31 |
 | 2025-12-30 11:00 | Waaree Renewable Technologies Ltd | 534618 | With reference to our earlier intimation dated July 15, 2024, regarding the Letter of Award, we are please to inform you that WAAREERTL has received enhancement in the capacity under the .... ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 30 Dec 2025 - 11:29 |
 
-_Last updated: 30 Dec 2025 - 11:34 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-30.json)_
+_Last updated: 30 Dec 2025 - 12:34 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-30.json)_
 
 <!-- snapshot:end -->
 
