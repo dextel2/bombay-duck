@@ -52,6 +52,15 @@
     ],
     "2025-12-31T12": [
       {
+        "newsId": "d9620ae3-c7b3-46dc-a120-803a71829992",
+        "scripCode": 523792,
+        "shortName": "Mazda Ltd-$",
+        "headline": "Pursuant to Regulation 30 of SEBI Listing Regulations, we would like to inform that the company ('MAZDA LIMITED') has received an order of Rs. 28.75 Crore (excluding tax) for supply of ....",
+        "announcedAt": "2025-12-31T12:45:44.003+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mazda-ltd/mazda/523792/",
+        "rawTime": "2025-12-31T12:45:44.003"
+      },
+      {
         "newsId": "1c174ab3-7219-4192-8ea1-40eb3b38f61f",
         "scripCode": 500493,
         "shortName": "Bharat Forge Ltd",
@@ -90,11 +99,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-31T12:35:32.467+05:30",
-    "checksum": "b95558a054cd5c68a8a465d3398f7f0e3cfb27f1749da65613cbbf6acbe398cf",
-    "totalAnnouncements": 9,
-    "requestCount": 5,
+    "lastUpdated": "2025-12-31T13:34:18.104+05:30",
+    "checksum": "2b177e2f2d3853db4ff260fc9ad607d63ff9b61ca338aee86899036bac08dd84",
+    "totalAnnouncements": 10,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-31/awards-123531.json"
+    "rawPayloadPath": "data/raw/2025-12-31/awards-133417.json"
   }
 }
