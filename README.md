@@ -22,9 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-31 11:00 | IL&FS Transportation Networks Ltd | 533177 | Receipt of Demand Notice ([Link](https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/)) | Likely Positive | 31 Dec 2025 - 11:11 |
+| 2025-12-31 11:00 | Moil Ltd | 533286 | Submission of receipt of Order from Joint Commisioner of State Tax, Madhya Pradesh. ([Link](https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/)) | Likely Positive | 31 Dec 2025 - 11:06 |
+| 2025-12-31 10:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received New Work Order from Madhya Pradesh Urja Vikas Nigam for 4,840 Stand-alone Off-Grid DC Solar Photovoltaic Water Pumping Systems (SPWPS) pumps .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 31 Dec 2025 - 10:37 |
 | 2025-12-31 10:00 | Mach Conferences And Events Ltd | 544248 | Enclosed. ([Link](https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/)) | Neutral | 31 Dec 2025 - 10:00 |
 
-_Last updated: 31 Dec 2025 - 10:35 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
+_Last updated: 31 Dec 2025 - 11:35 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
 
 <!-- snapshot:end -->
 
