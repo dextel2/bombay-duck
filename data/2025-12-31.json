@@ -1,12 +1,24 @@
 {
   "tradingDate": "2025-12-31",
-  "buckets": {},
+  "buckets": {
+    "2025-12-31T10": [
+      {
+        "newsId": "23e58ba0-0323-4437-97f2-41658d97966d",
+        "scripCode": 544248,
+        "shortName": "Mach Conferences And Events Ltd",
+        "headline": "Enclosed.",
+        "announcedAt": "2025-12-31T10:00:29.547+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/",
+        "rawTime": "2025-12-31T10:00:29.547"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2025-12-31T09:46:02.054+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2025-12-31T10:35:44.220+05:30",
+    "checksum": "101b4ed8d04b334789f0d0ca0405e95ca95f83cd0282348b77a2b373a1742025",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-31/awards-094601.json"
+    "rawPayloadPath": "data/raw/2025-12-31/awards-103543.json"
   }
 }
