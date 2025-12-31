@@ -22,12 +22,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-31 12:00 | Bharat Forge Ltd | 500493 | Intimation under Regulation 30 of SEBI Listing Regulations regarding award of order ([Link](https://www.bseindia.com/stock-share-price/bharat-forge-ltd/bharatforg/500493/)) | Likely Positive | 31 Dec 2025 - 12:31 |
+| 2025-12-31 12:00 | Solar Industries India Ltd | 532725 | Intimation for receipt of an additional order amounting to INR 1,746 Crores from Coal India Limited ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 31 Dec 2025 - 12:24 |
+| 2025-12-31 12:00 | S Chand and Company Ltd | 540497 | Receipt of Income Tax Refund amounting to INR 15.67 crores ([Link](https://www.bseindia.com/stock-share-price/s-chand-and-company-ltd/schand/540497/)) | Likely Positive | 31 Dec 2025 - 12:05 |
+| 2025-12-31 12:00 | Sudarshan Chemical Industries Ltd | 506655 | Announcement under Reg 30 - Intimation of receipt of GST order ([Link](https://www.bseindia.com/stock-share-price/sudarshan-chemical-industries-ltd/sudarschem/506655/)) | Likely Positive | 31 Dec 2025 - 12:02 |
+| 2025-12-31 11:00 | Waaree Energies Ltd | 544277 | Receipt of Order on December 30, 2025. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 31 Dec 2025 - 11:50 |
 | 2025-12-31 11:00 | IL&FS Transportation Networks Ltd | 533177 | Receipt of Demand Notice ([Link](https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/)) | Likely Positive | 31 Dec 2025 - 11:11 |
 | 2025-12-31 11:00 | Moil Ltd | 533286 | Submission of receipt of Order from Joint Commisioner of State Tax, Madhya Pradesh. ([Link](https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/)) | Likely Positive | 31 Dec 2025 - 11:06 |
 | 2025-12-31 10:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received New Work Order from Madhya Pradesh Urja Vikas Nigam for 4,840 Stand-alone Off-Grid DC Solar Photovoltaic Water Pumping Systems (SPWPS) pumps .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 31 Dec 2025 - 10:37 |
 | 2025-12-31 10:00 | Mach Conferences And Events Ltd | 544248 | Enclosed. ([Link](https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/)) | Neutral | 31 Dec 2025 - 10:00 |
 
-_Last updated: 31 Dec 2025 - 11:35 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
+_Last updated: 31 Dec 2025 - 12:35 | Entries: 9 | Requests: 5 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
 
 <!-- snapshot:end -->
 

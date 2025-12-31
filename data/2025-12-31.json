@@ -23,6 +23,15 @@
     ],
     "2025-12-31T11": [
       {
+        "newsId": "6c54e7b8-f7e9-493b-9170-27a2b7a00d64",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Receipt of Order on December 30, 2025.",
+        "announcedAt": "2025-12-31T11:50:57.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2025-12-31T11:50:57.373"
+      },
+      {
         "newsId": "bf4329ce-21f6-4d6f-bf9d-7f025a9ce62f",
         "scripCode": 533177,
         "shortName": "IL&FS Transportation Networks Ltd",
@@ -40,14 +49,52 @@
         "url": "https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/",
         "rawTime": "2025-12-31T11:06:44.04"
       }
+    ],
+    "2025-12-31T12": [
+      {
+        "newsId": "1c174ab3-7219-4192-8ea1-40eb3b38f61f",
+        "scripCode": 500493,
+        "shortName": "Bharat Forge Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI Listing Regulations regarding award of order",
+        "announcedAt": "2025-12-31T12:31:35.393+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-forge-ltd/bharatforg/500493/",
+        "rawTime": "2025-12-31T12:31:35.393"
+      },
+      {
+        "newsId": "2e5ccd6c-d86f-41b0-92d7-251ad4d5439d",
+        "scripCode": 532725,
+        "shortName": "Solar Industries India Ltd",
+        "headline": "Intimation for receipt of an additional order amounting to INR 1,746 Crores from Coal India Limited",
+        "announcedAt": "2025-12-31T12:24:59.147+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/",
+        "rawTime": "2025-12-31T12:24:59.147"
+      },
+      {
+        "newsId": "d9477680-4793-4323-b4c2-bd898b535ad5",
+        "scripCode": 540497,
+        "shortName": "S Chand and Company Ltd",
+        "headline": "Receipt of Income Tax Refund amounting to INR 15.67 crores",
+        "announcedAt": "2025-12-31T12:05:56.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/s-chand-and-company-ltd/schand/540497/",
+        "rawTime": "2025-12-31T12:05:56.263"
+      },
+      {
+        "newsId": "36f008c7-2df5-4770-a291-9b0513c134b1",
+        "scripCode": 506655,
+        "shortName": "Sudarshan Chemical Industries Ltd",
+        "headline": "Announcement under Reg 30 - Intimation of receipt of GST order",
+        "announcedAt": "2025-12-31T12:02:29.667+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sudarshan-chemical-industries-ltd/sudarschem/506655/",
+        "rawTime": "2025-12-31T12:02:29.667"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-31T11:35:17.052+05:30",
-    "checksum": "80bb8efae0aba37b8a32925808f104bfd69122306f4f23095f29c73eb3402a22",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2025-12-31T12:35:32.467+05:30",
+    "checksum": "b95558a054cd5c68a8a465d3398f7f0e3cfb27f1749da65613cbbf6acbe398cf",
+    "totalAnnouncements": 9,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-31/awards-113516.json"
+    "rawPayloadPath": "data/raw/2025-12-31/awards-123531.json"
   }
 }
