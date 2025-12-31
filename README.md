@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2025-12-31 15:00 | GPT Infraprojects Ltd | 533761 | Please find press release for the order bagged by the Company worth Rs. 669.20 Crore ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 31 Dec 2025 - 15:04 |
+| 2025-12-31 14:00 | Magellanic Cloud Ltd | 538891 | Intimation of Letter of Acceptance by wholly owned subsidiary - Provigil Surveillance Limited. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 31 Dec 2025 - 14:55 |
 | 2025-12-31 13:00 | Waaree Renewable Technologies Ltd | 534618 | We are please to inform that WAAREERTL has been awarded Letter of Award (LOA) for the execution of Engineering, Procurement and Construction (EPC) works of Ground Mount Solar Power Project. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Likely Positive | 31 Dec 2025 - 13:57 |
 | 2025-12-31 12:00 | Mazda Ltd-$ | 523792 | Pursuant to Regulation 30 of SEBI Listing Regulations, we would like to inform that the company ('MAZDA LIMITED') has received an order of Rs. 28.75 Crore (excluding tax) for supply of .... ([Link](https://www.bseindia.com/stock-share-price/mazda-ltd/mazda/523792/)) | Likely Positive | 31 Dec 2025 - 12:45 |
 | 2025-12-31 12:00 | Bharat Forge Ltd | 500493 | Intimation under Regulation 30 of SEBI Listing Regulations regarding award of order ([Link](https://www.bseindia.com/stock-share-price/bharat-forge-ltd/bharatforg/500493/)) | Likely Positive | 31 Dec 2025 - 12:31 |
@@ -34,7 +36,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2025-12-31 10:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received New Work Order from Madhya Pradesh Urja Vikas Nigam for 4,840 Stand-alone Off-Grid DC Solar Photovoltaic Water Pumping Systems (SPWPS) pumps .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 31 Dec 2025 - 10:37 |
 | 2025-12-31 10:00 | Mach Conferences And Events Ltd | 544248 | Enclosed. ([Link](https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/)) | Neutral | 31 Dec 2025 - 10:00 |
 
-_Last updated: 31 Dec 2025 - 14:35 | Entries: 11 | Requests: 7 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
+_Last updated: 31 Dec 2025 - 15:33 | Entries: 13 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
 
 <!-- snapshot:end -->
 

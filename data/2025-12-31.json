@@ -107,14 +107,36 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
         "rawTime": "2025-12-31T13:57:52.65"
       }
+    ],
+    "2025-12-31T15": [
+      {
+        "newsId": "693d5065-3cd6-4439-ac26-719c41ca5f02",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find press release for the order bagged by the Company worth Rs. 669.20 Crore",
+        "announcedAt": "2025-12-31T15:04:32.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2025-12-31T15:04:32.31"
+      }
+    ],
+    "2025-12-31T14": [
+      {
+        "newsId": "3a31af56-63c2-4fae-b8ca-7f3fa75b4385",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Intimation of Letter of Acceptance by wholly owned subsidiary - Provigil Surveillance Limited.",
+        "announcedAt": "2025-12-31T14:55:07.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2025-12-31T14:55:07.18"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-31T14:35:08.186+05:30",
-    "checksum": "11bb638b503f3f2d654cef9da704d0613279ed479619fbbf9e46e3aaa8d72fab",
-    "totalAnnouncements": 11,
-    "requestCount": 7,
+    "lastUpdated": "2025-12-31T15:33:37.347+05:30",
+    "checksum": "692c1651b0289bf17fbd418a384c70f78dfcfa8aee10131749831538ee4edbe1",
+    "totalAnnouncements": 13,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-31/awards-143507.json"
+    "rawPayloadPath": "data/raw/2025-12-31/awards-153336.json"
   }
 }
