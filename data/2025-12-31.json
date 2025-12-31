@@ -96,14 +96,25 @@
         "url": "https://www.bseindia.com/stock-share-price/sudarshan-chemical-industries-ltd/sudarschem/506655/",
         "rawTime": "2025-12-31T12:02:29.667"
       }
+    ],
+    "2025-12-31T13": [
+      {
+        "newsId": "61e8aaaa-6d4c-4968-9417-03f664deb6a0",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "We are please to inform that WAAREERTL has been awarded Letter of Award (LOA) for the execution of Engineering, Procurement and Construction (EPC) works of Ground Mount Solar Power Project.",
+        "announcedAt": "2025-12-31T13:57:52.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2025-12-31T13:57:52.65"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2025-12-31T13:34:18.104+05:30",
-    "checksum": "2b177e2f2d3853db4ff260fc9ad607d63ff9b61ca338aee86899036bac08dd84",
-    "totalAnnouncements": 10,
-    "requestCount": 6,
+    "lastUpdated": "2025-12-31T14:35:08.186+05:30",
+    "checksum": "11bb638b503f3f2d654cef9da704d0613279ed479619fbbf9e46e3aaa8d72fab",
+    "totalAnnouncements": 11,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2025-12-31/awards-133417.json"
+    "rawPayloadPath": "data/raw/2025-12-31/awards-143507.json"
   }
 }
