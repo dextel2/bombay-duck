@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-30 IST)
+### Today's Awarded Orders (2025-12-31 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2025-12-30 14:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new order worth Rs. 364.07 crores. ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 30 Dec 2025 - 14:54 |
-| 2025-12-30 13:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities & Exchange Board of India (Listing Obligations & Disclosures Requirements)Regulations,2015-Intimation of Order received -Reliance Industries Limited. ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 30 Dec 2025 - 13:48 |
-| 2025-12-30 13:00 | ITCONS E-Solutions Ltd | 543806 | We would like to inform that the company has bagged a new order from Central Institute of Plastics Engineering and Technology, Department of Chemicals and Petrochemicals, Ministry of Chemicals .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 30 Dec 2025 - 13:35 |
-| 2025-12-30 13:00 | Moil Ltd | 533286 | Submission of receipt of Order from Deputy Commissioner of State Tax, Nagpur. ([Link](https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/)) | Likely Positive | 30 Dec 2025 - 13:06 |
-| 2025-12-30 12:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform you that Company has received a work order from Jharkhand Renewable Energy Development Agency for 1000 Nos. of stand-alone off grid Solar Photovoltaic Water Pumping System .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 30 Dec 2025 - 12:55 |
-| 2025-12-30 11:00 | Concord Drugs Ltd | 538965 | Company has received purchase orders from various entities for supply of it''s products. ([Link](https://www.bseindia.com/stock-share-price/concord-drugs-ltd/concord/538965/)) | Likely Positive | 30 Dec 2025 - 11:31 |
-| 2025-12-30 11:00 | Waaree Renewable Technologies Ltd | 534618 | With reference to our earlier intimation dated July 15, 2024, regarding the Letter of Award, we are please to inform you that WAAREERTL has received enhancement in the capacity under the .... ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 30 Dec 2025 - 11:29 |
+_No award announcements have been captured yet today._
 
-_Last updated: 30 Dec 2025 - 15:33 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-30.json)_
+_Last updated: 31 Dec 2025 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
 
 <!-- snapshot:end -->
 
