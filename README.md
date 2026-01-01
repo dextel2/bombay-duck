@@ -18,25 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2025-12-31 IST)
+### Today's Awarded Orders (2026-01-01 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-31 15:00 | GPT Infraprojects Ltd | 533761 | Please find press release for the order bagged by the Company worth Rs. 669.20 Crore ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 31 Dec 2025 - 15:04 |
-| 2025-12-31 14:00 | Magellanic Cloud Ltd | 538891 | Intimation of Letter of Acceptance by wholly owned subsidiary - Provigil Surveillance Limited. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 31 Dec 2025 - 14:55 |
-| 2025-12-31 13:00 | Waaree Renewable Technologies Ltd | 534618 | We are please to inform that WAAREERTL has been awarded Letter of Award (LOA) for the execution of Engineering, Procurement and Construction (EPC) works of Ground Mount Solar Power Project. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Likely Positive | 31 Dec 2025 - 13:57 |
-| 2025-12-31 12:00 | Mazda Ltd-$ | 523792 | Pursuant to Regulation 30 of SEBI Listing Regulations, we would like to inform that the company ('MAZDA LIMITED') has received an order of Rs. 28.75 Crore (excluding tax) for supply of .... ([Link](https://www.bseindia.com/stock-share-price/mazda-ltd/mazda/523792/)) | Likely Positive | 31 Dec 2025 - 12:45 |
-| 2025-12-31 12:00 | Bharat Forge Ltd | 500493 | Intimation under Regulation 30 of SEBI Listing Regulations regarding award of order ([Link](https://www.bseindia.com/stock-share-price/bharat-forge-ltd/bharatforg/500493/)) | Likely Positive | 31 Dec 2025 - 12:31 |
-| 2025-12-31 12:00 | Solar Industries India Ltd | 532725 | Intimation for receipt of an additional order amounting to INR 1,746 Crores from Coal India Limited ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 31 Dec 2025 - 12:24 |
-| 2025-12-31 12:00 | S Chand and Company Ltd | 540497 | Receipt of Income Tax Refund amounting to INR 15.67 crores ([Link](https://www.bseindia.com/stock-share-price/s-chand-and-company-ltd/schand/540497/)) | Likely Positive | 31 Dec 2025 - 12:05 |
-| 2025-12-31 12:00 | Sudarshan Chemical Industries Ltd | 506655 | Announcement under Reg 30 - Intimation of receipt of GST order ([Link](https://www.bseindia.com/stock-share-price/sudarshan-chemical-industries-ltd/sudarschem/506655/)) | Likely Positive | 31 Dec 2025 - 12:02 |
-| 2025-12-31 11:00 | Waaree Energies Ltd | 544277 | Receipt of Order on December 30, 2025. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 31 Dec 2025 - 11:50 |
-| 2025-12-31 11:00 | IL&FS Transportation Networks Ltd | 533177 | Receipt of Demand Notice ([Link](https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/)) | Likely Positive | 31 Dec 2025 - 11:11 |
-| 2025-12-31 11:00 | Moil Ltd | 533286 | Submission of receipt of Order from Joint Commisioner of State Tax, Madhya Pradesh. ([Link](https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/)) | Likely Positive | 31 Dec 2025 - 11:06 |
-| 2025-12-31 10:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received New Work Order from Madhya Pradesh Urja Vikas Nigam for 4,840 Stand-alone Off-Grid DC Solar Photovoltaic Water Pumping Systems (SPWPS) pumps .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 31 Dec 2025 - 10:37 |
-| 2025-12-31 10:00 | Mach Conferences And Events Ltd | 544248 | Enclosed. ([Link](https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/)) | Neutral | 31 Dec 2025 - 10:00 |
+| 2026-01-01 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 719 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 01 Jan 2026 - 08:42 |
 
-_Last updated: 31 Dec 2025 - 15:33 | Entries: 13 | Requests: 8 | Retries: 0 | [Raw JSON](data/2025-12-31.json)_
+_Last updated: 01 Jan 2026 - 09:03 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
 
 <!-- snapshot:end -->
 
