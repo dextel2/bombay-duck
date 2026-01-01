@@ -22,6 +22,9 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-01 15:00 | K. V. Toys India Ltd | 544641 | Please find enclosed documents pursuant to Regulation 30 of LODR ([Link](https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/)) | Neutral | 01 Jan 2026 - 15:19 |
+| 2026-01-01 15:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.569 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 01 Jan 2026 - 15:07 |
+| 2026-01-01 15:00 | Ceinsys Tech Ltd | 538734 | Intimation of extension of Letter of Award from MSRDC Tunnel Limited ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/)) | Neutral | 01 Jan 2026 - 15:07 |
 | 2026-01-01 14:00 | Atul Ltd | 500027 | Letter attached ([Link](https://www.bseindia.com/stock-share-price/atul-ltd/atul/500027/)) | Neutral | 01 Jan 2026 - 14:17 |
 | 2026-01-01 14:00 | Dev Information Technology Ltd | 543462 | Award of Order Receipt ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 01 Jan 2026 - 14:12 |
 | 2026-01-01 12:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a purchase order worth Rs. 22,39,05,000/- (incl GST)from Cabcon India Limited (Project) for supply of 10 MVA 33/11KV Power transformers. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 01 Jan 2026 - 12:28 |
@@ -29,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-01 11:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,050 crores secured by the Company. All the Orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 01 Jan 2026 - 11:49 |
 | 2026-01-01 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 719 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 01 Jan 2026 - 08:42 |
 
-_Last updated: 01 Jan 2026 - 14:35 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
+_Last updated: 01 Jan 2026 - 15:33 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
 
 <!-- snapshot:end -->
 

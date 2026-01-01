@@ -62,14 +62,43 @@
         "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
         "rawTime": "2026-01-01T14:12:58.133"
       }
+    ],
+    "2026-01-01T15": [
+      {
+        "newsId": "8e8bc5b6-f4de-4a27-948b-3302e55b8952",
+        "scripCode": 544641,
+        "shortName": "K. V. Toys India Ltd",
+        "headline": "Please find enclosed documents pursuant to Regulation 30 of LODR",
+        "announcedAt": "2026-01-01T15:19:58.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/",
+        "rawTime": "2026-01-01T15:19:58.653"
+      },
+      {
+        "newsId": "14490ee2-996c-47f5-a510-d56c9e35c521",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.569 Crore.",
+        "announcedAt": "2026-01-01T15:07:19.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-01-01T15:07:19.72"
+      },
+      {
+        "newsId": "239e3a8b-e45b-485b-aaf9-e4ccf80c5fe6",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation of extension of Letter of Award from MSRDC Tunnel Limited",
+        "announcedAt": "2026-01-01T15:07:12.167+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsystech/538734/",
+        "rawTime": "2026-01-01T15:07:12.167"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-01T14:35:07.870+05:30",
-    "checksum": "d0e2fc074dda6f1fa77e151473c8ad9b080b97f9eb3b7119f391677a00efacb3",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-01T15:33:49.775+05:30",
+    "checksum": "006af98ea1c18f59e664a2dc85f094ba446273420bd3941018ee60abaedfd67f",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-01/awards-143507.json"
+    "rawPayloadPath": "data/raw/2026-01-01/awards-153349.json"
   }
 }
