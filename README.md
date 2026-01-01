@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-01 11:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,050 crores secured by the Company. All the Orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 01 Jan 2026 - 11:49 |
 | 2026-01-01 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 719 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 01 Jan 2026 - 08:42 |
 
-_Last updated: 01 Jan 2026 - 12:35 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
+_Last updated: 01 Jan 2026 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
 
 <!-- snapshot:end -->
 
