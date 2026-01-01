@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2026-01-01T08:42:04.293"
       }
+    ],
+    "2026-01-01T12": [
+      {
+        "newsId": "58038607-8ed6-4213-8642-a74384d44c23",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a purchase order worth Rs. 22,39,05,000/- (incl GST)from Cabcon India Limited (Project) for supply of 10 MVA 33/11KV Power transformers.",
+        "announcedAt": "2026-01-01T12:28:11.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-01-01T12:28:11.463"
+      },
+      {
+        "newsId": "ecea17f7-ddec-4fbe-b799-0a266658934e",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We glad to inform that Company has further received new work order from Madhya Pradesh Urja Vikas Nigam Limited for 1,952 stand-alone off grid DC Solar Photovoltaic Water Pumping Systems ....",
+        "announcedAt": "2026-01-01T12:17:06.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-01-01T12:17:06.95"
+      }
+    ],
+    "2026-01-01T11": [
+      {
+        "newsId": "11f1a226-25fd-411c-a129-4af6ee740af4",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,050 crores secured by the Company. All the Orders mentioned in the enclosed press release have ....",
+        "announcedAt": "2026-01-01T11:49:43.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2026-01-01T11:49:43.93"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-01T11:34:34.990+05:30",
-    "checksum": "7222cb25c30fa3ce48983c5811d5b8ef2f8939325450c38eb230753c0768a6b9",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-01T12:35:15.735+05:30",
+    "checksum": "dd9a0cbae4d75df0284ea14ec2558068a6652dbbbd81b55f3740e9eadf736dac",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-01/awards-113434.json"
+    "rawPayloadPath": "data/raw/2026-01-01/awards-123515.json"
   }
 }

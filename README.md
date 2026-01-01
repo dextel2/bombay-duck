@@ -22,9 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-01 12:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a purchase order worth Rs. 22,39,05,000/- (incl GST)from Cabcon India Limited (Project) for supply of 10 MVA 33/11KV Power transformers. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 01 Jan 2026 - 12:28 |
+| 2026-01-01 12:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has further received new work order from Madhya Pradesh Urja Vikas Nigam Limited for 1,952 stand-alone off grid DC Solar Photovoltaic Water Pumping Systems .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 01 Jan 2026 - 12:17 |
+| 2026-01-01 11:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,050 crores secured by the Company. All the Orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 01 Jan 2026 - 11:49 |
 | 2026-01-01 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 719 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 01 Jan 2026 - 08:42 |
 
-_Last updated: 01 Jan 2026 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
+_Last updated: 01 Jan 2026 - 12:35 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-01.json)_
 
 <!-- snapshot:end -->
 
