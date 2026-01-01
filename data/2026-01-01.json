@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2026-01-01T11:49:43.93"
       }
+    ],
+    "2026-01-01T14": [
+      {
+        "newsId": "f4d0cfc0-5c1c-4884-8f75-be84fabc93af",
+        "scripCode": 500027,
+        "shortName": "Atul Ltd",
+        "headline": "Letter attached",
+        "announcedAt": "2026-01-01T14:17:47.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atul-ltd/atul/500027/",
+        "rawTime": "2026-01-01T14:17:47.53"
+      },
+      {
+        "newsId": "4612130e-8e31-42ff-92ba-c96a6e9f65cd",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Award of Order Receipt",
+        "announcedAt": "2026-01-01T14:12:58.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-01-01T14:12:58.133"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-01T13:34:08.638+05:30",
-    "checksum": "dd9a0cbae4d75df0284ea14ec2558068a6652dbbbd81b55f3740e9eadf736dac",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-01T14:35:07.870+05:30",
+    "checksum": "d0e2fc074dda6f1fa77e151473c8ad9b080b97f9eb3b7119f391677a00efacb3",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-01/awards-133408.json"
+    "rawPayloadPath": "data/raw/2026-01-01/awards-143507.json"
   }
 }
