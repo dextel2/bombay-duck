@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-02 13:00 | Ashiana Housing Ltd-$ | 523716 | Intimation regarding demand under Section 73 of the CGST Act 2017, as per the details mentioned in the list attached. ([Link](https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/)) | Neutral | 02 Jan 2026 - 13:32 |
 | 2026-01-02 12:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received work order from Haryana Renewable Energy Department (HAREDA) for 792 Solar Water Pumping Systems (SWPS) pumps under Component-B of PM-KUSUM Scheme. .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Likely Positive | 02 Jan 2026 - 12:15 |
 | 2026-01-02 11:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.1.76 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 02 Jan 2026 - 11:29 |
 | 2026-01-02 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins Orders (Major*) for Minerals & Metals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 02 Jan 2026 - 10:40 |
 | 2026-01-02 10:00 | Remsons Industries Ltd | 530919 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/)) | Likely Positive | 02 Jan 2026 - 10:01 |
 
-_Last updated: 02 Jan 2026 - 12:35 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-02.json)_
+_Last updated: 02 Jan 2026 - 13:34 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-02.json)_
 
 <!-- snapshot:end -->
 
