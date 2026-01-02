@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-02 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins Orders (Major*) for Minerals & Metals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 02 Jan 2026 - 10:40 |
 | 2026-01-02 10:00 | Remsons Industries Ltd | 530919 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/)) | Likely Positive | 02 Jan 2026 - 10:01 |
 
-_Last updated: 02 Jan 2026 - 14:34 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-02.json)_
+_Last updated: 02 Jan 2026 - 15:33 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-02.json)_
 
 <!-- snapshot:end -->
 
