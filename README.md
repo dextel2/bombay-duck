@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-02 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-02 10:00 | Remsons Industries Ltd | 530919 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/)) | Likely Positive | 02 Jan 2026 - 10:01 |
 
-_Last updated: 02 Jan 2026 - 09:47 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-02.json)_
+_Last updated: 02 Jan 2026 - 10:36 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-02.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-02",
-  "buckets": {},
+  "buckets": {
+    "2026-01-02T10": [
+      {
+        "newsId": "4ade0f9b-3e14-4a12-b442-34e0f956535a",
+        "scripCode": 530919,
+        "shortName": "Remsons Industries Ltd",
+        "headline": "Award of Order",
+        "announcedAt": "2026-01-02T10:01:51.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/",
+        "rawTime": "2026-01-02T10:01:51.53"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-02T09:47:45.549+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-01-02T10:36:27.719+05:30",
+    "checksum": "3b1a6e1c87893eec99a552dd22ed3b79f4b442563f92a46aba13d4b3f6365d9e",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-02/awards-094745.json"
+    "rawPayloadPath": "data/raw/2026-01-02/awards-103627.json"
   }
 }
