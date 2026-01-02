@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
         "rawTime": "2026-01-02T11:29:11.33"
       }
+    ],
+    "2026-01-02T12": [
+      {
+        "newsId": "cd2035f3-ff6b-407d-9dd2-7d4707ba5dc7",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We glad to inform that Company has received work order from Haryana Renewable Energy Department (HAREDA) for 792 Solar Water Pumping Systems (SWPS) pumps under Component-B of PM-KUSUM Scheme. ....",
+        "announcedAt": "2026-01-02T12:15:18.960+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-01-02T12:15:18.96"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-02T11:35:03.563+05:30",
-    "checksum": "2e5b3ab0cb4d71cb7449bc20b4e63ceb239db104a9841e4f06254f34b056341c",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-02T12:35:47.414+05:30",
+    "checksum": "46f1fddd794254a934d3a70e2499bda6c17c55c3f1860e571ace2818d965bcd6",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-02/awards-113503.json"
+    "rawPayloadPath": "data/raw/2026-01-02/awards-123546.json"
   }
 }
