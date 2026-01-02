@@ -3,6 +3,15 @@
   "buckets": {
     "2026-01-02T10": [
       {
+        "newsId": "85448d39-8c6a-48a0-b7c3-e3ffa6aec57f",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins Orders (Major*) for Minerals & Metals Business",
+        "announcedAt": "2026-01-02T10:40:43.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-01-02T10:40:43.107"
+      },
+      {
         "newsId": "4ade0f9b-3e14-4a12-b442-34e0f956535a",
         "scripCode": 530919,
         "shortName": "Remsons Industries Ltd",
@@ -11,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/",
         "rawTime": "2026-01-02T10:01:51.53"
       }
+    ],
+    "2026-01-02T11": [
+      {
+        "newsId": "9e7d6f4b-4988-481e-83b0-b5d9b9c5086d",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.1.76 Cr",
+        "announcedAt": "2026-01-02T11:29:11.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-01-02T11:29:11.33"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-02T10:36:27.719+05:30",
-    "checksum": "3b1a6e1c87893eec99a552dd22ed3b79f4b442563f92a46aba13d4b3f6365d9e",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-02T11:35:03.563+05:30",
+    "checksum": "2e5b3ab0cb4d71cb7449bc20b4e63ceb239db104a9841e4f06254f34b056341c",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-02/awards-103627.json"
+    "rawPayloadPath": "data/raw/2026-01-02/awards-113503.json"
   }
 }
