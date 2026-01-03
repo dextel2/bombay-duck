@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-03",
-  "buckets": {},
+  "buckets": {
+    "2026-01-03T12": [
+      {
+        "newsId": "bd8ed581-7646-4536-aa17-0542334fb9dc",
+        "scripCode": 500144,
+        "shortName": "Finolex Cables Ltd",
+        "headline": "Intimation of Original Order dated 02.01.2026 issued by Superintendent CGST Division III, Indore, Madhya Pradesh",
+        "announcedAt": "2026-01-03T12:02:48.517+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/",
+        "rawTime": "2026-01-03T12:02:48.517"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-03T11:34:18.062+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-03T12:33:34.244+05:30",
+    "checksum": "e238549df8d84e4190faf0a6e8564fb0588f5c257982da1640e4722c9232f4fd",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-03/awards-113417.json"
+    "rawPayloadPath": "data/raw/2026-01-03/awards-123333.json"
   }
 }
