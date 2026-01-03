@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-03 12:00 | Finolex Cables Ltd | 500144 | Intimation of Original Order dated 02.01.2026 issued by Superintendent CGST Division III, Indore, Madhya Pradesh ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 03 Jan 2026 - 12:02 |
 
-_Last updated: 03 Jan 2026 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-03.json)_
+_Last updated: 03 Jan 2026 - 14:33 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-03.json)_
 
 <!-- snapshot:end -->
 
