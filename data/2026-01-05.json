@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
         "rawTime": "2026-01-05T10:47:30.1"
       }
+    ],
+    "2026-01-05T14": [
+      {
+        "newsId": "b6fb2a31-465a-418f-82f9-b5e853e310be",
+        "scripCode": 532373,
+        "shortName": "WEP Solutions Ltd",
+        "headline": "Receipt of Demand Order",
+        "announcedAt": "2026-01-05T14:24:56.370+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/",
+        "rawTime": "2026-01-05T14:24:56.37"
+      },
+      {
+        "newsId": "2e4a226d-94dc-4fa2-9e60-72dc918ac836",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of Securities & Exchange Board of India (Listing Obligations & Disclosures Requirements) Regulations, 2015-Intimation of Order received -Reliance Industries Limited.",
+        "announcedAt": "2026-01-05T14:00:50.040+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2026-01-05T14:00:50.04"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-05T13:34:33.536+05:30",
-    "checksum": "2f413253c39d27743fee5d689bc0f66507e95989794fa2d71761606ba7b385b9",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-05T14:37:28.581+05:30",
+    "checksum": "5538e2822c3cc6aabef3d99e90d911e53b440eaa9b5d385bb7f5c787e0099d4a",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-05/awards-133432.json"
+    "rawPayloadPath": "data/raw/2026-01-05/awards-143727.json"
   }
 }
