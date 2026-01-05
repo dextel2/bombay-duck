@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
         "rawTime": "2026-01-05T14:00:50.04"
       }
+    ],
+    "2026-01-05T15": [
+      {
+        "newsId": "408d1cac-0dbf-4189-810b-4f31bbd74c5f",
+        "scripCode": 543364,
+        "shortName": "Markolines Pavement Technologies Ltd",
+        "headline": "Disclosure of receipt of multiple work orders.",
+        "announcedAt": "2026-01-05T15:03:07.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/",
+        "rawTime": "2026-01-05T15:03:07.093"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-05T14:37:28.581+05:30",
-    "checksum": "5538e2822c3cc6aabef3d99e90d911e53b440eaa9b5d385bb7f5c787e0099d4a",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-05T15:34:37.244+05:30",
+    "checksum": "4d5b6e7455d48f1f8aa526c823c9df98ed5bf513fd4d7dbc2d20cc0c186173ee",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-05/awards-143727.json"
+    "rawPayloadPath": "data/raw/2026-01-05/awards-153436.json"
   }
 }

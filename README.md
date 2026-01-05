@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-05 15:00 | Markolines Pavement Technologies Ltd | 543364 | Disclosure of receipt of multiple work orders. ([Link](https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/)) | Likely Positive | 05 Jan 2026 - 15:03 |
 | 2026-01-05 14:00 | WEP Solutions Ltd | 532373 | Receipt of Demand Order ([Link](https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/)) | Likely Positive | 05 Jan 2026 - 14:24 |
 | 2026-01-05 14:00 | Trishakti Industries Ltd | 531279 | Disclosure under Regulation 30 of Securities & Exchange Board of India (Listing Obligations & Disclosures Requirements) Regulations, 2015-Intimation of Order received -Reliance Industries Limited. ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 05 Jan 2026 - 14:00 |
 | 2026-01-05 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of LoA from APTRANSCO for BESS ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 05 Jan 2026 - 11:20 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-05 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Receipt of Letter of Intent of Setting up of Project of Standalone Battery Energy Storage System (BESS) from Gujarat Urja Vikas Nigam Limited (GUVNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 05 Jan 2026 - 10:47 |
 | 2026-01-05 09:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for Lab Grown Polished Diamonds amounting to USD 1.85 million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 05 Jan 2026 - 09:04 |
 
-_Last updated: 05 Jan 2026 - 14:37 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-05.json)_
+_Last updated: 05 Jan 2026 - 15:34 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-05.json)_
 
 <!-- snapshot:end -->
 
