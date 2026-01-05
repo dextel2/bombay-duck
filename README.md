@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-05 09:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for Lab Grown Polished Diamonds amounting to USD 1.85 million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 05 Jan 2026 - 09:04 |
 
-_Last updated: 05 Jan 2026 - 09:55 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-05.json)_
+_Last updated: 05 Jan 2026 - 10:43 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-05.json)_
 
 <!-- snapshot:end -->
 
