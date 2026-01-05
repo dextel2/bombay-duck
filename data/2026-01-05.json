@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-01-05",
+  "buckets": {
+    "2026-01-05T09": [
+      {
+        "newsId": "1bf31e97-6ea2-4378-b216-2a93299b4d88",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of export order for Lab Grown Polished Diamonds amounting to USD 1.85 million",
+        "announcedAt": "2026-01-05T09:04:56.487+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-01-05T09:04:56.487"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-01-05T09:05:57.541+05:30",
+    "checksum": "74925d24e4f5dd269e6fa09fe65d7b0e5e0d1ddc20ff58316d3411cd870cfb09",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-01-05/awards-090556.json"
+  }
+}
