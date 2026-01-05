@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-05 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Receipt of Letter of Intent of Setting up of Project of Standalone Battery Energy Storage System (BESS) from Gujarat Urja Vikas Nigam Limited (GUVNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 05 Jan 2026 - 10:47 |
 | 2026-01-05 09:00 | Mini Diamonds India Ltd | 523373 | Receipt of export order for Lab Grown Polished Diamonds amounting to USD 1.85 million ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 05 Jan 2026 - 09:04 |
 
-_Last updated: 05 Jan 2026 - 12:39 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-05.json)_
+_Last updated: 05 Jan 2026 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-05.json)_
 
 <!-- snapshot:end -->
 
