@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-06 12:00 | Faalcon Concepts Ltd | 544164 | Received new work order worth RS. 18,41,70,000 ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 06 Jan 2026 - 12:21 |
+| 2026-01-06 12:00 | Desco Infratech Ltd | 544387 | Intimation Regarding Receipt of Orders worth totaling Rs. 5.37 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 06 Jan 2026 - 12:01 |
 | 2026-01-06 10:00 | Dev Information Technology Ltd | 543462 | Award of Order Receipt ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 06 Jan 2026 - 10:58 |
 
-_Last updated: 06 Jan 2026 - 11:34 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-06.json)_
+_Last updated: 06 Jan 2026 - 12:36 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-06.json)_
 
 <!-- snapshot:end -->
 

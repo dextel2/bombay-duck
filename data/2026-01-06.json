@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
         "rawTime": "2026-01-06T10:58:06.227"
       }
+    ],
+    "2026-01-06T12": [
+      {
+        "newsId": "e9a775d6-9778-444b-987c-e329e48d67c9",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order worth RS. 18,41,70,000",
+        "announcedAt": "2026-01-06T12:21:38.897+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-01-06T12:21:38.897"
+      },
+      {
+        "newsId": "e2a1e1b1-37f8-467b-93b6-cf0399111214",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation Regarding Receipt of Orders worth totaling Rs. 5.37 Cr",
+        "announcedAt": "2026-01-06T12:01:23.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-01-06T12:01:23.31"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-06T11:34:32.687+05:30",
-    "checksum": "9ed6335cbe1fdf316464abdb8a44eeb36bbe45078b01a8741f2a5a4a6f2dd2df",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-06T12:36:51.213+05:30",
+    "checksum": "7a453770a8624f98ee0b31ebc23902094601d2f9dece820699f30dc59934b03a",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-06/awards-113431.json"
+    "rawPayloadPath": "data/raw/2026-01-06/awards-123650.json"
   }
 }
