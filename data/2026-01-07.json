@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
         "rawTime": "2026-01-07T08:29:34.09"
       }
+    ],
+    "2026-01-07T12": [
+      {
+        "newsId": "a1689d4d-28d4-4a33-8e59-ec05978b738e",
+        "scripCode": 539006,
+        "shortName": "PTC Industries Ltd",
+        "headline": "As enclosed.",
+        "announcedAt": "2026-01-07T12:39:08.387+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
+        "rawTime": "2026-01-07T12:39:08.387"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-07T12:36:26.703+05:30",
-    "checksum": "2a4433c9e95a8bc09fd9b87768b0665e21c88abed40a8a363e058746b37cdf27",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-07T13:34:18.989+05:30",
+    "checksum": "6e32d8353e0a8caf2c7254c7a1587883fdaa13366665d4320402b9d471af2aa2",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-07/awards-123625.json"
+    "rawPayloadPath": "data/raw/2026-01-07/awards-133418.json"
   }
 }

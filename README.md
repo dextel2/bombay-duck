@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-07 12:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 07 Jan 2026 - 12:39 |
 | 2026-01-07 08:00 | Welspun Corp Ltd | 532144 | Receipt of Export Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 07 Jan 2026 - 08:29 |
 
-_Last updated: 07 Jan 2026 - 12:36 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-07.json)_
+_Last updated: 07 Jan 2026 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-07.json)_
 
 <!-- snapshot:end -->
 
