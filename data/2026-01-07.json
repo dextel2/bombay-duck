@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-01-07",
+  "buckets": {
+    "2026-01-07T08": [
+      {
+        "newsId": "0ba1e1f3-c288-4c59-9b71-a896d1793039",
+        "scripCode": 532144,
+        "shortName": "Welspun Corp Ltd",
+        "headline": "Receipt of Export Order",
+        "announcedAt": "2026-01-07T08:29:34.090+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
+        "rawTime": "2026-01-07T08:29:34.09"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-01-07T09:01:18.077+05:30",
+    "checksum": "2a4433c9e95a8bc09fd9b87768b0665e21c88abed40a8a363e058746b37cdf27",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-01-07/awards-090117.json"
+  }
+}
