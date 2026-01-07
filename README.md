@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-07 14:00 | Airfloa Rail Technology Ltd | 544516 | Reciving of Order to tune of Rs.37.88 lakhs ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 07 Jan 2026 - 14:22 |
+| 2026-01-07 14:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 07 Jan 2026 - 14:21 |
+| 2026-01-07 14:00 | Dev Information Technology Ltd | 543462 | Award Of Order Receipt ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 07 Jan 2026 - 14:20 |
 | 2026-01-07 12:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 07 Jan 2026 - 12:39 |
 | 2026-01-07 08:00 | Welspun Corp Ltd | 532144 | Receipt of Export Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 07 Jan 2026 - 08:29 |
 
-_Last updated: 07 Jan 2026 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-07.json)_
+_Last updated: 07 Jan 2026 - 14:37 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-07.json)_
 
 <!-- snapshot:end -->
 

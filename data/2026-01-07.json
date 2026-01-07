@@ -22,14 +22,43 @@
         "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
         "rawTime": "2026-01-07T12:39:08.387"
       }
+    ],
+    "2026-01-07T14": [
+      {
+        "newsId": "fe18461c-9543-41b7-80ef-5ecd1bfe5d36",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Reciving of Order to tune of Rs.37.88 lakhs",
+        "announcedAt": "2026-01-07T14:22:53.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-01-07T14:22:53.847"
+      },
+      {
+        "newsId": "8cb1c090-6bbb-4580-b917-07b35ed055c7",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects",
+        "announcedAt": "2026-01-07T14:21:22.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-01-07T14:21:22.14"
+      },
+      {
+        "newsId": "de037c46-4a30-4505-aa5d-5c135b70387b",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Award Of Order Receipt",
+        "announcedAt": "2026-01-07T14:20:20.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-01-07T14:20:20.38"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-07T13:34:18.989+05:30",
-    "checksum": "6e32d8353e0a8caf2c7254c7a1587883fdaa13366665d4320402b9d471af2aa2",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-07T14:37:02.812+05:30",
+    "checksum": "74fc5bcc8a99568a2efc74f906d1c2a5fd27850a45965dc8635656e418c0a39a",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-07/awards-133418.json"
+    "rawPayloadPath": "data/raw/2026-01-07/awards-143701.json"
   }
 }
