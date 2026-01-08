@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-08 09:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.11.19 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 08 Jan 2026 - 09:22 |
 
-_Last updated: 08 Jan 2026 - 09:47 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
+_Last updated: 08 Jan 2026 - 10:35 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
 
 <!-- snapshot:end -->
 
