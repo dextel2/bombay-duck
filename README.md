@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-08 11:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 08 Jan 2026 - 11:08 |
+| 2026-01-08 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 Jan 2026 - 10:35 |
 | 2026-01-08 09:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.11.19 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 08 Jan 2026 - 09:22 |
 
-_Last updated: 08 Jan 2026 - 10:35 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
+_Last updated: 08 Jan 2026 - 11:35 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
 
 <!-- snapshot:end -->
 

@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
         "rawTime": "2026-01-08T09:22:46.177"
       }
+    ],
+    "2026-01-08T11": [
+      {
+        "newsId": "93f80ec8-6220-492b-a425-3a9b6250725b",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects",
+        "announcedAt": "2026-01-08T11:08:57.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-01-08T11:08:57.933"
+      }
+    ],
+    "2026-01-08T10": [
+      {
+        "newsId": "ff6cb64c-55d5-4ce2-9ecb-331bf5b95fe4",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-01-08T10:35:15.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-01-08T10:35:15.64"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-08T10:35:45.522+05:30",
-    "checksum": "93a87126537d757f678129196d35bc82651daf814c94eb96f568d025097c2272",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-08T11:35:10.975+05:30",
+    "checksum": "1d3b880480112ea7dcb515579ff6c38dbe3569085978b50da0fe965229a1e244",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-08/awards-103544.json"
+    "rawPayloadPath": "data/raw/2026-01-08/awards-113510.json"
   }
 }
