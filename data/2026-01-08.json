@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-01-08T10:35:15.64"
       }
+    ],
+    "2026-01-08T13": [
+      {
+        "newsId": "742a2c8b-aee0-49b7-bc14-0452338c3f7b",
+        "scripCode": 543375,
+        "shortName": "Promax Power Ltd",
+        "headline": "Pursuant to regulation 30 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that Promax Power Limited has received a letter of award from ....",
+        "announcedAt": "2026-01-08T13:07:54.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/promax-power-ltd/promax/543375/",
+        "rawTime": "2026-01-08T13:07:54.653"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-08T12:35:45.983+05:30",
-    "checksum": "1d3b880480112ea7dcb515579ff6c38dbe3569085978b50da0fe965229a1e244",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-08T13:34:21.866+05:30",
+    "checksum": "0f783c73593da873240aaad740bcbad32b76ac80226c0a28af2b8ff5a07af33e",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-08/awards-123545.json"
+    "rawPayloadPath": "data/raw/2026-01-08/awards-133421.json"
   }
 }
