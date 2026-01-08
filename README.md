@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-08 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 Jan 2026 - 10:35 |
 | 2026-01-08 09:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.11.19 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 08 Jan 2026 - 09:22 |
 
-_Last updated: 08 Jan 2026 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
+_Last updated: 08 Jan 2026 - 14:36 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
 
 <!-- snapshot:end -->
 
