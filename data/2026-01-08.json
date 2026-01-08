@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-08",
-  "buckets": {},
+  "buckets": {
+    "2026-01-08T09": [
+      {
+        "newsId": "487fcab0-8e99-446b-a3a3-2e709aca4847",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.11.19 Cr",
+        "announcedAt": "2026-01-08T09:22:46.177+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-01-08T09:22:46.177"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-08T09:01:34.697+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-01-08T09:47:08.949+05:30",
+    "checksum": "93a87126537d757f678129196d35bc82651daf814c94eb96f568d025097c2272",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-08/awards-090134.json"
+    "rawPayloadPath": "data/raw/2026-01-08/awards-094708.json"
   }
 }
