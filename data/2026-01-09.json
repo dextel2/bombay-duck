@@ -3,6 +3,15 @@
   "buckets": {
     "2026-01-09T11": [
       {
+        "newsId": "134799fd-9d12-47a5-bc13-422f3a227cd7",
+        "scripCode": 532717,
+        "shortName": "Indo Tech Transformers Ltd",
+        "headline": "Intimation of bagging/ awarding of orders",
+        "announcedAt": "2026-01-09T11:50:30.633+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indo-tech-transformers-ltd/indotech/532717/",
+        "rawTime": "2026-01-09T11:50:30.633"
+      },
+      {
         "newsId": "4847b07b-2e91-493e-844e-ac6c9b97fff5",
         "scripCode": 535693,
         "shortName": "Brahmaputra Infrastructure Ltd",
@@ -14,11 +23,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-09T11:35:17.408+05:30",
-    "checksum": "e339d9e596bff439194170dfe4a507a9d43a2b3949586fbb05dfabe4d8c2afaa",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-09T12:36:24.306+05:30",
+    "checksum": "12175d6fee17171d8981ef225c7b420a804f974d9954208aa1e85b6932b24dba",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-09/awards-113516.json"
+    "rawPayloadPath": "data/raw/2026-01-09/awards-123623.json"
   }
 }
