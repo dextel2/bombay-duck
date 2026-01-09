@@ -43,6 +43,33 @@
     ],
     "2026-01-09T14": [
       {
+        "newsId": "9f66f21f-42ec-429b-9a81-cbbc1ed3173c",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-01-09T14:55:45.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-01-09T14:55:45.51"
+      },
+      {
+        "newsId": "02486f65-5668-4965-a690-58a2eff56889",
+        "scripCode": 543993,
+        "shortName": "ARCL Organics Ltd",
+        "headline": "Intimation under Regulation 30 that the Company has received an order against the Company from The Honorable Calcutta High Court",
+        "announcedAt": "2026-01-09T14:51:43.403+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/arcl-organics-ltd/arcl/543993/",
+        "rawTime": "2026-01-09T14:51:43.403"
+      },
+      {
+        "newsId": "d0ebb4fa-3682-4958-bc45-f0fe2220e389",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-01-09T14:48:29.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-01-09T14:48:29.86"
+      },
+      {
         "newsId": "bef5fd16-052a-4bce-8162-710afe4c0174",
         "scripCode": 544538,
         "shortName": "Praruh Technologies Ltd",
@@ -51,14 +78,25 @@
         "url": "https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/",
         "rawTime": "2026-01-09T14:01:24.033"
       }
+    ],
+    "2026-01-09T15": [
+      {
+        "newsId": "c97f009b-8a93-4966-a55d-1d50d998059f",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-01-09T15:02:15.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-01-09T15:02:15.13"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-09T14:36:27.590+05:30",
-    "checksum": "21b6406808903fafbb86d98f3bf96d91e6f8628a55350da32477259dcc5b2572",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-09T15:33:57.433+05:30",
+    "checksum": "0fb6915f5c365bb8a0df082aa7a5b2cfbbf127eb4d1c6be96be75431f0cf265e",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-09/awards-143627.json"
+    "rawPayloadPath": "data/raw/2026-01-09/awards-153356.json"
   }
 }
