@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-08 IST)
+### Today's Awarded Orders (2026-01-09 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-08 13:00 | Promax Power Ltd | 543375 | Pursuant to regulation 30 of SEBI ( Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that Promax Power Limited has received a letter of award from .... ([Link](https://www.bseindia.com/stock-share-price/promax-power-ltd/promax/543375/)) | Neutral | 08 Jan 2026 - 13:07 |
-| 2026-01-08 11:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Bagging of Order for Transportation of Pond Ash to NHAI Road Projects ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 08 Jan 2026 - 11:08 |
-| 2026-01-08 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 Jan 2026 - 10:35 |
-| 2026-01-08 09:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.11.19 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 08 Jan 2026 - 09:22 |
+_No award announcements have been captured yet today._
 
-_Last updated: 08 Jan 2026 - 15:34 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-08.json)_
+_Last updated: 09 Jan 2026 - 09:01 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-09.json)_
 
 <!-- snapshot:end -->
 
