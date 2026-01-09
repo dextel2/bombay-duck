@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-09 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-09 11:00 | Brahmaputra Infrastructure Ltd | 535693 | LOA Of an total amount Rs. 113.54 Crores ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Jan 2026 - 11:32 |
 
-_Last updated: 09 Jan 2026 - 10:36 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-09.json)_
+_Last updated: 09 Jan 2026 - 11:35 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-09.json)_
 
 <!-- snapshot:end -->
 

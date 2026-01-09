@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-09",
-  "buckets": {},
+  "buckets": {
+    "2026-01-09T11": [
+      {
+        "newsId": "4847b07b-2e91-493e-844e-ac6c9b97fff5",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "LOA Of an total amount Rs. 113.54 Crores",
+        "announcedAt": "2026-01-09T11:32:12.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-01-09T11:32:12.47"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-09T10:36:09.225+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-09T11:35:17.408+05:30",
+    "checksum": "e339d9e596bff439194170dfe4a507a9d43a2b3949586fbb05dfabe4d8c2afaa",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-09/awards-103608.json"
+    "rawPayloadPath": "data/raw/2026-01-09/awards-113516.json"
   }
 }
