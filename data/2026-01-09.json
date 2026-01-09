@@ -40,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
         "rawTime": "2026-01-09T12:46:58.8"
       }
+    ],
+    "2026-01-09T14": [
+      {
+        "newsId": "bef5fd16-052a-4bce-8162-710afe4c0174",
+        "scripCode": 544538,
+        "shortName": "Praruh Technologies Ltd",
+        "headline": "Disclosure for Receipt of Purchase Order",
+        "announcedAt": "2026-01-09T14:01:24.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/",
+        "rawTime": "2026-01-09T14:01:24.033"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-09T13:34:18.426+05:30",
-    "checksum": "9df9c9e6ee6dbf10ab26dc6f657c06bc463d619241c6817adf14a5a6152f418e",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-09T14:36:27.590+05:30",
+    "checksum": "21b6406808903fafbb86d98f3bf96d91e6f8628a55350da32477259dcc5b2572",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-09/awards-133417.json"
+    "rawPayloadPath": "data/raw/2026-01-09/awards-143627.json"
   }
 }
