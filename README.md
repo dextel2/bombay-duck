@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-09 12:00 | Ravindra Energy Ltd | 504341 | Selection of Solar Power Generator (SPGs) on the basis of Build Own and Operate (BOO) for establishing Solar Power Plant/Project of an aggregate capacity of 62 MW (AC) ([Link](https://www.bseindia.com/stock-share-price/ravindra-energy-ltd/reltd/504341/)) | Neutral | 09 Jan 2026 - 12:56 |
+| 2026-01-09 12:00 | Waaree Energies Ltd | 544277 | Receipt of Order on January 08, 2026. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 09 Jan 2026 - 12:46 |
 | 2026-01-09 11:00 | Indo Tech Transformers Ltd | 532717 | Intimation of bagging/ awarding of orders ([Link](https://www.bseindia.com/stock-share-price/indo-tech-transformers-ltd/indotech/532717/)) | Likely Positive | 09 Jan 2026 - 11:50 |
 | 2026-01-09 11:00 | Brahmaputra Infrastructure Ltd | 535693 | LOA Of an total amount Rs. 113.54 Crores ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Jan 2026 - 11:32 |
 
-_Last updated: 09 Jan 2026 - 12:36 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-09.json)_
+_Last updated: 09 Jan 2026 - 13:34 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-09.json)_
 
 <!-- snapshot:end -->
 

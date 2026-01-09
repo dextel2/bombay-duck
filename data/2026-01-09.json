@@ -20,14 +20,34 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-01-09T11:32:12.47"
       }
+    ],
+    "2026-01-09T12": [
+      {
+        "newsId": "186a18bc-ac98-4287-ac62-06d7498f9451",
+        "scripCode": 504341,
+        "shortName": "Ravindra Energy Ltd",
+        "headline": "Selection of Solar Power Generator (SPGs) on the basis of Build Own and Operate (BOO) for establishing Solar Power Plant/Project of an aggregate capacity of 62 MW (AC)",
+        "announcedAt": "2026-01-09T12:56:37.307+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ravindra-energy-ltd/reltd/504341/",
+        "rawTime": "2026-01-09T12:56:37.307"
+      },
+      {
+        "newsId": "586b1381-63be-44b9-a0c1-fd6e43acbf55",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Receipt of Order on January 08, 2026.",
+        "announcedAt": "2026-01-09T12:46:58.800+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2026-01-09T12:46:58.8"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-09T12:36:24.306+05:30",
-    "checksum": "12175d6fee17171d8981ef225c7b420a804f974d9954208aa1e85b6932b24dba",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-09T13:34:18.426+05:30",
+    "checksum": "9df9c9e6ee6dbf10ab26dc6f657c06bc463d619241c6817adf14a5a6152f418e",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-09/awards-123623.json"
+    "rawPayloadPath": "data/raw/2026-01-09/awards-133417.json"
   }
 }
