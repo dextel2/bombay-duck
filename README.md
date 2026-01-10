@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-10 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-10 11:00 | Poojawestern Metaliks Ltd | 540727 | Poojawestern Metaliks Limited has informed the exhange about Bagging/Receiving of Orders/ Contracts. ([Link](https://www.bseindia.com/stock-share-price/poojawestern-metaliks-ltd/pooja/540727/)) | Likely Positive | 10 Jan 2026 - 11:55 |
 
-_Last updated: 10 Jan 2026 - 11:34 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-10.json)_
+_Last updated: 10 Jan 2026 - 12:33 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-10.json)_
 
 <!-- snapshot:end -->
 
