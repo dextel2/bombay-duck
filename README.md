@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-09 IST)
+### Today's Awarded Orders (2026-01-10 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-09 15:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 09 Jan 2026 - 15:02 |
-| 2026-01-09 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 09 Jan 2026 - 14:55 |
-| 2026-01-09 14:00 | ARCL Organics Ltd | 543993 | Intimation under Regulation 30 that the Company has received an order against the Company from The Honorable Calcutta High Court ([Link](https://www.bseindia.com/stock-share-price/arcl-organics-ltd/arcl/543993/)) | Likely Positive | 09 Jan 2026 - 14:51 |
-| 2026-01-09 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 09 Jan 2026 - 14:48 |
-| 2026-01-09 14:00 | Praruh Technologies Ltd | 544538 | Disclosure for Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/)) | Likely Positive | 09 Jan 2026 - 14:01 |
-| 2026-01-09 12:00 | Ravindra Energy Ltd | 504341 | Selection of Solar Power Generator (SPGs) on the basis of Build Own and Operate (BOO) for establishing Solar Power Plant/Project of an aggregate capacity of 62 MW (AC) ([Link](https://www.bseindia.com/stock-share-price/ravindra-energy-ltd/reltd/504341/)) | Neutral | 09 Jan 2026 - 12:56 |
-| 2026-01-09 12:00 | Waaree Energies Ltd | 544277 | Receipt of Order on January 08, 2026. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 09 Jan 2026 - 12:46 |
-| 2026-01-09 11:00 | Indo Tech Transformers Ltd | 532717 | Intimation of bagging/ awarding of orders ([Link](https://www.bseindia.com/stock-share-price/indo-tech-transformers-ltd/indotech/532717/)) | Likely Positive | 09 Jan 2026 - 11:50 |
-| 2026-01-09 11:00 | Brahmaputra Infrastructure Ltd | 535693 | LOA Of an total amount Rs. 113.54 Crores ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Jan 2026 - 11:32 |
+_No award announcements have been captured yet today._
 
-_Last updated: 09 Jan 2026 - 15:33 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-09.json)_
+_Last updated: 10 Jan 2026 - 09:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-10.json)_
 
 <!-- snapshot:end -->
 
