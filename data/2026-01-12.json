@@ -29,14 +29,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
         "rawTime": "2026-01-12T08:39:23.973"
       }
+    ],
+    "2026-01-12T10": [
+      {
+        "newsId": "75e3b879-7671-4f0a-bc02-8185d3de760c",
+        "scripCode": 543982,
+        "shortName": "Quest Flow Controls Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), we hereby inform you that purchase order received from ....",
+        "announcedAt": "2026-01-12T10:43:13.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quest-flow-controls-ltd/questflow/543982/",
+        "rawTime": "2026-01-12T10:43:13.597"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-12T10:40:26.804+05:30",
-    "checksum": "77a945c4edcd6d41058979dc084547a8bc78d186f89da90129fe7a9950c3260c",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-12T11:36:02.557+05:30",
+    "checksum": "5cb2e7445245346d1cbef950b3e6f30d79d103861789acec546dc76c892b9f30",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-12/awards-104026.json"
+    "rawPayloadPath": "data/raw/2026-01-12/awards-113601.json"
   }
 }

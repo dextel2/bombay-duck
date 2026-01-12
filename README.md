@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-12 10:00 | Quest Flow Controls Ltd | 543982 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), we hereby inform you that purchase order received from .... ([Link](https://www.bseindia.com/stock-share-price/quest-flow-controls-ltd/questflow/543982/)) | Likely Positive | 12 Jan 2026 - 10:43 |
 | 2026-01-12 08:00 | Man Industries (India) Ltd-$ | 513269 | This is to inform that the Company has received new orders for approx. Rs. 550 crores. ([Link](https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/)) | Likely Positive | 12 Jan 2026 - 08:52 |
 | 2026-01-12 08:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under regulation 30 of SEBI LODR - Signing of Contract ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Likely Positive | 12 Jan 2026 - 08:52 |
 | 2026-01-12 08:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received 1st Letter of Award from Karnataka Renewable Energy Development Limited for 16,780 Standalone Off-Grid DC Solar Photovoltaic Water Pumping Systems .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 12 Jan 2026 - 08:39 |
 
-_Last updated: 12 Jan 2026 - 10:40 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-12.json)_
+_Last updated: 12 Jan 2026 - 11:36 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-12.json)_
 
 <!-- snapshot:end -->
 
