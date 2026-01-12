@@ -89,14 +89,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-01-12T11:39:28.93"
       }
+    ],
+    "2026-01-12T15": [
+      {
+        "newsId": "25acd75e-156a-4c18-a932-aee21e1e3e75",
+        "scripCode": 534600,
+        "shortName": "JTL Industries Ltd",
+        "headline": "Receipt of Landmark Order from Punjab State Transmission Corporation Limited",
+        "announcedAt": "2026-01-12T15:01:37.340+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/",
+        "rawTime": "2026-01-12T15:01:37.34"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-12T14:38:00.636+05:30",
-    "checksum": "c358d433c9e63a0d7433d6dc1415794b5c4b7d8fa8d3e4a6be1f020796b67203",
-    "totalAnnouncements": 9,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-12T15:34:55.832+05:30",
+    "checksum": "7284f05f50115cd654f010132da406bbd1e9903dc9f13dfcf9ec02faf9d0c5f4",
+    "totalAnnouncements": 10,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-12/awards-143759.json"
+    "rawPayloadPath": "data/raw/2026-01-12/awards-153455.json"
   }
 }

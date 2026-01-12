@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-12 15:00 | JTL Industries Ltd | 534600 | Receipt of Landmark Order from Punjab State Transmission Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/)) | Likely Positive | 12 Jan 2026 - 15:01 |
 | 2026-01-12 12:00 | JD Cables Ltd | 544524 | Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, the intimation is given by the company regarding the bagging of the work order from a reputed EPC Contractor for Rs. 19.55 crores .... ([Link](https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/)) | Likely Positive | 12 Jan 2026 - 12:32 |
 | 2026-01-12 12:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 12 Jan 2026 - 12:21 |
 | 2026-01-12 12:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 12 Jan 2026 - 12:18 |
@@ -32,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-12 08:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under regulation 30 of SEBI LODR - Signing of Contract ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Likely Positive | 12 Jan 2026 - 08:52 |
 | 2026-01-12 08:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received 1st Letter of Award from Karnataka Renewable Energy Development Limited for 16,780 Standalone Off-Grid DC Solar Photovoltaic Water Pumping Systems .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 12 Jan 2026 - 08:39 |
 
-_Last updated: 12 Jan 2026 - 14:38 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-12.json)_
+_Last updated: 12 Jan 2026 - 15:34 | Entries: 10 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-12.json)_
 
 <!-- snapshot:end -->
 
