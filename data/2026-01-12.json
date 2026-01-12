@@ -40,14 +40,63 @@
         "url": "https://www.bseindia.com/stock-share-price/quest-flow-controls-ltd/questflow/543982/",
         "rawTime": "2026-01-12T10:43:13.597"
       }
+    ],
+    "2026-01-12T12": [
+      {
+        "newsId": "daa99020-7fc1-4995-9b13-bf1e4f647d92",
+        "scripCode": 544524,
+        "shortName": "JD Cables Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, the intimation is given by the company regarding the bagging of the work order from a reputed EPC Contractor for Rs. 19.55 crores ....",
+        "announcedAt": "2026-01-12T12:32:26.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/",
+        "rawTime": "2026-01-12T12:32:26.88"
+      },
+      {
+        "newsId": "644674bc-382a-4577-a300-94babcee8ed2",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015",
+        "announcedAt": "2026-01-12T12:21:37.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-01-12T12:21:37.123"
+      },
+      {
+        "newsId": "fef91afa-d785-48ee-b315-e77f5ec71522",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-01-12T12:18:22.993+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-01-12T12:18:22.993"
+      },
+      {
+        "newsId": "4b0bd320-9d43-439e-ae28-ea4fcd7dfa47",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015",
+        "announcedAt": "2026-01-12T12:14:43.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-01-12T12:14:43.13"
+      }
+    ],
+    "2026-01-12T11": [
+      {
+        "newsId": "36743983-cebd-4621-b6f3-aa2efe7e2bc1",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs 40466844 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015",
+        "announcedAt": "2026-01-12T11:39:28.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-01-12T11:39:28.93"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-12T11:36:02.557+05:30",
-    "checksum": "5cb2e7445245346d1cbef950b3e6f30d79d103861789acec546dc76c892b9f30",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-12T12:38:06.474+05:30",
+    "checksum": "c358d433c9e63a0d7433d6dc1415794b5c4b7d8fa8d3e4a6be1f020796b67203",
+    "totalAnnouncements": 9,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-12/awards-113601.json"
+    "rawPayloadPath": "data/raw/2026-01-12/awards-123805.json"
   }
 }
