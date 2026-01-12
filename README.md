@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-12 08:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under regulation 30 of SEBI LODR - Signing of Contract ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Likely Positive | 12 Jan 2026 - 08:52 |
 | 2026-01-12 08:00 | Shakti Pumps India Ltd-$ | 531431 | We glad to inform that Company has received 1st Letter of Award from Karnataka Renewable Energy Development Limited for 16,780 Standalone Off-Grid DC Solar Photovoltaic Water Pumping Systems .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 12 Jan 2026 - 08:39 |
 
-_Last updated: 12 Jan 2026 - 09:03 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-12.json)_
+_Last updated: 12 Jan 2026 - 09:52 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-12.json)_
 
 <!-- snapshot:end -->
 
