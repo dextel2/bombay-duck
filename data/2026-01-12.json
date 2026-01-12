@@ -1,0 +1,42 @@
+{
+  "tradingDate": "2026-01-12",
+  "buckets": {
+    "2026-01-12T08": [
+      {
+        "newsId": "202e26fe-667c-40f6-b602-6130516730b4",
+        "scripCode": 513269,
+        "shortName": "Man Industries (India) Ltd-$",
+        "headline": "This is to inform that the Company has received new orders for approx. Rs. 550 crores.",
+        "announcedAt": "2026-01-12T08:52:57.147+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/",
+        "rawTime": "2026-01-12T08:52:57.147"
+      },
+      {
+        "newsId": "89618cc4-64fa-4a93-ae39-31d1e6009882",
+        "scripCode": 506854,
+        "shortName": "TANFAC Industries Ltd-$",
+        "headline": "Disclosure under regulation 30 of SEBI LODR - Signing of Contract",
+        "announcedAt": "2026-01-12T08:52:23.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/",
+        "rawTime": "2026-01-12T08:52:23.51"
+      },
+      {
+        "newsId": "2afeea4b-a8e7-4993-ab0c-0d0bab59a511",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We glad to inform that Company has received 1st Letter of Award from Karnataka Renewable Energy Development Limited for 16,780 Standalone Off-Grid DC Solar Photovoltaic Water Pumping Systems ....",
+        "announcedAt": "2026-01-12T08:39:23.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-01-12T08:39:23.973"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-01-12T09:03:36.979+05:30",
+    "checksum": "77a945c4edcd6d41058979dc084547a8bc78d186f89da90129fe7a9950c3260c",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-01-12/awards-090336.json"
+  }
+}
