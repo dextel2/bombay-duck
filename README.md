@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-13 09:00 | M & B Engineering Ltd | 544470 | M&B Engineering Ltd. has informed the Exchange for bagging of Order ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 13 Jan 2026 - 09:34 |
 | 2026-01-13 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures a Large Order from BPCL towards Industrial Water Treatment Facilities ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 13 Jan 2026 - 08:30 |
 
-_Last updated: 13 Jan 2026 - 12:36 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-13.json)_
+_Last updated: 13 Jan 2026 - 13:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-13.json)_
 
 <!-- snapshot:end -->
 
