@@ -31,14 +31,45 @@
         "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
         "rawTime": "2026-01-13T09:34:46.513"
       }
+    ],
+    "2026-01-13T11": [
+      {
+        "newsId": "67f0a37b-e023-42e0-97b9-027db58b4131",
+        "scripCode": 544281,
+        "shortName": "A B Infrabuild Ltd",
+        "headline": "Allotment of order",
+        "announcedAt": "2026-01-13T11:22:23.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
+        "rawTime": "2026-01-13T11:22:23.827"
+      },
+      {
+        "newsId": "1e6fbdce-47b0-4b23-9560-42f8a831d763",
+        "scripCode": 544335,
+        "shortName": "B.R.Goyal Infrastructure Ltd",
+        "headline": "Receipt of Letter of Award (LOA) from NHAI.",
+        "announcedAt": "2026-01-13T11:14:24.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
+        "rawTime": "2026-01-13T11:14:24.867"
+      }
+    ],
+    "2026-01-13T10": [
+      {
+        "newsId": "37209b8d-864e-41f4-ba52-adcf0852134c",
+        "scripCode": 532891,
+        "shortName": "Puravankara Ltd",
+        "headline": "Intimation on receipt of Letter of Intent by Starworth Infrastructure and Construction Limited",
+        "announcedAt": "2026-01-13T10:40:10.413+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/",
+        "rawTime": "2026-01-13T10:40:10.413"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-13T10:36:48.586+05:30",
-    "checksum": "a631b21e846699b1e45d79ace9a22dfd7fe02e4e6f4ca877e31735b311fd99ae",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-13T11:35:15.890+05:30",
+    "checksum": "4521bc98c8e4c9d72192e8850f1fc0807164c98f0ca09abeeaa7d5a435c8a641",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-13/awards-103647.json"
+    "rawPayloadPath": "data/raw/2026-01-13/awards-113515.json"
   }
 }
