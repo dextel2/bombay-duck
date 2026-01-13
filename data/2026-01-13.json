@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-01-13",
+  "buckets": {
+    "2026-01-13T08": [
+      {
+        "newsId": "939cd35c-8956-4d11-a517-8db4d0988d64",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG secures a Large Order from BPCL towards Industrial Water Treatment Facilities",
+        "announcedAt": "2026-01-13T08:30:37.577+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-01-13T08:30:37.577"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-01-13T09:01:16.724+05:30",
+    "checksum": "62cd213915e18d702b84b319e8b8bc7a91c9f92e87a4a5fcbf4e9a08307678f4",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-01-13/awards-090116.json"
+  }
+}
