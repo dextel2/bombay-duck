@@ -43,6 +43,15 @@
     ],
     "2026-01-14T12": [
       {
+        "newsId": "8aadc8ed-5145-41cf-9676-033d137aceed",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Announcement of receiving the order.",
+        "announcedAt": "2026-01-14T12:40:15.383+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-01-14T12:40:15.383"
+      },
+      {
         "newsId": "c4425870-6b5b-4108-8407-d60337798bad",
         "scripCode": 534618,
         "shortName": "Waaree Renewable Technologies Ltd",
@@ -65,11 +74,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-14T12:36:10.080+05:30",
-    "checksum": "ce519009f7c93966b1d004ce79b04659d04a6be24acb41cf81a465d2ed58add0",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-14T13:34:14.668+05:30",
+    "checksum": "52fb845150fb3e4c858f7ad7d06007c932c34ad924c840ba2cd68ef6a4da092d",
+    "totalAnnouncements": 7,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-14/awards-123609.json"
+    "rawPayloadPath": "data/raw/2026-01-14/awards-133414.json"
   }
 }
