@@ -40,14 +40,36 @@
         "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
         "rawTime": "2026-01-14T09:20:40.807"
       }
+    ],
+    "2026-01-14T12": [
+      {
+        "newsId": "c4425870-6b5b-4108-8407-d60337798bad",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "We are please to inform that WAAREERTL has been awarded Letter of Award (LOA) for execution of Engineering, Procurement and Construction (EPC) works of Ground Mount Solar Power Project ....",
+        "announcedAt": "2026-01-14T12:30:18.397+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2026-01-14T12:30:18.397"
+      }
+    ],
+    "2026-01-14T11": [
+      {
+        "newsId": "f6d0ea44-a3c4-479b-ad96-53fdebc4c63f",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-01-14T11:47:33.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-01-14T11:47:33.093"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-14T11:35:28.817+05:30",
-    "checksum": "6551babba275560339aadb1ab209a8bc7cd8893683060660902deaeed107847a",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-14T12:36:10.080+05:30",
+    "checksum": "ce519009f7c93966b1d004ce79b04659d04a6be24acb41cf81a465d2ed58add0",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-14/awards-113528.json"
+    "rawPayloadPath": "data/raw/2026-01-14/awards-123609.json"
   }
 }
