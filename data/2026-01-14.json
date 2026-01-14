@@ -71,14 +71,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-01-14T11:47:33.093"
       }
+    ],
+    "2026-01-14T13": [
+      {
+        "newsId": "2b9461fb-f2ea-419e-8e99-32a82fb54a9a",
+        "scripCode": 544336,
+        "shortName": "Quadrant Future Tek Ltd",
+        "headline": "Intimation of Receipt of Offer from CLW for installation KAVACH 4.0 worth Rs. 287 Crores.",
+        "announcedAt": "2026-01-14T13:53:15.223+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/",
+        "rawTime": "2026-01-14T13:53:15.223"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-14T13:34:14.668+05:30",
-    "checksum": "52fb845150fb3e4c858f7ad7d06007c932c34ad924c840ba2cd68ef6a4da092d",
-    "totalAnnouncements": 7,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-14T14:36:59.215+05:30",
+    "checksum": "bbd4c5b296d6e93915c997e3155505a0a8f9aefa6724ed5b52804db2306117d1",
+    "totalAnnouncements": 8,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-14/awards-133414.json"
+    "rawPayloadPath": "data/raw/2026-01-14/awards-143658.json"
   }
 }
