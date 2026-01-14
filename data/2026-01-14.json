@@ -82,14 +82,25 @@
         "url": "https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/",
         "rawTime": "2026-01-14T13:53:15.223"
       }
+    ],
+    "2026-01-14T15": [
+      {
+        "newsId": "906adcf7-70a9-4349-904a-34b12d68b6e6",
+        "scripCode": 544248,
+        "shortName": "Mach Conferences And Events Ltd",
+        "headline": "Enclosed herewith",
+        "announcedAt": "2026-01-14T15:30:03.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/",
+        "rawTime": "2026-01-14T15:30:03.57"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-14T14:36:59.215+05:30",
-    "checksum": "bbd4c5b296d6e93915c997e3155505a0a8f9aefa6724ed5b52804db2306117d1",
-    "totalAnnouncements": 8,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-14T15:34:10.273+05:30",
+    "checksum": "636ea79de0febf8a998f2c42ee04ecaa59a332669e1f74975d94b44f1c29d5cc",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-14/awards-143658.json"
+    "rawPayloadPath": "data/raw/2026-01-14/awards-153409.json"
   }
 }
