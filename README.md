@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-14 09:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 14 Jan 2026 - 09:20 |
 | 2026-01-14 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of domestic order for Lab Grown Polished Diamonds amounting to Rs. 14 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 14 Jan 2026 - 08:54 |
 
-_Last updated: 14 Jan 2026 - 09:51 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-14.json)_
+_Last updated: 14 Jan 2026 - 10:36 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-14.json)_
 
 <!-- snapshot:end -->
 
