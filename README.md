@@ -18,18 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-13 IST)
+### Today's Awarded Orders (2026-01-14 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-01-13 11:00 | A B Infrabuild Ltd | 544281 | Allotment of order ([Link](https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/)) | Likely Positive | 13 Jan 2026 - 11:22 |
-| 2026-01-13 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of Letter of Award (LOA) from NHAI. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 13 Jan 2026 - 11:14 |
-| 2026-01-13 10:00 | Puravankara Ltd | 532891 | Intimation on receipt of Letter of Intent by Starworth Infrastructure and Construction Limited ([Link](https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/)) | Likely Positive | 13 Jan 2026 - 10:40 |
-| 2026-01-13 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Significant*) Order for Transportation Infrastructure Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 Jan 2026 - 09:37 |
-| 2026-01-13 09:00 | M & B Engineering Ltd | 544470 | M&B Engineering Ltd. has informed the Exchange for bagging of Order ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 13 Jan 2026 - 09:34 |
-| 2026-01-13 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures a Large Order from BPCL towards Industrial Water Treatment Facilities ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 13 Jan 2026 - 08:30 |
+| 2026-01-14 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of domestic order for Lab Grown Polished Diamonds amounting to Rs. 14 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 14 Jan 2026 - 08:54 |
 
-_Last updated: 13 Jan 2026 - 15:34 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-13.json)_
+_Last updated: 14 Jan 2026 - 09:03 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-14.json)_
 
 <!-- snapshot:end -->
 
