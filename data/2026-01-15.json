@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
         "rawTime": "2026-01-15T11:10:06.243"
       }
+    ],
+    "2026-01-15T13": [
+      {
+        "newsId": "be613111-426e-424e-869c-3741f612ef2e",
+        "scripCode": 544477,
+        "shortName": "Highway Infrastructure Ltd",
+        "headline": "Company has received a Letter of Acceptance by Indore Development Authority for development under Town planning scheme-08 from kumedi to Lasudiya Mori (up to A.B Road) Indore.",
+        "announcedAt": "2026-01-15T13:28:49.527+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/",
+        "rawTime": "2026-01-15T13:28:49.527"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-15T12:36:01.659+05:30",
-    "checksum": "c773cf6e7633dc1656438f234f32bbf86016919cbbae146ba4d9097a3648c9ef",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-15T13:34:21.131+05:30",
+    "checksum": "292b72643efaa1788e204debc2cf33a5e96a92fd381a897db4abf52bd8e73124",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-15/awards-123601.json"
+    "rawPayloadPath": "data/raw/2026-01-15/awards-133420.json"
   }
 }
