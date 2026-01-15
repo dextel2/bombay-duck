@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
         "rawTime": "2026-01-15T09:27:57.707"
       }
+    ],
+    "2026-01-15T11": [
+      {
+        "newsId": "e003b348-291f-4d21-940a-929cf38ada5a",
+        "scripCode": 544335,
+        "shortName": "B.R.Goyal Infrastructure Ltd",
+        "headline": "Receipt of Letter of Award (LOA) from NHAI.",
+        "announcedAt": "2026-01-15T11:10:06.243+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
+        "rawTime": "2026-01-15T11:10:06.243"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-15T10:36:50.605+05:30",
-    "checksum": "7f3ce0eb42acfa44c1d69370cf936a9e128f2f08929b9f98eb9e037574fa0050",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-15T11:35:11.952+05:30",
+    "checksum": "c773cf6e7633dc1656438f234f32bbf86016919cbbae146ba4d9097a3648c9ef",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-15/awards-103650.json"
+    "rawPayloadPath": "data/raw/2026-01-15/awards-113511.json"
   }
 }
