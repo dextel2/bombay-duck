@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-14 IST)
+### Today's Awarded Orders (2026-01-15 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-14 15:00 | Mach Conferences And Events Ltd | 544248 | Enclosed herewith ([Link](https://www.bseindia.com/stock-share-price/mach-conferences-and-events-ltd/mcel/544248/)) | Neutral | 14 Jan 2026 - 15:30 |
-| 2026-01-14 13:00 | Quadrant Future Tek Ltd | 544336 | Intimation of Receipt of Offer from CLW for installation KAVACH 4.0 worth Rs. 287 Crores. ([Link](https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/)) | Likely Positive | 14 Jan 2026 - 13:53 |
-| 2026-01-14 12:00 | Pace Digitek Ltd | 544550 | Announcement of receiving the order. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 14 Jan 2026 - 12:40 |
-| 2026-01-14 12:00 | Waaree Renewable Technologies Ltd | 534618 | We are please to inform that WAAREERTL has been awarded Letter of Award (LOA) for execution of Engineering, Procurement and Construction (EPC) works of Ground Mount Solar Power Project .... ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Likely Positive | 14 Jan 2026 - 12:30 |
-| 2026-01-14 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 Jan 2026 - 11:47 |
-| 2026-01-14 09:00 | Larsen & Toubro Ltd | 500510 | L&T Secures (Large*) contract for Heavy Civil Infrastructure Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 14 Jan 2026 - 09:33 |
-| 2026-01-14 09:00 | IL&FS Transportation Networks Ltd | 533177 | Receipt of Demand Notice from Assistant Commissioner of CGST & C. Ex., Division-IV ([Link](https://www.bseindia.com/stock-share-price/ilfs-transportation-networks-ltd/ilfstrans/533177/)) | Likely Positive | 14 Jan 2026 - 09:29 |
-| 2026-01-14 09:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 14 Jan 2026 - 09:20 |
-| 2026-01-14 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of domestic order for Lab Grown Polished Diamonds amounting to Rs. 14 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 14 Jan 2026 - 08:54 |
+_No award announcements have been captured yet today._
 
-_Last updated: 14 Jan 2026 - 15:34 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-14.json)_
+_Last updated: 15 Jan 2026 - 09:01 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-15.json)_
 
 <!-- snapshot:end -->
 
