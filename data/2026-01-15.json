@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-15",
-  "buckets": {},
+  "buckets": {
+    "2026-01-15T09": [
+      {
+        "newsId": "838549c1-c4e1-4254-bdca-91f36f2a9cb7",
+        "scripCode": 532686,
+        "shortName": "Kernex Microsystems India Ltd",
+        "headline": "We are pleased to inform you that CLW has awarded an order valued at Rs. 2,465.71 crores to the Company for the supply, installation, testing and commissioning of 3,024 sets of On-Board ....",
+        "announcedAt": "2026-01-15T09:27:57.707+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
+        "rawTime": "2026-01-15T09:27:57.707"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-15T09:01:47.174+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-01-15T09:48:11.523+05:30",
+    "checksum": "7f3ce0eb42acfa44c1d69370cf936a9e128f2f08929b9f98eb9e037574fa0050",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-15/awards-090146.json"
+    "rawPayloadPath": "data/raw/2026-01-15/awards-094810.json"
   }
 }
