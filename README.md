@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-15 09:00 | Kernex Microsystems India Ltd | 532686 | We are pleased to inform you that CLW has awarded an order valued at Rs. 2,465.71 crores to the Company for the supply, installation, testing and commissioning of 3,024 sets of On-Board .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Likely Positive | 15 Jan 2026 - 09:27 |
 
-_Last updated: 15 Jan 2026 - 09:48 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-15.json)_
+_Last updated: 15 Jan 2026 - 10:36 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-15.json)_
 
 <!-- snapshot:end -->
 
