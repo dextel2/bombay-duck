@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-16",
-  "buckets": {},
+  "buckets": {
+    "2026-01-16T09": [
+      {
+        "newsId": "a7ba9eec-4991-41c1-b86d-e3c01a34d644",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins (Large*) Order for Hydrocarbon Onshore Business",
+        "announcedAt": "2026-01-16T09:26:45.447+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-01-16T09:26:45.447"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-16T09:01:48.227+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-01-16T09:47:14.367+05:30",
+    "checksum": "ac2acb640a2486293b4cd9cd5b81f734fd3abc232d77897f4e658b614d526c60",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-16/awards-090147.json"
+    "rawPayloadPath": "data/raw/2026-01-16/awards-094713.json"
   }
 }
