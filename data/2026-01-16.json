@@ -60,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
         "rawTime": "2026-01-16T10:43:22.49"
       }
+    ],
+    "2026-01-16T14": [
+      {
+        "newsId": "629aae85-481a-4001-8c37-39d38727bc15",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that Ceigall India Limited ['CIL'] jointly with SAM India ....",
+        "announcedAt": "2026-01-16T14:23:58.763+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-01-16T14:23:58.763"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-16T13:34:21.705+05:30",
-    "checksum": "6604a54304c0667d063facccc358a13b09b112a451246044f8672e59716b77aa",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-16T14:35:43.084+05:30",
+    "checksum": "ed1fda1ab8277ff2f91c6ff820e6787e5a27dae00f01411be6f4de9abe90b9e7",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-16/awards-133421.json"
+    "rawPayloadPath": "data/raw/2026-01-16/awards-143542.json"
   }
 }
