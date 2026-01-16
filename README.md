@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-15 IST)
+### Today's Awarded Orders (2026-01-16 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-15 13:00 | Highway Infrastructure Ltd | 544477 | Company has received a Letter of Acceptance by Indore Development Authority for development under Town planning scheme-08 from kumedi to Lasudiya Mori (up to A.B Road) Indore. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 15 Jan 2026 - 13:28 |
-| 2026-01-15 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of Letter of Award (LOA) from NHAI. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 15 Jan 2026 - 11:10 |
-| 2026-01-15 09:00 | Kernex Microsystems India Ltd | 532686 | We are pleased to inform you that CLW has awarded an order valued at Rs. 2,465.71 crores to the Company for the supply, installation, testing and commissioning of 3,024 sets of On-Board .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Likely Positive | 15 Jan 2026 - 09:27 |
+_No award announcements have been captured yet today._
 
-_Last updated: 15 Jan 2026 - 15:33 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-15.json)_
+_Last updated: 16 Jan 2026 - 09:01 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-16.json)_
 
 <!-- snapshot:end -->
 
