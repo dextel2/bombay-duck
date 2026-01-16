@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-16 10:00 | LTIMindtree Ltd | 540005 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/)) | Neutral | 16 Jan 2026 - 10:43 |
 | 2026-01-16 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Large*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 16 Jan 2026 - 09:26 |
 
-_Last updated: 16 Jan 2026 - 12:35 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-16.json)_
+_Last updated: 16 Jan 2026 - 13:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-16.json)_
 
 <!-- snapshot:end -->
 
