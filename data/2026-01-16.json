@@ -14,6 +14,15 @@
     ],
     "2026-01-16T11": [
       {
+        "newsId": "03d7aa4e-9919-47e3-991a-2826667a036a",
+        "scripCode": 532811,
+        "shortName": "Ahluwalia Contracts (India) Ltd",
+        "headline": "Recent Award from CPWD for Central Vista Project at Delhi",
+        "announcedAt": "2026-01-16T11:45:45.203+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahluwalia-contracts-(india)-ltd/ahlucont/532811/",
+        "rawTime": "2026-01-16T11:45:45.203"
+      },
+      {
         "newsId": "132eb722-605f-49b0-ae53-d42c83fcdb9c",
         "scripCode": 543410,
         "shortName": "DMR Engineering Ltd",
@@ -54,11 +63,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-16T11:35:08.929+05:30",
-    "checksum": "58c249eeca3b58c74d87a6124662ae8a83b82d40178025af8c7c2d718c121eb9",
-    "totalAnnouncements": 5,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-16T12:35:36.870+05:30",
+    "checksum": "6604a54304c0667d063facccc358a13b09b112a451246044f8672e59716b77aa",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-16/awards-113508.json"
+    "rawPayloadPath": "data/raw/2026-01-16/awards-123536.json"
   }
 }
