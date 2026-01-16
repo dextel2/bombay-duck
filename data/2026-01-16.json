@@ -71,14 +71,34 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-01-16T14:23:58.763"
       }
+    ],
+    "2026-01-16T15": [
+      {
+        "newsId": "670795a5-ca7d-4825-a8ed-eaad7d88f984",
+        "scripCode": 543619,
+        "shortName": "Concord Control Systems Ltd",
+        "headline": "Receives Contract of 3100 HP Green Hydrogen Hybrid Locomotive",
+        "announcedAt": "2026-01-16T15:30:39.257+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
+        "rawTime": "2026-01-16T15:30:39.257"
+      },
+      {
+        "newsId": "0d2a8422-4a2a-4c74-bb94-baa0a1078884",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding the receipt of order from Jailaxmi Alloy Steels Pvt. Ltd.",
+        "announcedAt": "2026-01-16T15:07:51.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-01-16T15:07:51.017"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-16T14:35:43.084+05:30",
-    "checksum": "ed1fda1ab8277ff2f91c6ff820e6787e5a27dae00f01411be6f4de9abe90b9e7",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-16T15:33:50.482+05:30",
+    "checksum": "5438436084f210f12645e848137f9c83f298e40d2b028b8bad44ff0930c3ab0b",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-16/awards-143542.json"
+    "rawPayloadPath": "data/raw/2026-01-16/awards-153349.json"
   }
 }
