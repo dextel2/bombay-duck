@@ -11,14 +11,54 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-01-16T09:26:45.447"
       }
+    ],
+    "2026-01-16T11": [
+      {
+        "newsId": "132eb722-605f-49b0-ae53-d42c83fcdb9c",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of work order",
+        "announcedAt": "2026-01-16T11:11:47.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-01-16T11:11:47.683"
+      }
+    ],
+    "2026-01-16T10": [
+      {
+        "newsId": "a32ee68c-b480-43b4-af66-68d7ddcd206b",
+        "scripCode": 540005,
+        "shortName": "LTIMindtree Ltd",
+        "headline": "Intimation attached",
+        "announcedAt": "2026-01-16T10:45:09.000+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
+        "rawTime": "2026-01-16T10:45:09"
+      },
+      {
+        "newsId": "b0a84722-8a7c-4abd-8648-b4f132460433",
+        "scripCode": 540005,
+        "shortName": "LTIMindtree Ltd",
+        "headline": "Intimation attached",
+        "announcedAt": "2026-01-16T10:44:26.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
+        "rawTime": "2026-01-16T10:44:26.867"
+      },
+      {
+        "newsId": "fcaf5080-0a4d-412d-ac43-d8103249cfcb",
+        "scripCode": 540005,
+        "shortName": "LTIMindtree Ltd",
+        "headline": "Intimation attached",
+        "announcedAt": "2026-01-16T10:43:22.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
+        "rawTime": "2026-01-16T10:43:22.49"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-16T10:36:05.097+05:30",
-    "checksum": "ac2acb640a2486293b4cd9cd5b81f734fd3abc232d77897f4e658b614d526c60",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-16T11:35:08.929+05:30",
+    "checksum": "58c249eeca3b58c74d87a6124662ae8a83b82d40178025af8c7c2d718c121eb9",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-16/awards-103604.json"
+    "rawPayloadPath": "data/raw/2026-01-16/awards-113508.json"
   }
 }

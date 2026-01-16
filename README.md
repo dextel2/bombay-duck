@@ -22,9 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-16 11:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 16 Jan 2026 - 11:11 |
+| 2026-01-16 10:00 | LTIMindtree Ltd | 540005 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/)) | Neutral | 16 Jan 2026 - 10:45 |
+| 2026-01-16 10:00 | LTIMindtree Ltd | 540005 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/)) | Neutral | 16 Jan 2026 - 10:44 |
+| 2026-01-16 10:00 | LTIMindtree Ltd | 540005 | Intimation attached ([Link](https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/)) | Neutral | 16 Jan 2026 - 10:43 |
 | 2026-01-16 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Large*) Order for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 16 Jan 2026 - 09:26 |
 
-_Last updated: 16 Jan 2026 - 10:36 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-16.json)_
+_Last updated: 16 Jan 2026 - 11:35 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-16.json)_
 
 <!-- snapshot:end -->
 
