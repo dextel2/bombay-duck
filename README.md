@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-17 15:00 | ACS Technologies Ltd | 530745 | Award_of_Order_Receipt_of_Order ([Link](https://www.bseindia.com/stock-share-price/acs-technologies-ltd/acstech/530745/)) | Likely Positive | 17 Jan 2026 - 15:20 |
 | 2026-01-17 14:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 17 Jan 2026 - 14:16 |
 
-_Last updated: 17 Jan 2026 - 14:33 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-17.json)_
+_Last updated: 17 Jan 2026 - 15:33 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-17.json)_
 
 <!-- snapshot:end -->
 
