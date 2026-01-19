@@ -25,6 +25,15 @@
     ],
     "2026-01-19T13": [
       {
+        "newsId": "71d8bac1-6b1c-47a3-a4ce-eaac908ae193",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW DOMESTIC ORDER WORTH RS 6,64,02,288.60",
+        "announcedAt": "2026-01-19T13:36:17.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-01-19T13:36:17.49"
+      },
+      {
         "newsId": "576dca9b-9e19-4062-9350-de05587d134f",
         "scripCode": 544524,
         "shortName": "JD Cables Ltd",
@@ -56,11 +65,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-19T13:34:48.898+05:30",
-    "checksum": "001620ad799df8e9f44f8bad5ca17b3d3a9845f643b3654692e3f0096260859a",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-19T14:38:40.678+05:30",
+    "checksum": "571a6d5cb89424185e618bc8ba3fbec0c0edc2dfbc7ac36a57ac1079dcb39b91",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-19/awards-133448.json"
+    "rawPayloadPath": "data/raw/2026-01-19/awards-143839.json"
   }
 }
