@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-19 11:00 | Pace Digitek Ltd | 544550 | Receipt of Contract to our Material Subsidiary- Lineage Power Private Limited. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 19 Jan 2026 - 11:54 |
 | 2026-01-19 06:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 19 Jan 2026 - 06:22 |
 
-_Last updated: 19 Jan 2026 - 11:36 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-19.json)_
+_Last updated: 19 Jan 2026 - 12:39 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-19.json)_
 
 <!-- snapshot:end -->
 

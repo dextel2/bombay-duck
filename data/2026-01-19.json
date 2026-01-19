@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
         "rawTime": "2026-01-19T06:22:17.34"
       }
+    ],
+    "2026-01-19T11": [
+      {
+        "newsId": "f9c69903-d8cb-433b-961f-086599d7bbff",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Receipt of Contract to our Material Subsidiary- Lineage Power Private Limited.",
+        "announcedAt": "2026-01-19T11:54:49.473+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-01-19T11:54:49.473"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-19T11:36:42.844+05:30",
-    "checksum": "28df1f8237b7fbfe17c03474dbc64be952da5a4264496afb115ae20f1f24a66c",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-19T12:39:09.619+05:30",
+    "checksum": "6acfbed305363ca3860289754fdaa598d1f6fbf040b78fba2a3d8e40f4c947c3",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-19/awards-113642.json"
+    "rawPayloadPath": "data/raw/2026-01-19/awards-123909.json"
   }
 }
