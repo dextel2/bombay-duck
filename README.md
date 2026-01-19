@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-19 13:00 | JD Cables Ltd | 544524 | Pursuant to Regulation 30 of SEBI LODR 2015, the intimation regarding the receipt of work order is hereby given to the Stock Exchange. ([Link](https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/)) | Likely Positive | 19 Jan 2026 - 13:14 |
+| 2026-01-19 12:00 | United Drilling Tools Ltd | 522014 | Order received from Singapore ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 19 Jan 2026 - 12:55 |
+| 2026-01-19 12:00 | A-1 Ltd | 542012 | Intimation regarding Receipt of purchase Order by Associate(EV Business) ([Link](https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/)) | Likely Positive | 19 Jan 2026 - 12:41 |
 | 2026-01-19 11:00 | Pace Digitek Ltd | 544550 | Receipt of Contract to our Material Subsidiary- Lineage Power Private Limited. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 19 Jan 2026 - 11:54 |
 | 2026-01-19 06:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 19 Jan 2026 - 06:22 |
 
-_Last updated: 19 Jan 2026 - 12:39 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-19.json)_
+_Last updated: 19 Jan 2026 - 13:34 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-19.json)_
 
 <!-- snapshot:end -->
 

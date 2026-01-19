@@ -22,14 +22,45 @@
         "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
         "rawTime": "2026-01-19T11:54:49.473"
       }
+    ],
+    "2026-01-19T13": [
+      {
+        "newsId": "576dca9b-9e19-4062-9350-de05587d134f",
+        "scripCode": 544524,
+        "shortName": "JD Cables Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI LODR 2015, the intimation regarding the receipt of work order is hereby given to the Stock Exchange.",
+        "announcedAt": "2026-01-19T13:14:04.433+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/",
+        "rawTime": "2026-01-19T13:14:04.433"
+      }
+    ],
+    "2026-01-19T12": [
+      {
+        "newsId": "fee47ac1-33d1-4cd9-95b3-ae7c50fd11a0",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Order received from Singapore",
+        "announcedAt": "2026-01-19T12:55:14.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-01-19T12:55:14.673"
+      },
+      {
+        "newsId": "55f21cce-dbf6-4783-8a39-7933ba7450ee",
+        "scripCode": 542012,
+        "shortName": "A-1 Ltd",
+        "headline": "Intimation regarding Receipt of purchase Order by Associate(EV Business)",
+        "announcedAt": "2026-01-19T12:41:48.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/",
+        "rawTime": "2026-01-19T12:41:48.183"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-19T12:39:09.619+05:30",
-    "checksum": "6acfbed305363ca3860289754fdaa598d1f6fbf040b78fba2a3d8e40f4c947c3",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-19T13:34:48.898+05:30",
+    "checksum": "001620ad799df8e9f44f8bad5ca17b3d3a9845f643b3654692e3f0096260859a",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-19/awards-123909.json"
+    "rawPayloadPath": "data/raw/2026-01-19/awards-133448.json"
   }
 }
