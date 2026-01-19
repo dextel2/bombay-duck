@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/",
         "rawTime": "2026-01-19T12:41:48.183"
       }
+    ],
+    "2026-01-19T15": [
+      {
+        "newsId": "13e26746-6b31-468e-839c-70941545c435",
+        "scripCode": 542579,
+        "shortName": "Ashapuri Gold Ornament Ltd",
+        "headline": "Receipt of Order is enclosed.",
+        "announcedAt": "2026-01-19T15:26:09.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashapuri-gold-ornament-ltd/agol/542579/",
+        "rawTime": "2026-01-19T15:26:09.21"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-19T14:38:40.678+05:30",
-    "checksum": "571a6d5cb89424185e618bc8ba3fbec0c0edc2dfbc7ac36a57ac1079dcb39b91",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-19T15:35:24.717+05:30",
+    "checksum": "560bd769aa487bc3bf2a0ba4205148466e172b6e3e9467bc6ac8dd367730b67c",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-19/awards-143839.json"
+    "rawPayloadPath": "data/raw/2026-01-19/awards-153522.json"
   }
 }
