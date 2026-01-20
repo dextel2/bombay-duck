@@ -44,14 +44,45 @@
         "url": "https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/",
         "rawTime": "2026-01-20T11:38:17.147"
       }
+    ],
+    "2026-01-20T15": [
+      {
+        "newsId": "409c09d5-98aa-428e-a098-398827ea9606",
+        "scripCode": 530475,
+        "shortName": "Tinna Rubber and Infrastructure Ltd",
+        "headline": "Tinna Rubber And Infrastructure Limited has informed the Stock Exchange about Bagging/Receiving of orders/Contracts from Indian Oil Corporation Limited for providing Crumb Rubber Modifier ....",
+        "announcedAt": "2026-01-20T15:13:25.477+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tinna-rubber-and-infrastructure-ltd/tinnarubr/530475/",
+        "rawTime": "2026-01-20T15:13:25.477"
+      }
+    ],
+    "2026-01-20T14": [
+      {
+        "newsId": "b7681def-88d4-4e8f-ab8a-ee03140f0315",
+        "scripCode": 544487,
+        "shortName": "Patel Retail Ltd",
+        "headline": "Patel Retail Limited has informed the Exchange about Bagging/ Receiving of Orders/ Contracts.",
+        "announcedAt": "2026-01-20T14:50:12.153+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/patel-retail-ltd/patelrmart/544487/",
+        "rawTime": "2026-01-20T14:50:12.153"
+      },
+      {
+        "newsId": "2aaeaf6b-1950-4dd5-98fd-93f06b86fdd4",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Disclosure under Regulation-30, Press Release with regards to Bagging of orders in last week",
+        "announcedAt": "2026-01-20T14:43:08.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-01-20T14:43:08.83"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-20T14:38:50.725+05:30",
-    "checksum": "f6f4ed41147e5b2e6eaa832b8fd0864f79326ca897298842ba25dfdfeecb6b04",
-    "totalAnnouncements": 4,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-20T15:35:19.824+05:30",
+    "checksum": "03d366e0974fe54ea1e7d8dbc8d375fc0815040aa4af05a1eb8495c3fc7400ca",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-20/awards-143849.json"
+    "rawPayloadPath": "data/raw/2026-01-20/awards-153519.json"
   }
 }
