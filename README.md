@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-20 10:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and the relevant amendment thereto from time to time, we would like to inform you that .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Jan 2026 - 10:36 |
 | 2026-01-20 07:00 | Atishay Ltd | 538713 | The Company has received a work order for Digitisation of Registration Records from the Department of Prohibition, Excise and Registration, Government of Bihar- Order Value Rs. 3.77 Crores. .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 20 Jan 2026 - 07:59 |
 
-_Last updated: 20 Jan 2026 - 10:38 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
+_Last updated: 20 Jan 2026 - 11:35 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
 
 <!-- snapshot:end -->
 
