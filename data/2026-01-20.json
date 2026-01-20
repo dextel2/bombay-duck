@@ -22,14 +22,36 @@
         "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
         "rawTime": "2026-01-20T10:36:57.9"
       }
+    ],
+    "2026-01-20T12": [
+      {
+        "newsId": "bc023e7b-34a4-4f46-a736-7b5b78b8abd6",
+        "scripCode": 540937,
+        "shortName": "Medico Remedies Ltd",
+        "headline": "Please find attached Intimation under Regulation 30 of SEBI LODR Regulations 2025",
+        "announcedAt": "2026-01-20T12:35:27.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/",
+        "rawTime": "2026-01-20T12:35:27.3"
+      }
+    ],
+    "2026-01-20T11": [
+      {
+        "newsId": "6dca7a80-e049-4310-89cf-f3a4175a1eca",
+        "scripCode": 544410,
+        "shortName": "Prostarm Info Systems Ltd",
+        "headline": "Prostarm Info Systems Limited has been declared as L-1 bidder by SAIL for 2MW Roof Top Solar Project",
+        "announcedAt": "2026-01-20T11:38:17.147+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/",
+        "rawTime": "2026-01-20T11:38:17.147"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-20T11:35:28.906+05:30",
-    "checksum": "a65e14536546070ffc8e658c498a68adfa1ea6656db5285b8848225dd05dce44",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-20T12:38:07.062+05:30",
+    "checksum": "f6f4ed41147e5b2e6eaa832b8fd0864f79326ca897298842ba25dfdfeecb6b04",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-20/awards-113527.json"
+    "rawPayloadPath": "data/raw/2026-01-20/awards-123806.json"
   }
 }

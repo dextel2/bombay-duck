@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-20 12:00 | Medico Remedies Ltd | 540937 | Please find attached Intimation under Regulation 30 of SEBI LODR Regulations 2025 ([Link](https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/)) | Neutral | 20 Jan 2026 - 12:35 |
+| 2026-01-20 11:00 | Prostarm Info Systems Ltd | 544410 | Prostarm Info Systems Limited has been declared as L-1 bidder by SAIL for 2MW Roof Top Solar Project ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 20 Jan 2026 - 11:38 |
 | 2026-01-20 10:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and the relevant amendment thereto from time to time, we would like to inform you that .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Jan 2026 - 10:36 |
 | 2026-01-20 07:00 | Atishay Ltd | 538713 | The Company has received a work order for Digitisation of Registration Records from the Department of Prohibition, Excise and Registration, Government of Bihar- Order Value Rs. 3.77 Crores. .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 20 Jan 2026 - 07:59 |
 
-_Last updated: 20 Jan 2026 - 11:35 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
+_Last updated: 20 Jan 2026 - 12:38 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
 
 <!-- snapshot:end -->
 
