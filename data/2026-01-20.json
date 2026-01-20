@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
         "rawTime": "2026-01-20T07:59:21.673"
       }
+    ],
+    "2026-01-20T10": [
+      {
+        "newsId": "5f18a9bb-2a1d-4a6e-82c6-939eb2252b49",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and the relevant amendment thereto from time to time, we would like to inform you that ....",
+        "announcedAt": "2026-01-20T10:36:57.900+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-01-20T10:36:57.9"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-20T09:49:53.077+05:30",
-    "checksum": "98a707708926e7e247b155ad2f13a7e8bd31dfcca6067c4156789179876143d8",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-01-20T10:38:52.136+05:30",
+    "checksum": "a65e14536546070ffc8e658c498a68adfa1ea6656db5285b8848225dd05dce44",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-20/awards-094952.json"
+    "rawPayloadPath": "data/raw/2026-01-20/awards-103851.json"
   }
 }
