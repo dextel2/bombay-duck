@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-20 07:00 | Atishay Ltd | 538713 | The Company has received a work order for Digitisation of Registration Records from the Department of Prohibition, Excise and Registration, Government of Bihar- Order Value Rs. 3.77 Crores. .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 20 Jan 2026 - 07:59 |
 
-_Last updated: 20 Jan 2026 - 09:02 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
+_Last updated: 20 Jan 2026 - 09:49 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
 
 <!-- snapshot:end -->
 
