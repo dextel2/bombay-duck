@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-21 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-21 11:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order from Web Werks (India) Pvt Ltd. ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 21 Jan 2026 - 11:29 |
 
-_Last updated: 21 Jan 2026 - 10:39 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
+_Last updated: 21 Jan 2026 - 11:35 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
 
 <!-- snapshot:end -->
 

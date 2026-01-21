@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-21",
-  "buckets": {},
+  "buckets": {
+    "2026-01-21T11": [
+      {
+        "newsId": "ee7d7273-79a8-48bf-b4ae-df87ca29c7f9",
+        "scripCode": 543991,
+        "shortName": "Techknowgreen Solutions Ltd",
+        "headline": "Receipt of work order from Web Werks (India) Pvt Ltd.",
+        "announcedAt": "2026-01-21T11:29:21.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
+        "rawTime": "2026-01-21T11:29:21.44"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-21T10:39:00.733+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-21T11:35:44.691+05:30",
+    "checksum": "ffd0639e19d0f948b159cab83b1e73eb3639fbfb9efe95faab81a3d84af62774",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-21/awards-103900.json"
+    "rawPayloadPath": "data/raw/2026-01-21/awards-113544.json"
   }
 }
