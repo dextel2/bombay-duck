@@ -22,14 +22,52 @@
         "url": "https://www.bseindia.com/stock-share-price/maruti-securities-ltd/marutise/531319/",
         "rawTime": "2026-01-21T12:24:41.05"
       }
+    ],
+    "2026-01-21T15": [
+      {
+        "newsId": "bf53d033-8305-4765-a51c-821f71938b9a",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Letter of Intent recieved amounting to Rs. 27.94 Crores",
+        "announcedAt": "2026-01-21T15:18:42.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-01-21T15:18:42.867"
+      },
+      {
+        "newsId": "562b8434-0801-413b-bfae-6f4a62188bf1",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "Award of work order for Printing of PVC Ayushman Cards by the Government of Maharashtra , State Health Assurance Society (SHAS), Order Value Rs. 41.26 Lakhs. For more details kindly refer ....",
+        "announcedAt": "2026-01-21T15:06:07.603+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-01-21T15:06:07.603"
+      },
+      {
+        "newsId": "9ea38cd8-8b31-49b7-8516-f30d788b6406",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of order",
+        "announcedAt": "2026-01-21T15:04:19.873+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-01-21T15:04:19.873"
+      },
+      {
+        "newsId": "b221a02e-0248-4616-9d93-074245eb5683",
+        "scripCode": 542725,
+        "shortName": "SBC Exports Ltd",
+        "headline": "Repeat Exports Order Received from Dubai Based company M/s HUXX Readymade Garments Trading LLC",
+        "announcedAt": "2026-01-21T15:02:56.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/",
+        "rawTime": "2026-01-21T15:02:56.043"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-21T14:37:10.555+05:30",
-    "checksum": "024b036acb2f15025d8f0e5577c3b9474bc0417bc7af7eeee3db3c83def96e10",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-21T15:34:41.552+05:30",
+    "checksum": "c2d5303f2a8f7a546ea8c51d095ac209ba2ffec293a030c37f1e0291d8d6cb82",
+    "totalAnnouncements": 6,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-21/awards-143710.json"
+    "rawPayloadPath": "data/raw/2026-01-21/awards-153440.json"
   }
 }

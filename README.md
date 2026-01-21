@@ -22,10 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-21 15:00 | RMC Switchgears Ltd | 540358 | Letter of Intent recieved amounting to Rs. 27.94 Crores ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Neutral | 21 Jan 2026 - 15:18 |
+| 2026-01-21 15:00 | Atishay Ltd | 538713 | Award of work order for Printing of PVC Ayushman Cards by the Government of Maharashtra , State Health Assurance Society (SHAS), Order Value Rs. 41.26 Lakhs. For more details kindly refer .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 21 Jan 2026 - 15:06 |
+| 2026-01-21 15:00 | Sharika Enterprises Ltd | 540786 | Intimation of Receipt of order ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 21 Jan 2026 - 15:04 |
+| 2026-01-21 15:00 | SBC Exports Ltd | 542725 | Repeat Exports Order Received from Dubai Based company M/s HUXX Readymade Garments Trading LLC ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 21 Jan 2026 - 15:02 |
 | 2026-01-21 12:00 | Maruti Securities Ltd | 531319 | Please find the enclosed announcement with respect receipt of Work order from KMC Constructions Limited towards "Formation of Track Works" approx. value of Rs.9.54 Crores ([Link](https://www.bseindia.com/stock-share-price/maruti-securities-ltd/marutise/531319/)) | Likely Positive | 21 Jan 2026 - 12:24 |
 | 2026-01-21 11:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order from Web Werks (India) Pvt Ltd. ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 21 Jan 2026 - 11:29 |
 
-_Last updated: 21 Jan 2026 - 14:37 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
+_Last updated: 21 Jan 2026 - 15:34 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
 
 <!-- snapshot:end -->
 
