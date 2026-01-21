@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-20 IST)
+### Today's Awarded Orders (2026-01-21 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-20 15:00 | Tinna Rubber and Infrastructure Ltd | 530475 | Tinna Rubber And Infrastructure Limited has informed the Stock Exchange about Bagging/Receiving of orders/Contracts from Indian Oil Corporation Limited for providing Crumb Rubber Modifier .... ([Link](https://www.bseindia.com/stock-share-price/tinna-rubber-and-infrastructure-ltd/tinnarubr/530475/)) | Likely Positive | 20 Jan 2026 - 15:13 |
-| 2026-01-20 14:00 | Patel Retail Ltd | 544487 | Patel Retail Limited has informed the Exchange about Bagging/ Receiving of Orders/ Contracts. ([Link](https://www.bseindia.com/stock-share-price/patel-retail-ltd/patelrmart/544487/)) | Likely Positive | 20 Jan 2026 - 14:50 |
-| 2026-01-20 14:00 | Gabion Technologies India Ltd | 544675 | Disclosure under Regulation-30, Press Release with regards to Bagging of orders in last week ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 20 Jan 2026 - 14:43 |
-| 2026-01-20 12:00 | Medico Remedies Ltd | 540937 | Please find attached Intimation under Regulation 30 of SEBI LODR Regulations 2025 ([Link](https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/)) | Neutral | 20 Jan 2026 - 12:35 |
-| 2026-01-20 11:00 | Prostarm Info Systems Ltd | 544410 | Prostarm Info Systems Limited has been declared as L-1 bidder by SAIL for 2MW Roof Top Solar Project ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 20 Jan 2026 - 11:38 |
-| 2026-01-20 10:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and the relevant amendment thereto from time to time, we would like to inform you that .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Jan 2026 - 10:36 |
-| 2026-01-20 07:00 | Atishay Ltd | 538713 | The Company has received a work order for Digitisation of Registration Records from the Department of Prohibition, Excise and Registration, Government of Bihar- Order Value Rs. 3.77 Crores. .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 20 Jan 2026 - 07:59 |
+_No award announcements have been captured yet today._
 
-_Last updated: 20 Jan 2026 - 15:35 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-20.json)_
+_Last updated: 21 Jan 2026 - 09:02 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
 
 <!-- snapshot:end -->
 
