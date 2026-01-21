@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-21 12:00 | Maruti Securities Ltd | 531319 | Please find the enclosed announcement with respect receipt of Work order from KMC Constructions Limited towards "Formation of Track Works" approx. value of Rs.9.54 Crores ([Link](https://www.bseindia.com/stock-share-price/maruti-securities-ltd/marutise/531319/)) | Likely Positive | 21 Jan 2026 - 12:24 |
 | 2026-01-21 11:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order from Web Werks (India) Pvt Ltd. ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 21 Jan 2026 - 11:29 |
 
-_Last updated: 21 Jan 2026 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
+_Last updated: 21 Jan 2026 - 14:37 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-21.json)_
 
 <!-- snapshot:end -->
 
