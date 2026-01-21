@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
         "rawTime": "2026-01-21T11:29:21.44"
       }
+    ],
+    "2026-01-21T12": [
+      {
+        "newsId": "8ded09a8-3391-4559-a810-44f3b4554880",
+        "scripCode": 531319,
+        "shortName": "Maruti Securities Ltd",
+        "headline": "Please find the enclosed announcement with respect receipt of Work order from KMC Constructions Limited towards \"Formation of Track Works\" approx. value of Rs.9.54 Crores",
+        "announcedAt": "2026-01-21T12:24:41.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/maruti-securities-ltd/marutise/531319/",
+        "rawTime": "2026-01-21T12:24:41.05"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-21T11:35:44.691+05:30",
-    "checksum": "ffd0639e19d0f948b159cab83b1e73eb3639fbfb9efe95faab81a3d84af62774",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-21T12:38:33.451+05:30",
+    "checksum": "024b036acb2f15025d8f0e5577c3b9474bc0417bc7af7eeee3db3c83def96e10",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-21/awards-113544.json"
+    "rawPayloadPath": "data/raw/2026-01-21/awards-123832.json"
   }
 }
