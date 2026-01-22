@@ -22,13 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-22 14:00 | Prima Industries Ltd | 531246 | Intimation of Order passed by Hon'ble NCLT for further issue of Unlisted Preference Shares. ([Link](https://www.bseindia.com/stock-share-price/prima-industries-ltd/primain/531246/)) | Likely Positive | 22 Jan 2026 - 14:19 |
 | 2026-01-22 12:00 | Karbonsteel Engineering Ltd | 544511 | Intimation of Receipt of Order amounting to Rs. 22.76 crores from Leading Domestic Infrastructure & Engineering Company ([Link](https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/)) | Likely Positive | 22 Jan 2026 - 12:44 |
 | 2026-01-22 12:00 | RailTel Corporation of India Ltd | 543265 | New Order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 22 Jan 2026 - 12:16 |
 | 2026-01-22 11:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited has declared an L-1 and recieved an fresh order of an total amount Rs. 46.62 Crores work. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 22 Jan 2026 - 11:59 |
 | 2026-01-22 11:00 | Magellanic Cloud Ltd | 538891 | Intimation of Letter of Acceptance by Wholly Owned Subsidiary - Provigil Surveillance Limited ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 22 Jan 2026 - 11:56 |
 | 2026-01-22 09:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall Infra Projects Private Limited, a wholly .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 22 Jan 2026 - 09:04 |
 
-_Last updated: 22 Jan 2026 - 13:34 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-22.json)_
+_Last updated: 22 Jan 2026 - 14:38 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-22.json)_
 
 <!-- snapshot:end -->
 

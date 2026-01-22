@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
         "rawTime": "2026-01-22T11:56:06.037"
       }
+    ],
+    "2026-01-22T14": [
+      {
+        "newsId": "1436682b-4348-4f71-baf9-013f160c999c",
+        "scripCode": 531246,
+        "shortName": "Prima Industries Ltd",
+        "headline": "Intimation of Order passed by Hon'ble NCLT for further issue of Unlisted Preference Shares.",
+        "announcedAt": "2026-01-22T14:19:14.577+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/prima-industries-ltd/primain/531246/",
+        "rawTime": "2026-01-22T14:19:14.577"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-22T13:34:12.913+05:30",
-    "checksum": "e270570649a58fd6a2f7ced8879e3e6724883007e48024269549c89ab6c00895",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-22T14:38:46.575+05:30",
+    "checksum": "0c20ed54a9c8973eecf6084e6f69b048958890c29becc4e6734d604d0d474956",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-22/awards-133412.json"
+    "rawPayloadPath": "data/raw/2026-01-22/awards-143846.json"
   }
 }
