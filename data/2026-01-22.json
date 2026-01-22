@@ -54,6 +54,15 @@
     ],
     "2026-01-22T14": [
       {
+        "newsId": "14d6c5a3-12d2-4cb6-8e74-c0e28708b1c4",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Bagging of Order",
+        "announcedAt": "2026-01-22T14:44:50.273+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2026-01-22T14:44:50.273"
+      },
+      {
         "newsId": "1436682b-4348-4f71-baf9-013f160c999c",
         "scripCode": 531246,
         "shortName": "Prima Industries Ltd",
@@ -62,14 +71,25 @@
         "url": "https://www.bseindia.com/stock-share-price/prima-industries-ltd/primain/531246/",
         "rawTime": "2026-01-22T14:19:14.577"
       }
+    ],
+    "2026-01-22T15": [
+      {
+        "newsId": "b5381c35-d29f-418b-9870-79bd2c481286",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding the receipt of purchase order",
+        "announcedAt": "2026-01-22T15:10:21.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-01-22T15:10:21.13"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-22T14:38:46.575+05:30",
-    "checksum": "0c20ed54a9c8973eecf6084e6f69b048958890c29becc4e6734d604d0d474956",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-22T15:35:32.754+05:30",
+    "checksum": "7c60db7d8143f16bb42f196daebdd4a26289c910ee3c3ef718aff7d91da9ca3f",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-22/awards-143846.json"
+    "rawPayloadPath": "data/raw/2026-01-22/awards-153531.json"
   }
 }
