@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-01-22T09:04:08.557"
       }
+    ],
+    "2026-01-22T12": [
+      {
+        "newsId": "5944accc-cdd8-4328-b347-d7306244817f",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order received",
+        "announcedAt": "2026-01-22T12:16:33.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-01-22T12:16:33.767"
+      }
+    ],
+    "2026-01-22T11": [
+      {
+        "newsId": "67b87e95-9446-4052-be17-6d09918bb7a6",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited has declared an L-1 and recieved an fresh order of an total amount Rs. 46.62 Crores work.",
+        "announcedAt": "2026-01-22T11:59:43.200+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-01-22T11:59:43.2"
+      },
+      {
+        "newsId": "315991c2-886d-4c7d-a0d1-395dfff682ae",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Intimation of Letter of Acceptance by Wholly Owned Subsidiary - Provigil Surveillance Limited",
+        "announcedAt": "2026-01-22T11:56:06.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-01-22T11:56:06.037"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-22T11:35:12.247+05:30",
-    "checksum": "61ea6b4eb6906d58b04c720292fd005f48b970715bed037c2d0846db5805e12a",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-22T12:37:21.531+05:30",
+    "checksum": "791f362c52642db1294f57fef1a6cb47de0bb9b36b226675c691ca2da5d2330b",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-22/awards-113511.json"
+    "rawPayloadPath": "data/raw/2026-01-22/awards-123720.json"
   }
 }
