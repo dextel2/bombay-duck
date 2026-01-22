@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-22 09:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall Infra Projects Private Limited, a wholly .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 22 Jan 2026 - 09:04 |
 
-_Last updated: 22 Jan 2026 - 09:51 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-22.json)_
+_Last updated: 22 Jan 2026 - 10:39 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-22.json)_
 
 <!-- snapshot:end -->
 
