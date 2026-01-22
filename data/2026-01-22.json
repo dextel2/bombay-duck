@@ -14,6 +14,15 @@
     ],
     "2026-01-22T12": [
       {
+        "newsId": "e292085a-ed54-4ece-88a9-1cd52546edd1",
+        "scripCode": 544511,
+        "shortName": "Karbonsteel Engineering Ltd",
+        "headline": "Intimation of Receipt of Order amounting to Rs. 22.76 crores from Leading Domestic Infrastructure & Engineering Company",
+        "announcedAt": "2026-01-22T12:44:39.777+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/",
+        "rawTime": "2026-01-22T12:44:39.777"
+      },
+      {
         "newsId": "5944accc-cdd8-4328-b347-d7306244817f",
         "scripCode": 543265,
         "shortName": "RailTel Corporation of India Ltd",
@@ -45,11 +54,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-22T12:37:21.531+05:30",
-    "checksum": "791f362c52642db1294f57fef1a6cb47de0bb9b36b226675c691ca2da5d2330b",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-22T13:34:12.913+05:30",
+    "checksum": "e270570649a58fd6a2f7ced8879e3e6724883007e48024269549c89ab6c00895",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-22/awards-123720.json"
+    "rawPayloadPath": "data/raw/2026-01-22/awards-133412.json"
   }
 }
