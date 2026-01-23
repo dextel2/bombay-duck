@@ -33,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with HDFC ERGO General Insurance .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:53 |
 | 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IRM Energy Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:50 |
 
-_Last updated: 23 Jan 2026 - 12:36 | Entries: 10 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
+_Last updated: 23 Jan 2026 - 13:34 | Entries: 10 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
 
 <!-- snapshot:end -->
 
