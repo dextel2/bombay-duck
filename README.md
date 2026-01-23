@@ -22,12 +22,18 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-23 12:00 | M & B Engineering Ltd | 544470 | M&B Engineering Limited has informed the Stock Exchange for receiving of Order. ([Link](https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/)) | Likely Positive | 23 Jan 2026 - 12:33 |
+| 2026-01-23 12:00 | Swan Defence And Heavy Industries Ltd | 533107 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Swan Defence and Heavy Industries Limited wins India''s First Chemical Tanker .... ([Link](https://www.bseindia.com/stock-share-price/swan-defence-and-heavy-industries-ltd/swandef/533107/)) | Likely Positive | 23 Jan 2026 - 12:27 |
+| 2026-01-23 12:00 | Paradeep Parivahan Ltd | 544383 | Paradeep Parivahan Limted signs 8 years Agreement with UltraTech Cement Limited. Details Attached. ([Link](https://www.bseindia.com/stock-share-price/paradeep-parivahan-ltd/pparivah/544383/)) | Neutral | 23 Jan 2026 - 12:10 |
+| 2026-01-23 12:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to "Shelter Pharma" Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirement) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 23 Jan 2026 - 12:03 |
+| 2026-01-23 11:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of order from Central Railways ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 23 Jan 2026 - 11:45 |
+| 2026-01-23 11:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Honda India Power Products Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 11:40 |
 | 2026-01-23 11:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.610 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 23 Jan 2026 - 11:10 |
 | 2026-01-23 08:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Jan 2026 - 08:38 |
 | 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with HDFC ERGO General Insurance .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:53 |
 | 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IRM Energy Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:50 |
 
-_Last updated: 23 Jan 2026 - 11:35 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
+_Last updated: 23 Jan 2026 - 12:36 | Entries: 10 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
 
 <!-- snapshot:end -->
 

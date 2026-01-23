@@ -34,6 +34,24 @@
     ],
     "2026-01-23T11": [
       {
+        "newsId": "63702a10-9385-439e-802b-4aa73690e6d4",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of order from Central Railways",
+        "announcedAt": "2026-01-23T11:45:20.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-01-23T11:45:20.673"
+      },
+      {
+        "newsId": "e0032580-51d1-46f9-b761-df10418a1607",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Honda India Power Products Limited.",
+        "announcedAt": "2026-01-23T11:40:40.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-01-23T11:40:40.12"
+      },
+      {
         "newsId": "c8735217-9334-4c86-b0da-8c155603699a",
         "scripCode": 500049,
         "shortName": "Bharat Electronics Ltd",
@@ -42,14 +60,52 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
         "rawTime": "2026-01-23T11:10:15.87"
       }
+    ],
+    "2026-01-23T12": [
+      {
+        "newsId": "0561f7ec-0402-4e56-a2bd-8fedb28a8241",
+        "scripCode": 544470,
+        "shortName": "M & B Engineering Ltd",
+        "headline": "M&B Engineering Limited has informed the Stock Exchange for receiving of Order.",
+        "announcedAt": "2026-01-23T12:33:17.250+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
+        "rawTime": "2026-01-23T12:33:17.25"
+      },
+      {
+        "newsId": "75f30556-bd80-4258-811c-f9aa4d25b62b",
+        "scripCode": 533107,
+        "shortName": "Swan Defence And Heavy Industries Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Swan Defence and Heavy Industries Limited wins India''s First Chemical Tanker ....",
+        "announcedAt": "2026-01-23T12:27:51.060+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/swan-defence-and-heavy-industries-ltd/swandef/533107/",
+        "rawTime": "2026-01-23T12:27:51.06"
+      },
+      {
+        "newsId": "a4ff2e64-194f-47e9-8086-b6f6858cc517",
+        "scripCode": 544383,
+        "shortName": "Paradeep Parivahan Ltd",
+        "headline": "Paradeep Parivahan Limted signs 8 years Agreement with UltraTech Cement Limited. Details Attached.",
+        "announcedAt": "2026-01-23T12:10:27.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paradeep-parivahan-ltd/pparivah/544383/",
+        "rawTime": "2026-01-23T12:10:27.973"
+      },
+      {
+        "newsId": "7b5670ee-b2c0-4480-a3dd-715ce5a7cae2",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with Regards to \"Shelter Pharma\" Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirement) Regulation 2015",
+        "announcedAt": "2026-01-23T12:03:00.953+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-01-23T12:03:00.953"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-23T11:35:13.357+05:30",
-    "checksum": "666801918aff21b9458e534f1526104bd7c3376717e4b2f0d511076f9f03ba24",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-23T12:36:37.013+05:30",
+    "checksum": "baaa8655f256afea8f473f821616dbed18739dd0b28d93a0a28c122d1fc4ae53",
+    "totalAnnouncements": 10,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-23/awards-113512.json"
+    "rawPayloadPath": "data/raw/2026-01-23/awards-123636.json"
   }
 }
