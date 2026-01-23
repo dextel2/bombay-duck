@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-23 11:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.610 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 23 Jan 2026 - 11:10 |
 | 2026-01-23 08:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Jan 2026 - 08:38 |
 | 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with HDFC ERGO General Insurance .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:53 |
 | 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IRM Energy Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:50 |
 
-_Last updated: 23 Jan 2026 - 10:38 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
+_Last updated: 23 Jan 2026 - 11:35 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
 
 <!-- snapshot:end -->
 
