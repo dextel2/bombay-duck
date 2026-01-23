@@ -18,20 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-22 IST)
+### Today's Awarded Orders (2026-01-23 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-01-22 15:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding the receipt of purchase order ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 22 Jan 2026 - 15:10 |
-| 2026-01-22 14:00 | Saatvik Green Energy Ltd | 544526 | Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 22 Jan 2026 - 14:44 |
-| 2026-01-22 14:00 | Prima Industries Ltd | 531246 | Intimation of Order passed by Hon'ble NCLT for further issue of Unlisted Preference Shares. ([Link](https://www.bseindia.com/stock-share-price/prima-industries-ltd/primain/531246/)) | Likely Positive | 22 Jan 2026 - 14:19 |
-| 2026-01-22 12:00 | Karbonsteel Engineering Ltd | 544511 | Intimation of Receipt of Order amounting to Rs. 22.76 crores from Leading Domestic Infrastructure & Engineering Company ([Link](https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/)) | Likely Positive | 22 Jan 2026 - 12:44 |
-| 2026-01-22 12:00 | RailTel Corporation of India Ltd | 543265 | New Order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 22 Jan 2026 - 12:16 |
-| 2026-01-22 11:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited has declared an L-1 and recieved an fresh order of an total amount Rs. 46.62 Crores work. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 22 Jan 2026 - 11:59 |
-| 2026-01-22 11:00 | Magellanic Cloud Ltd | 538891 | Intimation of Letter of Acceptance by Wholly Owned Subsidiary - Provigil Surveillance Limited ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 22 Jan 2026 - 11:56 |
-| 2026-01-22 09:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall Infra Projects Private Limited, a wholly .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 22 Jan 2026 - 09:04 |
+| 2026-01-23 08:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Jan 2026 - 08:38 |
+| 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with HDFC ERGO General Insurance .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:53 |
+| 2026-01-23 07:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IRM Energy Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 23 Jan 2026 - 07:50 |
 
-_Last updated: 22 Jan 2026 - 15:35 | Entries: 8 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-22.json)_
+_Last updated: 23 Jan 2026 - 09:01 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-23.json)_
 
 <!-- snapshot:end -->
 

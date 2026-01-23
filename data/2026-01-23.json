@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-01-23",
+  "buckets": {
+    "2026-01-23T08": [
+      {
+        "newsId": "235d8194-4be4-4f48-b4a7-a8d8ab2e3d00",
+        "scripCode": 532395,
+        "shortName": "Axiscades Technologies Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order",
+        "announcedAt": "2026-01-23T08:38:42.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
+        "rawTime": "2026-01-23T08:38:42.59"
+      }
+    ],
+    "2026-01-23T07": [
+      {
+        "newsId": "b6eb1e1a-b411-489d-a85e-1a4713539de3",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with HDFC ERGO General Insurance ....",
+        "announcedAt": "2026-01-23T07:53:39.157+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-01-23T07:53:39.157"
+      },
+      {
+        "newsId": "4f1fe3cd-a892-4d7b-a17f-90fe185070bf",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with IRM Energy Limited.",
+        "announcedAt": "2026-01-23T07:50:36.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-01-23T07:50:36.543"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-01-23T09:01:59.176+05:30",
+    "checksum": "1cfe8860784eaf0cfbc9ea781b3b49330d5e921a1b0340577064f51e78b1236b",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-01-23/awards-090158.json"
+  }
+}
