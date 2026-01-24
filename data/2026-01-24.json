@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-24",
-  "buckets": {},
+  "buckets": {
+    "2026-01-24T09": [
+      {
+        "newsId": "de3229fa-4660-4cc6-8f08-09d8200fb826",
+        "scripCode": 504080,
+        "shortName": "JSL Industries Ltd",
+        "headline": "Order reecived from CESTAT Ahmedabad in service tax matter",
+        "announcedAt": "2026-01-24T09:03:14.913+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/",
+        "rawTime": "2026-01-24T09:03:14.913"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-24T09:01:05.101+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-01-24T09:44:23.605+05:30",
+    "checksum": "5d7f7cd85468486d2f5845c5f4c3496e1a989115f815ddb12c051672692a80b3",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-24/awards-090104.json"
+    "rawPayloadPath": "data/raw/2026-01-24/awards-094423.json"
   }
 }
