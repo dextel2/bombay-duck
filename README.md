@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-24 09:00 | JSL Industries Ltd | 504080 | Order reecived from CESTAT Ahmedabad in service tax matter ([Link](https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/)) | Likely Positive | 24 Jan 2026 - 09:03 |
 
-_Last updated: 24 Jan 2026 - 12:34 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-24.json)_
+_Last updated: 24 Jan 2026 - 13:33 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-24.json)_
 
 <!-- snapshot:end -->
 
