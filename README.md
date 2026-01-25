@@ -18,13 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-24 IST)
+### Today's Awarded Orders (2026-01-25 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-24 09:00 | JSL Industries Ltd | 504080 | Order reecived from CESTAT Ahmedabad in service tax matter ([Link](https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/)) | Likely Positive | 24 Jan 2026 - 09:03 |
+_No award announcements have been captured yet today._
 
-_Last updated: 24 Jan 2026 - 15:33 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-24.json)_
+_Last updated: 25 Jan 2026 - 09:05 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-25.json)_
 
 <!-- snapshot:end -->
 
