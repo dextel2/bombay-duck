@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-25",
-  "buckets": {},
+  "buckets": {
+    "2026-01-25T12": [
+      {
+        "newsId": "c4e2a37d-c9fe-4da0-808a-07cc77c8b084",
+        "scripCode": 543996,
+        "shortName": "Updater Services Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) Award of order",
+        "announcedAt": "2026-01-25T12:50:33.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/updater-services-ltd/uds/543996/",
+        "rawTime": "2026-01-25T12:50:33.99"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-25T12:34:32.816+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-25T13:34:01.474+05:30",
+    "checksum": "c1ada23cdce1f02287c96ba129685d830b53324229aeb0ac6180ecfe8cf414ae",
+    "totalAnnouncements": 1,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-25/awards-123432.json"
+    "rawPayloadPath": "data/raw/2026-01-25/awards-133400.json"
   }
 }

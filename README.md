@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-25 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-25 12:00 | Updater Services Ltd | 543996 | Announcement under Regulation 30 (LODR) Award of order ([Link](https://www.bseindia.com/stock-share-price/updater-services-ltd/uds/543996/)) | Likely Positive | 25 Jan 2026 - 12:50 |
 
-_Last updated: 25 Jan 2026 - 12:34 | Entries: 0 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-25.json)_
+_Last updated: 25 Jan 2026 - 13:34 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-25.json)_
 
 <!-- snapshot:end -->
 
