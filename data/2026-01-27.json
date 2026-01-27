@@ -71,14 +71,34 @@
         "url": "https://www.bseindia.com/stock-share-price/suratwwala-business-group-ltd/sbglp/543218/",
         "rawTime": "2026-01-27T13:35:26.03"
       }
+    ],
+    "2026-01-27T15": [
+      {
+        "newsId": "29fa7485-94a6-4841-80f3-b0bcfde00726",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Announcement Regarding Order Receipt",
+        "announcedAt": "2026-01-27T15:21:07.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-01-27T15:21:07.64"
+      },
+      {
+        "newsId": "eb6f9a1d-2229-43ce-a630-271fa8108922",
+        "scripCode": 540519,
+        "shortName": "Meera Industries Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-01-27T15:10:51.977+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/",
+        "rawTime": "2026-01-27T15:10:51.977"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-27T14:38:22.309+05:30",
-    "checksum": "0ea6684d55cba773804616462ea48e32f904f384f718966c96ba707e5aa01672",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-27T15:35:16.843+05:30",
+    "checksum": "2e8f4febc1d0e23c85e058296b8e6bf9ef5e4db8d215bed8bca6aa6b69d8548b",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-27/awards-143821.json"
+    "rawPayloadPath": "data/raw/2026-01-27/awards-153516.json"
   }
 }
