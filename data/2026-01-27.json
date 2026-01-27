@@ -49,14 +49,25 @@
         "url": "https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/",
         "rawTime": "2026-01-27T11:44:13.753"
       }
+    ],
+    "2026-01-27T12": [
+      {
+        "newsId": "ae6ffdaa-3e30-46eb-afac-8e6f7b28fda2",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI (Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2026-01-27T12:41:15.097+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-01-27T12:41:15.097"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-27T12:37:56.691+05:30",
-    "checksum": "96043bdbe1ac3939e5fd2f8070b0bd611fd28d6d0032847020f4fd33f848a399",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-27T13:34:27.882+05:30",
+    "checksum": "0841a279f505ebc618540e58628ef83389b49a3a9825b188ff5d1475806aa468",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-27/awards-123755.json"
+    "rawPayloadPath": "data/raw/2026-01-27/awards-133427.json"
   }
 }
