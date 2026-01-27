@@ -1,12 +1,51 @@
 {
   "tradingDate": "2026-01-27",
-  "buckets": {},
+  "buckets": {
+    "2026-01-27T10": [
+      {
+        "newsId": "6e2a313c-24cc-4d66-ac6b-867a098fac48",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New order received",
+        "announcedAt": "2026-01-27T10:31:18.857+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-01-27T10:31:18.857"
+      },
+      {
+        "newsId": "9009002c-a613-4500-b132-319d55ceae2b",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Intimation regarding major order secured from ICVL, Mozambique.",
+        "announcedAt": "2026-01-27T10:30:34.877+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2026-01-27T10:30:34.877"
+      },
+      {
+        "newsId": "32e84672-7349-4747-959b-26717f63cd1e",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work-supply orders bagged during the week.",
+        "announcedAt": "2026-01-27T10:17:58.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-01-27T10:17:58.983"
+      },
+      {
+        "newsId": "bd921d4e-4e92-4341-aa14-8c1ac7d9f2a3",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work-supply orders bagged during the week.",
+        "announcedAt": "2026-01-27T10:16:45.100+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-01-27T10:16:45.1"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-27T09:50:19.288+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-01-27T10:38:23.896+05:30",
+    "checksum": "1ed419a6b8c3f15ab4eb78f090491b7a5565764b9051dfbd0037b33b66dc9f5f",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-27/awards-095018.json"
+    "rawPayloadPath": "data/raw/2026-01-27/awards-103823.json"
   }
 }

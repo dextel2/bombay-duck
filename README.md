@@ -20,9 +20,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-27 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-27 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Jan 2026 - 10:31 |
+| 2026-01-27 10:00 | RITES Ltd | 541556 | Intimation regarding major order secured from ICVL, Mozambique. ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 27 Jan 2026 - 10:30 |
+| 2026-01-27 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work-supply orders bagged during the week. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 27 Jan 2026 - 10:17 |
+| 2026-01-27 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work-supply orders bagged during the week. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 27 Jan 2026 - 10:16 |
 
-_Last updated: 27 Jan 2026 - 09:50 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-27.json)_
+_Last updated: 27 Jan 2026 - 10:38 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-27.json)_
 
 <!-- snapshot:end -->
 
