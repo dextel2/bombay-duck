@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-27 13:00 | Suratwwala Business Group Ltd | 543218 | Project updates Letter ([Link](https://www.bseindia.com/stock-share-price/suratwwala-business-group-ltd/sbglp/543218/)) | Neutral | 27 Jan 2026 - 13:35 |
 | 2026-01-27 12:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI (Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 27 Jan 2026 - 12:41 |
 | 2026-01-27 11:00 | Medico Remedies Ltd | 540937 | Please find attached requisite disclosure ([Link](https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/)) | Neutral | 27 Jan 2026 - 11:44 |
 | 2026-01-27 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Jan 2026 - 10:31 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-01-27 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work-supply orders bagged during the week. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 27 Jan 2026 - 10:17 |
 | 2026-01-27 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work-supply orders bagged during the week. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 27 Jan 2026 - 10:16 |
 
-_Last updated: 27 Jan 2026 - 13:34 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-27.json)_
+_Last updated: 27 Jan 2026 - 14:38 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-27.json)_
 
 <!-- snapshot:end -->
 

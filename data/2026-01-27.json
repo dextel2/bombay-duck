@@ -60,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
         "rawTime": "2026-01-27T12:41:15.097"
       }
+    ],
+    "2026-01-27T13": [
+      {
+        "newsId": "fd2bae5a-6f4a-4cfd-812d-cd9b38b1e26d",
+        "scripCode": 543218,
+        "shortName": "Suratwwala Business Group Ltd",
+        "headline": "Project updates Letter",
+        "announcedAt": "2026-01-27T13:35:26.030+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/suratwwala-business-group-ltd/sbglp/543218/",
+        "rawTime": "2026-01-27T13:35:26.03"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-27T13:34:27.882+05:30",
-    "checksum": "0841a279f505ebc618540e58628ef83389b49a3a9825b188ff5d1475806aa468",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-01-27T14:38:22.309+05:30",
+    "checksum": "0ea6684d55cba773804616462ea48e32f904f384f718966c96ba707e5aa01672",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-27/awards-133427.json"
+    "rawPayloadPath": "data/raw/2026-01-27/awards-143821.json"
   }
 }
