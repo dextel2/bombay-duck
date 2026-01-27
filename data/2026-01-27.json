@@ -38,14 +38,25 @@
         "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
         "rawTime": "2026-01-27T10:16:45.1"
       }
+    ],
+    "2026-01-27T11": [
+      {
+        "newsId": "64957fa4-abe3-4862-b342-99e0715ed91c",
+        "scripCode": 540937,
+        "shortName": "Medico Remedies Ltd",
+        "headline": "Please find attached requisite disclosure",
+        "announcedAt": "2026-01-27T11:44:13.753+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/",
+        "rawTime": "2026-01-27T11:44:13.753"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-27T11:35:16.614+05:30",
-    "checksum": "1ed419a6b8c3f15ab4eb78f090491b7a5565764b9051dfbd0037b33b66dc9f5f",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-27T12:37:56.691+05:30",
+    "checksum": "96043bdbe1ac3939e5fd2f8070b0bd611fd28d6d0032847020f4fd33f848a399",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-27/awards-113516.json"
+    "rawPayloadPath": "data/raw/2026-01-27/awards-123755.json"
   }
 }
