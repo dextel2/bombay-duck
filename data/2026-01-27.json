@@ -41,11 +41,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-27T10:38:23.896+05:30",
+    "lastUpdated": "2026-01-27T11:35:16.614+05:30",
     "checksum": "1ed419a6b8c3f15ab4eb78f090491b7a5565764b9051dfbd0037b33b66dc9f5f",
     "totalAnnouncements": 4,
-    "requestCount": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-27/awards-103823.json"
+    "rawPayloadPath": "data/raw/2026-01-27/awards-113516.json"
   }
 }
