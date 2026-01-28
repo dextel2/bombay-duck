@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-28",
-  "buckets": {},
+  "buckets": {
+    "2026-01-28T09": [
+      {
+        "newsId": "b3f20f30-c2cb-4eee-af2c-6712f6b37bad",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Secures (Major*) Contract for Heavy Civil Infrastructure Business",
+        "announcedAt": "2026-01-28T09:22:43.063+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-01-28T09:22:43.063"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-28T09:02:41.201+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-01-28T09:49:29.396+05:30",
+    "checksum": "9fd41449734ee773e3ebd71228ae81dd71381d28c0ef02beb84f780f2f2a6d59",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-28/awards-090240.json"
+    "rawPayloadPath": "data/raw/2026-01-28/awards-094928.json"
   }
 }
