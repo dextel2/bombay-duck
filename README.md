@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-28 10:00 | MIC Electronics Ltd | 532850 | The Company has received LOA from Nava Raipur Atal Nagar Vikas Pradhikaran for an amount of Rs. 114 Crore. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 28 Jan 2026 - 10:34 |
 | 2026-01-28 09:00 | Larsen & Toubro Ltd | 500510 | L&T Secures (Major*) Contract for Heavy Civil Infrastructure Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 28 Jan 2026 - 09:22 |
 
-_Last updated: 28 Jan 2026 - 09:49 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-28.json)_
+_Last updated: 28 Jan 2026 - 10:38 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-28.json)_
 
 <!-- snapshot:end -->
 

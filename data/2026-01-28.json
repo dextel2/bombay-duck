@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-01-28T09:22:43.063"
       }
+    ],
+    "2026-01-28T10": [
+      {
+        "newsId": "b4e2e1ab-ef4b-4ba2-a51e-25b8581042d9",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "The Company has received LOA from Nava Raipur Atal Nagar Vikas Pradhikaran for an amount of Rs. 114 Crore.",
+        "announcedAt": "2026-01-28T10:34:51.483+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2026-01-28T10:34:51.483"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-28T09:49:29.396+05:30",
-    "checksum": "9fd41449734ee773e3ebd71228ae81dd71381d28c0ef02beb84f780f2f2a6d59",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-01-28T10:38:17.381+05:30",
+    "checksum": "b6693797b3c5bf5d4d84e680a63ac50ade43f86265cec581d51837e2e80a5c98",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-28/awards-094928.json"
+    "rawPayloadPath": "data/raw/2026-01-28/awards-103816.json"
   }
 }
