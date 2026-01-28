@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-01-27 IST)
+### Today's Awarded Orders (2026-01-28 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-01-27 15:00 | Dev Information Technology Ltd | 543462 | Announcement Regarding Order Receipt ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 27 Jan 2026 - 15:21 |
-| 2026-01-27 15:00 | Meera Industries Ltd | 540519 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/)) | Likely Positive | 27 Jan 2026 - 15:10 |
-| 2026-01-27 13:00 | Suratwwala Business Group Ltd | 543218 | Project updates Letter ([Link](https://www.bseindia.com/stock-share-price/suratwwala-business-group-ltd/sbglp/543218/)) | Neutral | 27 Jan 2026 - 13:35 |
-| 2026-01-27 12:00 | Shelter Pharma Ltd | 543963 | Intimation with Regards to Shelter Pharma Secured Order from Taha Drugs & Chemicals Co. Ltd Pursuant to Regulation 30 of SEBI (Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 27 Jan 2026 - 12:41 |
-| 2026-01-27 11:00 | Medico Remedies Ltd | 540937 | Please find attached requisite disclosure ([Link](https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/)) | Neutral | 27 Jan 2026 - 11:44 |
-| 2026-01-27 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Jan 2026 - 10:31 |
-| 2026-01-27 10:00 | RITES Ltd | 541556 | Intimation regarding major order secured from ICVL, Mozambique. ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 27 Jan 2026 - 10:30 |
-| 2026-01-27 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work-supply orders bagged during the week. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 27 Jan 2026 - 10:17 |
-| 2026-01-27 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work-supply orders bagged during the week. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 27 Jan 2026 - 10:16 |
+_No award announcements have been captured yet today._
 
-_Last updated: 27 Jan 2026 - 15:35 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-27.json)_
+_Last updated: 28 Jan 2026 - 09:02 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-01-28.json)_
 
 <!-- snapshot:end -->
 
