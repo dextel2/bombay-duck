@@ -14,6 +14,15 @@
     ],
     "2026-01-29T12": [
       {
+        "newsId": "2cb214e4-539f-4ec2-a70d-a4def41f72af",
+        "scripCode": 517168,
+        "shortName": "Subros Ltd",
+        "headline": "Award of new business of local Electric Compressor for electric and hybrid vehicles",
+        "announcedAt": "2026-01-29T12:49:48.103+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subros-ltd/subros/517168/",
+        "rawTime": "2026-01-29T12:49:48.103"
+      },
+      {
         "newsId": "f8d23d98-3f2c-4b08-9057-72662303e8a4",
         "scripCode": 543985,
         "shortName": "Zaggle Prepaid Ocean Services Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-29T12:46:31.701+05:30",
-    "checksum": "89bca214d9dacc4402146ae44c96addac5e2d136ce9bae61dcd0d6f43687c086",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-29T13:38:48.202+05:30",
+    "checksum": "806e1bf5893fdc84517c0cc0386d000f887545d49242ce9e9be2e7add363d185",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-29/awards-124631.json"
+    "rawPayloadPath": "data/raw/2026-01-29/awards-133847.json"
   }
 }
