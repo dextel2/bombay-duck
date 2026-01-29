@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-29 12:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Hexalog Technologies Private Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 29 Jan 2026 - 12:20 |
 | 2026-01-29 10:00 | Quadrant Future Tek Ltd | 544336 | Intimation of Receipt of offer from ICF for installation of KAVACH 4.0 worth Rs. 230 Crores ([Link](https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/)) | Likely Positive | 29 Jan 2026 - 10:02 |
 
-_Last updated: 29 Jan 2026 - 11:43 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-29.json)_
+_Last updated: 29 Jan 2026 - 12:46 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-29.json)_
 
 <!-- snapshot:end -->
 
