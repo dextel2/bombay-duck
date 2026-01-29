@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-29",
-  "buckets": {},
+  "buckets": {
+    "2026-01-29T10": [
+      {
+        "newsId": "74707297-abbe-4543-9db1-c3d5547093d5",
+        "scripCode": 544336,
+        "shortName": "Quadrant Future Tek Ltd",
+        "headline": "Intimation of Receipt of offer from ICF for installation of KAVACH 4.0 worth Rs. 230 Crores",
+        "announcedAt": "2026-01-29T10:02:25.773+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/",
+        "rawTime": "2026-01-29T10:02:25.773"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-29T10:01:43.215+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-01-29T10:48:29.553+05:30",
+    "checksum": "f43e2c3111605cb23c95a4c2bef8da84460fb9eacf11ef6ba51ff80643b6cbfb",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-29/awards-100142.json"
+    "rawPayloadPath": "data/raw/2026-01-29/awards-104828.json"
   }
 }

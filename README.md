@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-29 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-29 10:00 | Quadrant Future Tek Ltd | 544336 | Intimation of Receipt of offer from ICF for installation of KAVACH 4.0 worth Rs. 230 Crores ([Link](https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/)) | Likely Positive | 29 Jan 2026 - 10:02 |
 
-_Last updated: 29 Jan 2026 - 10:01 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-01-29.json)_
+_Last updated: 29 Jan 2026 - 10:48 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-29.json)_
 
 <!-- snapshot:end -->
 
