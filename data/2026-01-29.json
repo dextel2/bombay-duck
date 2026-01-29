@@ -31,14 +31,36 @@
         "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
         "rawTime": "2026-01-29T12:20:17.78"
       }
+    ],
+    "2026-01-29T15": [
+      {
+        "newsId": "f547e0b2-85d0-42cd-8af3-eab941e310cd",
+        "scripCode": 540735,
+        "shortName": "IRIS RegTech Solutions Ltd",
+        "headline": "We are pleased to announce that the Company has received an award from NEC Corporation India Private Limited.",
+        "announcedAt": "2026-01-29T15:05:25.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/iris-regtech-solutions-ltd/iris/540735/",
+        "rawTime": "2026-01-29T15:05:25.38"
+      }
+    ],
+    "2026-01-29T14": [
+      {
+        "newsId": "24956d95-2236-4e80-bc28-6a5d7ec0393b",
+        "scripCode": 544281,
+        "shortName": "A B Infrabuild Ltd",
+        "headline": "Allotment of Order",
+        "announcedAt": "2026-01-29T14:45:43.363+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
+        "rawTime": "2026-01-29T14:45:43.363"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-29T14:42:53.870+05:30",
-    "checksum": "806e1bf5893fdc84517c0cc0386d000f887545d49242ce9e9be2e7add363d185",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-29T15:41:36.352+05:30",
+    "checksum": "86ecb156821d25ec6eb4289fd6d9166ed399c957b1ce3dcceadecc89d447f819",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-29/awards-144253.json"
+    "rawPayloadPath": "data/raw/2026-01-29/awards-154135.json"
   }
 }
