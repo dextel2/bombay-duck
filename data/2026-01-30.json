@@ -3,6 +3,15 @@
   "buckets": {
     "2026-01-30T11": [
       {
+        "newsId": "64f66c0a-a245-4e44-8d0d-9a4480193af1",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-01-30T11:53:34.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-01-30T11:53:34.277"
+      },
+      {
         "newsId": "bad57425-6c14-432e-bd3d-79e56c0fbb5b",
         "scripCode": 544281,
         "shortName": "A B Infrabuild Ltd",
@@ -23,11 +32,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-30T11:44:16.838+05:30",
-    "checksum": "53906cd5338ca8b79454392f3d79f4d43158236e20b21b3221394f2af3a4e1c5",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-01-30T12:46:13.310+05:30",
+    "checksum": "5a0834c6b642c90e99d5ba2c1d501167346dde1d59ac81b9bc8a28e68ba1c70e",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-30/awards-114416.json"
+    "rawPayloadPath": "data/raw/2026-01-30/awards-124612.json"
   }
 }
