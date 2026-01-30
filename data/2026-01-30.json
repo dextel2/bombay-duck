@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-01-30",
-  "buckets": {},
+  "buckets": {
+    "2026-01-30T11": [
+      {
+        "newsId": "bad57425-6c14-432e-bd3d-79e56c0fbb5b",
+        "scripCode": 544281,
+        "shortName": "A B Infrabuild Ltd",
+        "headline": "Allotment of Award",
+        "announcedAt": "2026-01-30T11:19:15.000+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
+        "rawTime": "2026-01-30T11:19:15"
+      },
+      {
+        "newsId": "c1e51ea1-4bb2-4f46-9d37-631ece87fcba",
+        "scripCode": 513472,
+        "shortName": "Simplex Castings Ltd",
+        "headline": "Please Find Enclosed the Intimation of Receipt of Order from Gaja Engineering Private Limited.",
+        "announcedAt": "2026-01-30T11:10:48.573+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/",
+        "rawTime": "2026-01-30T11:10:48.573"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-30T10:49:52.489+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-30T11:44:16.838+05:30",
+    "checksum": "53906cd5338ca8b79454392f3d79f4d43158236e20b21b3221394f2af3a4e1c5",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-30/awards-104951.json"
+    "rawPayloadPath": "data/raw/2026-01-30/awards-114416.json"
   }
 }

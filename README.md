@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-01-30 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-01-30 11:00 | A B Infrabuild Ltd | 544281 | Allotment of Award ([Link](https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/)) | Neutral | 30 Jan 2026 - 11:19 |
+| 2026-01-30 11:00 | Simplex Castings Ltd | 513472 | Please Find Enclosed the Intimation of Receipt of Order from Gaja Engineering Private Limited. ([Link](https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/)) | Likely Positive | 30 Jan 2026 - 11:10 |
 
-_Last updated: 30 Jan 2026 - 10:49 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-01-30.json)_
+_Last updated: 30 Jan 2026 - 11:44 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-30.json)_
 
 <!-- snapshot:end -->
 
