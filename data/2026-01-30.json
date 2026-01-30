@@ -29,14 +29,25 @@
         "url": "https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/",
         "rawTime": "2026-01-30T11:10:48.573"
       }
+    ],
+    "2026-01-30T13": [
+      {
+        "newsId": "9a097612-b12d-4415-9fc2-fbf4ed30804d",
+        "scripCode": 532725,
+        "shortName": "Solar Industries India Ltd",
+        "headline": "Intimation for Receipt of Export order for Supply of Defence products of INR 830 Crores",
+        "announcedAt": "2026-01-30T13:23:09.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/",
+        "rawTime": "2026-01-30T13:23:09.92"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-30T12:46:13.310+05:30",
-    "checksum": "5a0834c6b642c90e99d5ba2c1d501167346dde1d59ac81b9bc8a28e68ba1c70e",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-30T13:39:01.607+05:30",
+    "checksum": "72903c8bef523db3ba1b3e0130a4467fd91a0f53a3fd1ae5ea4f89c7f0272779",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-30/awards-124612.json"
+    "rawPayloadPath": "data/raw/2026-01-30/awards-133901.json"
   }
 }
