@@ -51,14 +51,34 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-01-30T14:06:46.083"
       }
+    ],
+    "2026-01-30T15": [
+      {
+        "newsId": "567c2ff0-4519-498a-9472-438b8824e004",
+        "scripCode": 539686,
+        "shortName": "K.P. Energy Ltd",
+        "headline": "K.P. Energy Limited informed the Exchange regarding receipt of Letter of Award (LOA) for Turnkey Development of 99 MW Wind Power Project at Bhuj, Gujarat. Details disclosure is attached herewith.",
+        "announcedAt": "2026-01-30T15:24:11.030+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kp-energy-ltd/kpel/539686/",
+        "rawTime": "2026-01-30T15:24:11.03"
+      },
+      {
+        "newsId": "a56950e7-df5b-46cb-8f80-ba01470d778b",
+        "scripCode": 514087,
+        "shortName": "PBM Polytex Ltd-$",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) 2015 with respect to order passed by Industrial Tribunal.",
+        "announcedAt": "2026-01-30T15:18:46.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pbm-polytex-ltd/pbmpoly/514087/",
+        "rawTime": "2026-01-30T15:18:46.61"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-30T14:41:21.818+05:30",
-    "checksum": "eef5983ca30fb1cd27097bb77affd4be7b0a76cb7bc7c96021b4be6a4f5dc796",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-30T15:38:51.611+05:30",
+    "checksum": "184107bff165c13c827ef3e5f6a42c4f6ef194c637bbec0dfcf9c7f4753c0712",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-30/awards-144121.json"
+    "rawPayloadPath": "data/raw/2026-01-30/awards-153850.json"
   }
 }
