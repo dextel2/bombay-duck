@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-30 14:00 | Indobell Insulations Ltd | 544334 | NEW ORDER RECEIVED FROM EPSILON CARBON PRIVATE LIMITED, BELLARY, KARNATAKA FOR RS 3.28 CR ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 30 Jan 2026 - 14:06 |
 | 2026-01-30 13:00 | Solar Industries India Ltd | 532725 | Intimation for Receipt of Export order for Supply of Defence products of INR 830 Crores ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 30 Jan 2026 - 13:23 |
 | 2026-01-30 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 30 Jan 2026 - 11:53 |
 | 2026-01-30 11:00 | A B Infrabuild Ltd | 544281 | Allotment of Award ([Link](https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/)) | Neutral | 30 Jan 2026 - 11:19 |
 | 2026-01-30 11:00 | Simplex Castings Ltd | 513472 | Please Find Enclosed the Intimation of Receipt of Order from Gaja Engineering Private Limited. ([Link](https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/)) | Likely Positive | 30 Jan 2026 - 11:10 |
 
-_Last updated: 30 Jan 2026 - 13:39 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-01-30.json)_
+_Last updated: 30 Jan 2026 - 14:41 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-30.json)_
 
 <!-- snapshot:end -->
 
