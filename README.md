@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-01-31 11:00 | Jayant Infratech Ltd | 543544 | Receipt of work order from Central Railway of Rs. 18,64,40,099.67. ([Link](https://www.bseindia.com/stock-share-price/jayant-infratech-ltd/jayant/543544/)) | Likely Positive | 31 Jan 2026 - 11:30 |
 
-_Last updated: 31 Jan 2026 - 11:38 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-01-31.json)_
+_Last updated: 31 Jan 2026 - 12:39 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-01-31.json)_
 
 <!-- snapshot:end -->
 
