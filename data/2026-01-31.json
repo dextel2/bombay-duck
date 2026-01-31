@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-01-31",
-  "buckets": {},
+  "buckets": {
+    "2026-01-31T11": [
+      {
+        "newsId": "550ae15e-0311-4b27-bbba-97fbfdc6e40a",
+        "scripCode": 543544,
+        "shortName": "Jayant Infratech Ltd",
+        "headline": "Receipt of work order from Central Railway of Rs. 18,64,40,099.67.",
+        "announcedAt": "2026-01-31T11:30:18.700+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jayant-infratech-ltd/jayant/543544/",
+        "rawTime": "2026-01-31T11:30:18.7"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-01-31T10:46:51.541+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-01-31T11:38:40.307+05:30",
+    "checksum": "73f7721b6ba09f52b8d51d50b1c61f9f8cb4e98d060067149fb1a638e3f4c2cb",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-31/awards-104650.json"
+    "rawPayloadPath": "data/raw/2026-01-31/awards-113839.json"
   }
 }
