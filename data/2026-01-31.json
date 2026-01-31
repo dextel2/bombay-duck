@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/jayant-infratech-ltd/jayant/543544/",
         "rawTime": "2026-01-31T11:30:18.7"
       }
+    ],
+    "2026-01-31T12": [
+      {
+        "newsId": "c4ac8668-56b8-4294-babb-fdb5d6231658",
+        "scripCode": 517271,
+        "shortName": "HBL Engineering Ltd-$",
+        "headline": "HBL has accpeted an order worth Rs.575 Crores (inclusive of 18% GST) from Integral Coach Factory, Chennai for aupply, testing and commissioning of On-Board Kavach Equipment (Ver 4.0). Disclosure ....",
+        "announcedAt": "2026-01-31T12:56:50.007+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
+        "rawTime": "2026-01-31T12:56:50.007"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-31T12:39:36.509+05:30",
-    "checksum": "73f7721b6ba09f52b8d51d50b1c61f9f8cb4e98d060067149fb1a638e3f4c2cb",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2026-01-31T13:34:21.940+05:30",
+    "checksum": "61c2a1bb8053086fb7ab718cc38ea210d1f959a8e4a12bba4e910fc07f67c37b",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-31/awards-123935.json"
+    "rawPayloadPath": "data/raw/2026-01-31/awards-133421.json"
   }
 }
