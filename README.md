@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-01-31 15:00 | Poojawestern Metaliks Ltd | 540727 | Poojawestern Metaliks Limited has informed the Stock Exchange regarding receiving/bagging of order/contract. ([Link](https://www.bseindia.com/stock-share-price/poojawestern-metaliks-ltd/pooja/540727/)) | Likely Positive | 31 Jan 2026 - 15:30 |
 | 2026-01-31 12:00 | HBL Engineering Ltd-$ | 517271 | HBL has accpeted an order worth Rs.575 Crores (inclusive of 18% GST) from Integral Coach Factory, Chennai for aupply, testing and commissioning of On-Board Kavach Equipment (Ver 4.0). Disclosure .... ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 31 Jan 2026 - 12:56 |
 | 2026-01-31 11:00 | Jayant Infratech Ltd | 543544 | Receipt of work order from Central Railway of Rs. 18,64,40,099.67. ([Link](https://www.bseindia.com/stock-share-price/jayant-infratech-ltd/jayant/543544/)) | Likely Positive | 31 Jan 2026 - 11:30 |
 
-_Last updated: 31 Jan 2026 - 14:36 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-01-31.json)_
+_Last updated: 31 Jan 2026 - 15:33 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-01-31.json)_
 
 <!-- snapshot:end -->
 

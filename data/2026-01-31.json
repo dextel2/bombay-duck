@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
         "rawTime": "2026-01-31T12:56:50.007"
       }
+    ],
+    "2026-01-31T15": [
+      {
+        "newsId": "b1b29add-0bad-4018-bf80-85cd2a19fe50",
+        "scripCode": 540727,
+        "shortName": "Poojawestern Metaliks Ltd",
+        "headline": "Poojawestern Metaliks Limited has informed the Stock Exchange regarding receiving/bagging of order/contract.",
+        "announcedAt": "2026-01-31T15:30:15.177+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/poojawestern-metaliks-ltd/pooja/540727/",
+        "rawTime": "2026-01-31T15:30:15.177"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-01-31T14:36:24.738+05:30",
-    "checksum": "61c2a1bb8053086fb7ab718cc38ea210d1f959a8e4a12bba4e910fc07f67c37b",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-01-31T15:33:59.430+05:30",
+    "checksum": "05f5f9d48ecf66d1a8d439ad4179907ba50bd13010bf178d379f57fadb6ad285",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-01-31/awards-143624.json"
+    "rawPayloadPath": "data/raw/2026-01-31/awards-153358.json"
   }
 }
