@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-01",
-  "buckets": {},
+  "buckets": {
+    "2026-02-01T10": [
+      {
+        "newsId": "b56e4af7-4ae4-48ac-9e36-b4cd8453cdac",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work order/supply orders Bagged during this week Ended January 31, 2026",
+        "announcedAt": "2026-02-01T10:01:00.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-02-01T10:01:00.59"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-01T09:26:41.389+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-01T10:17:06.703+05:30",
+    "checksum": "30796610b3fae5fb8ed52d5bcc3783c539a87e05409e381b2d6259cba1198aab",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-01/awards-092640.json"
+    "rawPayloadPath": "data/raw/2026-02-01/awards-101705.json"
   }
 }
