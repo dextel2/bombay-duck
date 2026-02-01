@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-02-01 10:00 | Gabion Technologies India Ltd | 544675 | Intimation of work order/supply orders Bagged during this week Ended January 31, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 01 Feb 2026 - 10:01 |
 
-_Last updated: 01 Feb 2026 - 13:35 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-01.json)_
+_Last updated: 01 Feb 2026 - 14:36 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-01.json)_
 
 <!-- snapshot:end -->
 
