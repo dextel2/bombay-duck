@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-02 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-02 11:00 | Agarwal Industrial Corporation Ltd | 531921 | We are pleased to inform you that Company has bagged an order from Bharat Petroleum Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/agarwal-industrial-corporation-ltd/agarind/531921/)) | Likely Positive | 02 Feb 2026 - 11:22 |
 
-_Last updated: 02 Feb 2026 - 10:59 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-02.json)_
+_Last updated: 02 Feb 2026 - 11:51 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-02.json)_
 
 <!-- snapshot:end -->
 

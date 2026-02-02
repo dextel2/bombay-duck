@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-02",
-  "buckets": {},
+  "buckets": {
+    "2026-02-02T11": [
+      {
+        "newsId": "56c62719-ab9c-4d22-8213-f1a9edfe76ec",
+        "scripCode": 531921,
+        "shortName": "Agarwal Industrial Corporation Ltd",
+        "headline": "We are pleased to inform you that Company has bagged an order from Bharat Petroleum Corporation Limited",
+        "announcedAt": "2026-02-02T11:22:50.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/agarwal-industrial-corporation-ltd/agarind/531921/",
+        "rawTime": "2026-02-02T11:22:50.78"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-02T10:59:54.981+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-02T11:51:36.695+05:30",
+    "checksum": "56819804dccd1cc0af3b3317abd88a5f939494b033185f9cc5a9a97a2d764dd4",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-02/awards-105954.json"
+    "rawPayloadPath": "data/raw/2026-02-02/awards-115135.json"
   }
 }
