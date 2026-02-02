@@ -14,6 +14,15 @@
     ],
     "2026-02-02T12": [
       {
+        "newsId": "c326c520-595d-4039-b6ca-bf8002225807",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Recieved LOA of an total amount Rs. 68.91 Crores from Water Resource Department , Assam",
+        "announcedAt": "2026-02-02T12:58:06.253+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-02-02T12:58:06.253"
+      },
+      {
         "newsId": "cc7b1b70-d051-44a6-bc03-881263a915f4",
         "scripCode": 544567,
         "shortName": "Infinity Infoway Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-02T12:51:46.156+05:30",
-    "checksum": "3845f9e2cf5e3cc138de154011da09ad6691a8b8c367df60aa21bbf60c6c5758",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-02T13:41:22.223+05:30",
+    "checksum": "e8d68029b3bbecafe78ccdabe1b2328c2711ee9b88e0cc543e68600d8ef48398",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-02/awards-125145.json"
+    "rawPayloadPath": "data/raw/2026-02-02/awards-134121.json"
   }
 }
