@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/agarwal-industrial-corporation-ltd/agarind/531921/",
         "rawTime": "2026-02-02T11:22:50.78"
       }
+    ],
+    "2026-02-02T12": [
+      {
+        "newsId": "cc7b1b70-d051-44a6-bc03-881263a915f4",
+        "scripCode": 544567,
+        "shortName": "Infinity Infoway Ltd",
+        "headline": "Voluntary Disclosure under Reg. 30 ( LODR) Award of Order/Contract Received of Education Software Value of Rs. 1.45 Crores per year from Barkatullay Vishwavidhyalay Bhopal, Madhya Pradesh",
+        "announcedAt": "2026-02-02T12:15:55.627+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/",
+        "rawTime": "2026-02-02T12:15:55.627"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-02T11:51:36.695+05:30",
-    "checksum": "56819804dccd1cc0af3b3317abd88a5f939494b033185f9cc5a9a97a2d764dd4",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-02T12:51:46.156+05:30",
+    "checksum": "3845f9e2cf5e3cc138de154011da09ad6691a8b8c367df60aa21bbf60c6c5758",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-02/awards-115135.json"
+    "rawPayloadPath": "data/raw/2026-02-02/awards-125145.json"
   }
 }
