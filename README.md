@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-02 IST)
+### Today's Awarded Orders (2026-02-03 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-02 12:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved LOA of an total amount Rs. 68.91 Crores from Water Resource Department , Assam ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 02 Feb 2026 - 12:58 |
-| 2026-02-02 12:00 | Infinity Infoway Ltd | 544567 | Voluntary Disclosure under Reg. 30 ( LODR) Award of Order/Contract Received of Education Software Value of Rs. 1.45 Crores per year from Barkatullay Vishwavidhyalay Bhopal, Madhya Pradesh ([Link](https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/)) | Likely Positive | 02 Feb 2026 - 12:15 |
-| 2026-02-02 11:00 | Agarwal Industrial Corporation Ltd | 531921 | We are pleased to inform you that Company has bagged an order from Bharat Petroleum Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/agarwal-industrial-corporation-ltd/agarind/531921/)) | Likely Positive | 02 Feb 2026 - 11:22 |
+| 2026-02-03 08:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,020 crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 03 Feb 2026 - 08:28 |
 
-_Last updated: 02 Feb 2026 - 15:45 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-02.json)_
+_Last updated: 03 Feb 2026 - 09:17 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-03",
+  "buckets": {
+    "2026-02-03T08": [
+      {
+        "newsId": "8dcc0056-1420-4e4c-b83a-0938103f5db9",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,020 crores secured by the Company. All the orders mentioned in the enclosed press release have ....",
+        "announcedAt": "2026-02-03T08:28:35.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2026-02-03T08:28:35.18"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-03T09:17:43.909+05:30",
+    "checksum": "e182d714806d42de19b0ae950134d4d7bd46d14ae27e7b71ef2331140638f839",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-03/awards-091743.json"
+  }
+}
