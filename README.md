@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-02-03 08:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,020 crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 03 Feb 2026 - 08:28 |
 
-_Last updated: 03 Feb 2026 - 09:17 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
+_Last updated: 03 Feb 2026 - 10:03 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
 
 <!-- snapshot:end -->
 
