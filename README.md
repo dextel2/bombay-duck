@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-03 10:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved a New Order of an total amount Rs. 62.03 Crores from Water Resource Department Assam. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 03 Feb 2026 - 10:05 |
 | 2026-02-03 08:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,020 crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 03 Feb 2026 - 08:28 |
 
-_Last updated: 03 Feb 2026 - 12:47 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
+_Last updated: 03 Feb 2026 - 13:40 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
 
 <!-- snapshot:end -->
 
