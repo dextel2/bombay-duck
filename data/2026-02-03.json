@@ -11,14 +11,43 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2026-02-03T08:28:35.18"
       }
+    ],
+    "2026-02-03T10": [
+      {
+        "newsId": "b5627474-cc03-4d8d-96d1-e8b18394317e",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Dr Batras'' Positive Health ....",
+        "announcedAt": "2026-02-03T10:44:05.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-02-03T10:44:05.3"
+      },
+      {
+        "newsId": "c9e8893f-4bc9-43a7-8095-40041739a1f7",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Intimation under Regulation 30(LODR) Regulations, 2015- Receipt of Letter of Intents amounting upto Rs. 200,86,53,263.08",
+        "announcedAt": "2026-02-03T10:27:25.547+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-02-03T10:27:25.547"
+      },
+      {
+        "newsId": "c1559d9e-7849-4f9d-b077-0fed26556006",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Recieved a New Order of an total amount Rs. 62.03 Crores from Water Resource Department Assam.",
+        "announcedAt": "2026-02-03T10:05:46.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-02-03T10:05:46.72"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-03T10:03:48.596+05:30",
-    "checksum": "e182d714806d42de19b0ae950134d4d7bd46d14ae27e7b71ef2331140638f839",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-03T10:53:17.379+05:30",
+    "checksum": "ae19531d067fbbea4069c72d55dba762f06f43cf6b06521e6b3fe042aeaf985e",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-03/awards-100347.json"
+    "rawPayloadPath": "data/raw/2026-02-03/awards-105316.json"
   }
 }
