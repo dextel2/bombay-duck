@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-03 11:00 | Dev Information Technology Ltd | 543462 | Announcement of Order Receipt ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 03 Feb 2026 - 11:17 |
 | 2026-02-03 10:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI( LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Dr Batras'' Positive Health .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 03 Feb 2026 - 10:44 |
 | 2026-02-03 10:00 | RMC Switchgears Ltd | 540358 | Intimation under Regulation 30(LODR) Regulations, 2015- Receipt of Letter of Intents amounting upto Rs. 200,86,53,263.08 ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 03 Feb 2026 - 10:27 |
 | 2026-02-03 10:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved a New Order of an total amount Rs. 62.03 Crores from Water Resource Department Assam. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 03 Feb 2026 - 10:05 |
 | 2026-02-03 08:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,020 crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 03 Feb 2026 - 08:28 |
 
-_Last updated: 03 Feb 2026 - 10:53 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
+_Last updated: 03 Feb 2026 - 11:46 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-03.json)_
 
 <!-- snapshot:end -->
 

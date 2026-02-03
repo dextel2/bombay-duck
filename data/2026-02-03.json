@@ -40,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-02-03T10:05:46.72"
       }
+    ],
+    "2026-02-03T11": [
+      {
+        "newsId": "45f8a330-f45e-4f43-8856-6fbc32ac3aa8",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Announcement of Order Receipt",
+        "announcedAt": "2026-02-03T11:17:29.247+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-02-03T11:17:29.247"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-03T10:53:17.379+05:30",
-    "checksum": "ae19531d067fbbea4069c72d55dba762f06f43cf6b06521e6b3fe042aeaf985e",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-03T11:46:02.340+05:30",
+    "checksum": "ae568cee1550c4423df8b010f8da40ed653523b2d1cc26bd75b6973aa6240328",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-03/awards-105316.json"
+    "rawPayloadPath": "data/raw/2026-02-03/awards-114601.json"
   }
 }
