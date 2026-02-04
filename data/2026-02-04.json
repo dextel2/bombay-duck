@@ -82,14 +82,25 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-02-04T14:37:34.417"
       }
+    ],
+    "2026-02-04T15": [
+      {
+        "newsId": "ba2792d2-dedc-44e2-880d-26aeaf23f45c",
+        "scripCode": 540900,
+        "shortName": "Newgen Software Technologies Ltd",
+        "headline": "Enclosed disclosure of Material Order of AED 5,309,103 as received by Newgen Software Technologies L.L.C. is attached.",
+        "announcedAt": "2026-02-04T15:33:21.893+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
+        "rawTime": "2026-02-04T15:33:21.893"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-04T14:44:05.227+05:30",
-    "checksum": "f0a90845046ba12a31081ceac9026788623ad8a4b79e2ee7af2e330161717046",
-    "totalAnnouncements": 8,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-04T15:43:30.501+05:30",
+    "checksum": "cf00682edf63854380cddbd8c636a1a75cb0a355e1fd479ff6df5ad62e1f753e",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-04/awards-144404.json"
+    "rawPayloadPath": "data/raw/2026-02-04/awards-154329.json"
   }
 }

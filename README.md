@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-04 15:00 | Newgen Software Technologies Ltd | 540900 | Enclosed disclosure of Material Order of AED 5,309,103 as received by Newgen Software Technologies L.L.C. is attached. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 04 Feb 2026 - 15:33 |
 | 2026-02-04 14:00 | ITCONS E-Solutions Ltd | 543806 | The Company has received Letter of Intent from Bharat Petroleum Corporation Limited, a Government Enterprise, to provide Manpower Services ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Neutral | 04 Feb 2026 - 14:37 |
 | 2026-02-04 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs 5 14 27 350 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 04 Feb 2026 - 13:41 |
 | 2026-02-04 13:00 | Goldiam International Ltd | 526729 | Intimation of new Export orders received-Ordinary course of business ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 04 Feb 2026 - 13:37 |
@@ -31,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-04 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 13716320 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 04 Feb 2026 - 11:12 |
 | 2026-02-04 09:00 | Axiscades Technologies Ltd | 532395 | Awarding of Contracts ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 04 Feb 2026 - 09:38 |
 
-_Last updated: 04 Feb 2026 - 14:44 | Entries: 8 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-04.json)_
+_Last updated: 04 Feb 2026 - 15:43 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-04.json)_
 
 <!-- snapshot:end -->
 
