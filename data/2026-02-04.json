@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
         "rawTime": "2026-02-04T12:47:19.353"
       }
+    ],
+    "2026-02-04T13": [
+      {
+        "newsId": "bccea727-b751-425a-90d1-21c119bf4972",
+        "scripCode": 526729,
+        "shortName": "Goldiam International Ltd",
+        "headline": "Intimation of new Export orders received-Ordinary course of business",
+        "announcedAt": "2026-02-04T13:37:16.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/",
+        "rawTime": "2026-02-04T13:37:16.023"
+      },
+      {
+        "newsId": "ea0df292-c393-4ae0-8185-72b781b57a91",
+        "scripCode": 500103,
+        "shortName": "Bharat Heavy Electricals Ltd",
+        "headline": "Receipt of LOI from HINDALCO Industries Limited",
+        "announcedAt": "2026-02-04T13:00:12.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+        "rawTime": "2026-02-04T13:00:12.76"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-04T12:48:03.134+05:30",
-    "checksum": "a2eb3b378485a7edd48b73cedaead6afce4acc3b6ad82a0928a43a4d65d5e72c",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-04T13:40:31.631+05:30",
+    "checksum": "2f248c81ad5c4ba23e5f753baabb53e9b38e0118ec3fef4a28ccf1b5fc9ed89f",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-04/awards-124802.json"
+    "rawPayloadPath": "data/raw/2026-02-04/awards-134030.json"
   }
 }
