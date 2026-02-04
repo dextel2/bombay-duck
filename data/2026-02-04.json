@@ -45,6 +45,15 @@
     ],
     "2026-02-04T13": [
       {
+        "newsId": "51a5450f-0c33-4b75-8d96-7b6f85f3571e",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs 5 14 27 350 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2026-02-04T13:41:07.763+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-04T13:41:07.763"
+      },
+      {
         "newsId": "bccea727-b751-425a-90d1-21c119bf4972",
         "scripCode": 526729,
         "shortName": "Goldiam International Ltd",
@@ -62,14 +71,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
         "rawTime": "2026-02-04T13:00:12.76"
       }
+    ],
+    "2026-02-04T14": [
+      {
+        "newsId": "a5d673ba-b444-42df-8f14-50f92cafc408",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "The Company has received Letter of Intent from Bharat Petroleum Corporation Limited, a Government Enterprise, to provide Manpower Services",
+        "announcedAt": "2026-02-04T14:37:34.417+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-02-04T14:37:34.417"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-04T13:40:31.631+05:30",
-    "checksum": "2f248c81ad5c4ba23e5f753baabb53e9b38e0118ec3fef4a28ccf1b5fc9ed89f",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-04T14:44:05.227+05:30",
+    "checksum": "f0a90845046ba12a31081ceac9026788623ad8a4b79e2ee7af2e330161717046",
+    "totalAnnouncements": 8,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-04/awards-134030.json"
+    "rawPayloadPath": "data/raw/2026-02-04/awards-144404.json"
   }
 }

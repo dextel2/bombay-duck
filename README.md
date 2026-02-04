@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-04 14:00 | ITCONS E-Solutions Ltd | 543806 | The Company has received Letter of Intent from Bharat Petroleum Corporation Limited, a Government Enterprise, to provide Manpower Services ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Neutral | 04 Feb 2026 - 14:37 |
+| 2026-02-04 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs 5 14 27 350 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 04 Feb 2026 - 13:41 |
 | 2026-02-04 13:00 | Goldiam International Ltd | 526729 | Intimation of new Export orders received-Ordinary course of business ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 04 Feb 2026 - 13:37 |
 | 2026-02-04 13:00 | Bharat Heavy Electricals Ltd | 500103 | Receipt of LOI from HINDALCO Industries Limited ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Likely Positive | 04 Feb 2026 - 13:00 |
 | 2026-02-04 12:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a Purchase order worth INR 9,02,70,000.00 (incl GST) (Nine Crores Two Lakh and Seventy Thousand only) from Sugs Lloyd Limited for .... ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 04 Feb 2026 - 12:47 |
@@ -29,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-04 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 13716320 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 04 Feb 2026 - 11:12 |
 | 2026-02-04 09:00 | Axiscades Technologies Ltd | 532395 | Awarding of Contracts ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 04 Feb 2026 - 09:38 |
 
-_Last updated: 04 Feb 2026 - 13:40 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-04.json)_
+_Last updated: 04 Feb 2026 - 14:44 | Entries: 8 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-04.json)_
 
 <!-- snapshot:end -->
 
