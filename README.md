@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-02-04 09:00 | Axiscades Technologies Ltd | 532395 | Awarding of Contracts ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 04 Feb 2026 - 09:38 |
 
-_Last updated: 04 Feb 2026 - 10:01 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-04.json)_
+_Last updated: 04 Feb 2026 - 10:50 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-04.json)_
 
 <!-- snapshot:end -->
 
