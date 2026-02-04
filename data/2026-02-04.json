@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
         "rawTime": "2026-02-04T09:38:05.637"
       }
+    ],
+    "2026-02-04T11": [
+      {
+        "newsId": "5a344b87-5c70-4b3b-a14b-29eac4fe313a",
+        "scripCode": 539841,
+        "shortName": "Lancer Container Lines Ltd",
+        "headline": "Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you that the Company ....",
+        "announcedAt": "2026-02-04T11:35:57.387+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lancer-container-lines-ltd/lancer/539841/",
+        "rawTime": "2026-02-04T11:35:57.387"
+      },
+      {
+        "newsId": "3f46198b-1e54-4c80-a37e-82928ea4251d",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 13716320 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2026-02-04T11:12:22.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-04T11:12:22.183"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-04T10:50:07.209+05:30",
-    "checksum": "06c150814e050be5245c18daffca7616e918b3c5c0ba28981ccd29650c558f31",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-04T11:45:16.694+05:30",
+    "checksum": "9f588172997366ed252b5e8bba0b1781bdd0f6d1c16daffc7941f7afc51e4925",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-04/awards-105006.json"
+    "rawPayloadPath": "data/raw/2026-02-04/awards-114515.json"
   }
 }
