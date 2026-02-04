@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-04",
-  "buckets": {},
+  "buckets": {
+    "2026-02-04T09": [
+      {
+        "newsId": "fa2aeb7d-753b-482b-9076-76574f426986",
+        "scripCode": 532395,
+        "shortName": "Axiscades Technologies Ltd",
+        "headline": "Awarding of Contracts",
+        "announcedAt": "2026-02-04T09:38:05.637+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
+        "rawTime": "2026-02-04T09:38:05.637"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-04T09:17:01.991+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-04T10:01:51.796+05:30",
+    "checksum": "06c150814e050be5245c18daffca7616e918b3c5c0ba28981ccd29650c558f31",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-04/awards-091701.json"
+    "rawPayloadPath": "data/raw/2026-02-04/awards-100151.json"
   }
 }
