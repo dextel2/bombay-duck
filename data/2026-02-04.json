@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-02-04T11:12:22.183"
       }
+    ],
+    "2026-02-04T12": [
+      {
+        "newsId": "3123cd4d-64f9-4204-921d-08c7ad82d446",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a Purchase order worth INR 9,02,70,000.00 (incl GST) (Nine Crores Two Lakh and Seventy Thousand only) from Sugs Lloyd Limited for ....",
+        "announcedAt": "2026-02-04T12:47:19.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-02-04T12:47:19.353"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-04T11:45:16.694+05:30",
-    "checksum": "9f588172997366ed252b5e8bba0b1781bdd0f6d1c16daffc7941f7afc51e4925",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-04T12:48:03.134+05:30",
+    "checksum": "a2eb3b378485a7edd48b73cedaead6afce4acc3b6ad82a0928a43a4d65d5e72c",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-04/awards-114515.json"
+    "rawPayloadPath": "data/raw/2026-02-04/awards-124802.json"
   }
 }
