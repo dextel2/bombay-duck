@@ -33,14 +33,36 @@
         "url": "https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/",
         "rawTime": "2026-02-05T12:48:47.683"
       }
+    ],
+    "2026-02-05T15": [
+      {
+        "newsId": "77b00ae5-0886-4fac-8e83-5a9f88b38db3",
+        "scripCode": 544346,
+        "shortName": "RDB Real Estate Constructions Ltd",
+        "headline": "The Company has been awarded with a Tender for a Service Provider for Management of a Premium Parking Location Developed by Municipal Corporation Bhopal.",
+        "announcedAt": "2026-02-05T15:40:36.457+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rdb-real-estate-constructions-ltd/rrecl/544346/",
+        "rawTime": "2026-02-05T15:40:36.457"
+      }
+    ],
+    "2026-02-05T14": [
+      {
+        "newsId": "880e5df5-b534-4c89-ac0c-5b2ab563601f",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding the receipt of purchase order from Welspun Tubular LLC, USA.",
+        "announcedAt": "2026-02-05T14:55:43.493+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-02-05T14:55:43.493"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-05T14:45:17.422+05:30",
-    "checksum": "1f185f6f71329bdcc72118ef84cf50b32ec0d8f7861d0dadce17fa77edd3f939",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-05T15:44:06.253+05:30",
+    "checksum": "6fd994463700df0793d89cfc6214a9ff6f72530fb6e483e7f95381fc60f53191",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-05/awards-144515.json"
+    "rawPayloadPath": "data/raw/2026-02-05/awards-154405.json"
   }
 }
