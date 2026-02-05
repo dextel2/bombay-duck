@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-02-05T11:35:42.197"
       }
+    ],
+    "2026-02-05T12": [
+      {
+        "newsId": "51669a2e-1d64-4024-86bc-e58b0602b034",
+        "scripCode": 509048,
+        "shortName": "Lancor Holdings Ltd",
+        "headline": "Disclosure under Reg 30 LODR",
+        "announcedAt": "2026-02-05T12:48:47.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/",
+        "rawTime": "2026-02-05T12:48:47.683"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-05T11:48:53.463+05:30",
-    "checksum": "9441ec8182a6bee6758e85670183a8c01fae8f6b5914b1fee72f67a68c001df6",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-05T12:51:19.966+05:30",
+    "checksum": "1f185f6f71329bdcc72118ef84cf50b32ec0d8f7861d0dadce17fa77edd3f939",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-05/awards-114852.json"
+    "rawPayloadPath": "data/raw/2026-02-05/awards-125119.json"
   }
 }
