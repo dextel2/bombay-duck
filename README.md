@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-05 11:00 | Siyaram Recycling Industries Ltd | 544047 | Receipt of Order worth Rs. 4.03 Crore ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 05 Feb 2026 - 11:35 |
 | 2026-02-05 09:00 | Concord Control Systems Ltd | 543619 | Intimation of order of KAVACH ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 05 Feb 2026 - 09:59 |
 
-_Last updated: 05 Feb 2026 - 10:54 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-05.json)_
+_Last updated: 05 Feb 2026 - 11:48 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-05.json)_
 
 <!-- snapshot:end -->
 

@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
         "rawTime": "2026-02-05T09:59:19.907"
       }
+    ],
+    "2026-02-05T11": [
+      {
+        "newsId": "6cdd6474-9b23-4210-9079-91d21033ef4a",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Receipt of Order worth Rs. 4.03 Crore",
+        "announcedAt": "2026-02-05T11:35:42.197+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-05T11:35:42.197"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-05T10:54:58.232+05:30",
-    "checksum": "541d3a9b06795b993e79e30402a4cd7594147271f0cda27e2236435cd9fabd4f",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-05T11:48:53.463+05:30",
+    "checksum": "9441ec8182a6bee6758e85670183a8c01fae8f6b5914b1fee72f67a68c001df6",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-05/awards-105457.json"
+    "rawPayloadPath": "data/raw/2026-02-05/awards-114852.json"
   }
 }
