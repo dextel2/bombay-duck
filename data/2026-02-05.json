@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-05",
-  "buckets": {},
+  "buckets": {
+    "2026-02-05T09": [
+      {
+        "newsId": "5141ab78-9d84-4633-897a-096575f9a4e0",
+        "scripCode": 543619,
+        "shortName": "Concord Control Systems Ltd",
+        "headline": "Intimation of order of KAVACH",
+        "announcedAt": "2026-02-05T09:59:19.907+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
+        "rawTime": "2026-02-05T09:59:19.907"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-05T09:17:35.026+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-05T10:03:53.408+05:30",
+    "checksum": "541d3a9b06795b993e79e30402a4cd7594147271f0cda27e2236435cd9fabd4f",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-05/awards-091734.json"
+    "rawPayloadPath": "data/raw/2026-02-05/awards-100352.json"
   }
 }

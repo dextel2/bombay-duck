@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-05 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-05 09:00 | Concord Control Systems Ltd | 543619 | Intimation of order of KAVACH ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 05 Feb 2026 - 09:59 |
 
-_Last updated: 05 Feb 2026 - 09:17 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-05.json)_
+_Last updated: 05 Feb 2026 - 10:03 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-05.json)_
 
 <!-- snapshot:end -->
 
