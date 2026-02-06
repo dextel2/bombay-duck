@@ -22,13 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-06 15:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.581 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 06 Feb 2026 - 15:19 |
+| 2026-02-06 15:00 | Ashoka Buildcon Ltd | 533271 | Ashoka Buildcon Limited informs that its wholly owned subsidiary in Kingdom of Saudi Arabia viz. Ashoka Buildcon Limited for Contracting has informed that it has submitted bid in Joint .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Likely Positive | 06 Feb 2026 - 15:01 |
 | 2026-02-06 13:00 | Dee Development Engineers Ltd | 544198 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Neutral | 06 Feb 2026 - 13:42 |
 | 2026-02-06 13:00 | Setco Automotive Ltd | 505075 | Receipt of Order passed by Securities and Exchange Board of India ([Link](https://www.bseindia.com/stock-share-price/setco-automotive-ltd/setco/505075/)) | Likely Positive | 06 Feb 2026 - 13:36 |
 | 2026-02-06 12:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of regulation 30 read with sub para B, Part A, Schedule III of SEBI(LODR) Regulations, 2015, we hereby submit the disclosure regarding the order received from .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 06 Feb 2026 - 12:32 |
 | 2026-02-06 12:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of order for Transmission ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 06 Feb 2026 - 12:05 |
 | 2026-02-06 08:00 | Talbros Automotive Components Ltd | 505160 | Press Release- Company along with its JV''s secures multi-year orders worth over Rs. 1000 Crores. ([Link](https://www.bseindia.com/stock-share-price/talbros-automotive-components-ltd/talbroauto/505160/)) | Likely Positive | 06 Feb 2026 - 08:32 |
 
-_Last updated: 06 Feb 2026 - 14:45 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
+_Last updated: 06 Feb 2026 - 15:43 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
 
 <!-- snapshot:end -->
 

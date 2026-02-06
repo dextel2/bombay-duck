@@ -51,14 +51,34 @@
         "url": "https://www.bseindia.com/stock-share-price/setco-automotive-ltd/setco/505075/",
         "rawTime": "2026-02-06T13:36:41.077"
       }
+    ],
+    "2026-02-06T15": [
+      {
+        "newsId": "d4c3a02c-e0c1-413a-a792-83b62f02f12f",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.581 Crore.",
+        "announcedAt": "2026-02-06T15:19:35.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-02-06T15:19:35.933"
+      },
+      {
+        "newsId": "9ab814af-5049-40c7-9489-d00cdcd976eb",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Ashoka Buildcon Limited informs that its wholly owned subsidiary in Kingdom of Saudi Arabia viz. Ashoka Buildcon Limited for Contracting has informed that it has submitted bid in Joint ....",
+        "announcedAt": "2026-02-06T15:01:13.040+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-02-06T15:01:13.04"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-06T14:45:09.961+05:30",
-    "checksum": "8c94316d603cb8ce724fff52e2374940370a91c5d1d26e835e7545dd4c214851",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-06T15:43:03.013+05:30",
+    "checksum": "5b3f0a437ef2e834f8dcd5a8e18efbe27fcf54b5f5b8d9236157b106845436f0",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-06/awards-144509.json"
+    "rawPayloadPath": "data/raw/2026-02-06/awards-154302.json"
   }
 }
