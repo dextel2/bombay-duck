@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
         "rawTime": "2026-02-06T12:05:44.043"
       }
+    ],
+    "2026-02-06T13": [
+      {
+        "newsId": "d274afff-3dc1-44fa-80f5-5922366eebb2",
+        "scripCode": 505075,
+        "shortName": "Setco Automotive Ltd",
+        "headline": "Receipt of Order passed by Securities and Exchange Board of India",
+        "announcedAt": "2026-02-06T13:36:41.077+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/setco-automotive-ltd/setco/505075/",
+        "rawTime": "2026-02-06T13:36:41.077"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-06T12:48:56.275+05:30",
-    "checksum": "dd04cd61314e08f6262c826722d268076ca6583f86e5006c313b9dd056f8fd29",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-06T13:41:26.917+05:30",
+    "checksum": "141034d6e6135f3c56690a93010be22bf82b5ac8258e815e165e29d33fcc1b9a",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-06/awards-124855.json"
+    "rawPayloadPath": "data/raw/2026-02-06/awards-134126.json"
   }
 }
