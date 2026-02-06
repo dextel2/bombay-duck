@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-06",
+  "buckets": {
+    "2026-02-06T08": [
+      {
+        "newsId": "03e7ff1b-bde0-4573-b4b7-ac22c66fae06",
+        "scripCode": 505160,
+        "shortName": "Talbros Automotive Components Ltd",
+        "headline": "Press Release- Company along with its JV''s secures multi-year orders worth over Rs. 1000 Crores.",
+        "announcedAt": "2026-02-06T08:32:11.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/talbros-automotive-components-ltd/talbroauto/505160/",
+        "rawTime": "2026-02-06T08:32:11.647"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-06T09:17:32.672+05:30",
+    "checksum": "2179ad965e75462767584a8ad5d96bdaa3941b04ba7642cdc2ccd4562f507d5e",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-06/awards-091732.json"
+  }
+}

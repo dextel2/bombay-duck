@@ -18,17 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-05 IST)
+### Today's Awarded Orders (2026-02-06 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-05 15:00 | RDB Real Estate Constructions Ltd | 544346 | The Company has been awarded with a Tender for a Service Provider for Management of a Premium Parking Location Developed by Municipal Corporation Bhopal. ([Link](https://www.bseindia.com/stock-share-price/rdb-real-estate-constructions-ltd/rrecl/544346/)) | Likely Positive | 05 Feb 2026 - 15:40 |
-| 2026-02-05 14:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding the receipt of purchase order from Welspun Tubular LLC, USA. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 05 Feb 2026 - 14:55 |
-| 2026-02-05 12:00 | Lancor Holdings Ltd | 509048 | Disclosure under Reg 30 LODR ([Link](https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/)) | Neutral | 05 Feb 2026 - 12:48 |
-| 2026-02-05 11:00 | Siyaram Recycling Industries Ltd | 544047 | Receipt of Order worth Rs. 4.03 Crore ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 05 Feb 2026 - 11:35 |
-| 2026-02-05 09:00 | Concord Control Systems Ltd | 543619 | Intimation of order of KAVACH ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 05 Feb 2026 - 09:59 |
+| 2026-02-06 08:00 | Talbros Automotive Components Ltd | 505160 | Press Release- Company along with its JV''s secures multi-year orders worth over Rs. 1000 Crores. ([Link](https://www.bseindia.com/stock-share-price/talbros-automotive-components-ltd/talbroauto/505160/)) | Likely Positive | 06 Feb 2026 - 08:32 |
 
-_Last updated: 05 Feb 2026 - 15:44 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-05.json)_
+_Last updated: 06 Feb 2026 - 09:17 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
 
 <!-- snapshot:end -->
 
