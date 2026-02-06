@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-02-06 08:00 | Talbros Automotive Components Ltd | 505160 | Press Release- Company along with its JV''s secures multi-year orders worth over Rs. 1000 Crores. ([Link](https://www.bseindia.com/stock-share-price/talbros-automotive-components-ltd/talbroauto/505160/)) | Likely Positive | 06 Feb 2026 - 08:32 |
 
-_Last updated: 06 Feb 2026 - 10:53 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
+_Last updated: 06 Feb 2026 - 11:46 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
 
 <!-- snapshot:end -->
 
