@@ -34,6 +34,15 @@
     ],
     "2026-02-06T13": [
       {
+        "newsId": "4b951885-2827-4356-b3eb-924295cd8de5",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015",
+        "announcedAt": "2026-02-06T13:42:14.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-02-06T13:42:14.73"
+      },
+      {
         "newsId": "d274afff-3dc1-44fa-80f5-5922366eebb2",
         "scripCode": 505075,
         "shortName": "Setco Automotive Ltd",
@@ -45,11 +54,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-06T13:41:26.917+05:30",
-    "checksum": "141034d6e6135f3c56690a93010be22bf82b5ac8258e815e165e29d33fcc1b9a",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-06T14:45:09.961+05:30",
+    "checksum": "8c94316d603cb8ce724fff52e2374940370a91c5d1d26e835e7545dd4c214851",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-06/awards-134126.json"
+    "rawPayloadPath": "data/raw/2026-02-06/awards-144509.json"
   }
 }
