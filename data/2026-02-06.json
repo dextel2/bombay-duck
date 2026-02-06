@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/talbros-automotive-components-ltd/talbroauto/505160/",
         "rawTime": "2026-02-06T08:32:11.647"
       }
+    ],
+    "2026-02-06T12": [
+      {
+        "newsId": "92e1578a-af25-4c49-8b53-e1a38acbc5f6",
+        "scripCode": 544458,
+        "shortName": "Shree Refrigerations Ltd",
+        "headline": "Pursuant to the provisions of regulation 30 read with sub para B, Part A, Schedule III of SEBI(LODR) Regulations, 2015, we hereby submit the disclosure regarding the order received from ....",
+        "announcedAt": "2026-02-06T12:32:35.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
+        "rawTime": "2026-02-06T12:32:35.65"
+      },
+      {
+        "newsId": "afac88cd-5598-4d1d-b43d-9bf9ca592e0e",
+        "scripCode": 544042,
+        "shortName": "Bajel Projects Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Bagging of order for Transmission",
+        "announcedAt": "2026-02-06T12:05:44.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
+        "rawTime": "2026-02-06T12:05:44.043"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-06T11:46:57.096+05:30",
-    "checksum": "2179ad965e75462767584a8ad5d96bdaa3941b04ba7642cdc2ccd4562f507d5e",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-06T12:48:56.275+05:30",
+    "checksum": "dd04cd61314e08f6262c826722d268076ca6583f86e5006c313b9dd056f8fd29",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-06/awards-114656.json"
+    "rawPayloadPath": "data/raw/2026-02-06/awards-124855.json"
   }
 }

@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-06 12:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of regulation 30 read with sub para B, Part A, Schedule III of SEBI(LODR) Regulations, 2015, we hereby submit the disclosure regarding the order received from .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 06 Feb 2026 - 12:32 |
+| 2026-02-06 12:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of order for Transmission ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 06 Feb 2026 - 12:05 |
 | 2026-02-06 08:00 | Talbros Automotive Components Ltd | 505160 | Press Release- Company along with its JV''s secures multi-year orders worth over Rs. 1000 Crores. ([Link](https://www.bseindia.com/stock-share-price/talbros-automotive-components-ltd/talbroauto/505160/)) | Likely Positive | 06 Feb 2026 - 08:32 |
 
-_Last updated: 06 Feb 2026 - 11:46 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
+_Last updated: 06 Feb 2026 - 12:48 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-06.json)_
 
 <!-- snapshot:end -->
 
