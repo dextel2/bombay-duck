@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-07 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-07 14:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH USD 89980 RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 07 Feb 2026 - 14:29 |
+| 2026-02-07 14:00 | Indobell Insulations Ltd | 544334 | New Export Order worth 85975 USD Received ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 07 Feb 2026 - 14:09 |
 
-_Last updated: 07 Feb 2026 - 13:35 | Entries: 0 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-07.json)_
+_Last updated: 07 Feb 2026 - 14:36 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-07.json)_
 
 <!-- snapshot:end -->
 

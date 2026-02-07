@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-02-07",
-  "buckets": {},
+  "buckets": {
+    "2026-02-07T14": [
+      {
+        "newsId": "9304fa35-ce7a-4059-a99c-3a72d768ac1b",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH USD 89980 RECEIVED",
+        "announcedAt": "2026-02-07T14:29:20.517+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-02-07T14:29:20.517"
+      },
+      {
+        "newsId": "3db49b8f-b926-4d04-8ab1-320f9cfb6e53",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Export Order worth 85975 USD Received",
+        "announcedAt": "2026-02-07T14:09:53.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-02-07T14:09:53.77"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-07T13:35:15.160+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-07T14:36:57.675+05:30",
+    "checksum": "441c84a4de6026977c757b6bdcaa74c1274862305600c53bd848dbd30f43cc4a",
+    "totalAnnouncements": 2,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-07/awards-133514.json"
+    "rawPayloadPath": "data/raw/2026-02-07/awards-143656.json"
   }
 }
