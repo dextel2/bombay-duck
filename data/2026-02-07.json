@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-02-07T14:09:53.77"
       }
+    ],
+    "2026-02-07T15": [
+      {
+        "newsId": "6e411816-60e1-4252-90b8-b8b829f3b552",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Northern ....",
+        "announcedAt": "2026-02-07T15:30:13.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-02-07T15:30:13.263"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-07T14:36:57.675+05:30",
-    "checksum": "441c84a4de6026977c757b6bdcaa74c1274862305600c53bd848dbd30f43cc4a",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-07T15:34:06.272+05:30",
+    "checksum": "587694a7de8cee7409bc4e2d24bce8cc8aafd3695de6c8c03c9bbd6b3f7b4803",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-07/awards-143656.json"
+    "rawPayloadPath": "data/raw/2026-02-07/awards-153405.json"
   }
 }
