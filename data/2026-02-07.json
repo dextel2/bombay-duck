@@ -2,11 +2,11 @@
   "tradingDate": "2026-02-07",
   "buckets": {},
   "meta": {
-    "lastUpdated": "2026-02-07T10:01:19.618+05:30",
+    "lastUpdated": "2026-02-07T10:47:15.115+05:30",
     "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "totalAnnouncements": 0,
-    "requestCount": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-07/awards-100119.json"
+    "rawPayloadPath": "data/raw/2026-02-07/awards-104714.json"
   }
 }
