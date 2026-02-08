@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-07 IST)
+### Today's Awarded Orders (2026-02-08 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-02-07 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Northern .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 07 Feb 2026 - 15:30 |
-| 2026-02-07 14:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH USD 89980 RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 07 Feb 2026 - 14:29 |
-| 2026-02-07 14:00 | Indobell Insulations Ltd | 544334 | New Export Order worth 85975 USD Received ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 07 Feb 2026 - 14:09 |
+_No award announcements have been captured yet today._
 
-_Last updated: 07 Feb 2026 - 15:34 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-07.json)_
+_Last updated: 08 Feb 2026 - 09:29 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-08.json)_
 
 <!-- snapshot:end -->
 
