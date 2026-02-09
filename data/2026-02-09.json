@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-09",
+  "buckets": {
+    "2026-02-09T09": [
+      {
+        "newsId": "bb66dc30-aa64-4d05-9d65-54f1be6dbbdf",
+        "scripCode": 532395,
+        "shortName": "Axiscades Technologies Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order",
+        "announcedAt": "2026-02-09T09:03:43.087+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
+        "rawTime": "2026-02-09T09:03:43.087"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-09T09:23:32.439+05:30",
+    "checksum": "064366385a522704a077778d1e9d30723e3a786191f0cdc3fbb9acbc79b4e220",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-09/awards-092331.json"
+  }
+}
