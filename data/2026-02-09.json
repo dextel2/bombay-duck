@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-02-09T12:03:49.197"
       }
+    ],
+    "2026-02-09T15": [
+      {
+        "newsId": "d2b76d5c-6753-4670-a5a4-cb8a528e9b31",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "RECEIVED A NEW DOMESTIC ORDER WORTH RS 1,23,76,119.91",
+        "announcedAt": "2026-02-09T15:31:42.573+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-02-09T15:31:42.573"
+      },
+      {
+        "newsId": "37fae2fd-48f1-48ed-b230-bb6b28b3c9ef",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work/orders received during the week ended February 07, 2026",
+        "announcedAt": "2026-02-09T15:22:42.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-02-09T15:22:42.207"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-09T14:49:53.967+05:30",
-    "checksum": "e61b86f1bcdec6256eaeedcb27ab5b8749ee2cd40a6fb8cd3564d5d2ff9f69f0",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-09T15:52:28.824+05:30",
+    "checksum": "4874335601e65e9508bcff40d3b2ed154007f96a28c15d126c076ac95acbfaae",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-09/awards-144953.json"
+    "rawPayloadPath": "data/raw/2026-02-09/awards-155228.json"
   }
 }

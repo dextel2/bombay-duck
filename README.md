@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-09 15:00 | Indobell Insulations Ltd | 544334 | RECEIVED A NEW DOMESTIC ORDER WORTH RS 1,23,76,119.91 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 09 Feb 2026 - 15:31 |
+| 2026-02-09 15:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/orders received during the week ended February 07, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 09 Feb 2026 - 15:22 |
 | 2026-02-09 12:00 | Brahmaputra Infrastructure Ltd | 535693 | LOA recieved of an total amount Rs. 466.27 Million ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Feb 2026 - 12:03 |
 | 2026-02-09 09:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 09 Feb 2026 - 09:03 |
 
-_Last updated: 09 Feb 2026 - 14:49 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-09.json)_
+_Last updated: 09 Feb 2026 - 15:52 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-09.json)_
 
 <!-- snapshot:end -->
 
