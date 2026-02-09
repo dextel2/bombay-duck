@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
         "rawTime": "2026-02-09T09:03:43.087"
       }
+    ],
+    "2026-02-09T12": [
+      {
+        "newsId": "fdd78b2b-1003-4849-99ba-e015dd1fd414",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "LOA recieved of an total amount Rs. 466.27 Million",
+        "announcedAt": "2026-02-09T12:03:49.197+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-02-09T12:03:49.197"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-09T11:53:38.193+05:30",
-    "checksum": "064366385a522704a077778d1e9d30723e3a786191f0cdc3fbb9acbc79b4e220",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-09T12:54:26.575+05:30",
+    "checksum": "e61b86f1bcdec6256eaeedcb27ab5b8749ee2cd40a6fb8cd3564d5d2ff9f69f0",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-09/awards-115337.json"
+    "rawPayloadPath": "data/raw/2026-02-09/awards-125425.json"
   }
 }
