@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-09 12:00 | Brahmaputra Infrastructure Ltd | 535693 | LOA recieved of an total amount Rs. 466.27 Million ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Feb 2026 - 12:03 |
 | 2026-02-09 09:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 09 Feb 2026 - 09:03 |
 
-_Last updated: 09 Feb 2026 - 12:54 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-09.json)_
+_Last updated: 09 Feb 2026 - 13:43 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-09.json)_
 
 <!-- snapshot:end -->
 
