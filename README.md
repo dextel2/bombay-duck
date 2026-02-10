@@ -31,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-10 08:00 | ACME Solar Holdings Ltd | 544283 | Receipt of Letter of Award (LOA) ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Likely Positive | 10 Feb 2026 - 08:44 |
 | 2026-02-10 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Domestic Order for Lab Grown Polished Diamonds Amounting to Rs. 10 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 10 Feb 2026 - 08:35 |
 
-_Last updated: 10 Feb 2026 - 12:54 | Entries: 8 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-10.json)_
+_Last updated: 10 Feb 2026 - 13:44 | Entries: 8 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-10.json)_
 
 <!-- snapshot:end -->
 
