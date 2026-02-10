@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
         "rawTime": "2026-02-10T10:56:19.003"
       }
+    ],
+    "2026-02-10T11": [
+      {
+        "newsId": "17766071-1dd4-47d5-9c51-140008cc519a",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a Purchase order worth Rs. 23,01,00,000/- (incl GST) (Rupees Twenty Three crores and one lakh only ) from Datta Power Infra Private Limited.",
+        "announcedAt": "2026-02-10T11:53:43.113+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-02-10T11:53:43.113"
+      },
+      {
+        "newsId": "f1b72e56-1804-4637-8a01-a1607394fab7",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement Euronet Services India Private Limited",
+        "announcedAt": "2026-02-10T11:41:02.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-02-10T11:41:02.94"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-10T11:01:22.453+05:30",
-    "checksum": "2f6a6a56204a50bbbdbd4ed75d8b962e0e5cd6a4e03ae238c9e740d684fef7f8",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-10T11:54:00.532+05:30",
+    "checksum": "d2eb23c46043e767d425014febe8e8527ecf15a70fc4a8e9ed7c87c816bc6658",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-10/awards-110121.json"
+    "rawPayloadPath": "data/raw/2026-02-10/awards-115359.json"
   }
 }
