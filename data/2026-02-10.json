@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-02-10T08:35:00.97"
       }
+    ],
+    "2026-02-10T10": [
+      {
+        "newsId": "b461f9c5-1635-4040-81ed-eb65429fbf34",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Central Railway.",
+        "announcedAt": "2026-02-10T10:56:19.003+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-02-10T10:56:19.003"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-10T10:22:29.899+05:30",
-    "checksum": "79f677ab94639c51386e480924b8da968fa4446d463f144e13f30f9c19d42565",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-10T11:01:22.453+05:30",
+    "checksum": "2f6a6a56204a50bbbdbd4ed75d8b962e0e5cd6a4e03ae238c9e740d684fef7f8",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-10/awards-102229.json"
+    "rawPayloadPath": "data/raw/2026-02-10/awards-110121.json"
   }
 }

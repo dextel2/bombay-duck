@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-10 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Central Railway. ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 10 Feb 2026 - 10:56 |
 | 2026-02-10 09:00 | MIC Electronics Ltd | 532850 | The company has received a letter of acceptance from the Firozpur division of Indian Railways. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 10 Feb 2026 - 09:06 |
 | 2026-02-10 08:00 | ACME Solar Holdings Ltd | 544283 | Receipt of Letter of Award (LOA) ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Likely Positive | 10 Feb 2026 - 08:44 |
 | 2026-02-10 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Domestic Order for Lab Grown Polished Diamonds Amounting to Rs. 10 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 10 Feb 2026 - 08:35 |
 
-_Last updated: 10 Feb 2026 - 10:22 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-10.json)_
+_Last updated: 10 Feb 2026 - 11:01 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-10.json)_
 
 <!-- snapshot:end -->
 
