@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-02-10",
+  "buckets": {
+    "2026-02-10T09": [
+      {
+        "newsId": "df354558-2e3c-45eb-9d76-e02dcb2dfb25",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "The company has received a letter of acceptance from the Firozpur division of Indian Railways.",
+        "announcedAt": "2026-02-10T09:06:17.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2026-02-10T09:06:17.47"
+      }
+    ],
+    "2026-02-10T08": [
+      {
+        "newsId": "e590aabe-1e9f-4523-84be-5d5fc20d7adb",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Receipt of Letter of Award (LOA)",
+        "announcedAt": "2026-02-10T08:44:38.700+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-02-10T08:44:38.7"
+      },
+      {
+        "newsId": "48c52d2d-8906-4d04-b5f8-20571551c780",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of Domestic Order for Lab Grown Polished Diamonds Amounting to Rs. 10 Crores",
+        "announcedAt": "2026-02-10T08:35:00.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-02-10T08:35:00.97"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-10T09:27:53.293+05:30",
+    "checksum": "79f677ab94639c51386e480924b8da968fa4446d463f144e13f30f9c19d42565",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-10/awards-092752.json"
+  }
+}

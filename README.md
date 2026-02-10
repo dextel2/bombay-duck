@@ -18,16 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-09 IST)
+### Today's Awarded Orders (2026-02-10 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-09 15:00 | Indobell Insulations Ltd | 544334 | RECEIVED A NEW DOMESTIC ORDER WORTH RS 1,23,76,119.91 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 09 Feb 2026 - 15:31 |
-| 2026-02-09 15:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/orders received during the week ended February 07, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 09 Feb 2026 - 15:22 |
-| 2026-02-09 12:00 | Brahmaputra Infrastructure Ltd | 535693 | LOA recieved of an total amount Rs. 466.27 Million ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Feb 2026 - 12:03 |
-| 2026-02-09 09:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 09 Feb 2026 - 09:03 |
+| 2026-02-10 09:00 | MIC Electronics Ltd | 532850 | The company has received a letter of acceptance from the Firozpur division of Indian Railways. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 10 Feb 2026 - 09:06 |
+| 2026-02-10 08:00 | ACME Solar Holdings Ltd | 544283 | Receipt of Letter of Award (LOA) ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Likely Positive | 10 Feb 2026 - 08:44 |
+| 2026-02-10 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Domestic Order for Lab Grown Polished Diamonds Amounting to Rs. 10 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 10 Feb 2026 - 08:35 |
 
-_Last updated: 09 Feb 2026 - 15:52 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-09.json)_
+_Last updated: 10 Feb 2026 - 09:27 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-10.json)_
 
 <!-- snapshot:end -->
 
