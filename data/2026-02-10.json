@@ -62,14 +62,34 @@
         "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
         "rawTime": "2026-02-10T11:41:02.94"
       }
+    ],
+    "2026-02-10T12": [
+      {
+        "newsId": "28171684-3388-4251-852a-939bf6f37a5c",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 and the relevant amendment thereto from time to time, we would like to inform you that ....",
+        "announcedAt": "2026-02-10T12:50:36.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-02-10T12:50:36.543"
+      },
+      {
+        "newsId": "f4602ab1-2ffb-4608-babe-a8703e10f092",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Transportation Infrastructure Vertical Wins Road Development Contract in Dubai",
+        "announcedAt": "2026-02-10T12:00:17.707+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-02-10T12:00:17.707"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-10T11:54:00.532+05:30",
-    "checksum": "d2eb23c46043e767d425014febe8e8527ecf15a70fc4a8e9ed7c87c816bc6658",
-    "totalAnnouncements": 6,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-10T12:54:31.064+05:30",
+    "checksum": "9fb7e3f44b2fbaa2ce336748defcccdc335e7ed3a9657a8b202e541ff96e9172",
+    "totalAnnouncements": 8,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-10/awards-115359.json"
+    "rawPayloadPath": "data/raw/2026-02-10/awards-125430.json"
   }
 }
