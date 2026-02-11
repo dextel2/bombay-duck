@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-11",
+  "buckets": {
+    "2026-02-11T09": [
+      {
+        "newsId": "c0faf332-23f6-4408-8d48-b2882903d4ea",
+        "scripCode": 517271,
+        "shortName": "HBL Engineering Ltd-$",
+        "headline": "HBL has received letter of acceptance from Banaras Locomotive Works, Varanasi for supply, testing and commissioning of on-board Kavach Equipment (ver4.0) worth Rs.800.36 Crs.",
+        "announcedAt": "2026-02-11T09:09:39.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
+        "rawTime": "2026-02-11T09:09:39.51"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-11T09:26:23.336+05:30",
+    "checksum": "2f43f5696e03794c9625c4a061ae942236062715f0624d22ffd5862e50b6a5e5",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-11/awards-092622.json"
+  }
+}
