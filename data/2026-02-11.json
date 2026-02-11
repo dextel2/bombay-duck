@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
         "rawTime": "2026-02-11T09:09:39.51"
       }
+    ],
+    "2026-02-11T10": [
+      {
+        "newsId": "aa3294b5-6f6d-49d4-a344-c185e06a7e17",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "We wish to inform you that the company has received a letter of acceptance from the Howrah Division.",
+        "announcedAt": "2026-02-11T10:53:39.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2026-02-11T10:53:39.023"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-11T10:17:04.158+05:30",
-    "checksum": "bda280e6a137d6b84a5dc7bb24f2c6545cebde8c15b423fe8e96fc3996193c3d",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-11T11:00:45.136+05:30",
+    "checksum": "47cbe5681c74ecf57ab89ea88243a564ae80791451506f6759e35a2e4799d57e",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-11/awards-101703.json"
+    "rawPayloadPath": "data/raw/2026-02-11/awards-110044.json"
   }
 }
