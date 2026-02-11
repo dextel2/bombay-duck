@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-11 09:00 | Quadrant Future Tek Ltd | 544336 | Intimation of Receipt of Offer from BLW for installation of KAVACH 4.0 worth Rs. 181.56 Crores ([Link](https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/)) | Likely Positive | 11 Feb 2026 - 09:56 |
 | 2026-02-11 09:00 | HBL Engineering Ltd-$ | 517271 | HBL has received letter of acceptance from Banaras Locomotive Works, Varanasi for supply, testing and commissioning of on-board Kavach Equipment (ver4.0) worth Rs.800.36 Crs. ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Neutral | 11 Feb 2026 - 09:09 |
 
-_Last updated: 11 Feb 2026 - 09:26 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-11.json)_
+_Last updated: 11 Feb 2026 - 10:17 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-11.json)_
 
 <!-- snapshot:end -->
 
