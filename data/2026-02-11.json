@@ -31,14 +31,52 @@
         "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
         "rawTime": "2026-02-11T10:53:39.023"
       }
+    ],
+    "2026-02-11T12": [
+      {
+        "newsId": "a59d21f5-bbc0-4120-b0d5-99a9a6682375",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 17,48,760 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation, 2015",
+        "announcedAt": "2026-02-11T12:28:05.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-11T12:28:05.143"
+      },
+      {
+        "newsId": "7c0f198d-e241-4f56-955a-bb0410a1b1db",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 34,05,267.60 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation, 2015",
+        "announcedAt": "2026-02-11T12:18:36.357+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-11T12:18:36.357"
+      },
+      {
+        "newsId": "96057d4d-b2ec-49f9-993c-83b48abf86cf",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 1,88,53,332 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation, 2015",
+        "announcedAt": "2026-02-11T12:13:44.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-11T12:13:44.61"
+      },
+      {
+        "newsId": "21bd1c43-82d4-4dac-8fb1-41fbdbe8759e",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.122.58 Cr from M/s. NewSpace India Limited",
+        "announcedAt": "2026-02-11T12:04:01.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-02-11T12:04:01.57"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-11T11:53:12.497+05:30",
-    "checksum": "47cbe5681c74ecf57ab89ea88243a564ae80791451506f6759e35a2e4799d57e",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-11T12:52:44.457+05:30",
+    "checksum": "aca5e5d21b1df1717f8ee86c14c6991d145c75c0b86c678ec0d2ab16e76bd393",
+    "totalAnnouncements": 7,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-11/awards-115311.json"
+    "rawPayloadPath": "data/raw/2026-02-11/awards-125243.json"
   }
 }

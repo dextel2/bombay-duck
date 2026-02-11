@@ -22,11 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-11 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 17,48,760 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 11 Feb 2026 - 12:28 |
+| 2026-02-11 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 34,05,267.60 Pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 11 Feb 2026 - 12:18 |
+| 2026-02-11 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 1,88,53,332 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 11 Feb 2026 - 12:13 |
+| 2026-02-11 12:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.122.58 Cr from M/s. NewSpace India Limited ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 11 Feb 2026 - 12:04 |
 | 2026-02-11 10:00 | MIC Electronics Ltd | 532850 | We wish to inform you that the company has received a letter of acceptance from the Howrah Division. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 11 Feb 2026 - 10:53 |
 | 2026-02-11 09:00 | Quadrant Future Tek Ltd | 544336 | Intimation of Receipt of Offer from BLW for installation of KAVACH 4.0 worth Rs. 181.56 Crores ([Link](https://www.bseindia.com/stock-share-price/quadrant-future-tek-ltd/quadfuture/544336/)) | Likely Positive | 11 Feb 2026 - 09:56 |
 | 2026-02-11 09:00 | HBL Engineering Ltd-$ | 517271 | HBL has received letter of acceptance from Banaras Locomotive Works, Varanasi for supply, testing and commissioning of on-board Kavach Equipment (ver4.0) worth Rs.800.36 Crs. ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Neutral | 11 Feb 2026 - 09:09 |
 
-_Last updated: 11 Feb 2026 - 11:53 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-11.json)_
+_Last updated: 11 Feb 2026 - 12:52 | Entries: 7 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-11.json)_
 
 <!-- snapshot:end -->
 
