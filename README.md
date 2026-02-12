@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-12 15:00 | CESC Ltd | 500084 | Purvah Green Power Private Limited , a subsidiary of CESC Limited has today duly acknowledged the receipt and acceptance of the Letter of Award issued by Solar Energy Corporation of India Limited. ([Link](https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/)) | Likely Positive | 12 Feb 2026 - 15:39 |
 | 2026-02-12 10:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Rebel Foods Private Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 12 Feb 2026 - 10:05 |
 | 2026-02-12 08:00 | Ceigall India Ltd | 544223 | Ceigall Infra Projects Private Limited, a wholly owned subsidiary of the Company has received Letter of Award (LOA) dated 11th February 2026 from National Highways Authority of India ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 12 Feb 2026 - 08:26 |
 
-_Last updated: 12 Feb 2026 - 14:46 | Entries: 2 | Requests: 7 | Retries: 1 | [Raw JSON](data/2026-02-12.json)_
+_Last updated: 12 Feb 2026 - 15:45 | Entries: 3 | Requests: 8 | Retries: 1 | [Raw JSON](data/2026-02-12.json)_
 
 <!-- snapshot:end -->
 

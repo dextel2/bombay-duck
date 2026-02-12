@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
         "rawTime": "2026-02-12T10:05:53.403"
       }
+    ],
+    "2026-02-12T15": [
+      {
+        "newsId": "ed18f1a6-867c-43f8-b164-80b6d5fa34d3",
+        "scripCode": 500084,
+        "shortName": "CESC Ltd",
+        "headline": "Purvah Green Power Private Limited , a subsidiary of CESC Limited has today duly acknowledged the receipt and acceptance of the Letter of Award issued by Solar Energy Corporation of India Limited.",
+        "announcedAt": "2026-02-12T15:39:54.557+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/",
+        "rawTime": "2026-02-12T15:39:54.557"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-12T14:46:20.708+05:30",
-    "checksum": "e877aef7ac8fe675da891ad935decfcda8635990f70a8a6c029004ca1c7b5f74",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-12T15:45:55.673+05:30",
+    "checksum": "3405b7c8f7fb8635aaed51c94b1794ee68f86f21112ca1ee8be8bc4192202a4f",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 1,
-    "rawPayloadPath": "data/raw/2026-02-12/awards-144620.json"
+    "rawPayloadPath": "data/raw/2026-02-12/awards-154555.json"
   }
 }
