@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-12",
+  "buckets": {
+    "2026-02-12T08": [
+      {
+        "newsId": "be3b1593-0016-4bb3-b8b8-294c0288ebda",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "Ceigall Infra Projects Private Limited, a wholly owned subsidiary of the Company has received Letter of Award (LOA) dated 11th February 2026 from National Highways Authority of India",
+        "announcedAt": "2026-02-12T08:26:35.620+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-02-12T08:26:35.62"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-12T09:23:35.524+05:30",
+    "checksum": "264726fcf58934eb074e05dd54cde971a33e759605e5f82cb930fa88d60d3d4e",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-12/awards-092334.json"
+  }
+}
