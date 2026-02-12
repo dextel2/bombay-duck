@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-12 10:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Rebel Foods Private Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 12 Feb 2026 - 10:05 |
 | 2026-02-12 08:00 | Ceigall India Ltd | 544223 | Ceigall Infra Projects Private Limited, a wholly owned subsidiary of the Company has received Letter of Award (LOA) dated 11th February 2026 from National Highways Authority of India ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 12 Feb 2026 - 08:26 |
 
-_Last updated: 12 Feb 2026 - 09:23 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-12.json)_
+_Last updated: 12 Feb 2026 - 10:09 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-12.json)_
 
 <!-- snapshot:end -->
 

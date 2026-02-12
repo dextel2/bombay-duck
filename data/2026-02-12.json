@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-02-12T08:26:35.62"
       }
+    ],
+    "2026-02-12T10": [
+      {
+        "newsId": "20921d60-cc2a-4a65-8566-fd46038eceb8",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Rebel Foods Private Limited.",
+        "announcedAt": "2026-02-12T10:05:53.403+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-02-12T10:05:53.403"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-12T09:23:35.524+05:30",
-    "checksum": "264726fcf58934eb074e05dd54cde971a33e759605e5f82cb930fa88d60d3d4e",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-12T10:09:26.714+05:30",
+    "checksum": "e877aef7ac8fe675da891ad935decfcda8635990f70a8a6c029004ca1c7b5f74",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-12/awards-092334.json"
+    "rawPayloadPath": "data/raw/2026-02-12/awards-100926.json"
   }
 }
