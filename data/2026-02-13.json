@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-13",
-  "buckets": {},
+  "buckets": {
+    "2026-02-13T09": [
+      {
+        "newsId": "3bfcd6aa-9333-4ba3-be4a-84fd68a2e419",
+        "scripCode": 532740,
+        "shortName": "Lokesh Machines Ltd",
+        "headline": "Nil",
+        "announcedAt": "2026-02-13T09:49:34.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/",
+        "rawTime": "2026-02-13T09:49:34.31"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-13T09:20:09.653+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-13T10:08:10.884+05:30",
+    "checksum": "79e97607904697ccc2bebb7b2cde1b1448987738e3a31d56af72b54ff3392f9c",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-13/awards-092009.json"
+    "rawPayloadPath": "data/raw/2026-02-13/awards-100810.json"
   }
 }

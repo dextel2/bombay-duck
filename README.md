@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-13 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-13 09:00 | Lokesh Machines Ltd | 532740 | Nil ([Link](https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/)) | Neutral | 13 Feb 2026 - 09:49 |
 
-_Last updated: 13 Feb 2026 - 09:20 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-13.json)_
+_Last updated: 13 Feb 2026 - 10:08 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-13.json)_
 
 <!-- snapshot:end -->
 
