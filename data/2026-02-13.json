@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/",
         "rawTime": "2026-02-13T09:49:34.31"
       }
+    ],
+    "2026-02-13T10": [
+      {
+        "newsId": "ac832585-c5f8-4690-b1e1-3fe5b2001928",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order from Stride Infraa for Project MAHSR C4 located at Vapi Gujrat worth amounting Rs. 2,53,09,000.",
+        "announcedAt": "2026-02-13T10:27:08.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-02-13T10:27:08.72"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-13T10:08:10.884+05:30",
-    "checksum": "79e97607904697ccc2bebb7b2cde1b1448987738e3a31d56af72b54ff3392f9c",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-13T10:58:14.627+05:30",
+    "checksum": "3b3f04a89f261d408f25c01068de936e0d45f571065d5c0931fbf5d098e9a3f2",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-13/awards-100810.json"
+    "rawPayloadPath": "data/raw/2026-02-13/awards-105813.json"
   }
 }
