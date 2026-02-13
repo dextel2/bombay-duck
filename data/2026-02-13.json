@@ -44,14 +44,25 @@
         "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
         "rawTime": "2026-02-13T13:56:43.457"
       }
+    ],
+    "2026-02-13T14": [
+      {
+        "newsId": "698ab76b-5cf1-40ca-bb91-8ee1094534a8",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of Receipt of Work Order",
+        "announcedAt": "2026-02-13T14:54:19.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-02-13T14:54:19.843"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-13T14:45:03.380+05:30",
-    "checksum": "ab8b63e2c65a1e3ce4345d9b6df4ccb6e0be98564d6349af0b3e9f97d6924b97",
-    "totalAnnouncements": 4,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-13T15:43:47.439+05:30",
+    "checksum": "9e2bdfe0af04db30f3046cbea71ee17c15ea4f6f1a12807e56f18ef9f738e241",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-13/awards-144502.json"
+    "rawPayloadPath": "data/raw/2026-02-13/awards-154346.json"
   }
 }
