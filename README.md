@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-13 10:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Stride Infraa for Project MAHSR C4 located at Vapi Gujrat worth amounting Rs. 2,53,09,000. ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 13 Feb 2026 - 10:27 |
 | 2026-02-13 09:00 | Lokesh Machines Ltd | 532740 | Nil ([Link](https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/)) | Neutral | 13 Feb 2026 - 09:49 |
 
-_Last updated: 13 Feb 2026 - 12:51 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-13.json)_
+_Last updated: 13 Feb 2026 - 13:42 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-13.json)_
 
 <!-- snapshot:end -->
 
