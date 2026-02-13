@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2026-02-13T11:33:25.097"
       }
+    ],
+    "2026-02-13T13": [
+      {
+        "newsId": "8650cf5a-f99b-4d20-8276-c20ad98d8f77",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of Order from UPPTCL",
+        "announcedAt": "2026-02-13T13:56:43.457+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-02-13T13:56:43.457"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-13T13:42:34.454+05:30",
-    "checksum": "179890c51a3fd4eae0ac7b80a10ec78fa9ddbab190e5c7fe17be14e7ee346cc7",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-13T14:45:03.380+05:30",
+    "checksum": "ab8b63e2c65a1e3ce4345d9b6df4ccb6e0be98564d6349af0b3e9f97d6924b97",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-13/awards-134233.json"
+    "rawPayloadPath": "data/raw/2026-02-13/awards-144502.json"
   }
 }
