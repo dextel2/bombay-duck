@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-13 11:00 | Dilip Buildcon Ltd | 540047 | We are pleased to inform you that Dilip Buildcon Limited has been selected as the successful for securing 'Authorization to Lay, Built, Operate, or Expand Petroleum or Petroleum Product .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 13 Feb 2026 - 11:33 |
 | 2026-02-13 10:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Stride Infraa for Project MAHSR C4 located at Vapi Gujrat worth amounting Rs. 2,53,09,000. ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 13 Feb 2026 - 10:27 |
 | 2026-02-13 09:00 | Lokesh Machines Ltd | 532740 | Nil ([Link](https://www.bseindia.com/stock-share-price/lokesh-machines-ltd/lokeshmach/532740/)) | Neutral | 13 Feb 2026 - 09:49 |
 
-_Last updated: 13 Feb 2026 - 10:58 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-13.json)_
+_Last updated: 13 Feb 2026 - 11:50 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-13.json)_
 
 <!-- snapshot:end -->
 

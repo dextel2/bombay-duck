@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
         "rawTime": "2026-02-13T10:27:08.72"
       }
+    ],
+    "2026-02-13T11": [
+      {
+        "newsId": "cb95dfe9-24da-4feb-b79a-88ad978f5bf1",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "We are pleased to inform you that Dilip Buildcon Limited has been selected as the successful for securing 'Authorization to Lay, Built, Operate, or Expand Petroleum or Petroleum Product ....",
+        "announcedAt": "2026-02-13T11:33:25.097+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-02-13T11:33:25.097"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-13T10:58:14.627+05:30",
-    "checksum": "3b3f04a89f261d408f25c01068de936e0d45f571065d5c0931fbf5d098e9a3f2",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-13T11:50:13.221+05:30",
+    "checksum": "179890c51a3fd4eae0ac7b80a10ec78fa9ddbab190e5c7fe17be14e7ee346cc7",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-13/awards-105813.json"
+    "rawPayloadPath": "data/raw/2026-02-13/awards-115012.json"
   }
 }
