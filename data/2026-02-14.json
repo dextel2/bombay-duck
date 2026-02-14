@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/",
         "rawTime": "2026-02-14T12:32:20.22"
       }
+    ],
+    "2026-02-14T14": [
+      {
+        "newsId": "0871cfc9-cc93-41d1-9a96-e7ddca23a599",
+        "scripCode": 532856,
+        "shortName": "Time Technoplast Ltd",
+        "headline": "First trial order of Rs. 2.30 Crore (approx.) received for supply of Type IV Composite Hydrogen Storage Systems for a Public Sector Undertaking (PSU) through an Engineering, Procurement ....",
+        "announcedAt": "2026-02-14T14:42:34.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/",
+        "rawTime": "2026-02-14T14:42:34.217"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-14T14:37:29.364+05:30",
-    "checksum": "cdf22c445b0e96b695ca4c41337b9846a0270e84f49cce933dfd41d0419a5049",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-14T15:34:29.110+05:30",
+    "checksum": "584c898d621cb94961db4ac131c7e85810037f70a4768cf6bfb3919aec1a7024",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-14/awards-143728.json"
+    "rawPayloadPath": "data/raw/2026-02-14/awards-153428.json"
   }
 }
