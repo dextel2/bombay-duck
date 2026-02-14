@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
         "rawTime": "2026-02-14T09:21:24.81"
       }
+    ],
+    "2026-02-14T12": [
+      {
+        "newsId": "9b53e2de-301f-452b-942f-f7362672f085",
+        "scripCode": 517546,
+        "shortName": "Alfa Transformers Ltd",
+        "headline": "The Company has received award Best performer-Supply of Distribution Transformers from TP Northern Odisha Distribution Ltd, a TATA Power and Odisha Government Joint Venture.",
+        "announcedAt": "2026-02-14T12:32:20.220+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/",
+        "rawTime": "2026-02-14T12:32:20.22"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-14T11:42:42.190+05:30",
-    "checksum": "2f131e74c9e1b3ffc924fe5b92f45d46480a024f10565b2491ab03d6f62a9ada",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-14T12:44:23.060+05:30",
+    "checksum": "cdf22c445b0e96b695ca4c41337b9846a0270e84f49cce933dfd41d0419a5049",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-14/awards-114241.json"
+    "rawPayloadPath": "data/raw/2026-02-14/awards-124422.json"
   }
 }

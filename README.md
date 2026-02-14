@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-14 12:00 | Alfa Transformers Ltd | 517546 | The Company has received award Best performer-Supply of Distribution Transformers from TP Northern Odisha Distribution Ltd, a TATA Power and Odisha Government Joint Venture. ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Neutral | 14 Feb 2026 - 12:32 |
 | 2026-02-14 09:00 | Ashoka Buildcon Ltd | 533271 | Receipt of letter of award from Ministry of Public Works, Liberia ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Likely Positive | 14 Feb 2026 - 09:21 |
 
-_Last updated: 14 Feb 2026 - 11:42 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-14.json)_
+_Last updated: 14 Feb 2026 - 12:44 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-14.json)_
 
 <!-- snapshot:end -->
 
