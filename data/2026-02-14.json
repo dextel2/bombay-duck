@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-14",
-  "buckets": {},
+  "buckets": {
+    "2026-02-14T09": [
+      {
+        "newsId": "d2ffe2f2-a352-420e-9968-94807068e6a8",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Receipt of letter of award from Ministry of Public Works, Liberia",
+        "announcedAt": "2026-02-14T09:21:24.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-02-14T09:21:24.81"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-14T09:16:19.701+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-14T10:02:03.982+05:30",
+    "checksum": "2f131e74c9e1b3ffc924fe5b92f45d46480a024f10565b2491ab03d6f62a9ada",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-14/awards-091619.json"
+    "rawPayloadPath": "data/raw/2026-02-14/awards-100203.json"
   }
 }

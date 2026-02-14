@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-14 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-14 09:00 | Ashoka Buildcon Ltd | 533271 | Receipt of letter of award from Ministry of Public Works, Liberia ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Likely Positive | 14 Feb 2026 - 09:21 |
 
-_Last updated: 14 Feb 2026 - 09:16 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-14.json)_
+_Last updated: 14 Feb 2026 - 10:02 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-14.json)_
 
 <!-- snapshot:end -->
 
