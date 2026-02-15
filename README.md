@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-14 IST)
+### Today's Awarded Orders (2026-02-15 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-14 14:00 | Time Technoplast Ltd | 532856 | First trial order of Rs. 2.30 Crore (approx.) received for supply of Type IV Composite Hydrogen Storage Systems for a Public Sector Undertaking (PSU) through an Engineering, Procurement .... ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 14 Feb 2026 - 14:42 |
-| 2026-02-14 12:00 | Alfa Transformers Ltd | 517546 | The Company has received award Best performer-Supply of Distribution Transformers from TP Northern Odisha Distribution Ltd, a TATA Power and Odisha Government Joint Venture. ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Neutral | 14 Feb 2026 - 12:32 |
-| 2026-02-14 09:00 | Ashoka Buildcon Ltd | 533271 | Receipt of letter of award from Ministry of Public Works, Liberia ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Likely Positive | 14 Feb 2026 - 09:21 |
+| 2026-02-15 00:00 | Gujarat Kidney and Super Speciality Ltd | 544666 | Intimation under Regulation 30 under LODR regulation 2015, we would like to inform you that, we received order from NCLT Ahmedabad under section 131 of the Companies Act 2013. ([Link](https://www.bseindia.com/stock-share-price/gujarat-kidney-and-super-speciality-ltd/gksl/544666/)) | Likely Positive | 15 Feb 2026 - 00:36 |
 
-_Last updated: 14 Feb 2026 - 15:34 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-14.json)_
+_Last updated: 15 Feb 2026 - 09:21 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-15.json)_
 
 <!-- snapshot:end -->
 

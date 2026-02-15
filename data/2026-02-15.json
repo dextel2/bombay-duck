@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-15",
+  "buckets": {
+    "2026-02-15T00": [
+      {
+        "newsId": "6e4ae721-53a1-4665-8bae-cd5d1c69b580",
+        "scripCode": 544666,
+        "shortName": "Gujarat Kidney and Super Speciality Ltd",
+        "headline": "Intimation under Regulation 30 under LODR regulation 2015, we would like to inform you that, we received order from NCLT Ahmedabad under section 131 of the Companies Act 2013.",
+        "announcedAt": "2026-02-15T00:36:17.740+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-kidney-and-super-speciality-ltd/gksl/544666/",
+        "rawTime": "2026-02-15T00:36:17.74"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-15T09:21:07.563+05:30",
+    "checksum": "0182f8b216cf4202a7cb67bf71348d7e2fb8652d91414a00cf7f8065fe2e27ef",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-15/awards-092107.json"
+  }
+}
