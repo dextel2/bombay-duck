@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2026-02-16T08:43:15.85"
       }
+    ],
+    "2026-02-16T11": [
+      {
+        "newsId": "8652cf8b-4427-4b02-848e-21fa0b754f74",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order from South Western Railway",
+        "announcedAt": "2026-02-16T11:31:38.407+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-02-16T11:31:38.407"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-16T11:00:46.527+05:30",
-    "checksum": "03a6708bf524876a91d693335ec24731bb2f00afe48020e7e27b3a029faa7f34",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-16T11:52:38.135+05:30",
+    "checksum": "213689eb33599f1f3e352cf11901cd20b0fcab028a89473c05ac5cf40fbcabcb",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-16/awards-110046.json"
+    "rawPayloadPath": "data/raw/2026-02-16/awards-115237.json"
   }
 }
