@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-16 11:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order from South Western Railway ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 16 Feb 2026 - 11:31 |
 | 2026-02-16 08:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for PO Order of KP Group Totaling of Rs. 40.43 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 16 Feb 2026 - 08:43 |
 
-_Last updated: 16 Feb 2026 - 13:42 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-16.json)_
+_Last updated: 16 Feb 2026 - 14:47 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-16.json)_
 
 <!-- snapshot:end -->
 
