@@ -18,13 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-15 IST)
+### Today's Awarded Orders (2026-02-16 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-15 00:00 | Gujarat Kidney and Super Speciality Ltd | 544666 | Intimation under Regulation 30 under LODR regulation 2015, we would like to inform you that, we received order from NCLT Ahmedabad under section 131 of the Companies Act 2013. ([Link](https://www.bseindia.com/stock-share-price/gujarat-kidney-and-super-speciality-ltd/gksl/544666/)) | Likely Positive | 15 Feb 2026 - 00:36 |
+| 2026-02-16 08:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for PO Order of KP Group Totaling of Rs. 40.43 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 16 Feb 2026 - 08:43 |
 
-_Last updated: 15 Feb 2026 - 15:34 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-15.json)_
+_Last updated: 16 Feb 2026 - 09:21 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-16.json)_
 
 <!-- snapshot:end -->
 

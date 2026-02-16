@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-16",
+  "buckets": {
+    "2026-02-16T08": [
+      {
+        "newsId": "48b9cc0b-31b5-4584-82e9-c969c18e9c3f",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation to BSE for PO Order of KP Group Totaling of Rs. 40.43 Cr",
+        "announcedAt": "2026-02-16T08:43:15.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-02-16T08:43:15.85"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-16T09:21:37.604+05:30",
+    "checksum": "03a6708bf524876a91d693335ec24731bb2f00afe48020e7e27b3a029faa7f34",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-16/awards-092136.json"
+  }
+}
