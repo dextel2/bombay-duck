@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-16 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 2,04,00,831.00 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Feb 2026 - 12:38 |
 | 2026-02-16 11:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order from South Western Railway ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 16 Feb 2026 - 11:31 |
 | 2026-02-16 08:00 | Desco Infratech Ltd | 544387 | Intimation to BSE for PO Order of KP Group Totaling of Rs. 40.43 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 16 Feb 2026 - 08:43 |
 
-_Last updated: 16 Feb 2026 - 11:52 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-16.json)_
+_Last updated: 16 Feb 2026 - 12:53 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-16.json)_
 
 <!-- snapshot:end -->
 

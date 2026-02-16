@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-02-16T11:31:38.407"
       }
+    ],
+    "2026-02-16T12": [
+      {
+        "newsId": "fc18f0bc-141e-42d9-871b-b7c4146e9c7d",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 2,04,00,831.00 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015",
+        "announcedAt": "2026-02-16T12:38:04.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-02-16T12:38:04.07"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-16T11:52:38.135+05:30",
-    "checksum": "213689eb33599f1f3e352cf11901cd20b0fcab028a89473c05ac5cf40fbcabcb",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-16T12:53:39.496+05:30",
+    "checksum": "7dd0e1d2704ff0d6699984caf38232fbdd1f4e07b35de7d6fa9e80785a09143c",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-16/awards-115237.json"
+    "rawPayloadPath": "data/raw/2026-02-16/awards-125338.json"
   }
 }
