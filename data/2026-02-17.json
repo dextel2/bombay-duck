@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-17",
-  "buckets": {},
+  "buckets": {
+    "2026-02-17T09": [
+      {
+        "newsId": "10d11e4c-c7a6-4527-899f-ea866a79fec1",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are please to inform you that the Company has been awarded the letter of award from National Highways Authority of India at Balenahalli fee plaza.",
+        "announcedAt": "2026-02-17T09:40:02.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-02-17T09:40:02.803"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-17T09:18:39.690+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-17T10:06:17.428+05:30",
+    "checksum": "cd48c83807676f8ccb9484d355844fcd2753f635f1a5271d88074119c7724407",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-17/awards-091839.json"
+    "rawPayloadPath": "data/raw/2026-02-17/awards-100616.json"
   }
 }

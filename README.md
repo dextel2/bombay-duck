@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-17 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-17 09:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are please to inform you that the Company has been awarded the letter of award from National Highways Authority of India at Balenahalli fee plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 17 Feb 2026 - 09:40 |
 
-_Last updated: 17 Feb 2026 - 09:18 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
+_Last updated: 17 Feb 2026 - 10:06 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
 
 <!-- snapshot:end -->
 
