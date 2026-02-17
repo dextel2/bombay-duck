@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-17 14:00 | G R Infraprojects Ltd | 543317 | G R Infraprojects Limited has received Letter of Acceptance for a project. ([Link](https://www.bseindia.com/stock-share-price/g-r-infraprojects-ltd/grinfra/543317/)) | Neutral | 17 Feb 2026 - 14:29 |
+| 2026-02-17 14:00 | Premier Polyfilm Ltd | 514354 | Please find enclosed herewith Disclosure under REG 30 on Reg 23(9) for your reference. ([Link](https://www.bseindia.com/stock-share-price/premier-polyfilm-ltd/premierpol/514354/)) | Neutral | 17 Feb 2026 - 14:22 |
+| 2026-02-17 14:00 | KNR Constructions Ltd | 532942 | Intimation of receipt of LOA ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 17 Feb 2026 - 14:07 |
 | 2026-02-17 12:00 | Refex Industries Ltd | 532884 | Bagging of Order for Material Handling and Transit Operations for Bulk Commodity Material ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Feb 2026 - 12:38 |
 | 2026-02-17 09:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are please to inform you that the Company has been awarded the letter of award from National Highways Authority of India at Balenahalli fee plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 17 Feb 2026 - 09:40 |
 
-_Last updated: 17 Feb 2026 - 13:42 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
+_Last updated: 17 Feb 2026 - 14:46 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
 
 <!-- snapshot:end -->
 

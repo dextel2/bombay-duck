@@ -22,14 +22,43 @@
         "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
         "rawTime": "2026-02-17T12:38:47.79"
       }
+    ],
+    "2026-02-17T14": [
+      {
+        "newsId": "a829bf56-adf4-47e8-b930-7de1956c67d7",
+        "scripCode": 543317,
+        "shortName": "G R Infraprojects Ltd",
+        "headline": "G R Infraprojects Limited has received Letter of Acceptance for a project.",
+        "announcedAt": "2026-02-17T14:29:59.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/g-r-infraprojects-ltd/grinfra/543317/",
+        "rawTime": "2026-02-17T14:29:59.143"
+      },
+      {
+        "newsId": "ecde1849-58f5-4ec9-bbe6-e243d8404391",
+        "scripCode": 514354,
+        "shortName": "Premier Polyfilm Ltd",
+        "headline": "Please find enclosed herewith Disclosure under REG 30 on Reg 23(9) for your reference.",
+        "announcedAt": "2026-02-17T14:22:32.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/premier-polyfilm-ltd/premierpol/514354/",
+        "rawTime": "2026-02-17T14:22:32.29"
+      },
+      {
+        "newsId": "d7ed4272-591d-4129-8043-0704a59119ce",
+        "scripCode": 532942,
+        "shortName": "KNR Constructions Ltd",
+        "headline": "Intimation of receipt of LOA",
+        "announcedAt": "2026-02-17T14:07:03.250+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
+        "rawTime": "2026-02-17T14:07:03.25"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-17T13:42:37.388+05:30",
-    "checksum": "86bdfda985a4d78f98d8af34082bd254d7ca24e52676eee303ad896f57cefb14",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-17T14:46:15.365+05:30",
+    "checksum": "3bd71e81b4f10213e031500b2e9b44f80d4f8fc4a3cd0814fa29ea32e0dcbcce",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-17/awards-134236.json"
+    "rawPayloadPath": "data/raw/2026-02-17/awards-144614.json"
   }
 }
