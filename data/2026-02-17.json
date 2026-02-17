@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
         "rawTime": "2026-02-17T14:07:03.25"
       }
+    ],
+    "2026-02-17T15": [
+      {
+        "newsId": "613984a6-957d-42f2-aa8e-06f672c13764",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Plesae find press release for order bagged by the Company worth Rs. 1201.36 Crore.",
+        "announcedAt": "2026-02-17T15:08:07.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-02-17T15:08:07.4"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-17T14:46:15.365+05:30",
-    "checksum": "3bd71e81b4f10213e031500b2e9b44f80d4f8fc4a3cd0814fa29ea32e0dcbcce",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-17T15:45:59.903+05:30",
+    "checksum": "c719a9bab57952ca7d287cb5fd2d1ce25fccfd02d890dd737f839f9325ae6cb1",
+    "totalAnnouncements": 6,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-17/awards-144614.json"
+    "rawPayloadPath": "data/raw/2026-02-17/awards-154559.json"
   }
 }
