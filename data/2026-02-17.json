@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
         "rawTime": "2026-02-17T09:40:02.803"
       }
+    ],
+    "2026-02-17T12": [
+      {
+        "newsId": "847b463c-16bc-42e6-9c10-0f939c591f72",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Bagging of Order for Material Handling and Transit Operations for Bulk Commodity Material",
+        "announcedAt": "2026-02-17T12:38:47.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-02-17T12:38:47.79"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-17T11:49:25.802+05:30",
-    "checksum": "cd48c83807676f8ccb9484d355844fcd2753f635f1a5271d88074119c7724407",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-17T12:51:12.281+05:30",
+    "checksum": "86bdfda985a4d78f98d8af34082bd254d7ca24e52676eee303ad896f57cefb14",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-17/awards-114925.json"
+    "rawPayloadPath": "data/raw/2026-02-17/awards-125111.json"
   }
 }

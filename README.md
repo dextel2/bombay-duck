@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-17 12:00 | Refex Industries Ltd | 532884 | Bagging of Order for Material Handling and Transit Operations for Bulk Commodity Material ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Feb 2026 - 12:38 |
 | 2026-02-17 09:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are please to inform you that the Company has been awarded the letter of award from National Highways Authority of India at Balenahalli fee plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 17 Feb 2026 - 09:40 |
 
-_Last updated: 17 Feb 2026 - 11:49 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
+_Last updated: 17 Feb 2026 - 12:51 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
 
 <!-- snapshot:end -->
 
