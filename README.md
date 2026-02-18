@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-18 12:00 | Power Mech Projects Ltd | 539302 | Please find the enclosed ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 18 Feb 2026 - 12:18 |
 | 2026-02-18 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that the comapny ahs received a new contract of Rs. 1943307.67 from Indian Railways, Sourthern Railways, Ministry of Railways. For more details kindly refer attached file. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 18 Feb 2026 - 11:29 |
 
-_Last updated: 18 Feb 2026 - 11:51 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-18.json)_
+_Last updated: 18 Feb 2026 - 12:51 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-18.json)_
 
 <!-- snapshot:end -->
 

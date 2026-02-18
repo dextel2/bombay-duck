@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-02-18T11:29:59.463"
       }
+    ],
+    "2026-02-18T12": [
+      {
+        "newsId": "493266df-a210-4a3a-a222-ba364b93a642",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please find the enclosed",
+        "announcedAt": "2026-02-18T12:18:26.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-02-18T12:18:26.12"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-18T11:51:50.500+05:30",
-    "checksum": "c124d538ae0db2aa800d18d656d7e1cb33223bb57ed7ea9046bb72acdc930055",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-18T12:51:34.849+05:30",
+    "checksum": "dfae28c5fe31931d0196fa359cdf89a31fd0fbd206a9241ef0a907dd57f64bbb",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-18/awards-115149.json"
+    "rawPayloadPath": "data/raw/2026-02-18/awards-125134.json"
   }
 }
