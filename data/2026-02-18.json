@@ -22,14 +22,61 @@
         "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
         "rawTime": "2026-02-18T12:18:26.12"
       }
+    ],
+    "2026-02-18T15": [
+      {
+        "newsId": "95e2053c-5192-476b-b368-8f51d5a960bc",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new work order of Rs. 300 Crores",
+        "announcedAt": "2026-02-18T15:33:09.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2026-02-18T15:33:09.543"
+      },
+      {
+        "newsId": "59531b55-cb93-49fd-b95c-96530cae3f22",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Airfloa Rail Technology Ltd in receipt of new Order value of Rs.11.78 Crores",
+        "announcedAt": "2026-02-18T15:08:12.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-02-18T15:08:12.24"
+      },
+      {
+        "newsId": "c930078e-b034-4b9f-bb6b-8344f3fab42f",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of Receipt of Work orders by Dhabriya Polywood Limited and it''s wholly owned subsidiary company i.e. Dynasty Modular Furnitures Private Limited.",
+        "announcedAt": "2026-02-18T15:04:36.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-02-18T15:04:36.033"
+      },
+      {
+        "newsId": "de2133e1-44df-4bb0-8d8a-69625c27f3af",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-02-18T15:01:56.627+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-02-18T15:01:56.627"
+      },
+      {
+        "newsId": "52581361-1c64-4d88-98c3-7a049e576a8b",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Acceptance (LOA) from Northern Railway",
+        "announcedAt": "2026-02-18T15:01:19.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-02-18T15:01:19.123"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-18T14:45:45.889+05:30",
-    "checksum": "dfae28c5fe31931d0196fa359cdf89a31fd0fbd206a9241ef0a907dd57f64bbb",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-18T15:45:13.697+05:30",
+    "checksum": "2183d64f12a730c05bd4ace890aeac3d47afa7792f7d404df81eca5a1f3acbb6",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-18/awards-144545.json"
+    "rawPayloadPath": "data/raw/2026-02-18/awards-154513.json"
   }
 }
