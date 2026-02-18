@@ -18,18 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-17 IST)
+### Today's Awarded Orders (2026-02-18 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-02-17 15:00 | GPT Infraprojects Ltd | 533761 | Plesae find press release for order bagged by the Company worth Rs. 1201.36 Crore. ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 17 Feb 2026 - 15:08 |
-| 2026-02-17 14:00 | G R Infraprojects Ltd | 543317 | G R Infraprojects Limited has received Letter of Acceptance for a project. ([Link](https://www.bseindia.com/stock-share-price/g-r-infraprojects-ltd/grinfra/543317/)) | Neutral | 17 Feb 2026 - 14:29 |
-| 2026-02-17 14:00 | Premier Polyfilm Ltd | 514354 | Please find enclosed herewith Disclosure under REG 30 on Reg 23(9) for your reference. ([Link](https://www.bseindia.com/stock-share-price/premier-polyfilm-ltd/premierpol/514354/)) | Neutral | 17 Feb 2026 - 14:22 |
-| 2026-02-17 14:00 | KNR Constructions Ltd | 532942 | Intimation of receipt of LOA ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 17 Feb 2026 - 14:07 |
-| 2026-02-17 12:00 | Refex Industries Ltd | 532884 | Bagging of Order for Material Handling and Transit Operations for Bulk Commodity Material ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 17 Feb 2026 - 12:38 |
-| 2026-02-17 09:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are please to inform you that the Company has been awarded the letter of award from National Highways Authority of India at Balenahalli fee plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 17 Feb 2026 - 09:40 |
+_No award announcements have been captured yet today._
 
-_Last updated: 17 Feb 2026 - 15:45 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-17.json)_
+_Last updated: 18 Feb 2026 - 09:19 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-18.json)_
 
 <!-- snapshot:end -->
 
