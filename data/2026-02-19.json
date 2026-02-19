@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-02-19T09:56:01.037"
       }
+    ],
+    "2026-02-19T10": [
+      {
+        "newsId": "871af39c-9ce4-4ca0-80a9-e2b9185baa18",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation for Receipt of work order.",
+        "announcedAt": "2026-02-19T10:43:46.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-02-19T10:43:46.47"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-19T10:06:39.855+05:30",
-    "checksum": "2d0090e15a78929674b8981da4f5a30a6963895e3aa34df0c16306b67c5aa585",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-19T10:57:46.816+05:30",
+    "checksum": "bd56e9b8f0c2a9bf42cf143a2ee151fe04ef07c0be8a5399f308fa2ad838f398",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-19/awards-100639.json"
+    "rawPayloadPath": "data/raw/2026-02-19/awards-105746.json"
   }
 }
