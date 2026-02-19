@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
         "rawTime": "2026-02-19T10:43:46.47"
       }
+    ],
+    "2026-02-19T11": [
+      {
+        "newsId": "a76716d9-b124-4bc5-a766-d4b6303f20cf",
+        "scripCode": 540519,
+        "shortName": "Meera Industries Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-02-19T11:29:18.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/",
+        "rawTime": "2026-02-19T11:29:18.21"
+      },
+      {
+        "newsId": "da448d08-6ae6-464c-be75-c541a30f07c9",
+        "scripCode": 533284,
+        "shortName": "R P P Infra Projects Ltd",
+        "headline": "The Company has received the new work order from Water Resources Department, Tamil Nadu for Rs.52,17,05,486",
+        "announcedAt": "2026-02-19T11:06:16.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/",
+        "rawTime": "2026-02-19T11:06:16.85"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-19T10:57:46.816+05:30",
-    "checksum": "bd56e9b8f0c2a9bf42cf143a2ee151fe04ef07c0be8a5399f308fa2ad838f398",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-19T11:51:11.921+05:30",
+    "checksum": "0d974b93f5361f79e6d08726f2d287cc023d80d9802ff2440c8dc99499ac1930",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-19/awards-105746.json"
+    "rawPayloadPath": "data/raw/2026-02-19/awards-115111.json"
   }
 }

@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-19 11:00 | Meera Industries Ltd | 540519 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/)) | Likely Positive | 19 Feb 2026 - 11:29 |
+| 2026-02-19 11:00 | R P P Infra Projects Ltd | 533284 | The Company has received the new work order from Water Resources Department, Tamil Nadu for Rs.52,17,05,486 ([Link](https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/)) | Likely Positive | 19 Feb 2026 - 11:06 |
 | 2026-02-19 10:00 | Dhabriya Polywood Ltd | 538715 | Intimation for Receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 19 Feb 2026 - 10:43 |
 | 2026-02-19 09:00 | ITCONS E-Solutions Ltd | 543806 | We are plaesed to inform tat our company has received a new contract from Uranium Corporation of India LImited, Department of Atomic Energy, PMO of Rs. 4314220.86. For more details refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 19 Feb 2026 - 09:56 |
 | 2026-02-19 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 19 Feb 2026 - 08:43 |
 | 2026-02-19 08:00 | Atishay Ltd | 538713 | The Company has received additional work order for printing of PVC Ayushman Cards by the Government of Maharashtra, State Health Assurance Society, order value Rs. 33.67 Lakhs. For more .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 19 Feb 2026 - 08:16 |
 
-_Last updated: 19 Feb 2026 - 10:57 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
+_Last updated: 19 Feb 2026 - 11:51 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
 
 <!-- snapshot:end -->
 
