@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
         "rawTime": "2026-02-19T08:16:08.407"
       }
+    ],
+    "2026-02-19T09": [
+      {
+        "newsId": "47b3049d-dc23-4155-a528-35873c3405d3",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are plaesed to inform tat our company has received a new contract from Uranium Corporation of India LImited, Department of Atomic Energy, PMO of Rs. 4314220.86. For more details refer attached file",
+        "announcedAt": "2026-02-19T09:56:01.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-02-19T09:56:01.037"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-19T09:19:14.414+05:30",
-    "checksum": "29d272d16301216e8c1efcbe3fc03ea2b41d0c2b4759daa235bae51d53325595",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-19T10:06:39.855+05:30",
+    "checksum": "2d0090e15a78929674b8981da4f5a30a6963895e3aa34df0c16306b67c5aa585",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-19/awards-091913.json"
+    "rawPayloadPath": "data/raw/2026-02-19/awards-100639.json"
   }
 }

@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-19 09:00 | ITCONS E-Solutions Ltd | 543806 | We are plaesed to inform tat our company has received a new contract from Uranium Corporation of India LImited, Department of Atomic Energy, PMO of Rs. 4314220.86. For more details refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 19 Feb 2026 - 09:56 |
 | 2026-02-19 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 19 Feb 2026 - 08:43 |
 | 2026-02-19 08:00 | Atishay Ltd | 538713 | The Company has received additional work order for printing of PVC Ayushman Cards by the Government of Maharashtra, State Health Assurance Society, order value Rs. 33.67 Lakhs. For more .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 19 Feb 2026 - 08:16 |
 
-_Last updated: 19 Feb 2026 - 09:19 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
+_Last updated: 19 Feb 2026 - 10:06 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
 
 <!-- snapshot:end -->
 
