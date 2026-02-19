@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/",
         "rawTime": "2026-02-19T11:06:16.85"
       }
+    ],
+    "2026-02-19T14": [
+      {
+        "newsId": "67a60603-1db6-4908-a93f-ca4130cc6680",
+        "scripCode": 543916,
+        "shortName": "Hemant Surgical Industries Ltd",
+        "headline": "Intimation of receipt of purchase order from Central Medical Services Society, Ministry of Health and Family Welfare (Government of India).",
+        "announcedAt": "2026-02-19T14:03:16.013+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hemant-surgical-industries-ltd/hsil/543916/",
+        "rawTime": "2026-02-19T14:03:16.013"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-19T13:41:54.002+05:30",
-    "checksum": "0d974b93f5361f79e6d08726f2d287cc023d80d9802ff2440c8dc99499ac1930",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-19T14:45:17.228+05:30",
+    "checksum": "c2230b1198497d84585d1b08cfb62fbbbd14d463c8ebab82f49f28f6960406d5",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-19/awards-134153.json"
+    "rawPayloadPath": "data/raw/2026-02-19/awards-144516.json"
   }
 }
