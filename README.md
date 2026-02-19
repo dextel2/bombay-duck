@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-19 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 19 Feb 2026 - 08:43 |
 | 2026-02-19 08:00 | Atishay Ltd | 538713 | The Company has received additional work order for printing of PVC Ayushman Cards by the Government of Maharashtra, State Health Assurance Society, order value Rs. 33.67 Lakhs. For more .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 19 Feb 2026 - 08:16 |
 
-_Last updated: 19 Feb 2026 - 12:51 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
+_Last updated: 19 Feb 2026 - 13:41 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
 
 <!-- snapshot:end -->
 
