@@ -73,14 +73,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hemant-surgical-industries-ltd/hsil/543916/",
         "rawTime": "2026-02-19T14:03:16.013"
       }
+    ],
+    "2026-02-19T15": [
+      {
+        "newsId": "2b81f59c-dc2a-4a2b-8b79-489b6c9cde04",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that Company has received fresh order amounting to Rs. 2.58/- crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-02-19T15:42:31.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-02-19T15:42:31.68"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-19T14:45:17.228+05:30",
-    "checksum": "c2230b1198497d84585d1b08cfb62fbbbd14d463c8ebab82f49f28f6960406d5",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-19T15:45:08.365+05:30",
+    "checksum": "4d6b397fdab41add429fd3193c2a5545162a2e9c0574c2be5e4331f8de98b039",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-19/awards-144516.json"
+    "rawPayloadPath": "data/raw/2026-02-19/awards-154507.json"
   }
 }
