@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-02-19",
+  "buckets": {
+    "2026-02-19T08": [
+      {
+        "newsId": "88f30f39-bb3b-40fe-9a25-c623c401c231",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Execution of Power Purchase Agreement",
+        "announcedAt": "2026-02-19T08:43:00.457+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-02-19T08:43:00.457"
+      },
+      {
+        "newsId": "fb9d87b7-352d-4d49-a1f7-e211239a326c",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has received additional work order for printing of PVC Ayushman Cards by the Government of Maharashtra, State Health Assurance Society, order value Rs. 33.67 Lakhs. For more ....",
+        "announcedAt": "2026-02-19T08:16:08.407+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-02-19T08:16:08.407"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-19T09:19:14.414+05:30",
+    "checksum": "29d272d16301216e8c1efcbe3fc03ea2b41d0c2b4759daa235bae51d53325595",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-19/awards-091913.json"
+  }
+}

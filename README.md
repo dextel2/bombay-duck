@@ -18,19 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-18 IST)
+### Today's Awarded Orders (2026-02-19 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-18 15:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new work order of Rs. 300 Crores ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 18 Feb 2026 - 15:33 |
-| 2026-02-18 15:00 | Airfloa Rail Technology Ltd | 544516 | Airfloa Rail Technology Ltd in receipt of new Order value of Rs.11.78 Crores ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 18 Feb 2026 - 15:08 |
-| 2026-02-18 15:00 | Dhabriya Polywood Ltd | 538715 | Intimation of Receipt of Work orders by Dhabriya Polywood Limited and it''s wholly owned subsidiary company i.e. Dynasty Modular Furnitures Private Limited. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 18 Feb 2026 - 15:04 |
-| 2026-02-18 15:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 18 Feb 2026 - 15:01 |
-| 2026-02-18 15:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Acceptance (LOA) from Northern Railway ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 18 Feb 2026 - 15:01 |
-| 2026-02-18 12:00 | Power Mech Projects Ltd | 539302 | Please find the enclosed ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 18 Feb 2026 - 12:18 |
-| 2026-02-18 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that the comapny ahs received a new contract of Rs. 1943307.67 from Indian Railways, Sourthern Railways, Ministry of Railways. For more details kindly refer attached file. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 18 Feb 2026 - 11:29 |
+| 2026-02-19 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 19 Feb 2026 - 08:43 |
+| 2026-02-19 08:00 | Atishay Ltd | 538713 | The Company has received additional work order for printing of PVC Ayushman Cards by the Government of Maharashtra, State Health Assurance Society, order value Rs. 33.67 Lakhs. For more .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 19 Feb 2026 - 08:16 |
 
-_Last updated: 18 Feb 2026 - 15:45 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-18.json)_
+_Last updated: 19 Feb 2026 - 09:19 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-19.json)_
 
 <!-- snapshot:end -->
 
