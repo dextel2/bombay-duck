@@ -40,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/",
         "rawTime": "2026-02-20T13:11:39.94"
       }
+    ],
+    "2026-02-20T14": [
+      {
+        "newsId": "f85cd910-802a-4f59-9b95-c16920fd502b",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of receipt of order for Electrical & Mechanical Manpower Services",
+        "announcedAt": "2026-02-20T14:42:05.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-02-20T14:42:05.983"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-20T13:41:33.346+05:30",
-    "checksum": "e3e7d74a101ff0c204f20d9ada60fdb18e6fd29841593bc1099c8dd22a520ebc",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-20T14:42:59.262+05:30",
+    "checksum": "2c622ad97b0416821265e6d4a0d4acb8b9d5a8079ef64099da34b766d066ddd4",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-20/awards-134132.json"
+    "rawPayloadPath": "data/raw/2026-02-20/awards-144258.json"
   }
 }
