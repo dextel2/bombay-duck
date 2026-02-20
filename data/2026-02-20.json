@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-02-20",
-  "buckets": {},
+  "buckets": {
+    "2026-02-20T12": [
+      {
+        "newsId": "3e46830f-7743-4824-8b06-a0f0d403e82c",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "Disclosure under Regulations 30 of SEBI (LODR) Regulations 2015",
+        "announcedAt": "2026-02-20T12:43:58.390+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-02-20T12:43:58.39"
+      },
+      {
+        "newsId": "9a659335-a1ba-4edc-b382-c294c24ae36d",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are plaesed to inform that the Company has received new contract from Basic Education Department, Uttar Prdesh of Rs. 22497238.61. For more details, plaese refer attached file",
+        "announcedAt": "2026-02-20T12:05:04.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-02-20T12:05:04.93"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-20T11:47:24.224+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-20T12:49:41.494+05:30",
+    "checksum": "5aea582fd4343c827110dad49c0e0c110c85c94ed9ae2df3ee1090a0259c079c",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-20/awards-114723.json"
+    "rawPayloadPath": "data/raw/2026-02-20/awards-124940.json"
   }
 }
