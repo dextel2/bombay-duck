@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-20 13:00 | Icon Facilitators Ltd | 544426 | Intimation of receipt of order for Technical Manpower Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 20 Feb 2026 - 13:26 |
+| 2026-02-20 13:00 | Artson Ltd | 522134 | Receipt of Letter of Commitment / Award - details enclosed. ([Link](https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/)) | Likely Positive | 20 Feb 2026 - 13:11 |
 | 2026-02-20 12:00 | Dee Development Engineers Ltd | 544198 | Disclosure under Regulations 30 of SEBI (LODR) Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Neutral | 20 Feb 2026 - 12:43 |
 | 2026-02-20 12:00 | ITCONS E-Solutions Ltd | 543806 | We are plaesed to inform that the Company has received new contract from Basic Education Department, Uttar Prdesh of Rs. 22497238.61. For more details, plaese refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 20 Feb 2026 - 12:05 |
 
-_Last updated: 20 Feb 2026 - 12:49 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-20.json)_
+_Last updated: 20 Feb 2026 - 13:41 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-20.json)_
 
 <!-- snapshot:end -->
 

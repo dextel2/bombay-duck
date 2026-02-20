@@ -20,14 +20,34 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-02-20T12:05:04.93"
       }
+    ],
+    "2026-02-20T13": [
+      {
+        "newsId": "3f0871de-c83e-4580-80a7-bbdcb449eb7a",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of receipt of order for Technical Manpower Services",
+        "announcedAt": "2026-02-20T13:26:53.407+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-02-20T13:26:53.407"
+      },
+      {
+        "newsId": "b12c8e81-3a6e-453a-82f7-1a4959965af8",
+        "scripCode": 522134,
+        "shortName": "Artson Ltd",
+        "headline": "Receipt of Letter of Commitment / Award - details enclosed.",
+        "announcedAt": "2026-02-20T13:11:39.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/",
+        "rawTime": "2026-02-20T13:11:39.94"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-20T12:49:41.494+05:30",
-    "checksum": "5aea582fd4343c827110dad49c0e0c110c85c94ed9ae2df3ee1090a0259c079c",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-20T13:41:33.346+05:30",
+    "checksum": "e3e7d74a101ff0c204f20d9ada60fdb18e6fd29841593bc1099c8dd22a520ebc",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-20/awards-124940.json"
+    "rawPayloadPath": "data/raw/2026-02-20/awards-134132.json"
   }
 }
