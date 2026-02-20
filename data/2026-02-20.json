@@ -43,6 +43,15 @@
     ],
     "2026-02-20T14": [
       {
+        "newsId": "a9144ca4-e161-48cd-913c-b1026bae1cf7",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We wish to infrom you that the Company has been received work order from Tata Steel Limited for Design, Engineering and Construction, and handing over of OPR and NOPR colony at TSSIJ, ....",
+        "announcedAt": "2026-02-20T14:59:51.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-02-20T14:59:51.803"
+      },
+      {
         "newsId": "f85cd910-802a-4f59-9b95-c16920fd502b",
         "scripCode": 544426,
         "shortName": "Icon Facilitators Ltd",
@@ -51,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
         "rawTime": "2026-02-20T14:42:05.983"
       }
+    ],
+    "2026-02-20T15": [
+      {
+        "newsId": "e2de0508-db27-4256-8fcf-d091d582b15a",
+        "scripCode": 533284,
+        "shortName": "R P P Infra Projects Ltd",
+        "headline": "The Company has received a new work order from Sports Development Authority of Tamil Nadu for Rs. 205,89,14,000",
+        "announcedAt": "2026-02-20T15:03:07.773+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/",
+        "rawTime": "2026-02-20T15:03:07.773"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-20T14:42:59.262+05:30",
-    "checksum": "2c622ad97b0416821265e6d4a0d4acb8b9d5a8079ef64099da34b766d066ddd4",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-20T15:41:31.027+05:30",
+    "checksum": "f26c215b6e5757f63917d31150c78d945ed52271ebb8c494522724142c38c3dc",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-20/awards-144258.json"
+    "rawPayloadPath": "data/raw/2026-02-20/awards-154130.json"
   }
 }

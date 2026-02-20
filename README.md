@@ -22,13 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-20 15:00 | R P P Infra Projects Ltd | 533284 | The Company has received a new work order from Sports Development Authority of Tamil Nadu for Rs. 205,89,14,000 ([Link](https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/)) | Likely Positive | 20 Feb 2026 - 15:03 |
+| 2026-02-20 14:00 | Hazoor Multi Projects Ltd-$ | 532467 | We wish to infrom you that the Company has been received work order from Tata Steel Limited for Design, Engineering and Construction, and handing over of OPR and NOPR colony at TSSIJ, .... ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 20 Feb 2026 - 14:59 |
 | 2026-02-20 14:00 | Icon Facilitators Ltd | 544426 | Intimation of receipt of order for Electrical & Mechanical Manpower Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 20 Feb 2026 - 14:42 |
 | 2026-02-20 13:00 | Icon Facilitators Ltd | 544426 | Intimation of receipt of order for Technical Manpower Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 20 Feb 2026 - 13:26 |
 | 2026-02-20 13:00 | Artson Ltd | 522134 | Receipt of Letter of Commitment / Award - details enclosed. ([Link](https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/)) | Likely Positive | 20 Feb 2026 - 13:11 |
 | 2026-02-20 12:00 | Dee Development Engineers Ltd | 544198 | Disclosure under Regulations 30 of SEBI (LODR) Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Neutral | 20 Feb 2026 - 12:43 |
 | 2026-02-20 12:00 | ITCONS E-Solutions Ltd | 543806 | We are plaesed to inform that the Company has received new contract from Basic Education Department, Uttar Prdesh of Rs. 22497238.61. For more details, plaese refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 20 Feb 2026 - 12:05 |
 
-_Last updated: 20 Feb 2026 - 14:42 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-20.json)_
+_Last updated: 20 Feb 2026 - 15:41 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-20.json)_
 
 <!-- snapshot:end -->
 
