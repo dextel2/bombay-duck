@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-02-21T12:15:33.013"
       }
+    ],
+    "2026-02-21T13": [
+      {
+        "newsId": "2fa339f7-670a-493a-be3d-2aec4a7f5c5e",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of Order",
+        "announcedAt": "2026-02-21T13:42:16.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-02-21T13:42:16.4"
+      },
+      {
+        "newsId": "ada96112-0590-4f91-a80f-86045ba03d15",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of Order",
+        "announcedAt": "2026-02-21T13:40:51.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-02-21T13:40:51.47"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-21T13:35:12.030+05:30",
-    "checksum": "d8fadbdf1b12a7553ea37a29ed9992596a7c7d3deff11b5a15c940a49ae8931f",
-    "totalAnnouncements": 1,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-21T14:36:58.542+05:30",
+    "checksum": "9373ffd988d2dd56cb7461fb2dbbcdb4dc98aa07204cbf537fe5230ecd8a634f",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-21/awards-133511.json"
+    "rawPayloadPath": "data/raw/2026-02-21/awards-143658.json"
   }
 }
