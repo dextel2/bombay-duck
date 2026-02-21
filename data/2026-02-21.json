@@ -31,14 +31,36 @@
         "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
         "rawTime": "2026-02-21T13:40:51.47"
       }
+    ],
+    "2026-02-21T15": [
+      {
+        "newsId": "ae22609d-5f39-4b89-99e4-a0fc0499e04d",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Ashoka Buildcon Limited informs that the Company alongwith Railtel Corporation of India Limited, in consortium had submitted bid for the following Project to Inspector General of Registration ....",
+        "announcedAt": "2026-02-21T15:29:31.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-02-21T15:29:31.14"
+      }
+    ],
+    "2026-02-21T14": [
+      {
+        "newsId": "54325290-c0ca-4c90-af4c-a4e8f0649079",
+        "scripCode": 533286,
+        "shortName": "Moil Ltd",
+        "headline": "Submission of intimation of order from Appellate Authority.",
+        "announcedAt": "2026-02-21T14:51:15.253+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/",
+        "rawTime": "2026-02-21T14:51:15.253"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-21T14:36:58.542+05:30",
-    "checksum": "9373ffd988d2dd56cb7461fb2dbbcdb4dc98aa07204cbf537fe5230ecd8a634f",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-21T15:34:21.547+05:30",
+    "checksum": "c0c50ebab03b99f063983300863a5598537b4671d84f438b4a6bc2a835e9eef0",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-21/awards-143658.json"
+    "rawPayloadPath": "data/raw/2026-02-21/awards-153420.json"
   }
 }
