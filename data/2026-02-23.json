@@ -86,14 +86,25 @@
         "url": "https://www.bseindia.com/stock-share-price/olectra-greentech-ltd/olectra/532439/",
         "rawTime": "2026-02-23T13:44:45.58"
       }
+    ],
+    "2026-02-23T15": [
+      {
+        "newsId": "cbd8122d-a56d-47f5-a0a9-aa01dec3808b",
+        "scripCode": 544410,
+        "shortName": "Prostarm Info Systems Ltd",
+        "headline": "In Continuation to our Announcement dated February 06,2026 the Company has Received a Letter of Acceptance from South Eastern Railway",
+        "announcedAt": "2026-02-23T15:46:31.063+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/",
+        "rawTime": "2026-02-23T15:46:31.063"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-23T14:47:36.495+05:30",
-    "checksum": "02e1ebb14debd89516d7abc35b6bfc5d4714c44ae08b9c23870582eaafd9caa7",
-    "totalAnnouncements": 8,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-23T15:47:57.123+05:30",
+    "checksum": "6516f096f07790e8416f1eccd5bb491df6df46ba128eb01de84d44c9a0295aec",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-23/awards-144735.json"
+    "rawPayloadPath": "data/raw/2026-02-23/awards-154756.json"
   }
 }

@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-23 15:00 | Prostarm Info Systems Ltd | 544410 | In Continuation to our Announcement dated February 06,2026 the Company has Received a Letter of Acceptance from South Eastern Railway ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 23 Feb 2026 - 15:46 |
 | 2026-02-23 14:00 | Patel Engineering Ltd-$ | 531120 | The Company has been declared lowest bidder by Himachal Pradesh Power Corporation Ltd for construction of Renukaji Dam Project valued at Rs. 910.08 Crores ([Link](https://www.bseindia.com/stock-share-price/patel-engineering-ltd/pateleng/531120/)) | Neutral | 23 Feb 2026 - 14:38 |
 | 2026-02-23 14:00 | Gabion Technologies India Ltd | 544675 | Initimation of work orders received during the week ended February 21, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 23 Feb 2026 - 14:29 |
 | 2026-02-23 13:00 | Olectra Greentech Ltd | 532439 | Olectra Greentech Limited has informed the exchange about bagging of order from Telangana State Road Transport Corporation (TGSRTC). ([Link](https://www.bseindia.com/stock-share-price/olectra-greentech-ltd/olectra/532439/)) | Likely Positive | 23 Feb 2026 - 13:44 |
@@ -31,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-23 07:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Feb 2026 - 07:02 |
 | 2026-02-23 06:00 | Dee Development Engineers Ltd | 544198 | The Company and its material subsidiary have secured contracts aggregating approximately INR 173 Crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Feb 2026 - 06:24 |
 
-_Last updated: 23 Feb 2026 - 14:47 | Entries: 8 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
+_Last updated: 23 Feb 2026 - 15:47 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
 
 <!-- snapshot:end -->
 
