@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-23 07:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Feb 2026 - 07:02 |
 | 2026-02-23 06:00 | Dee Development Engineers Ltd | 544198 | The Company and its material subsidiary have secured contracts aggregating approximately INR 173 Crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Feb 2026 - 06:24 |
 
-_Last updated: 23 Feb 2026 - 09:21 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
+_Last updated: 23 Feb 2026 - 10:10 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
 
 <!-- snapshot:end -->
 
