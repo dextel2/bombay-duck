@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
         "rawTime": "2026-02-23T06:24:53.563"
       }
+    ],
+    "2026-02-23T10": [
+      {
+        "newsId": "1bf3df9c-ed1f-4ad1-a2db-d3a2fbbccef6",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "Revising the earlier filing of today by where Annexure IV detailing domestic Order of Rs. 20 crores was missed inadvertently and there is no change in the aggregate contract value of INR 173 crores.",
+        "announcedAt": "2026-02-23T10:31:30.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-02-23T10:31:30.79"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-23T10:10:19.796+05:30",
-    "checksum": "18a6b890b511326678d825a323fabcc7c4992061e033f873dd0bca3da9cc7fc9",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-23T11:00:31.924+05:30",
+    "checksum": "74b2371b6ec430893dbb7166b16d8c237c9f559e77d5d27e4a5ccce86cbeecba",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-23/awards-101019.json"
+    "rawPayloadPath": "data/raw/2026-02-23/awards-110031.json"
   }
 }

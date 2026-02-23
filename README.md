@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-23 10:00 | Dee Development Engineers Ltd | 544198 | Revising the earlier filing of today by where Annexure IV detailing domestic Order of Rs. 20 crores was missed inadvertently and there is no change in the aggregate contract value of INR 173 crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Feb 2026 - 10:31 |
 | 2026-02-23 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Donestic Order for Lab Grown Polished Diamonds Amounting to Rs. 12 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 23 Feb 2026 - 08:59 |
 | 2026-02-23 07:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Feb 2026 - 07:02 |
 | 2026-02-23 06:00 | Dee Development Engineers Ltd | 544198 | The Company and its material subsidiary have secured contracts aggregating approximately INR 173 Crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Feb 2026 - 06:24 |
 
-_Last updated: 23 Feb 2026 - 10:10 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
+_Last updated: 23 Feb 2026 - 11:00 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
 
 <!-- snapshot:end -->
 
