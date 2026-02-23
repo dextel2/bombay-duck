@@ -55,14 +55,45 @@
         "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
         "rawTime": "2026-02-23T12:52:48.267"
       }
+    ],
+    "2026-02-23T14": [
+      {
+        "newsId": "f89b7117-ea83-4fae-b5b4-fc27db435981",
+        "scripCode": 531120,
+        "shortName": "Patel Engineering Ltd-$",
+        "headline": "The Company has been declared lowest bidder by Himachal Pradesh Power Corporation Ltd for construction of Renukaji Dam Project valued at Rs. 910.08 Crores",
+        "announcedAt": "2026-02-23T14:38:14.087+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/patel-engineering-ltd/pateleng/531120/",
+        "rawTime": "2026-02-23T14:38:14.087"
+      },
+      {
+        "newsId": "55417116-87bb-48e0-9d93-2db3e1017bdc",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Initimation of work orders received during the week ended February 21, 2026",
+        "announcedAt": "2026-02-23T14:29:36.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-02-23T14:29:36.36"
+      }
+    ],
+    "2026-02-23T13": [
+      {
+        "newsId": "330ca25c-2a5a-44aa-9ce7-734c52a2b527",
+        "scripCode": 532439,
+        "shortName": "Olectra Greentech Ltd",
+        "headline": "Olectra Greentech Limited has informed the exchange about bagging of order from Telangana State Road Transport Corporation (TGSRTC).",
+        "announcedAt": "2026-02-23T13:44:45.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/olectra-greentech-ltd/olectra/532439/",
+        "rawTime": "2026-02-23T13:44:45.58"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-23T13:42:37.214+05:30",
-    "checksum": "6d63c0f85654c63150e48b4b3c1a45ac30e13bc474281c7df189ed379ecd14ac",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-23T14:47:36.495+05:30",
+    "checksum": "02e1ebb14debd89516d7abc35b6bfc5d4714c44ae08b9c23870582eaafd9caa7",
+    "totalAnnouncements": 8,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-23/awards-134236.json"
+    "rawPayloadPath": "data/raw/2026-02-23/awards-144735.json"
   }
 }
