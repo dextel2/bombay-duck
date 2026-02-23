@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-02-23",
+  "buckets": {
+    "2026-02-23T08": [
+      {
+        "newsId": "68faee46-b357-4257-a161-7bd9d7d331e5",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of Donestic Order for Lab Grown Polished Diamonds Amounting to Rs. 12 Crores",
+        "announcedAt": "2026-02-23T08:59:32.157+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-02-23T08:59:32.157"
+      }
+    ],
+    "2026-02-23T07": [
+      {
+        "newsId": "2251434e-f418-4bf1-8011-bde77074d84a",
+        "scripCode": 532395,
+        "shortName": "Axiscades Technologies Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of order",
+        "announcedAt": "2026-02-23T07:02:03.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
+        "rawTime": "2026-02-23T07:02:03.27"
+      }
+    ],
+    "2026-02-23T06": [
+      {
+        "newsId": "9f922b56-5073-4153-a5eb-acb133f076f3",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "The Company and its material subsidiary have secured contracts aggregating approximately INR 173 Crores.",
+        "announcedAt": "2026-02-23T06:24:53.563+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-02-23T06:24:53.563"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-23T09:21:00.152+05:30",
+    "checksum": "18a6b890b511326678d825a323fabcc7c4992061e033f873dd0bca3da9cc7fc9",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-23/awards-092059.json"
+  }
+}
