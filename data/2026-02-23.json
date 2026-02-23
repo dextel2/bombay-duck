@@ -44,14 +44,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
         "rawTime": "2026-02-23T10:31:30.79"
       }
+    ],
+    "2026-02-23T12": [
+      {
+        "newsId": "d0993b83-fd20-4172-b25c-c455bd55c6e7",
+        "scripCode": 540005,
+        "shortName": "LTIMindtree Ltd",
+        "headline": "Intimation Attached",
+        "announcedAt": "2026-02-23T12:52:48.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/",
+        "rawTime": "2026-02-23T12:52:48.267"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-23T11:52:53.404+05:30",
-    "checksum": "74b2371b6ec430893dbb7166b16d8c237c9f559e77d5d27e4a5ccce86cbeecba",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-23T12:54:09.009+05:30",
+    "checksum": "6d63c0f85654c63150e48b4b3c1a45ac30e13bc474281c7df189ed379ecd14ac",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-23/awards-115252.json"
+    "rawPayloadPath": "data/raw/2026-02-23/awards-125408.json"
   }
 }
