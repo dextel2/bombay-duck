@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-02-24",
-  "buckets": {},
+  "buckets": {
+    "2026-02-24T10": [
+      {
+        "newsId": "9f7f8f1a-cd53-4fb8-85e0-08c8e5592acc",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins (Significant*) Order for LIGO India Observatory",
+        "announcedAt": "2026-02-24T10:31:46.483+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-02-24T10:31:46.483"
+      },
+      {
+        "newsId": "38d522c3-f31f-4f47-8893-1206d35ea5e3",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Recieved a Fresh order of an total amount Rs. 397.00 Crores from Ministry of Road Transport & Highways, New Delhi",
+        "announcedAt": "2026-02-24T10:28:08.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-02-24T10:28:08.683"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-24T10:05:53.446+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-02-24T10:57:51.378+05:30",
+    "checksum": "afd4f6bc2e7a9b355b84c68244478bcace5ec43f57782b5c2e065d599d2a5931",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-24/awards-100552.json"
+    "rawPayloadPath": "data/raw/2026-02-24/awards-105750.json"
   }
 }

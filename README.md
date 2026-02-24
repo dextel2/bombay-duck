@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-02-24 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-24 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Significant*) Order for LIGO India Observatory ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Feb 2026 - 10:31 |
+| 2026-02-24 10:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved a Fresh order of an total amount Rs. 397.00 Crores from Ministry of Road Transport & Highways, New Delhi ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 24 Feb 2026 - 10:28 |
 
-_Last updated: 24 Feb 2026 - 10:05 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-24.json)_
+_Last updated: 24 Feb 2026 - 10:57 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-24.json)_
 
 <!-- snapshot:end -->
 
