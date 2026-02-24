@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2026-02-24T13:24:51.47"
       }
+    ],
+    "2026-02-24T14": [
+      {
+        "newsId": "f86fe76a-0fbd-4a46-a8b4-c55130453429",
+        "scripCode": 516038,
+        "shortName": "KS Smart Technologies Ltd",
+        "headline": "Intimation towards receipt of order from Haryana State Electronics Development Corporation Limited, a State Government undertaking to the Company''s wholly owned subsidiary M/s. KS Smart ....",
+        "announcedAt": "2026-02-24T14:00:24.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/kssmart/516038/",
+        "rawTime": "2026-02-24T14:00:24.14"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-24T13:42:59.000+05:30",
-    "checksum": "db056f6052db9c7702c3878550430e5468d77d6139a21e3e37546ad7de6e554a",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-24T14:47:20.811+05:30",
+    "checksum": "080b557fcfbbe7d3d0d6616e7ef5b73e9cec381e09e0c0848ae777f1dce92f84",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-24/awards-134258.json"
+    "rawPayloadPath": "data/raw/2026-02-24/awards-144719.json"
   }
 }
