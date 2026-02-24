@@ -22,12 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-24 15:00 | Sunita Tools Ltd | 544001 | Receipt of Purchase Order: Intimation Under Regulation 30 (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/sunita-tools-ltd/sunitatool/544001/)) | Likely Positive | 24 Feb 2026 - 15:29 |
+| 2026-02-24 15:00 | KS Smart Technologies Ltd | 516038 | Intimation towards receipt of order from Haryana State Electronics Development Corporation Limited, a State Government undertaking to the Company''s Wholly Owned Subsidiary KS Smart Solutions .... ([Link](https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/kssmart/516038/)) | Likely Positive | 24 Feb 2026 - 15:11 |
+| 2026-02-24 14:00 | Centum Electronics Ltd | 517544 | Please refer enclosed ([Link](https://www.bseindia.com/stock-share-price/centum-electronics-ltd/centum/517544/)) | Neutral | 24 Feb 2026 - 14:49 |
 | 2026-02-24 14:00 | KS Smart Technologies Ltd | 516038 | Intimation towards receipt of order from Haryana State Electronics Development Corporation Limited, a State Government undertaking to the Company''s wholly owned subsidiary M/s. KS Smart .... ([Link](https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/kssmart/516038/)) | Likely Positive | 24 Feb 2026 - 14:00 |
 | 2026-02-24 13:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,002 crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 24 Feb 2026 - 13:24 |
 | 2026-02-24 10:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Significant*) Order for LIGO India Observatory ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Feb 2026 - 10:31 |
 | 2026-02-24 10:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved a Fresh order of an total amount Rs. 397.00 Crores from Ministry of Road Transport & Highways, New Delhi ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 24 Feb 2026 - 10:28 |
 
-_Last updated: 24 Feb 2026 - 14:47 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-24.json)_
+_Last updated: 24 Feb 2026 - 15:46 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-24.json)_
 
 <!-- snapshot:end -->
 

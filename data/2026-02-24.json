@@ -34,6 +34,15 @@
     ],
     "2026-02-24T14": [
       {
+        "newsId": "28300f06-93ce-4bf2-bf63-498f803757f2",
+        "scripCode": 517544,
+        "shortName": "Centum Electronics Ltd",
+        "headline": "Please refer enclosed",
+        "announcedAt": "2026-02-24T14:49:27.020+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/centum-electronics-ltd/centum/517544/",
+        "rawTime": "2026-02-24T14:49:27.02"
+      },
+      {
         "newsId": "f86fe76a-0fbd-4a46-a8b4-c55130453429",
         "scripCode": 516038,
         "shortName": "KS Smart Technologies Ltd",
@@ -42,14 +51,34 @@
         "url": "https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/kssmart/516038/",
         "rawTime": "2026-02-24T14:00:24.14"
       }
+    ],
+    "2026-02-24T15": [
+      {
+        "newsId": "2fb9f1f9-f2c3-4670-afb3-a41ae9fb95f5",
+        "scripCode": 544001,
+        "shortName": "Sunita Tools Ltd",
+        "headline": "Receipt of Purchase Order: Intimation Under Regulation 30 (LODR) Regulations, 2015",
+        "announcedAt": "2026-02-24T15:29:27.003+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sunita-tools-ltd/sunitatool/544001/",
+        "rawTime": "2026-02-24T15:29:27.003"
+      },
+      {
+        "newsId": "b149ae01-7ce3-4641-9d37-c1bf83bb187d",
+        "scripCode": 516038,
+        "shortName": "KS Smart Technologies Ltd",
+        "headline": "Intimation towards receipt of order from Haryana State Electronics Development Corporation Limited, a State Government undertaking to the Company''s Wholly Owned Subsidiary KS Smart Solutions ....",
+        "announcedAt": "2026-02-24T15:11:00.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/soma-papers--industries-ltd/kssmart/516038/",
+        "rawTime": "2026-02-24T15:11:00.49"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-24T14:47:20.811+05:30",
-    "checksum": "080b557fcfbbe7d3d0d6616e7ef5b73e9cec381e09e0c0848ae777f1dce92f84",
-    "totalAnnouncements": 4,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-24T15:46:38.801+05:30",
+    "checksum": "1ea6c31d44d1af82d27923332d38b970f789b87d10b8ea60d0cea31409684010",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-24/awards-144719.json"
+    "rawPayloadPath": "data/raw/2026-02-24/awards-154636.json"
   }
 }
