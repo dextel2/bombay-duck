@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-02-24T10:28:08.683"
       }
+    ],
+    "2026-02-24T13": [
+      {
+        "newsId": "88f2d41f-3e21-46c3-bbd5-3cdb30738785",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,002 crores secured by the Company. All the orders mentioned in the enclosed press release have ....",
+        "announcedAt": "2026-02-24T13:24:51.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2026-02-24T13:24:51.47"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-24T12:51:29.060+05:30",
-    "checksum": "afd4f6bc2e7a9b355b84c68244478bcace5ec43f57782b5c2e065d599d2a5931",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-24T13:42:59.000+05:30",
+    "checksum": "db056f6052db9c7702c3878550430e5468d77d6139a21e3e37546ad7de6e554a",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-24/awards-125128.json"
+    "rawPayloadPath": "data/raw/2026-02-24/awards-134258.json"
   }
 }
