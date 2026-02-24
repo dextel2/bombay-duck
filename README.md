@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-02-23 IST)
+### Today's Awarded Orders (2026-02-24 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-02-23 15:00 | Prostarm Info Systems Ltd | 544410 | In Continuation to our Announcement dated February 06,2026 the Company has Received a Letter of Acceptance from South Eastern Railway ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 23 Feb 2026 - 15:46 |
-| 2026-02-23 14:00 | Patel Engineering Ltd-$ | 531120 | The Company has been declared lowest bidder by Himachal Pradesh Power Corporation Ltd for construction of Renukaji Dam Project valued at Rs. 910.08 Crores ([Link](https://www.bseindia.com/stock-share-price/patel-engineering-ltd/pateleng/531120/)) | Neutral | 23 Feb 2026 - 14:38 |
-| 2026-02-23 14:00 | Gabion Technologies India Ltd | 544675 | Initimation of work orders received during the week ended February 21, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 23 Feb 2026 - 14:29 |
-| 2026-02-23 13:00 | Olectra Greentech Ltd | 532439 | Olectra Greentech Limited has informed the exchange about bagging of order from Telangana State Road Transport Corporation (TGSRTC). ([Link](https://www.bseindia.com/stock-share-price/olectra-greentech-ltd/olectra/532439/)) | Likely Positive | 23 Feb 2026 - 13:44 |
-| 2026-02-23 12:00 | LTIMindtree Ltd | 540005 | Intimation Attached ([Link](https://www.bseindia.com/stock-share-price/ltimindtree-ltd/ltim/540005/)) | Neutral | 23 Feb 2026 - 12:52 |
-| 2026-02-23 10:00 | Dee Development Engineers Ltd | 544198 | Revising the earlier filing of today by where Annexure IV detailing domestic Order of Rs. 20 crores was missed inadvertently and there is no change in the aggregate contract value of INR 173 crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Feb 2026 - 10:31 |
-| 2026-02-23 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Donestic Order for Lab Grown Polished Diamonds Amounting to Rs. 12 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 23 Feb 2026 - 08:59 |
-| 2026-02-23 07:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 23 Feb 2026 - 07:02 |
-| 2026-02-23 06:00 | Dee Development Engineers Ltd | 544198 | The Company and its material subsidiary have secured contracts aggregating approximately INR 173 Crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Feb 2026 - 06:24 |
+_No award announcements have been captured yet today._
 
-_Last updated: 23 Feb 2026 - 15:47 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-23.json)_
+_Last updated: 24 Feb 2026 - 09:18 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-02-24.json)_
 
 <!-- snapshot:end -->
 
