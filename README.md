@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-02-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins Orders (Major*) in India and Abroad for Power Transmission Infrastructure ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Feb 2026 - 09:40 |
 
-_Last updated: 25 Feb 2026 - 10:06 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-25.json)_
+_Last updated: 25 Feb 2026 - 10:58 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-25.json)_
 
 <!-- snapshot:end -->
 
