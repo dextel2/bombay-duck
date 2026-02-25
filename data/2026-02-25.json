@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-02-25T13:17:03.687"
       }
+    ],
+    "2026-02-25T15": [
+      {
+        "newsId": "c1137c32-3271-4a36-90ce-c9d7450b95c5",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.733 Crore.",
+        "announcedAt": "2026-02-25T15:05:16.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-02-25T15:05:16.697"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-25T14:47:22.676+05:30",
-    "checksum": "724c31e5e67d62b9e42c10d2e328c8e6e092eb9561e33511d7ea545ba25fb6fd",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-25T15:48:12.673+05:30",
+    "checksum": "3f073da5a4c6bd719e61355d158f74e73fa75f0d04a9fdb4a4dcb9723c96fe59",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-25/awards-144721.json"
+    "rawPayloadPath": "data/raw/2026-02-25/awards-154811.json"
   }
 }
