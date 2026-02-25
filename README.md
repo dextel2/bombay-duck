@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-25 13:00 | Shemaroo Entertainment Ltd | 538685 | Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/shemaroo-entertainment-ltd/shemaroo/538685/)) | Neutral | 25 Feb 2026 - 13:39 |
+| 2026-02-25 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to Siyaram Recycling Secured Order amounting to Rs 19960290 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 25 Feb 2026 - 13:17 |
 | 2026-02-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins Orders (Major*) in India and Abroad for Power Transmission Infrastructure ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Feb 2026 - 09:40 |
 
-_Last updated: 25 Feb 2026 - 12:51 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-25.json)_
+_Last updated: 25 Feb 2026 - 13:43 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-25.json)_
 
 <!-- snapshot:end -->
 
