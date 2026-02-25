@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-25",
-  "buckets": {},
+  "buckets": {
+    "2026-02-25T09": [
+      {
+        "newsId": "3ab37205-623c-4643-a256-f56bcbd6b99f",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins Orders (Major*) in India and Abroad for Power Transmission Infrastructure",
+        "announcedAt": "2026-02-25T09:40:48.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-02-25T09:40:48.88"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-25T09:18:31.140+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-25T10:06:58.165+05:30",
+    "checksum": "7237f10c608e9ed47ec83bd6aff5a84e43ff8e0c420a154ed44037098dcbae79",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-25/awards-091830.json"
+    "rawPayloadPath": "data/raw/2026-02-25/awards-100657.json"
   }
 }
