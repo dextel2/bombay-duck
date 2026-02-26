@@ -67,6 +67,42 @@
     ],
     "2026-02-26T14": [
       {
+        "newsId": "0e6f03dc-bf8d-4303-b2d3-b498dd93fd2b",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The Company has received a largest order of worth 36 Crore fro Supply of Structural Steel for Bharat Heavy Electricals Limited (BHEL) Project in the Fabricated Steel Manufacturing Division ....",
+        "announcedAt": "2026-02-26T14:58:21.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2026-02-26T14:58:21.11"
+      },
+      {
+        "newsId": "197a7aba-4417-4eec-9007-5ec8f9b05ff2",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award from National Mineral Development Corporation (NMDC) Limited.",
+        "announcedAt": "2026-02-26T14:53:50.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-02-26T14:53:50.743"
+      },
+      {
+        "newsId": "58ad763b-3194-4392-ae9b-e2ba57119b18",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award (LOA) from National Mineral Development Corporation (NMDC) Limited",
+        "announcedAt": "2026-02-26T14:51:05.157+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-02-26T14:51:05.157"
+      },
+      {
+        "newsId": "c220162d-8ece-4a30-b1a1-c1f183cc6852",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award (LOA) from National Mineral Development Corporation (NMDC) Limited",
+        "announcedAt": "2026-02-26T14:47:21.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-02-26T14:47:21.043"
+      },
+      {
         "newsId": "d2a16a54-ba9e-4021-82ba-ee9ad410dcfc",
         "scripCode": 532365,
         "shortName": "Dynacons Systems & Solutions Ltd",
@@ -75,14 +111,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/",
         "rawTime": "2026-02-26T14:00:57.62"
       }
+    ],
+    "2026-02-26T15": [
+      {
+        "newsId": "57ca1c9a-1f52-4ec1-a5ad-935d88ce8b59",
+        "scripCode": 544367,
+        "shortName": "Quality Power Electrical Equipments Ltd",
+        "headline": "Intimation of Receipt of Multiple Orders for supply of Reactors",
+        "announcedAt": "2026-02-26T15:04:00.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/",
+        "rawTime": "2026-02-26T15:04:00.933"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-26T14:46:16.845+05:30",
-    "checksum": "7baa90c6d0366c69ba58470a960a27f2c86140aded0f097032bce58865524ce3",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-26T15:45:57.186+05:30",
+    "checksum": "55cbe653409c142caab13dd2fdcc8b786bf2bcfda4053e8564fb2cf7e734e889",
+    "totalAnnouncements": 12,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-26/awards-144616.json"
+    "rawPayloadPath": "data/raw/2026-02-26/awards-154556.json"
   }
 }

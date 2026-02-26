@@ -22,6 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-26 15:00 | Quality Power Electrical Equipments Ltd | 544367 | Intimation of Receipt of Multiple Orders for supply of Reactors ([Link](https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/)) | Likely Positive | 26 Feb 2026 - 15:04 |
+| 2026-02-26 14:00 | BMW Ventures Ltd | 544543 | The Company has received a largest order of worth 36 Crore fro Supply of Structural Steel for Bharat Heavy Electricals Limited (BHEL) Project in the Fabricated Steel Manufacturing Division .... ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 26 Feb 2026 - 14:58 |
+| 2026-02-26 14:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award from National Mineral Development Corporation (NMDC) Limited. ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 26 Feb 2026 - 14:53 |
+| 2026-02-26 14:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award (LOA) from National Mineral Development Corporation (NMDC) Limited ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 26 Feb 2026 - 14:51 |
+| 2026-02-26 14:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award (LOA) from National Mineral Development Corporation (NMDC) Limited ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 26 Feb 2026 - 14:47 |
 | 2026-02-26 14:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation for securing project from Punjab & Sind Bank for implementation and management of On-premises private cloud infrastructure ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Neutral | 26 Feb 2026 - 14:00 |
 | 2026-02-26 13:00 | Quality Power Electrical Equipments Ltd | 544367 | Intimation of Receipt of Multiple Conditional Orders for supply of Reactors including 800 KV HVDC Class ([Link](https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/)) | Likely Positive | 26 Feb 2026 - 13:31 |
 | 2026-02-26 13:00 | Praveg Ltd | 531637 | In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Award (LoA) on .... ([Link](https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/)) | Neutral | 26 Feb 2026 - 13:24 |
@@ -30,7 +35,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-26 09:00 | Infinity Infoway Ltd | 544567 | Disclosure under Regulation 30 of SEBI LODR Award of order/contract received from Government of Gujrat from Education Dept. worth of Approx. Rs. 10.97 Crores. ([Link](https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/)) | Likely Positive | 26 Feb 2026 - 09:37 |
 | 2026-02-26 00:00 | Xtglobal Infotech Ltd | 531225 | Sir/Madam, please find the attached order details received from the US State Transportation Agency for an amount of USD 7,96,900 (Approximately 7.2 crores) ([Link](https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/)) | Likely Positive | 26 Feb 2026 - 00:36 |
 
-_Last updated: 26 Feb 2026 - 14:46 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-26.json)_
+_Last updated: 26 Feb 2026 - 15:45 | Entries: 12 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-26.json)_
 
 <!-- snapshot:end -->
 
