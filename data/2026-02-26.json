@@ -22,14 +22,36 @@
         "url": "https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/",
         "rawTime": "2026-02-26T09:37:42.63"
       }
+    ],
+    "2026-02-26T12": [
+      {
+        "newsId": "786d9651-8819-4529-a7f0-6011c2d17e43",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent.",
+        "announcedAt": "2026-02-26T12:51:33.347+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-02-26T12:51:33.347"
+      }
+    ],
+    "2026-02-26T11": [
+      {
+        "newsId": "d647fcb9-6007-4412-bcd6-c31471120276",
+        "scripCode": 535602,
+        "shortName": "Sharda Motor Industries Ltd",
+        "headline": "Intimation regarding action initiated or order passed by regulatory authority",
+        "announcedAt": "2026-02-26T11:55:36.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharda-motor-industries-ltd/shardamotr/535602/",
+        "rawTime": "2026-02-26T11:55:36.597"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-26T11:50:11.319+05:30",
-    "checksum": "2b513bba52c95c7e050d142ba169660291a12d7f86f1f446cff35836da4fa6f7",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-26T12:51:36.337+05:30",
+    "checksum": "da80e86b74faa5ebeadee5d7e15c1162a1574f3783e26db405727bd87d41456e",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-26/awards-115010.json"
+    "rawPayloadPath": "data/raw/2026-02-26/awards-125135.json"
   }
 }
