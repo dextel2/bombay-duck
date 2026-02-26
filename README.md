@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-26 09:00 | Infinity Infoway Ltd | 544567 | Disclosure under Regulation 30 of SEBI LODR Award of order/contract received from Government of Gujrat from Education Dept. worth of Approx. Rs. 10.97 Crores. ([Link](https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/)) | Likely Positive | 26 Feb 2026 - 09:37 |
 | 2026-02-26 00:00 | Xtglobal Infotech Ltd | 531225 | Sir/Madam, please find the attached order details received from the US State Transportation Agency for an amount of USD 7,96,900 (Approximately 7.2 crores) ([Link](https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/)) | Likely Positive | 26 Feb 2026 - 00:36 |
 
-_Last updated: 26 Feb 2026 - 10:04 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-26.json)_
+_Last updated: 26 Feb 2026 - 10:56 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-26.json)_
 
 <!-- snapshot:end -->
 
