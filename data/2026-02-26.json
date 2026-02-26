@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/",
         "rawTime": "2026-02-26T00:36:39.08"
       }
+    ],
+    "2026-02-26T09": [
+      {
+        "newsId": "792c5c47-f7b5-4ad5-94a1-42ecb4dfcd22",
+        "scripCode": 544567,
+        "shortName": "Infinity Infoway Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI LODR Award of order/contract received from Government of Gujrat from Education Dept. worth of Approx. Rs. 10.97 Crores.",
+        "announcedAt": "2026-02-26T09:37:42.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/",
+        "rawTime": "2026-02-26T09:37:42.63"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-26T09:18:07.485+05:30",
-    "checksum": "01ea77ba038aff3b0622628ec2ec62f6ca66c668325b3c70379d47ea800d15cc",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-02-26T10:04:40.115+05:30",
+    "checksum": "2b513bba52c95c7e050d142ba169660291a12d7f86f1f446cff35836da4fa6f7",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-26/awards-091806.json"
+    "rawPayloadPath": "data/raw/2026-02-26/awards-100439.json"
   }
 }
