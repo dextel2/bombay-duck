@@ -44,14 +44,34 @@
         "url": "https://www.bseindia.com/stock-share-price/sharda-motor-industries-ltd/shardamotr/535602/",
         "rawTime": "2026-02-26T11:55:36.597"
       }
+    ],
+    "2026-02-26T13": [
+      {
+        "newsId": "f988a667-b7cb-49a9-a5fc-267ae322273a",
+        "scripCode": 544367,
+        "shortName": "Quality Power Electrical Equipments Ltd",
+        "headline": "Intimation of Receipt of Multiple Conditional Orders for supply of Reactors including 800 KV HVDC Class",
+        "announcedAt": "2026-02-26T13:31:08.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/",
+        "rawTime": "2026-02-26T13:31:08.78"
+      },
+      {
+        "newsId": "378e0926-54c7-4b09-bd6e-437fb3b30785",
+        "scripCode": 531637,
+        "shortName": "Praveg Ltd",
+        "headline": "In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Award (LoA) on ....",
+        "announcedAt": "2026-02-26T13:24:09.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/",
+        "rawTime": "2026-02-26T13:24:09.78"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-26T12:51:36.337+05:30",
-    "checksum": "da80e86b74faa5ebeadee5d7e15c1162a1574f3783e26db405727bd87d41456e",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-26T13:42:38.763+05:30",
+    "checksum": "71efd5c66ae9ac5f85a68f96f1c6f517d523c10bef4cbe418fc5bb95064d7e3e",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-26/awards-125135.json"
+    "rawPayloadPath": "data/raw/2026-02-26/awards-134238.json"
   }
 }

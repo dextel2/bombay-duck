@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-26 13:00 | Quality Power Electrical Equipments Ltd | 544367 | Intimation of Receipt of Multiple Conditional Orders for supply of Reactors including 800 KV HVDC Class ([Link](https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/)) | Likely Positive | 26 Feb 2026 - 13:31 |
+| 2026-02-26 13:00 | Praveg Ltd | 531637 | In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Award (LoA) on .... ([Link](https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/)) | Neutral | 26 Feb 2026 - 13:24 |
 | 2026-02-26 12:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent. ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 26 Feb 2026 - 12:51 |
 | 2026-02-26 11:00 | Sharda Motor Industries Ltd | 535602 | Intimation regarding action initiated or order passed by regulatory authority ([Link](https://www.bseindia.com/stock-share-price/sharda-motor-industries-ltd/shardamotr/535602/)) | Likely Positive | 26 Feb 2026 - 11:55 |
 | 2026-02-26 09:00 | Infinity Infoway Ltd | 544567 | Disclosure under Regulation 30 of SEBI LODR Award of order/contract received from Government of Gujrat from Education Dept. worth of Approx. Rs. 10.97 Crores. ([Link](https://www.bseindia.com/stock-share-price/infinity-infoway-ltd/infinity/544567/)) | Likely Positive | 26 Feb 2026 - 09:37 |
 | 2026-02-26 00:00 | Xtglobal Infotech Ltd | 531225 | Sir/Madam, please find the attached order details received from the US State Transportation Agency for an amount of USD 7,96,900 (Approximately 7.2 crores) ([Link](https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/)) | Likely Positive | 26 Feb 2026 - 00:36 |
 
-_Last updated: 26 Feb 2026 - 12:51 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-26.json)_
+_Last updated: 26 Feb 2026 - 13:42 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-26.json)_
 
 <!-- snapshot:end -->
 
