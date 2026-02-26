@@ -64,14 +64,25 @@
         "url": "https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/",
         "rawTime": "2026-02-26T13:24:09.78"
       }
+    ],
+    "2026-02-26T14": [
+      {
+        "newsId": "d2a16a54-ba9e-4021-82ba-ee9ad410dcfc",
+        "scripCode": 532365,
+        "shortName": "Dynacons Systems & Solutions Ltd",
+        "headline": "Please find enclosed intimation for securing project from Punjab & Sind Bank for implementation and management of On-premises private cloud infrastructure",
+        "announcedAt": "2026-02-26T14:00:57.620+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/",
+        "rawTime": "2026-02-26T14:00:57.62"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-26T13:42:38.763+05:30",
-    "checksum": "71efd5c66ae9ac5f85a68f96f1c6f517d523c10bef4cbe418fc5bb95064d7e3e",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-26T14:46:16.845+05:30",
+    "checksum": "7baa90c6d0366c69ba58470a960a27f2c86140aded0f097032bce58865524ce3",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-26/awards-134238.json"
+    "rawPayloadPath": "data/raw/2026-02-26/awards-144616.json"
   }
 }
