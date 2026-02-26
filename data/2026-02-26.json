@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-26",
+  "buckets": {
+    "2026-02-26T00": [
+      {
+        "newsId": "f425279d-0bd8-4cb8-82aa-3567f926d890",
+        "scripCode": 531225,
+        "shortName": "Xtglobal Infotech Ltd",
+        "headline": "Sir/Madam, please find the attached order details received from the US State Transportation Agency for an amount of USD 7,96,900 (Approximately 7.2 crores)",
+        "announcedAt": "2026-02-26T00:36:39.080+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/xtglobal-infotech-ltd/xtglobal/531225/",
+        "rawTime": "2026-02-26T00:36:39.08"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-26T09:18:07.485+05:30",
+    "checksum": "01ea77ba038aff3b0622628ec2ec62f6ca66c668325b3c70379d47ea800d15cc",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-26/awards-091806.json"
+  }
+}
