@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
         "rawTime": "2026-02-27T08:14:56.09"
       }
+    ],
+    "2026-02-27T11": [
+      {
+        "newsId": "43dc893e-bc9d-478c-9798-dba4191e92ea",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "As attached",
+        "announcedAt": "2026-02-27T11:21:27.937+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2026-02-27T11:21:27.937"
+      },
+      {
+        "newsId": "5868a0a1-9492-4498-b52d-10b9e7c86137",
+        "scripCode": 500241,
+        "shortName": "Kirloskar Brothers Ltd-$",
+        "headline": "Please find enclosed the intimation pertaining to receipt of order under Regulation 30 of the SEBI Listing Regulations, 2025",
+        "announcedAt": "2026-02-27T11:13:53.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/",
+        "rawTime": "2026-02-27T11:13:53.963"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-27T10:53:38.525+05:30",
-    "checksum": "ff3c42bd65effb2003756f0ef0026d67eb1763aa5add4012c0f6b71572725c03",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-27T11:46:29.236+05:30",
+    "checksum": "8fb3823606c4b0c8431641de99ec5bf5a2b49fa9a90e95824f5aeab1e7415e99",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-27/awards-105337.json"
+    "rawPayloadPath": "data/raw/2026-02-27/awards-114628.json"
   }
 }
