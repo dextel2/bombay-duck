@@ -22,13 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-27 15:00 | ITCONS E-Solutions Ltd | 543806 | We have received an award from Hindustan Aeronautics Limited. Refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Neutral | 27 Feb 2026 - 15:15 |
 | 2026-02-27 13:00 | Globe Civil Projects Ltd | 544424 | Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, it is to inform that Globe Civil Projects Limited has been identified as the lowest bidder for the tender floated by the IIT Delhi. .... ([Link](https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/)) | Neutral | 27 Feb 2026 - 13:22 |
 | 2026-02-27 12:00 | Butterfly Gandhimathi Appliances Ltd | 517421 | Intimation of Order Passed ([Link](https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/)) | Likely Positive | 27 Feb 2026 - 12:15 |
 | 2026-02-27 11:00 | Valiant Communications Ltd-$ | 526775 | As attached ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 27 Feb 2026 - 11:21 |
 | 2026-02-27 11:00 | Kirloskar Brothers Ltd-$ | 500241 | Please find enclosed the intimation pertaining to receipt of order under Regulation 30 of the SEBI Listing Regulations, 2025 ([Link](https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/)) | Likely Positive | 27 Feb 2026 - 11:13 |
 | 2026-02-27 08:00 | Dee Development Engineers Ltd | 544198 | The Company has secured its first ever contract for supply of seamless pipes which will be manufactured in its newly established forged seamless pipe plant situated at Anjar, Gujarat. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 27 Feb 2026 - 08:14 |
 
-_Last updated: 27 Feb 2026 - 14:43 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
+_Last updated: 27 Feb 2026 - 15:41 | Entries: 6 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
 
 <!-- snapshot:end -->
 

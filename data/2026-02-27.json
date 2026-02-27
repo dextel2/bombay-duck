@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/",
         "rawTime": "2026-02-27T13:22:15.247"
       }
+    ],
+    "2026-02-27T15": [
+      {
+        "newsId": "9c5e2d94-affe-4c59-91ad-d3a6b6694610",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We have received an award from Hindustan Aeronautics Limited. Refer attached file",
+        "announcedAt": "2026-02-27T15:15:38.877+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-02-27T15:15:38.877"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-27T14:43:41.088+05:30",
-    "checksum": "5b253ab487c56b3201c5c306c3adcdd5b81bc3b2f8b2cc942bcd2020dd492dca",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-02-27T15:41:57.628+05:30",
+    "checksum": "05fe04a93d6a650d159ddea9a66b54f21444f89e9b0f538ca0afadf3d041c015",
+    "totalAnnouncements": 6,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-27/awards-144340.json"
+    "rawPayloadPath": "data/raw/2026-02-27/awards-154157.json"
   }
 }
