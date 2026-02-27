@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-02-27 08:00 | Dee Development Engineers Ltd | 544198 | The Company has secured its first ever contract for supply of seamless pipes which will be manufactured in its newly established forged seamless pipe plant situated at Anjar, Gujarat. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 27 Feb 2026 - 08:14 |
 
-_Last updated: 27 Feb 2026 - 10:03 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
+_Last updated: 27 Feb 2026 - 10:53 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
 
 <!-- snapshot:end -->
 
