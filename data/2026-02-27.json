@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/",
         "rawTime": "2026-02-27T12:15:14.303"
       }
+    ],
+    "2026-02-27T13": [
+      {
+        "newsId": "cb3598b8-dcf2-4773-96ab-d3f81c2863c3",
+        "scripCode": 544424,
+        "shortName": "Globe Civil Projects Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, it is to inform that Globe Civil Projects Limited has been identified as the lowest bidder for the tender floated by the IIT Delhi. ....",
+        "announcedAt": "2026-02-27T13:22:15.247+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/",
+        "rawTime": "2026-02-27T13:22:15.247"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-27T12:48:49.395+05:30",
-    "checksum": "fa5e946bef44ac12ca0faf390adf607682f636371684bab2d3c420c391aaf37f",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-02-27T13:40:58.848+05:30",
+    "checksum": "5b253ab487c56b3201c5c306c3adcdd5b81bc3b2f8b2cc942bcd2020dd492dca",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-27/awards-124848.json"
+    "rawPayloadPath": "data/raw/2026-02-27/awards-134058.json"
   }
 }
