@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-02-27 11:00 | Kirloskar Brothers Ltd-$ | 500241 | Please find enclosed the intimation pertaining to receipt of order under Regulation 30 of the SEBI Listing Regulations, 2025 ([Link](https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/)) | Likely Positive | 27 Feb 2026 - 11:13 |
 | 2026-02-27 08:00 | Dee Development Engineers Ltd | 544198 | The Company has secured its first ever contract for supply of seamless pipes which will be manufactured in its newly established forged seamless pipe plant situated at Anjar, Gujarat. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 27 Feb 2026 - 08:14 |
 
-_Last updated: 27 Feb 2026 - 13:40 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
+_Last updated: 27 Feb 2026 - 14:43 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
 
 <!-- snapshot:end -->
 
