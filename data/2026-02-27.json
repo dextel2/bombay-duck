@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/",
         "rawTime": "2026-02-27T11:13:53.963"
       }
+    ],
+    "2026-02-27T12": [
+      {
+        "newsId": "4ad64349-06e1-4b65-9388-509f3369ae39",
+        "scripCode": 517421,
+        "shortName": "Butterfly Gandhimathi Appliances Ltd",
+        "headline": "Intimation of Order Passed",
+        "announcedAt": "2026-02-27T12:15:14.303+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/",
+        "rawTime": "2026-02-27T12:15:14.303"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-27T11:46:29.236+05:30",
-    "checksum": "8fb3823606c4b0c8431641de99ec5bf5a2b49fa9a90e95824f5aeab1e7415e99",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-02-27T12:48:49.395+05:30",
+    "checksum": "fa5e946bef44ac12ca0faf390adf607682f636371684bab2d3c420c391aaf37f",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-27/awards-114628.json"
+    "rawPayloadPath": "data/raw/2026-02-27/awards-124848.json"
   }
 }

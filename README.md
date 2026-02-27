@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-27 12:00 | Butterfly Gandhimathi Appliances Ltd | 517421 | Intimation of Order Passed ([Link](https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/)) | Likely Positive | 27 Feb 2026 - 12:15 |
 | 2026-02-27 11:00 | Valiant Communications Ltd-$ | 526775 | As attached ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 27 Feb 2026 - 11:21 |
 | 2026-02-27 11:00 | Kirloskar Brothers Ltd-$ | 500241 | Please find enclosed the intimation pertaining to receipt of order under Regulation 30 of the SEBI Listing Regulations, 2025 ([Link](https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/)) | Likely Positive | 27 Feb 2026 - 11:13 |
 | 2026-02-27 08:00 | Dee Development Engineers Ltd | 544198 | The Company has secured its first ever contract for supply of seamless pipes which will be manufactured in its newly established forged seamless pipe plant situated at Anjar, Gujarat. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 27 Feb 2026 - 08:14 |
 
-_Last updated: 27 Feb 2026 - 11:46 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
+_Last updated: 27 Feb 2026 - 12:48 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-27.json)_
 
 <!-- snapshot:end -->
 
