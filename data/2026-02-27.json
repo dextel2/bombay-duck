@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-02-27",
+  "buckets": {
+    "2026-02-27T08": [
+      {
+        "newsId": "75351137-69b2-4934-a59d-7a250bbad6ef",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "The Company has secured its first ever contract for supply of seamless pipes which will be manufactured in its newly established forged seamless pipe plant situated at Anjar, Gujarat.",
+        "announcedAt": "2026-02-27T08:14:56.090+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-02-27T08:14:56.09"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-02-27T09:17:01.705+05:30",
+    "checksum": "ff3c42bd65effb2003756f0ef0026d67eb1763aa5add4012c0f6b71572725c03",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-02-27/awards-091700.json"
+  }
+}
