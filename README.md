@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-28 12:00 | Concord Control Systems Ltd | 543619 | Disclosure of KAVACH Order ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 28 Feb 2026 - 12:16 |
 | 2026-02-28 11:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for signing a long term exploration services contract valuing INR 307 Crore ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Likely Positive | 28 Feb 2026 - 11:35 |
 
-_Last updated: 28 Feb 2026 - 11:37 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-02-28.json)_
+_Last updated: 28 Feb 2026 - 12:38 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-02-28.json)_
 
 <!-- snapshot:end -->
 
