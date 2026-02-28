@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-02-28",
-  "buckets": {},
+  "buckets": {
+    "2026-02-28T11": [
+      {
+        "newsId": "45ea183e-ef34-4a68-8bc1-a0467e5ec377",
+        "scripCode": 543986,
+        "shortName": "South West Pinnacle Exploration Ltd",
+        "headline": "Announcement for signing a long term exploration services contract valuing INR 307 Crore",
+        "announcedAt": "2026-02-28T11:35:18.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
+        "rawTime": "2026-02-28T11:35:18.3"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-02-28T10:42:04.130+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-02-28T11:37:12.418+05:30",
+    "checksum": "9d6d541a624bde669290186dad396c69c9f9cb64e92719d1165c9d246051ed15",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-28/awards-104203.json"
+    "rawPayloadPath": "data/raw/2026-02-28/awards-113711.json"
   }
 }
