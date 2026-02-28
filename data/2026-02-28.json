@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/",
         "rawTime": "2026-02-28T12:16:22.84"
       }
+    ],
+    "2026-02-28T14": [
+      {
+        "newsId": "4ba2909f-b55c-4268-aa36-5ab6777e9af9",
+        "scripCode": 512553,
+        "shortName": "Zenith Exports Ltd",
+        "headline": "The Company has received email from Stock Exchange regarding Penalty imposed on Company for violation of Reg 17(1) of SEBI LODR , 2015",
+        "announcedAt": "2026-02-28T14:09:57.613+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zenith-exports-ltd/zenithexpo/512553/",
+        "rawTime": "2026-02-28T14:09:57.613"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-02-28T13:34:08.515+05:30",
-    "checksum": "c0d244639895fb2398ab2f2de059912a410253145fa183095174580afb3d262c",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2026-02-28T14:35:26.390+05:30",
+    "checksum": "d1f61a06a1dc68729ea008b5e44a782be2115eed2601fbac7e2b469e950e9359",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-02-28/awards-133407.json"
+    "rawPayloadPath": "data/raw/2026-02-28/awards-143525.json"
   }
 }

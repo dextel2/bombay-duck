@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-02-28 14:00 | Zenith Exports Ltd | 512553 | The Company has received email from Stock Exchange regarding Penalty imposed on Company for violation of Reg 17(1) of SEBI LODR , 2015 ([Link](https://www.bseindia.com/stock-share-price/zenith-exports-ltd/zenithexpo/512553/)) | Review Manually | 28 Feb 2026 - 14:09 |
 | 2026-02-28 12:00 | Concord Control Systems Ltd | 543619 | Disclosure of KAVACH Order ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 28 Feb 2026 - 12:16 |
 | 2026-02-28 11:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for signing a long term exploration services contract valuing INR 307 Crore ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Likely Positive | 28 Feb 2026 - 11:35 |
 
-_Last updated: 28 Feb 2026 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-02-28.json)_
+_Last updated: 28 Feb 2026 - 14:35 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-02-28.json)_
 
 <!-- snapshot:end -->
 
