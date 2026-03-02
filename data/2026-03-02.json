@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
         "rawTime": "2026-03-02T14:18:04.823"
       }
+    ],
+    "2026-03-02T15": [
+      {
+        "newsId": "6bb29d4c-df5f-4786-a5f2-086be34379d0",
+        "scripCode": 534600,
+        "shortName": "JTL Industries Ltd",
+        "headline": "Award of Order/Receipt of Order",
+        "announcedAt": "2026-03-02T15:15:42.917+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/",
+        "rawTime": "2026-03-02T15:15:42.917"
+      },
+      {
+        "newsId": "082ed1f3-9ca9-4d58-85c9-39fed2dbcabf",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached Intimation Letter.",
+        "announcedAt": "2026-03-02T15:14:49.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2026-03-02T15:14:49.54"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-02T14:45:31.735+05:30",
-    "checksum": "0531ea4d508b0482218bef0ffa3c9895d0b389353268c7d30b687af5e45091ff",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-02T15:45:49.291+05:30",
+    "checksum": "1a64c57e32de7abc3549714f42bf8446839ecf99c3ebe9379351aca4fbe62448",
+    "totalAnnouncements": 3,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-02/awards-144530.json"
+    "rawPayloadPath": "data/raw/2026-03-02/awards-154548.json"
   }
 }
