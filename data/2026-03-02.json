@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-02",
-  "buckets": {},
+  "buckets": {
+    "2026-03-02T14": [
+      {
+        "newsId": "d6dee149-5337-4747-86c1-5c0899f816ee",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Initiation of work orders Received During the week Ended February 28, 2026",
+        "announcedAt": "2026-03-02T14:18:04.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-03-02T14:18:04.823"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-02T13:41:00.541+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-02T14:45:31.735+05:30",
+    "checksum": "0531ea4d508b0482218bef0ffa3c9895d0b389353268c7d30b687af5e45091ff",
+    "totalAnnouncements": 1,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-02/awards-134059.json"
+    "rawPayloadPath": "data/raw/2026-03-02/awards-144530.json"
   }
 }
