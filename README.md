@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-02 IST)
+### Today's Awarded Orders (2026-03-03 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-03-02 15:00 | JTL Industries Ltd | 534600 | Award of Order/Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/)) | Likely Positive | 02 Mar 2026 - 15:15 |
-| 2026-03-02 15:00 | Oswal Pumps Ltd | 544418 | As per attached Intimation Letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 02 Mar 2026 - 15:14 |
-| 2026-03-02 14:00 | Gabion Technologies India Ltd | 544675 | Initiation of work orders Received During the week Ended February 28, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 02 Mar 2026 - 14:18 |
+_No award announcements have been captured yet today._
 
-_Last updated: 02 Mar 2026 - 15:45 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-02.json)_
+_Last updated: 03 Mar 2026 - 09:17 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-03.json)_
 
 <!-- snapshot:end -->
 
