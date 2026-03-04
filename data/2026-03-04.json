@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-04",
-  "buckets": {},
+  "buckets": {
+    "2026-03-04T11": [
+      {
+        "newsId": "41ad597b-973e-4092-9e11-fdcdf0f8accf",
+        "scripCode": 544281,
+        "shortName": "A B Infrabuild Ltd",
+        "headline": "Allotment of Order",
+        "announcedAt": "2026-03-04T11:24:01.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
+        "rawTime": "2026-03-04T11:24:01.617"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-04T10:49:08.454+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-04T11:43:23.631+05:30",
+    "checksum": "80df993d4c219273bf0bb25057c7f4d596909444adc6e3c602d77e5fe0d5330e",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-04/awards-104907.json"
+    "rawPayloadPath": "data/raw/2026-03-04/awards-114322.json"
   }
 }
