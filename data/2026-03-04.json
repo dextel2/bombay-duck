@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-03-04T14:01:25.683"
       }
+    ],
+    "2026-03-04T15": [
+      {
+        "newsId": "5b14776e-3f69-4363-95e0-b625827253b1",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH 583527 USD RECEIVED.",
+        "announcedAt": "2026-03-04T15:25:27.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-03-04T15:25:27.193"
+      },
+      {
+        "newsId": "dd0b7fc4-f6b6-4f8d-ad70-f5b591f07cba",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH 185,902 USD RECEIVED.",
+        "announcedAt": "2026-03-04T15:02:34.557+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-03-04T15:02:34.557"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-04T14:42:06.565+05:30",
-    "checksum": "2ba95289ba887b29ad47bd3b281deeef11bff6c6681701c19e45e6f117992a7b",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-04T15:40:11.984+05:30",
+    "checksum": "2535f19e6938f120312b67eee9faa154ebb5e12676e9e64b138c089b38bbed02",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-04/awards-144205.json"
+    "rawPayloadPath": "data/raw/2026-03-04/awards-154011.json"
   }
 }
