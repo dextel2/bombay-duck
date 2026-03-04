@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
         "rawTime": "2026-03-04T11:24:01.617"
       }
+    ],
+    "2026-03-04T13": [
+      {
+        "newsId": "bc5fcf50-aac2-4745-be90-0db918104e06",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order worth Rs 85,15,125 received.",
+        "announcedAt": "2026-03-04T13:36:18.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-03-04T13:36:18.68"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-04T12:45:41.152+05:30",
-    "checksum": "80df993d4c219273bf0bb25057c7f4d596909444adc6e3c602d77e5fe0d5330e",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-04T13:38:22.351+05:30",
+    "checksum": "1d28007576765c1635af5efc74c274ce0cf55d0c77262aa0f7a6fb5e3dadf730",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-04/awards-124540.json"
+    "rawPayloadPath": "data/raw/2026-03-04/awards-133821.json"
   }
 }
