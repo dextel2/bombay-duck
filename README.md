@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-04 11:00 | A B Infrabuild Ltd | 544281 | Allotment of Order ([Link](https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/)) | Likely Positive | 04 Mar 2026 - 11:24 |
 
-_Last updated: 04 Mar 2026 - 11:43 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-04.json)_
+_Last updated: 04 Mar 2026 - 12:45 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-04.json)_
 
 <!-- snapshot:end -->
 
