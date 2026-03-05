@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-05",
-  "buckets": {},
+  "buckets": {
+    "2026-03-05T10": [
+      {
+        "newsId": "49686fb0-41d3-4b7c-8b58-3fbcb9711e72",
+        "scripCode": 543364,
+        "shortName": "Markolines Pavement Technologies Ltd",
+        "headline": "General Disclosure of Receipt of Work Order in accordance with the provisions of Reg.30 of SEBI LODR",
+        "announcedAt": "2026-03-05T10:32:52.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/",
+        "rawTime": "2026-03-05T10:32:52.823"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-05T10:02:56.578+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-03-05T10:51:23.503+05:30",
+    "checksum": "8e4740fb63475103830f377b654e3fee2fbf7ba3816e5e6446ba0af7054e3ca0",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-05/awards-100255.json"
+    "rawPayloadPath": "data/raw/2026-03-05/awards-105122.json"
   }
 }

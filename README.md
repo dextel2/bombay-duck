@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-05 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-05 10:00 | Markolines Pavement Technologies Ltd | 543364 | General Disclosure of Receipt of Work Order in accordance with the provisions of Reg.30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/)) | Likely Positive | 05 Mar 2026 - 10:32 |
 
-_Last updated: 05 Mar 2026 - 10:02 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-05.json)_
+_Last updated: 05 Mar 2026 - 10:51 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-05.json)_
 
 <!-- snapshot:end -->
 
