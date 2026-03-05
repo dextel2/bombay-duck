@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/",
         "rawTime": "2026-03-05T10:32:52.823"
       }
+    ],
+    "2026-03-05T14": [
+      {
+        "newsId": "a4500d0d-e94b-46b6-b6e4-ed990f0e52e5",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "M/s DEE Piping Systems (Thailand) Co. Ltd. which is Material Subsidiary of the Company has received an order amounting to Euro 1.9 million equivalent to INR 20 Crores.",
+        "announcedAt": "2026-03-05T14:47:46.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-03-05T14:47:46.19"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-05T14:43:46.246+05:30",
-    "checksum": "8e4740fb63475103830f377b654e3fee2fbf7ba3816e5e6446ba0af7054e3ca0",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-05T15:43:19.175+05:30",
+    "checksum": "ea2ec95b5516080801542059a8d2990a85c6ccfb3bbdd0d06231652b6f5363d0",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-05/awards-144345.json"
+    "rawPayloadPath": "data/raw/2026-03-05/awards-154318.json"
   }
 }

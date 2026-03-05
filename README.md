@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-05 14:00 | Dee Development Engineers Ltd | 544198 | M/s DEE Piping Systems (Thailand) Co. Ltd. which is Material Subsidiary of the Company has received an order amounting to Euro 1.9 million equivalent to INR 20 Crores. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 05 Mar 2026 - 14:47 |
 | 2026-03-05 10:00 | Markolines Pavement Technologies Ltd | 543364 | General Disclosure of Receipt of Work Order in accordance with the provisions of Reg.30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/)) | Likely Positive | 05 Mar 2026 - 10:32 |
 
-_Last updated: 05 Mar 2026 - 14:43 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-05.json)_
+_Last updated: 05 Mar 2026 - 15:43 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-05.json)_
 
 <!-- snapshot:end -->
 
