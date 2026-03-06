@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-06",
-  "buckets": {},
+  "buckets": {
+    "2026-03-06T13": [
+      {
+        "newsId": "2008ba1c-ab8c-4577-bceb-d6adf1bb2d74",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company has received a new order from Uttar Pradesh State Industrial Development Corporation Limited (UPSIDC) of value Rs. 153720150.19. For further details, ....",
+        "announcedAt": "2026-03-06T13:08:23.907+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-03-06T13:08:23.907"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-06T12:45:50.705+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-06T13:37:39.700+05:30",
+    "checksum": "65c2aadc4991ae229ab9807fafc6f0804c1e7ec04e922625a072edee7b3f8bf3",
+    "totalAnnouncements": 1,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-06/awards-124550.json"
+    "rawPayloadPath": "data/raw/2026-03-06/awards-133739.json"
   }
 }
