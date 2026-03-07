@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-03-07",
-  "buckets": {},
+  "buckets": {
+    "2026-03-07T13": [
+      {
+        "newsId": "5624ecf6-ac83-48c0-b5ac-1cdd54188af8",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Intimation regarding major order secured from Public Works (Roads) Directorate, Government of West Bengal",
+        "announcedAt": "2026-03-07T13:24:53.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2026-03-07T13:24:53.97"
+      }
+    ],
+    "2026-03-07T12": [
+      {
+        "newsId": "2848bf0e-00c2-4a43-8a55-eafe5213ee87",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of Order from ONGC",
+        "announcedAt": "2026-03-07T12:55:58.993+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-03-07T12:55:58.993"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-07T12:39:26.483+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-07T13:34:24.396+05:30",
+    "checksum": "2ad13915fe17d291be4ae3ac55e8d824ead74c4fc9814ece3ce2c973a2ced01e",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-07/awards-123925.json"
+    "rawPayloadPath": "data/raw/2026-03-07/awards-133423.json"
   }
 }

@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-07 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-07 13:00 | RITES Ltd | 541556 | Intimation regarding major order secured from Public Works (Roads) Directorate, Government of West Bengal ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 07 Mar 2026 - 13:24 |
+| 2026-03-07 12:00 | United Drilling Tools Ltd | 522014 | Award of Order from ONGC ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 07 Mar 2026 - 12:55 |
 
-_Last updated: 07 Mar 2026 - 12:39 | Entries: 0 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-07.json)_
+_Last updated: 07 Mar 2026 - 13:34 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-07.json)_
 
 <!-- snapshot:end -->
 
