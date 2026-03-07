@@ -18,13 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-06 IST)
+### Today's Awarded Orders (2026-03-07 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-03-06 13:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has received a new order from Uttar Pradesh State Industrial Development Corporation Limited (UPSIDC) of value Rs. 153720150.19. For further details, .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 06 Mar 2026 - 13:08 |
+_No award announcements have been captured yet today._
 
-_Last updated: 06 Mar 2026 - 15:38 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-06.json)_
+_Last updated: 07 Mar 2026 - 09:09 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-07.json)_
 
 <!-- snapshot:end -->
 
