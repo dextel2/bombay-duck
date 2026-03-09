@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
         "rawTime": "2026-03-09T10:43:19.797"
       }
+    ],
+    "2026-03-09T15": [
+      {
+        "newsId": "bf3c5b92-b7a5-4d13-a038-c5103a54b1d4",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation-regarding receipt of Letter of Intent worth totaling Rs.2.94 Cr",
+        "announcedAt": "2026-03-09T15:13:11.453+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-03-09T15:13:11.453"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-09T14:45:12.264+05:30",
-    "checksum": "11609a619035771aa9dbef06883049954e477f32b1d831e94bec4ab5df80571d",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-09T15:46:06.884+05:30",
+    "checksum": "de00fc0823a4034a0d3821ec4daf14c3e33b58582803c7da3f1d2bdbeff08da0",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-09/awards-144511.json"
+    "rawPayloadPath": "data/raw/2026-03-09/awards-154606.json"
   }
 }
