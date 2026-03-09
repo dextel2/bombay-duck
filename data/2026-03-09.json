@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-09",
-  "buckets": {},
+  "buckets": {
+    "2026-03-09T10": [
+      {
+        "newsId": "0a95f143-dc66-4f73-99a5-7e6a34401289",
+        "scripCode": 543367,
+        "shortName": "Paras Defence and Space Technologies Ltd",
+        "headline": "We are pleased to inform that PARAS has received an order from DRDO, MInistry of Defence valued at approximately Rs. 80.28 Cr. (Incl. of Taxes) for Development of High Precision Optical ....",
+        "announcedAt": "2026-03-09T10:43:19.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
+        "rawTime": "2026-03-09T10:43:19.797"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-09T10:05:45.737+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-03-09T10:56:42.515+05:30",
+    "checksum": "11609a619035771aa9dbef06883049954e477f32b1d831e94bec4ab5df80571d",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-09/awards-100543.json"
+    "rawPayloadPath": "data/raw/2026-03-09/awards-105642.json"
   }
 }

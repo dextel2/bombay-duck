@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-09 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-09 10:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that PARAS has received an order from DRDO, MInistry of Defence valued at approximately Rs. 80.28 Cr. (Incl. of Taxes) for Development of High Precision Optical .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 09 Mar 2026 - 10:43 |
 
-_Last updated: 09 Mar 2026 - 10:05 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-09.json)_
+_Last updated: 09 Mar 2026 - 10:56 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-09.json)_
 
 <!-- snapshot:end -->
 
