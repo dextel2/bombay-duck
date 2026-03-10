@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-10 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI(LODR) Regulations ,2015 ,regarding bagging of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 10 Mar 2026 - 11:44 |
 | 2026-03-10 08:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with CNH Industrial (India) Private Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 10 Mar 2026 - 08:32 |
 
-_Last updated: 10 Mar 2026 - 14:43 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-10.json)_
+_Last updated: 10 Mar 2026 - 15:42 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-10.json)_
 
 <!-- snapshot:end -->
 
