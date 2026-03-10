@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
         "rawTime": "2026-03-10T11:44:37.93"
       }
+    ],
+    "2026-03-10T13": [
+      {
+        "newsId": "a3d9250e-bdd6-463e-be34-ec4806bab87e",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The Company has received an order of worth 15.91 crore for supply, fabrication, delivery and erection of fabricated steel structure in the Fabricated Steel Manufacturing Division of the Company.",
+        "announcedAt": "2026-03-10T13:56:49.587+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2026-03-10T13:56:49.587"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-10T13:39:46.147+05:30",
-    "checksum": "319fa4adfbe96555bb08ffef0443b56acac121a5bf6f8959ab2530872bb237b4",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-10T14:43:50.112+05:30",
+    "checksum": "fc0b59498880d42b068f69f4b9040d71b1e3486abd8e2114fe03302c105634e0",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-10/awards-133945.json"
+    "rawPayloadPath": "data/raw/2026-03-10/awards-144349.json"
   }
 }
