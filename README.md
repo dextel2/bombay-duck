@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-09 IST)
+### Today's Awarded Orders (2026-03-10 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-09 15:00 | Desco Infratech Ltd | 544387 | Intimation-regarding receipt of Letter of Intent worth totaling Rs.2.94 Cr ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 09 Mar 2026 - 15:13 |
-| 2026-03-09 10:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that PARAS has received an order from DRDO, MInistry of Defence valued at approximately Rs. 80.28 Cr. (Incl. of Taxes) for Development of High Precision Optical .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 09 Mar 2026 - 10:43 |
+| 2026-03-10 08:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with CNH Industrial (India) Private Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 10 Mar 2026 - 08:32 |
 
-_Last updated: 09 Mar 2026 - 15:46 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-09.json)_
+_Last updated: 10 Mar 2026 - 09:15 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-10.json)_
 
 <!-- snapshot:end -->
 
