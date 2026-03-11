@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-11 11:00 | Dilip Buildcon Ltd | 540047 | In continuation of our announcement dated December 26, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 11 Mar 2026 - 11:46 |
 | 2026-03-11 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 11 Mar 2026 - 10:39 |
 
-_Last updated: 11 Mar 2026 - 14:43 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-11.json)_
+_Last updated: 11 Mar 2026 - 15:42 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-11.json)_
 
 <!-- snapshot:end -->
 
