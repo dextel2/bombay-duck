@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
         "rawTime": "2026-03-11T13:06:27.277"
       }
+    ],
+    "2026-03-11T14": [
+      {
+        "newsId": "b6a94d36-899f-40fb-bbb9-1ab7d12ea69e",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Sushee ....",
+        "announcedAt": "2026-03-11T14:29:10.537+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-03-11T14:29:10.537"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-11T13:40:02.502+05:30",
-    "checksum": "167367c4c760d20f3cab4a9288e3c2e9394fa7d94c82046e4a07c15e4b8b10ad",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-11T14:43:53.681+05:30",
+    "checksum": "fcbd56dd87de18589455e6d9ef91bb8d8525ec68cfa316942adf900b0291782f",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-11/awards-134001.json"
+    "rawPayloadPath": "data/raw/2026-03-11/awards-144353.json"
   }
 }
