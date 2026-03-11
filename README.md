@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-11 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-11 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 11 Mar 2026 - 10:39 |
 
-_Last updated: 11 Mar 2026 - 10:02 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-11.json)_
+_Last updated: 11 Mar 2026 - 10:51 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-11.json)_
 
 <!-- snapshot:end -->
 
