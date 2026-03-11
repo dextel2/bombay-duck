@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2026-03-11T11:46:42.523"
       }
+    ],
+    "2026-03-11T13": [
+      {
+        "newsId": "af891a07-78cd-456a-bce3-a3175d0919b6",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding the receipt of order form domestic and export.",
+        "announcedAt": "2026-03-11T13:06:27.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-03-11T13:06:27.277"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-11T12:47:48.327+05:30",
-    "checksum": "c55c3dc1419b40d96e5e426f8f6264b21a709d38c10b7e61f49e49cc55b01af4",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-11T13:40:02.502+05:30",
+    "checksum": "167367c4c760d20f3cab4a9288e3c2e9394fa7d94c82046e4a07c15e4b8b10ad",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-11/awards-124747.json"
+    "rawPayloadPath": "data/raw/2026-03-11/awards-134001.json"
   }
 }
