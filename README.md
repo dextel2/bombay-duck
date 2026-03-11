@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-10 IST)
+### Today's Awarded Orders (2026-03-11 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-03-10 13:00 | BMW Ventures Ltd | 544543 | The Company has received an order of worth 15.91 crore for supply, fabrication, delivery and erection of fabricated steel structure in the Fabricated Steel Manufacturing Division of the Company. ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 10 Mar 2026 - 13:56 |
-| 2026-03-10 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI(LODR) Regulations ,2015 ,regarding bagging of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 10 Mar 2026 - 11:44 |
-| 2026-03-10 08:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with CNH Industrial (India) Private Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 10 Mar 2026 - 08:32 |
+_No award announcements have been captured yet today._
 
-_Last updated: 10 Mar 2026 - 15:42 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-10.json)_
+_Last updated: 11 Mar 2026 - 09:16 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-11.json)_
 
 <!-- snapshot:end -->
 
