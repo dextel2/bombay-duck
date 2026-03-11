@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-03-11T10:39:55.5"
       }
+    ],
+    "2026-03-11T11": [
+      {
+        "newsId": "3b4bc183-64ab-405b-8a31-f0e203727680",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "In continuation of our announcement dated December 26, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) ....",
+        "announcedAt": "2026-03-11T11:46:42.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-03-11T11:46:42.523"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-11T11:45:03.585+05:30",
-    "checksum": "77f7031c0a689d30f5d83bde58e7c0e276747682ad86298d50da426a8d7a1503",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-11T12:47:48.327+05:30",
+    "checksum": "c55c3dc1419b40d96e5e426f8f6264b21a709d38c10b7e61f49e49cc55b01af4",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-11/awards-114502.json"
+    "rawPayloadPath": "data/raw/2026-03-11/awards-124747.json"
   }
 }
