@@ -18,16 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-11 IST)
+### Today's Awarded Orders (2026-03-12 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-11 14:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Sushee .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 11 Mar 2026 - 14:29 |
-| 2026-03-11 13:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding the receipt of order form domestic and export. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 11 Mar 2026 - 13:06 |
-| 2026-03-11 11:00 | Dilip Buildcon Ltd | 540047 | In continuation of our announcement dated December 26, 2025 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 11 Mar 2026 - 11:46 |
-| 2026-03-11 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 11 Mar 2026 - 10:39 |
+| 2026-03-12 09:00 | Enviro Infra Engineers Ltd | 544290 | Order worth INR 411.08 Crore (including GST) ([Link](https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/)) | Likely Positive | 12 Mar 2026 - 09:01 |
+| 2026-03-12 08:00 | VA Tech Wabag Ltd | 533269 | WABAG bags Mega PPP order from CMWSSB, towards 45 MLD TTRO Plant in Chennai, reinforcing Water Reuse Leadership ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 12 Mar 2026 - 08:28 |
 
-_Last updated: 11 Mar 2026 - 15:42 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-11.json)_
+_Last updated: 12 Mar 2026 - 09:17 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-12.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-03-12",
+  "buckets": {
+    "2026-03-12T09": [
+      {
+        "newsId": "fae3c855-5472-4432-955b-58be33cc2606",
+        "scripCode": 544290,
+        "shortName": "Enviro Infra Engineers Ltd",
+        "headline": "Order worth INR 411.08 Crore (including GST)",
+        "announcedAt": "2026-03-12T09:01:49.567+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/",
+        "rawTime": "2026-03-12T09:01:49.567"
+      }
+    ],
+    "2026-03-12T08": [
+      {
+        "newsId": "4def8b3b-15e8-4e11-94e0-5bebb678cb03",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG bags Mega PPP order from CMWSSB, towards 45 MLD TTRO Plant in Chennai, reinforcing Water Reuse Leadership",
+        "announcedAt": "2026-03-12T08:28:25.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-03-12T08:28:25.747"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-12T09:17:13.941+05:30",
+    "checksum": "bb8372a28bc973aca885f2d8da298c4d5aea1e496347018202ac5cae208ad47c",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-12/awards-091713.json"
+  }
+}
