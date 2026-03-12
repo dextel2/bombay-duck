@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
         "rawTime": "2026-03-12T11:37:28.5"
       }
+    ],
+    "2026-03-12T12": [
+      {
+        "newsId": "ba37b454-603c-46e6-91c2-7c76a67c1332",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "This is in furtherance to our letter dated 11th March, 2026 intimating that Ceigall India Limited ('CIL') jointly with Sushee Infra & Mining Limited ('SIML') [CIL - 74% & SIML - 26% share ....",
+        "announcedAt": "2026-03-12T12:27:38.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-03-12T12:27:38.64"
+      },
+      {
+        "newsId": "77ed744b-7392-4061-8a7c-5d6959a40b4a",
+        "scripCode": 544646,
+        "shortName": "Shipwaves Online Ltd",
+        "headline": "Intimation of receipt of Purchase Order.",
+        "announcedAt": "2026-03-12T12:19:06.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/",
+        "rawTime": "2026-03-12T12:19:06.51"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-12T11:46:15.348+05:30",
-    "checksum": "05f951bb8800bd3b4331ec64395f8d9834515e49dacad4bd0137560443b1d6f0",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-12T12:48:53.334+05:30",
+    "checksum": "0991919de97b1bcb58aca6eb7d4e6e8e1d54bf402a1ef60188e3f6e4d9dac6e3",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-12/awards-114614.json"
+    "rawPayloadPath": "data/raw/2026-03-12/awards-124852.json"
   }
 }
