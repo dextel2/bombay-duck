@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/",
         "rawTime": "2026-03-12T12:19:06.51"
       }
+    ],
+    "2026-03-12T13": [
+      {
+        "newsId": "2108e026-a550-4046-9412-4a85f66c4fbb",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with regards to Shelter Pharma secured order from First Vet Veterinary Medicines Trading LLC, UAE pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) ....",
+        "announcedAt": "2026-03-12T13:00:37.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-03-12T13:00:37.55"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-12T12:48:53.334+05:30",
-    "checksum": "0991919de97b1bcb58aca6eb7d4e6e8e1d54bf402a1ef60188e3f6e4d9dac6e3",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-12T13:41:16.559+05:30",
+    "checksum": "0ef2a860a1d6533d85bcbd94dc451077565319e9b9681493811674aa23a76f9c",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-12/awards-124852.json"
+    "rawPayloadPath": "data/raw/2026-03-12/awards-134116.json"
   }
 }
