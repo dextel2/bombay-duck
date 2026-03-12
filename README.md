@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-12 13:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 12 Mar 2026 - 13:45 |
 | 2026-03-12 13:00 | Shelter Pharma Ltd | 543963 | Intimation with regards to Shelter Pharma secured order from First Vet Veterinary Medicines Trading LLC, UAE pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 12 Mar 2026 - 13:00 |
 | 2026-03-12 12:00 | Ceigall India Ltd | 544223 | This is in furtherance to our letter dated 11th March, 2026 intimating that Ceigall India Limited ('CIL') jointly with Sushee Infra & Mining Limited ('SIML') [CIL - 74% & SIML - 26% share .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 12 Mar 2026 - 12:27 |
 | 2026-03-12 12:00 | Shipwaves Online Ltd | 544646 | Intimation of receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/)) | Likely Positive | 12 Mar 2026 - 12:19 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-12 09:00 | Enviro Infra Engineers Ltd | 544290 | Order worth INR 411.08 Crore (including GST) ([Link](https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/)) | Likely Positive | 12 Mar 2026 - 09:01 |
 | 2026-03-12 08:00 | VA Tech Wabag Ltd | 533269 | WABAG bags Mega PPP order from CMWSSB, towards 45 MLD TTRO Plant in Chennai, reinforcing Water Reuse Leadership ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 12 Mar 2026 - 08:28 |
 
-_Last updated: 12 Mar 2026 - 13:41 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-12.json)_
+_Last updated: 12 Mar 2026 - 14:44 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-12.json)_
 
 <!-- snapshot:end -->
 
