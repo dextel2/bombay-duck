@@ -30,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-12 09:00 | Enviro Infra Engineers Ltd | 544290 | Order worth INR 411.08 Crore (including GST) ([Link](https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/)) | Likely Positive | 12 Mar 2026 - 09:01 |
 | 2026-03-12 08:00 | VA Tech Wabag Ltd | 533269 | WABAG bags Mega PPP order from CMWSSB, towards 45 MLD TTRO Plant in Chennai, reinforcing Water Reuse Leadership ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 12 Mar 2026 - 08:28 |
 
-_Last updated: 12 Mar 2026 - 14:44 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-12.json)_
+_Last updated: 12 Mar 2026 - 15:43 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-12.json)_
 
 <!-- snapshot:end -->
 
