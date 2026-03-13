@@ -73,14 +73,25 @@
         "url": "https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/",
         "rawTime": "2026-03-13T13:31:55.173"
       }
+    ],
+    "2026-03-13T14": [
+      {
+        "newsId": "59199591-0edd-45c1-911c-11d238cb63e5",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra ....",
+        "announcedAt": "2026-03-13T14:56:09.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-03-13T14:56:09.36"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-13T14:42:25.501+05:30",
-    "checksum": "9f804c6d7f993a8e4449fd52cd305e294d0f013fa0a4700e686c7331a312ae58",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-13T15:39:26.180+05:30",
+    "checksum": "7247dc5ea619c5b2c086d94ada2df39f989b905cdd7fe2223544f1b5fd0b5515",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-13/awards-144224.json"
+    "rawPayloadPath": "data/raw/2026-03-13/awards-153925.json"
   }
 }
