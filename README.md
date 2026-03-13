@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-13 09:00 | Ramky Infrastructure Ltd | 533262 | MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION HAS ENTERED INTO CONCESSION AGREEMENT WITH MAHA INTEGRATED LIFE SCIENCES CITY LIMITED BEING WHOLLY OWNED SUBSIDIARY OF RAMKY INFRASTRUCTURE .... ([Link](https://www.bseindia.com/stock-share-price/ramky-infrastructure-ltd/ramky/533262/)) | Neutral | 13 Mar 2026 - 09:22 |
 | 2026-03-13 08:00 | HFCL Ltd | 500183 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that the Company has entered into a five year supply agreement .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Neutral | 13 Mar 2026 - 08:23 |
 
-_Last updated: 13 Mar 2026 - 09:16 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-13.json)_
+_Last updated: 13 Mar 2026 - 10:02 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-13.json)_
 
 <!-- snapshot:end -->
 

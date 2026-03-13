@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
         "rawTime": "2026-03-13T08:23:24.253"
       }
+    ],
+    "2026-03-13T09": [
+      {
+        "newsId": "b1981371-88d8-4279-9499-6a308e4ce162",
+        "scripCode": 533262,
+        "shortName": "Ramky Infrastructure Ltd",
+        "headline": "MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION HAS ENTERED INTO CONCESSION AGREEMENT WITH MAHA INTEGRATED LIFE SCIENCES CITY LIMITED BEING WHOLLY OWNED SUBSIDIARY OF RAMKY INFRASTRUCTURE ....",
+        "announcedAt": "2026-03-13T09:22:33.623+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ramky-infrastructure-ltd/ramky/533262/",
+        "rawTime": "2026-03-13T09:22:33.623"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-13T09:16:55.196+05:30",
-    "checksum": "2a1d61cb87865d7db3ab8a72a8107d9f46799882400353ad0de67af8cfbc60a9",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-03-13T10:02:50.080+05:30",
+    "checksum": "b02a3795a72ff3bc7eecd1b1aefddf7177325f3d1e7ec8b232c0ba5ba6a0ba58",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-13/awards-091654.json"
+    "rawPayloadPath": "data/raw/2026-03-13/awards-100249.json"
   }
 }
