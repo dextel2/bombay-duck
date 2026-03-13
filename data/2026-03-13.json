@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-03-13",
+  "buckets": {
+    "2026-03-13T08": [
+      {
+        "newsId": "c861e44a-1990-41e2-9220-5b933abfdcc4",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that the Company has entered into a five year supply agreement ....",
+        "announcedAt": "2026-03-13T08:23:24.253+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2026-03-13T08:23:24.253"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-13T09:16:55.196+05:30",
+    "checksum": "2a1d61cb87865d7db3ab8a72a8107d9f46799882400353ad0de67af8cfbc60a9",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-13/awards-091654.json"
+  }
+}
