@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ramky-infrastructure-ltd/ramky/533262/",
         "rawTime": "2026-03-13T09:22:33.623"
       }
+    ],
+    "2026-03-13T11": [
+      {
+        "newsId": "3dfcfae1-5506-4ef9-900d-b6d333cd5a15",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of work order.",
+        "announcedAt": "2026-03-13T11:01:35.923+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-03-13T11:01:35.923"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-13T10:51:57.783+05:30",
-    "checksum": "b02a3795a72ff3bc7eecd1b1aefddf7177325f3d1e7ec8b232c0ba5ba6a0ba58",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-13T11:45:41.609+05:30",
+    "checksum": "2680d2217acb7ffc67db86fbebf4376bff0a5ef38fe8ed561df9c5c5366f0f9c",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-13/awards-105156.json"
+    "rawPayloadPath": "data/raw/2026-03-13/awards-114541.json"
   }
 }
