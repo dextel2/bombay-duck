@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-03-13T11:01:35.923"
       }
+    ],
+    "2026-03-13T12": [
+      {
+        "newsId": "169b7081-c9e7-4a8b-a384-72326433f53c",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015.",
+        "announcedAt": "2026-03-13T12:20:16.117+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-03-13T12:20:16.117"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-13T11:45:41.609+05:30",
-    "checksum": "2680d2217acb7ffc67db86fbebf4376bff0a5ef38fe8ed561df9c5c5366f0f9c",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-13T12:48:16.202+05:30",
+    "checksum": "011d04ee4f6c040639b88840e5591606693c886aeda09373df380623332cc0dc",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-13/awards-114541.json"
+    "rawPayloadPath": "data/raw/2026-03-13/awards-124815.json"
   }
 }
