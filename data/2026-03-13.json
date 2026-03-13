@@ -44,14 +44,34 @@
         "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
         "rawTime": "2026-03-13T12:20:16.117"
       }
+    ],
+    "2026-03-13T13": [
+      {
+        "newsId": "84b502e8-9e6c-41e4-89a4-7a3ee58feacb",
+        "scripCode": 517393,
+        "shortName": "Reganto Enterprises Ltd",
+        "headline": "Final and Interim Orders of Compounding.",
+        "announcedAt": "2026-03-13T13:35:29.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/reganto-enterprises-ltd/reganto/517393/",
+        "rawTime": "2026-03-13T13:35:29.85"
+      },
+      {
+        "newsId": "d88f0f27-0dc3-460d-a812-fe32fd717754",
+        "scripCode": 532894,
+        "shortName": "Indowind Energy Ltd",
+        "headline": "Dear sir/Madam, PFA the order of merger of Indowind Energy Limited with Ind Eco Ventures Limited.",
+        "announcedAt": "2026-03-13T13:31:55.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/",
+        "rawTime": "2026-03-13T13:31:55.173"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-13T12:48:16.202+05:30",
-    "checksum": "011d04ee4f6c040639b88840e5591606693c886aeda09373df380623332cc0dc",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-13T13:39:56.409+05:30",
+    "checksum": "76a0040c6ced6a201aa9e64155c6b387e7568546be0a8512c4bd9f590a917332",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-13/awards-124815.json"
+    "rawPayloadPath": "data/raw/2026-03-13/awards-133955.json"
   }
 }

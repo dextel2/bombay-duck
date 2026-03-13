@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-13 13:00 | Reganto Enterprises Ltd | 517393 | Final and Interim Orders of Compounding. ([Link](https://www.bseindia.com/stock-share-price/reganto-enterprises-ltd/reganto/517393/)) | Likely Positive | 13 Mar 2026 - 13:35 |
+| 2026-03-13 13:00 | Indowind Energy Ltd | 532894 | Dear sir/Madam, PFA the order of merger of Indowind Energy Limited with Ind Eco Ventures Limited. ([Link](https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/)) | Likely Positive | 13 Mar 2026 - 13:31 |
 | 2026-03-13 12:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015. ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 13 Mar 2026 - 12:20 |
 | 2026-03-13 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 13 Mar 2026 - 11:01 |
 | 2026-03-13 09:00 | Ramky Infrastructure Ltd | 533262 | MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION HAS ENTERED INTO CONCESSION AGREEMENT WITH MAHA INTEGRATED LIFE SCIENCES CITY LIMITED BEING WHOLLY OWNED SUBSIDIARY OF RAMKY INFRASTRUCTURE .... ([Link](https://www.bseindia.com/stock-share-price/ramky-infrastructure-ltd/ramky/533262/)) | Neutral | 13 Mar 2026 - 09:22 |
 | 2026-03-13 08:00 | HFCL Ltd | 500183 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that the Company has entered into a five year supply agreement .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Neutral | 13 Mar 2026 - 08:23 |
 
-_Last updated: 13 Mar 2026 - 12:48 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-13.json)_
+_Last updated: 13 Mar 2026 - 13:39 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-13.json)_
 
 <!-- snapshot:end -->
 
