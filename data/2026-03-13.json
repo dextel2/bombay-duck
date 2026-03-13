@@ -47,6 +47,15 @@
     ],
     "2026-03-13T13": [
       {
+        "newsId": "bcdbc3b9-5ba4-488e-828d-f3cbcd68e11c",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We hereby inform that the Company has received a Letter of Intent from Suzlon Western India Projects Limited amounting to Rs. 1,20,46,620/-.",
+        "announcedAt": "2026-03-13T13:48:21.000+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-03-13T13:48:21"
+      },
+      {
         "newsId": "84b502e8-9e6c-41e4-89a4-7a3ee58feacb",
         "scripCode": 517393,
         "shortName": "Reganto Enterprises Ltd",
@@ -67,11 +76,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-13T13:39:56.409+05:30",
-    "checksum": "76a0040c6ced6a201aa9e64155c6b387e7568546be0a8512c4bd9f590a917332",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-13T14:42:25.501+05:30",
+    "checksum": "9f804c6d7f993a8e4449fd52cd305e294d0f013fa0a4700e686c7331a312ae58",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-13/awards-133955.json"
+    "rawPayloadPath": "data/raw/2026-03-13/awards-144224.json"
   }
 }
