@@ -31,14 +31,45 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-03-14T10:09:27.59"
       }
+    ],
+    "2026-03-14T12": [
+      {
+        "newsId": "4dd59dba-5cd3-45d3-a9c5-4ae66fc3790d",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of Receipt of Work Order.",
+        "announcedAt": "2026-03-14T12:28:08.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-03-14T12:28:08.617"
+      }
+    ],
+    "2026-03-14T11": [
+      {
+        "newsId": "32363301-360c-4a73-b9bf-498b2751f51e",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-03-14T11:54:11.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-03-14T11:54:11.19"
+      },
+      {
+        "newsId": "5b99b182-fac4-4b74-adb3-8c67eda310e9",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-03-14T11:53:05.073+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-03-14T11:53:05.073"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-14T11:43:57.492+05:30",
-    "checksum": "de0ac92d55efd6762d45f83197eb19e4ccdbc6f7d0b8a344c7ccd476510079cb",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-14T12:44:30.183+05:30",
+    "checksum": "ce657de71d813af64a1fbbfd26a37c11f0e8d216d006a5059f0c985664c58320",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-14/awards-114357.json"
+    "rawPayloadPath": "data/raw/2026-03-14/awards-124429.json"
   }
 }
