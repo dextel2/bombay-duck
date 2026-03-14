@@ -31,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-14 08:00 | JSL Industries Ltd | 504080 | Order passed by the Superintendent service tax matter ([Link](https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/)) | Likely Positive | 14 Mar 2026 - 08:50 |
 | 2026-03-14 08:00 | VA Tech Wabag Ltd | 533269 | WABAG JV secures ADB funded ''Mega'' order from CMWSSB to Build Chennai''s City-Wide Looped Water Grid ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 14 Mar 2026 - 08:22 |
 
-_Last updated: 14 Mar 2026 - 14:38 | Entries: 8 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-14.json)_
+_Last updated: 14 Mar 2026 - 15:34 | Entries: 8 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-14.json)_
 
 <!-- snapshot:end -->
 
