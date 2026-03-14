@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-03-14",
+  "buckets": {
+    "2026-03-14T08": [
+      {
+        "newsId": "9ff8ce2b-95ff-4dce-a7b5-14f189429ef8",
+        "scripCode": 504080,
+        "shortName": "JSL Industries Ltd",
+        "headline": "Order passed by the Superintendent service tax matter",
+        "announcedAt": "2026-03-14T08:50:29.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/",
+        "rawTime": "2026-03-14T08:50:29.47"
+      },
+      {
+        "newsId": "174a356a-78d3-4274-8fe8-0bb1fe6789d7",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG JV secures ADB funded ''Mega'' order from CMWSSB to Build Chennai''s City-Wide Looped Water Grid",
+        "announcedAt": "2026-03-14T08:22:29.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-03-14T08:22:29.66"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-14T09:16:26.581+05:30",
+    "checksum": "51271711e39a327bf401ec98fc38a5f92c280997944f0a4ae9636c3cbab00cbd",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-14/awards-091625.json"
+  }
+}

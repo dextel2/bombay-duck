@@ -18,20 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-13 IST)
+### Today's Awarded Orders (2026-03-14 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-13 14:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 13 Mar 2026 - 14:56 |
-| 2026-03-13 13:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform that the Company has received a Letter of Intent from Suzlon Western India Projects Limited amounting to Rs. 1,20,46,620/-. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Neutral | 13 Mar 2026 - 13:48 |
-| 2026-03-13 13:00 | Reganto Enterprises Ltd | 517393 | Final and Interim Orders of Compounding. ([Link](https://www.bseindia.com/stock-share-price/reganto-enterprises-ltd/reganto/517393/)) | Likely Positive | 13 Mar 2026 - 13:35 |
-| 2026-03-13 13:00 | Indowind Energy Ltd | 532894 | Dear sir/Madam, PFA the order of merger of Indowind Energy Limited with Ind Eco Ventures Limited. ([Link](https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/)) | Likely Positive | 13 Mar 2026 - 13:31 |
-| 2026-03-13 12:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015. ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 13 Mar 2026 - 12:20 |
-| 2026-03-13 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 13 Mar 2026 - 11:01 |
-| 2026-03-13 09:00 | Ramky Infrastructure Ltd | 533262 | MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION HAS ENTERED INTO CONCESSION AGREEMENT WITH MAHA INTEGRATED LIFE SCIENCES CITY LIMITED BEING WHOLLY OWNED SUBSIDIARY OF RAMKY INFRASTRUCTURE .... ([Link](https://www.bseindia.com/stock-share-price/ramky-infrastructure-ltd/ramky/533262/)) | Neutral | 13 Mar 2026 - 09:22 |
-| 2026-03-13 08:00 | HFCL Ltd | 500183 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that the Company has entered into a five year supply agreement .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Neutral | 13 Mar 2026 - 08:23 |
+| 2026-03-14 08:00 | JSL Industries Ltd | 504080 | Order passed by the Superintendent service tax matter ([Link](https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/)) | Likely Positive | 14 Mar 2026 - 08:50 |
+| 2026-03-14 08:00 | VA Tech Wabag Ltd | 533269 | WABAG JV secures ADB funded ''Mega'' order from CMWSSB to Build Chennai''s City-Wide Looped Water Grid ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 14 Mar 2026 - 08:22 |
 
-_Last updated: 13 Mar 2026 - 15:39 | Entries: 8 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-13.json)_
+_Last updated: 14 Mar 2026 - 09:16 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-14.json)_
 
 <!-- snapshot:end -->
 
