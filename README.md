@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-14 10:00 | ITCONS E-Solutions Ltd | 543806 | We are plaesed to inform that our Company has received new order from Department of Defence Research and Development, Aeronautical Development Agency, Ministry of Defence of Rs. 28102314.24. .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Mar 2026 - 10:09 |
 | 2026-03-14 08:00 | JSL Industries Ltd | 504080 | Order passed by the Superintendent service tax matter ([Link](https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/)) | Likely Positive | 14 Mar 2026 - 08:50 |
 | 2026-03-14 08:00 | VA Tech Wabag Ltd | 533269 | WABAG JV secures ADB funded ''Mega'' order from CMWSSB to Build Chennai''s City-Wide Looped Water Grid ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 14 Mar 2026 - 08:22 |
 
-_Last updated: 14 Mar 2026 - 10:02 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-14.json)_
+_Last updated: 14 Mar 2026 - 10:50 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-14.json)_
 
 <!-- snapshot:end -->
 

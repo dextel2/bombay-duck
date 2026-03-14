@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2026-03-14T08:22:29.66"
       }
+    ],
+    "2026-03-14T10": [
+      {
+        "newsId": "688af872-0a6f-4505-9020-06c3a4685e66",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are plaesed to inform that our Company has received new order from Department of Defence Research and Development, Aeronautical Development Agency, Ministry of Defence of Rs. 28102314.24. ....",
+        "announcedAt": "2026-03-14T10:09:27.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-03-14T10:09:27.59"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-14T10:02:30.568+05:30",
-    "checksum": "51271711e39a327bf401ec98fc38a5f92c280997944f0a4ae9636c3cbab00cbd",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-03-14T10:50:23.814+05:30",
+    "checksum": "de0ac92d55efd6762d45f83197eb19e4ccdbc6f7d0b8a344c7ccd476510079cb",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-14/awards-100230.json"
+    "rawPayloadPath": "data/raw/2026-03-14/awards-105022.json"
   }
 }
