@@ -18,20 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-14 IST)
+### Today's Awarded Orders (2026-03-15 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-03-14 13:00 | Meta Infotech Ltd | 544441 | We wish to inform that company has received renewal purchase order amounting to Rs. 1.91 crores bagged by the company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 14 Mar 2026 - 13:33 |
-| 2026-03-14 12:00 | Dilip Buildcon Ltd | 540047 | In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you that the .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 14 Mar 2026 - 12:46 |
-| 2026-03-14 12:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Work Order. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 14 Mar 2026 - 12:28 |
-| 2026-03-14 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 Mar 2026 - 11:54 |
-| 2026-03-14 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 Mar 2026 - 11:53 |
-| 2026-03-14 10:00 | ITCONS E-Solutions Ltd | 543806 | We are plaesed to inform that our Company has received new order from Department of Defence Research and Development, Aeronautical Development Agency, Ministry of Defence of Rs. 28102314.24. .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Mar 2026 - 10:09 |
-| 2026-03-14 08:00 | JSL Industries Ltd | 504080 | Order passed by the Superintendent service tax matter ([Link](https://www.bseindia.com/stock-share-price/jsl-industries-ltd/jslindl/504080/)) | Likely Positive | 14 Mar 2026 - 08:50 |
-| 2026-03-14 08:00 | VA Tech Wabag Ltd | 533269 | WABAG JV secures ADB funded ''Mega'' order from CMWSSB to Build Chennai''s City-Wide Looped Water Grid ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 14 Mar 2026 - 08:22 |
+_No award announcements have been captured yet today._
 
-_Last updated: 14 Mar 2026 - 15:34 | Entries: 8 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-14.json)_
+_Last updated: 15 Mar 2026 - 09:27 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-15.json)_
 
 <!-- snapshot:end -->
 
