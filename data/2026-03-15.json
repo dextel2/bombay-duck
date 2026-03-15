@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-15",
-  "buckets": {},
+  "buckets": {
+    "2026-03-15T15": [
+      {
+        "newsId": "8ec122ce-bdb8-49c3-90c3-858aeb9da36e",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Receipt of Order value of Rs.62.36 Crores",
+        "announcedAt": "2026-03-15T15:18:40.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-03-15T15:18:40.697"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-15T14:39:10.588+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-15T15:35:48.235+05:30",
+    "checksum": "90c2a6aab4c66abeef33b82f12e7c58f1516c5ca65a6be0213c3661b1e435d0b",
+    "totalAnnouncements": 1,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-15/awards-143910.json"
+    "rawPayloadPath": "data/raw/2026-03-15/awards-153547.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-15 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-15 15:00 | Airfloa Rail Technology Ltd | 544516 | Receipt of Order value of Rs.62.36 Crores ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 15 Mar 2026 - 15:18 |
 
-_Last updated: 15 Mar 2026 - 14:39 | Entries: 0 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-15.json)_
+_Last updated: 15 Mar 2026 - 15:35 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-15.json)_
 
 <!-- snapshot:end -->
 
