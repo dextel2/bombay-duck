@@ -1,12 +1,42 @@
 {
   "tradingDate": "2026-03-16",
-  "buckets": {},
+  "buckets": {
+    "2026-03-16T12": [
+      {
+        "newsId": "70a2ea70-9657-4e57-bfbd-7cd9f3edb20f",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Rajinder ....",
+        "announcedAt": "2026-03-16T12:50:03.073+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-03-16T12:50:03.073"
+      },
+      {
+        "newsId": "20051656-568a-410f-817d-da4641ddfe0e",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "The Company has received a Purchase order from SURJA INFRA PRIVATE LIMITED for 678 NOS of Solar Module. Total value is around 0.61 Crores(Exclusive of GST).",
+        "announcedAt": "2026-03-16T12:08:10.907+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-03-16T12:08:10.907"
+      },
+      {
+        "newsId": "67cdff2c-7ecb-401a-b59f-c44becd6c1c1",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED For 7041 NOS Solar PV Module . Total Value is around 6.067 Crores(exclusive of GST).",
+        "announcedAt": "2026-03-16T12:03:22.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-03-16T12:03:22.343"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-16T11:59:56.607+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-16T13:01:00.421+05:30",
+    "checksum": "f085559af8df645c513bb35166708fc1ea5dd33279451dd725e530b24197d898",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-16/awards-115956.json"
+    "rawPayloadPath": "data/raw/2026-03-16/awards-130059.json"
   }
 }

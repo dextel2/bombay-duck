@@ -20,9 +20,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-16 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-16 12:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Rajinder .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 16 Mar 2026 - 12:50 |
+| 2026-03-16 12:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase order from SURJA INFRA PRIVATE LIMITED for 678 NOS of Solar Module. Total value is around 0.61 Crores(Exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 16 Mar 2026 - 12:08 |
+| 2026-03-16 12:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED For 7041 NOS Solar PV Module . Total Value is around 6.067 Crores(exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 16 Mar 2026 - 12:03 |
 
-_Last updated: 16 Mar 2026 - 11:59 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-16.json)_
+_Last updated: 16 Mar 2026 - 13:01 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-16.json)_
 
 <!-- snapshot:end -->
 
