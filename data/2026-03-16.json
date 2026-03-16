@@ -29,14 +29,34 @@
         "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
         "rawTime": "2026-03-16T12:03:22.343"
       }
+    ],
+    "2026-03-16T13": [
+      {
+        "newsId": "213b9c75-0edd-4b8b-bcf4-c81609244722",
+        "scripCode": 523754,
+        "shortName": "Mahindra EPC Irrigation Ltd",
+        "headline": "Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations ....",
+        "announcedAt": "2026-03-16T13:27:23.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/",
+        "rawTime": "2026-03-16T13:27:23.67"
+      },
+      {
+        "newsId": "4a0bf290-cd26-40d5-915b-6b1ab238efe0",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of Work/Supply Orders Received during the week Ended Match 14, 2026.",
+        "announcedAt": "2026-03-16T13:08:32.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-03-16T13:08:32.767"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-16T13:01:00.421+05:30",
-    "checksum": "f085559af8df645c513bb35166708fc1ea5dd33279451dd725e530b24197d898",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-16T13:51:13.766+05:30",
+    "checksum": "ee1f1d6cc38824ce7c35ce5ef0deae080fc754e882b6b0aec27d70740f082a30",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-16/awards-130059.json"
+    "rawPayloadPath": "data/raw/2026-03-16/awards-135112.json"
   }
 }
