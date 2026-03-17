@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/",
         "rawTime": "2026-03-17T10:43:57.027"
       }
+    ],
+    "2026-03-17T11": [
+      {
+        "newsId": "b7649cbb-5b2e-4bf9-bc21-4e3dc1dec183",
+        "scripCode": 544410,
+        "shortName": "Prostarm Info Systems Ltd",
+        "headline": "L-1 Bidder by West Bengal Medical Services Corporation (WBMSC)",
+        "announcedAt": "2026-03-17T11:51:09.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/",
+        "rawTime": "2026-03-17T11:51:09.823"
+      },
+      {
+        "newsId": "b90e8c2b-0e37-4ed3-bf21-0bc17a113372",
+        "scripCode": 532891,
+        "shortName": "Puravankara Ltd",
+        "headline": "Receipt of Letter of Intent by Starworth Infrastructure & Construction Limited, the Wholly Owned Subsidiary of Puravankara Limited",
+        "announcedAt": "2026-03-17T11:18:27.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/",
+        "rawTime": "2026-03-17T11:18:27.94"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-17T10:57:58.114+05:30",
-    "checksum": "0c6726f51f784ced30e87a932074847289a4af70e4c25a957b5bf4160d08a127",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-17T11:51:27.557+05:30",
+    "checksum": "e42e525015ef58a939d4ba328b1e07db5dca7d245ec3e2f117728ec8dc6944d4",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-17/awards-105757.json"
+    "rawPayloadPath": "data/raw/2026-03-17/awards-115126.json"
   }
 }

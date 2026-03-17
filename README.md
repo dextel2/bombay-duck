@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-17 11:00 | Prostarm Info Systems Ltd | 544410 | L-1 Bidder by West Bengal Medical Services Corporation (WBMSC) ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 17 Mar 2026 - 11:51 |
+| 2026-03-17 11:00 | Puravankara Ltd | 532891 | Receipt of Letter of Intent by Starworth Infrastructure & Construction Limited, the Wholly Owned Subsidiary of Puravankara Limited ([Link](https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/)) | Likely Positive | 17 Mar 2026 - 11:18 |
 | 2026-03-17 10:00 | Time Technoplast Ltd | 532856 | We are pleased to announce that we have received a significant order valued at approximately Rs. 115.56 crores from a reputed PSU for supply of Type IV Composite CNG Cascades. ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 17 Mar 2026 - 10:43 |
 | 2026-03-17 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2,471 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 17 Mar 2026 - 08:49 |
 
-_Last updated: 17 Mar 2026 - 10:57 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-17.json)_
+_Last updated: 17 Mar 2026 - 11:51 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-17.json)_
 
 <!-- snapshot:end -->
 
