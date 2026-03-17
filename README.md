@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-17 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2,471 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 17 Mar 2026 - 08:49 |
 
-_Last updated: 17 Mar 2026 - 09:17 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-17.json)_
+_Last updated: 17 Mar 2026 - 10:05 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-17.json)_
 
 <!-- snapshot:end -->
 
