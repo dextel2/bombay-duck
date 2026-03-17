@@ -62,14 +62,43 @@
         "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
         "rawTime": "2026-03-17T12:13:12.83"
       }
+    ],
+    "2026-03-17T15": [
+      {
+        "newsId": "a516b21b-06be-4bc1-8360-59e3daf91f51",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "A leading North African Telecom operator has chosen Subex for an Enterprise Asset Management (EAM) engagement.",
+        "announcedAt": "2026-03-17T15:38:35.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2026-03-17T15:38:35.3"
+      },
+      {
+        "newsId": "b9b89f28-bb10-448e-9436-0512b126c09e",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.1011 Crore.",
+        "announcedAt": "2026-03-17T15:26:37.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-03-17T15:26:37.93"
+      },
+      {
+        "newsId": "5287dbb6-9104-4120-bc5e-e3cdf2566e13",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-03-17T15:26:26.220+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-03-17T15:26:26.22"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-17T14:47:54.716+05:30",
-    "checksum": "5682813badc17a7a1fbeda398946456ab3dadf2f3637c0544291d7d27e21fb69",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-17T15:46:36.656+05:30",
+    "checksum": "7210345db3b3ccc622c11e21b224bc63638e12c115753867863ecfde2012b743",
+    "totalAnnouncements": 9,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-17/awards-144754.json"
+    "rawPayloadPath": "data/raw/2026-03-17/awards-154635.json"
   }
 }
