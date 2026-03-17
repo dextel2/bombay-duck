@@ -18,18 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-16 IST)
+### Today's Awarded Orders (2026-03-17 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-16 14:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of order for Transmission Lines ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 16 Mar 2026 - 14:23 |
-| 2026-03-16 13:00 | Mahindra EPC Irrigation Ltd | 523754 | Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations .... ([Link](https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/)) | Neutral | 16 Mar 2026 - 13:27 |
-| 2026-03-16 13:00 | Gabion Technologies India Ltd | 544675 | Intimation of Work/Supply Orders Received during the week Ended Match 14, 2026. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 16 Mar 2026 - 13:08 |
-| 2026-03-16 12:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Rajinder .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 16 Mar 2026 - 12:50 |
-| 2026-03-16 12:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase order from SURJA INFRA PRIVATE LIMITED for 678 NOS of Solar Module. Total value is around 0.61 Crores(Exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 16 Mar 2026 - 12:08 |
-| 2026-03-16 12:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED For 7041 NOS Solar PV Module . Total Value is around 6.067 Crores(exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 16 Mar 2026 - 12:03 |
+| 2026-03-17 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2,471 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 17 Mar 2026 - 08:49 |
 
-_Last updated: 16 Mar 2026 - 15:51 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-16.json)_
+_Last updated: 17 Mar 2026 - 09:17 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-17.json)_
 
 <!-- snapshot:end -->
 
