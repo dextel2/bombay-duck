@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/",
         "rawTime": "2026-03-17T11:18:27.94"
       }
+    ],
+    "2026-03-17T12": [
+      {
+        "newsId": "67c49c17-8d0e-47cc-a7e1-f6935dca2431",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the ....",
+        "announcedAt": "2026-03-17T12:24:59.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-03-17T12:24:59.143"
+      },
+      {
+        "newsId": "7dd55fd8-e3ae-4af7-83f4-2d27237544ba",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the ....",
+        "announcedAt": "2026-03-17T12:13:12.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-03-17T12:13:12.83"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-17T11:51:27.557+05:30",
-    "checksum": "e42e525015ef58a939d4ba328b1e07db5dca7d245ec3e2f117728ec8dc6944d4",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-17T12:53:07.997+05:30",
+    "checksum": "5682813badc17a7a1fbeda398946456ab3dadf2f3637c0544291d7d27e21fb69",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-17/awards-115126.json"
+    "rawPayloadPath": "data/raw/2026-03-17/awards-125307.json"
   }
 }
