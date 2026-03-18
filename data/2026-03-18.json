@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-18",
-  "buckets": {},
+  "buckets": {
+    "2026-03-18T12": [
+      {
+        "newsId": "d6fa4fa4-a215-4c3d-a2ae-49024926c48f",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of Work Order-BDPL-BEL.",
+        "announcedAt": "2026-03-18T12:07:36.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-03-18T12:07:36.123"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-18T11:52:22.102+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-18T12:52:43.197+05:30",
+    "checksum": "8b1135c75690292ce895929ccaefad62afd582b2a104f93b67abbfc1946a9a37",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-18/awards-115221.json"
+    "rawPayloadPath": "data/raw/2026-03-18/awards-125242.json"
   }
 }

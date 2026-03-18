@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-18 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-18 12:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Order-BDPL-BEL. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 18 Mar 2026 - 12:07 |
 
-_Last updated: 18 Mar 2026 - 11:52 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-18.json)_
+_Last updated: 18 Mar 2026 - 12:52 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-18.json)_
 
 <!-- snapshot:end -->
 
