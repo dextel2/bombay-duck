@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-18 15:00 | Shree Refrigerations Ltd | 544458 | Pursuant to provisions of Regulation 30 read with sub-para 4, Para B, Part A, Schedule III of SEBI (LODR) Regulations, 2025, we hereby submit the disclosure regarding the order received .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 18 Mar 2026 - 15:36 |
+| 2026-03-18 15:00 | Ahluwalia Contracts (India) Ltd | 532811 | Recent Awards of Rs 393.04 Crores from Airport Authority of India - Development of New Greenfield Airport t Bundi, Kota, Rajasthan ([Link](https://www.bseindia.com/stock-share-price/ahluwalia-contracts-(india)-ltd/ahlucont/532811/)) | Neutral | 18 Mar 2026 - 15:03 |
 | 2026-03-18 14:00 | Simplex Castings Ltd | 513472 | Please find enclosed the Intimation of Receipts of Order from ThyssenKrupp Group. ([Link](https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/)) | Likely Positive | 18 Mar 2026 - 14:26 |
 | 2026-03-18 12:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Order-BDPL-BEL. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 18 Mar 2026 - 12:07 |
 
-_Last updated: 18 Mar 2026 - 14:47 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-18.json)_
+_Last updated: 18 Mar 2026 - 15:48 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-18.json)_
 
 <!-- snapshot:end -->
 

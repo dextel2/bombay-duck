@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/",
         "rawTime": "2026-03-18T14:26:08.107"
       }
+    ],
+    "2026-03-18T15": [
+      {
+        "newsId": "29acdaf9-d5b6-482c-aa63-303f75e3f326",
+        "scripCode": 544458,
+        "shortName": "Shree Refrigerations Ltd",
+        "headline": "Pursuant to provisions of Regulation 30 read with sub-para 4, Para B, Part A, Schedule III of SEBI (LODR) Regulations, 2025, we hereby submit the disclosure regarding the order received ....",
+        "announcedAt": "2026-03-18T15:36:31.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
+        "rawTime": "2026-03-18T15:36:31.12"
+      },
+      {
+        "newsId": "e34aaad7-2b72-4a4b-80b3-6f86a1cab4c0",
+        "scripCode": 532811,
+        "shortName": "Ahluwalia Contracts (India) Ltd",
+        "headline": "Recent Awards of Rs 393.04 Crores from Airport Authority of India - Development of New Greenfield Airport t Bundi, Kota, Rajasthan",
+        "announcedAt": "2026-03-18T15:03:26.293+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahluwalia-contracts-(india)-ltd/ahlucont/532811/",
+        "rawTime": "2026-03-18T15:03:26.293"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-18T14:47:51.785+05:30",
-    "checksum": "3b5ef8e17c682ea88f85f570f69470836c03fc5e17f713d85a4d0485ee3d6751",
-    "totalAnnouncements": 2,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-18T15:48:07.138+05:30",
+    "checksum": "d438a16b5632f114d14e6224d7a229e92315b4206221fa9c0f1a23ddbf25b1aa",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-18/awards-144750.json"
+    "rawPayloadPath": "data/raw/2026-03-18/awards-154806.json"
   }
 }
