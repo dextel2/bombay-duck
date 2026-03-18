@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-17 IST)
+### Today's Awarded Orders (2026-03-18 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-03-17 15:00 | Subex Ltd | 532348 | A leading North African Telecom operator has chosen Subex for an Enterprise Asset Management (EAM) engagement. ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Neutral | 17 Mar 2026 - 15:38 |
-| 2026-03-17 15:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.1011 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 17 Mar 2026 - 15:26 |
-| 2026-03-17 15:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 17 Mar 2026 - 15:26 |
-| 2026-03-17 12:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 17 Mar 2026 - 12:24 |
-| 2026-03-17 12:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 17 Mar 2026 - 12:13 |
-| 2026-03-17 11:00 | Prostarm Info Systems Ltd | 544410 | L-1 Bidder by West Bengal Medical Services Corporation (WBMSC) ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 17 Mar 2026 - 11:51 |
-| 2026-03-17 11:00 | Puravankara Ltd | 532891 | Receipt of Letter of Intent by Starworth Infrastructure & Construction Limited, the Wholly Owned Subsidiary of Puravankara Limited ([Link](https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/)) | Likely Positive | 17 Mar 2026 - 11:18 |
-| 2026-03-17 10:00 | Time Technoplast Ltd | 532856 | We are pleased to announce that we have received a significant order valued at approximately Rs. 115.56 crores from a reputed PSU for supply of Type IV Composite CNG Cascades. ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 17 Mar 2026 - 10:43 |
-| 2026-03-17 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2,471 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 17 Mar 2026 - 08:49 |
+_No award announcements have been captured yet today._
 
-_Last updated: 17 Mar 2026 - 15:46 | Entries: 9 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-17.json)_
+_Last updated: 18 Mar 2026 - 09:21 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-18.json)_
 
 <!-- snapshot:end -->
 
