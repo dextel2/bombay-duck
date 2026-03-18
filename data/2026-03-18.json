@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-03-18T12:07:36.123"
       }
+    ],
+    "2026-03-18T14": [
+      {
+        "newsId": "733224fa-f0fc-452b-ac69-4ced5eb29dd8",
+        "scripCode": 513472,
+        "shortName": "Simplex Castings Ltd",
+        "headline": "Please find enclosed the Intimation of Receipts of Order from ThyssenKrupp Group.",
+        "announcedAt": "2026-03-18T14:26:08.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/simplex-castings-ltd/simplexcas/513472/",
+        "rawTime": "2026-03-18T14:26:08.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-18T13:42:41.873+05:30",
-    "checksum": "8b1135c75690292ce895929ccaefad62afd582b2a104f93b67abbfc1946a9a37",
-    "totalAnnouncements": 1,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-18T14:47:51.785+05:30",
+    "checksum": "3b5ef8e17c682ea88f85f570f69470836c03fc5e17f713d85a4d0485ee3d6751",
+    "totalAnnouncements": 2,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-18/awards-134241.json"
+    "rawPayloadPath": "data/raw/2026-03-18/awards-144750.json"
   }
 }
