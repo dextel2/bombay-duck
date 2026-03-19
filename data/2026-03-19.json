@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/valor-estate-ltd/dbrealty/533160/",
         "rawTime": "2026-03-19T12:55:18.827"
       }
+    ],
+    "2026-03-19T14": [
+      {
+        "newsId": "d98bf476-c621-49fa-858e-67f40d4ba946",
+        "scripCode": 544570,
+        "shortName": "WeWork India Management Ltd",
+        "headline": "Receipt of Order/Contract",
+        "announcedAt": "2026-03-19T14:06:41.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/wework-india-management-ltd/wework/544570/",
+        "rawTime": "2026-03-19T14:06:41.91"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-19T13:41:25.286+05:30",
-    "checksum": "f11172fa23d56530525b2c38878fa114b32df7e35ebca7ef20aaac07e32984ee",
-    "totalAnnouncements": 4,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-19T14:44:43.237+05:30",
+    "checksum": "8e22e568623a6bfa42ff042898955de5f9bab4a5a281af8e822b134c771da621",
+    "totalAnnouncements": 5,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-19/awards-134124.json"
+    "rawPayloadPath": "data/raw/2026-03-19/awards-144442.json"
   }
 }

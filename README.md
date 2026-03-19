@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-19 14:00 | WeWork India Management Ltd | 544570 | Receipt of Order/Contract ([Link](https://www.bseindia.com/stock-share-price/wework-india-management-ltd/wework/544570/)) | Likely Positive | 19 Mar 2026 - 14:06 |
 | 2026-03-19 12:00 | Valor Estate Ltd | 533160 | Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015 - Letter of Award issued by the Government of Goa for development of an International Convention Centre, Convention Hotel .... ([Link](https://www.bseindia.com/stock-share-price/valor-estate-ltd/dbrealty/533160/)) | Neutral | 19 Mar 2026 - 12:55 |
 | 2026-03-19 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 19 Mar 2026 - 10:59 |
 | 2026-03-19 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 19 Mar 2026 - 10:58 |
 | 2026-03-19 09:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 19 Mar 2026 - 09:44 |
 
-_Last updated: 19 Mar 2026 - 13:41 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-19.json)_
+_Last updated: 19 Mar 2026 - 14:44 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-19.json)_
 
 <!-- snapshot:end -->
 
