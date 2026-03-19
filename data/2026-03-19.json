@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-03-19T10:58:04.397"
       }
+    ],
+    "2026-03-19T12": [
+      {
+        "newsId": "99f73f80-3526-4ac2-ae47-f853568e9ed8",
+        "scripCode": 533160,
+        "shortName": "Valor Estate Ltd",
+        "headline": "Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015 - Letter of Award issued by the Government of Goa for development of an International Convention Centre, Convention Hotel ....",
+        "announcedAt": "2026-03-19T12:55:18.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valor-estate-ltd/dbrealty/533160/",
+        "rawTime": "2026-03-19T12:55:18.827"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-19T12:50:45.853+05:30",
-    "checksum": "a1fb1973d5ab4a0146800b75655a374a86e1a75546d6b64cb9d2e3bae248d19a",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-19T13:41:25.286+05:30",
+    "checksum": "f11172fa23d56530525b2c38878fa114b32df7e35ebca7ef20aaac07e32984ee",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-19/awards-125045.json"
+    "rawPayloadPath": "data/raw/2026-03-19/awards-134124.json"
   }
 }
