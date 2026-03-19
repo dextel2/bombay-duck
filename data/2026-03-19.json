@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-19",
-  "buckets": {},
+  "buckets": {
+    "2026-03-19T09": [
+      {
+        "newsId": "7f20d730-7eba-4205-ac6f-a915634a94ae",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-03-19T09:44:40.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-03-19T09:44:40.353"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-19T09:21:21.375+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-03-19T10:08:16.688+05:30",
+    "checksum": "b594d13926322bfa250eb886e966d43bb94f8ff4dc211d9fa700098ae0c4046c",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-19/awards-092120.json"
+    "rawPayloadPath": "data/raw/2026-03-19/awards-100816.json"
   }
 }
