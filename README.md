@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-19 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 19 Mar 2026 - 10:58 |
 | 2026-03-19 09:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 19 Mar 2026 - 09:44 |
 
-_Last updated: 19 Mar 2026 - 10:08 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-19.json)_
+_Last updated: 19 Mar 2026 - 10:58 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-19.json)_
 
 <!-- snapshot:end -->
 
