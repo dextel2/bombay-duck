@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-20 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Strengthens Global Presence with Consortium Award of EIB-Funded Advanced Technology WWTP Project in Georgia ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Neutral | 20 Mar 2026 - 08:28 |
 | 2026-03-20 08:00 | Rnit Ai Solutions Ltd | 517286 | Receipt of Multiple work orders from Telangana Technology Services Limited, a Government of Telangana undertaking. ([Link](https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/)) | Likely Positive | 20 Mar 2026 - 08:07 |
 
-_Last updated: 20 Mar 2026 - 10:03 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-20.json)_
+_Last updated: 20 Mar 2026 - 10:53 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-20.json)_
 
 <!-- snapshot:end -->
 
