@@ -20,14 +20,36 @@
         "url": "https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/",
         "rawTime": "2026-03-20T08:07:27.763"
       }
+    ],
+    "2026-03-20T13": [
+      {
+        "newsId": "73a8c914-146b-4905-b7e1-ae3347aca3b3",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from East Central Railway.",
+        "announcedAt": "2026-03-20T13:40:27.243+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-03-20T13:40:27.243"
+      }
+    ],
+    "2026-03-20T12": [
+      {
+        "newsId": "33600bbd-e188-4131-acf0-e7ed0bdc5e8e",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of Order from Larsen and Toubro Limited",
+        "announcedAt": "2026-03-20T12:58:44.723+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-03-20T12:58:44.723"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-20T12:49:03.188+05:30",
-    "checksum": "9534bb6ab286f46242461c941dce831c193578fdb9587ba9eb634107eda7d8d0",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-20T13:40:32.738+05:30",
+    "checksum": "b9f95e8e459c206446516cb0962db3f932bf9ae531651df81f3aba8923b56bec",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-20/awards-124902.json"
+    "rawPayloadPath": "data/raw/2026-03-20/awards-134032.json"
   }
 }

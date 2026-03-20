@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-20 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from East Central Railway. ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 20 Mar 2026 - 13:40 |
+| 2026-03-20 12:00 | Sharika Enterprises Ltd | 540786 | Intimation of Receipt of Order from Larsen and Toubro Limited ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 20 Mar 2026 - 12:58 |
 | 2026-03-20 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Strengthens Global Presence with Consortium Award of EIB-Funded Advanced Technology WWTP Project in Georgia ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Neutral | 20 Mar 2026 - 08:28 |
 | 2026-03-20 08:00 | Rnit Ai Solutions Ltd | 517286 | Receipt of Multiple work orders from Telangana Technology Services Limited, a Government of Telangana undertaking. ([Link](https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/)) | Likely Positive | 20 Mar 2026 - 08:07 |
 
-_Last updated: 20 Mar 2026 - 12:49 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-20.json)_
+_Last updated: 20 Mar 2026 - 13:40 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-20.json)_
 
 <!-- snapshot:end -->
 
