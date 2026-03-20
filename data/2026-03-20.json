@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-03-20",
+  "buckets": {
+    "2026-03-20T08": [
+      {
+        "newsId": "efcf6cb8-051f-4596-83b9-fb30952473a6",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG Strengthens Global Presence with Consortium Award of EIB-Funded Advanced Technology WWTP Project in Georgia",
+        "announcedAt": "2026-03-20T08:28:17.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-03-20T08:28:17.617"
+      },
+      {
+        "newsId": "738569a8-536e-4d78-b0af-3af9b6857ad3",
+        "scripCode": 517286,
+        "shortName": "Rnit Ai Solutions Ltd",
+        "headline": "Receipt of Multiple work orders from Telangana Technology Services Limited, a Government of Telangana undertaking.",
+        "announcedAt": "2026-03-20T08:07:27.763+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/",
+        "rawTime": "2026-03-20T08:07:27.763"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-20T09:17:01.830+05:30",
+    "checksum": "9534bb6ab286f46242461c941dce831c193578fdb9587ba9eb634107eda7d8d0",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-20/awards-091701.json"
+  }
+}

@@ -18,17 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-19 IST)
+### Today's Awarded Orders (2026-03-20 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-19 14:00 | WeWork India Management Ltd | 544570 | Receipt of Order/Contract ([Link](https://www.bseindia.com/stock-share-price/wework-india-management-ltd/wework/544570/)) | Likely Positive | 19 Mar 2026 - 14:06 |
-| 2026-03-19 12:00 | Valor Estate Ltd | 533160 | Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015 - Letter of Award issued by the Government of Goa for development of an International Convention Centre, Convention Hotel .... ([Link](https://www.bseindia.com/stock-share-price/valor-estate-ltd/dbrealty/533160/)) | Neutral | 19 Mar 2026 - 12:55 |
-| 2026-03-19 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 19 Mar 2026 - 10:59 |
-| 2026-03-19 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 19 Mar 2026 - 10:58 |
-| 2026-03-19 09:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 19 Mar 2026 - 09:44 |
+| 2026-03-20 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Strengthens Global Presence with Consortium Award of EIB-Funded Advanced Technology WWTP Project in Georgia ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Neutral | 20 Mar 2026 - 08:28 |
+| 2026-03-20 08:00 | Rnit Ai Solutions Ltd | 517286 | Receipt of Multiple work orders from Telangana Technology Services Limited, a Government of Telangana undertaking. ([Link](https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/)) | Likely Positive | 20 Mar 2026 - 08:07 |
 
-_Last updated: 19 Mar 2026 - 15:43 | Entries: 5 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-19.json)_
+_Last updated: 20 Mar 2026 - 09:17 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-20.json)_
 
 <!-- snapshot:end -->
 
