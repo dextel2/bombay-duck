@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-21",
-  "buckets": {},
+  "buckets": {
+    "2026-03-21T14": [
+      {
+        "newsId": "1b8db065-a2f3-4f88-9e6f-1cfac20ac564",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from National ....",
+        "announcedAt": "2026-03-21T14:56:04.643+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-03-21T14:56:04.643"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-21T14:37:39.451+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-21T15:34:32.002+05:30",
+    "checksum": "9ce1449e33a42cc91095e83721f47eeff7dae0da6a7cb9d3b451fc8d8329076c",
+    "totalAnnouncements": 1,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-21/awards-143738.json"
+    "rawPayloadPath": "data/raw/2026-03-21/awards-153431.json"
   }
 }
