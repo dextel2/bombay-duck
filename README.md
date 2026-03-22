@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-22 08:00 | RITES Ltd | 541556 | Intimation regarding Major Order Secured ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 22 Mar 2026 - 08:56 |
 
-_Last updated: 22 Mar 2026 - 10:07 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-22.json)_
+_Last updated: 22 Mar 2026 - 10:55 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-22.json)_
 
 <!-- snapshot:end -->
 
