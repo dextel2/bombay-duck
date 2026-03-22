@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-03-22",
+  "buckets": {
+    "2026-03-22T08": [
+      {
+        "newsId": "fd95359a-8605-46c2-b175-c3e179a2167a",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Intimation regarding Major Order Secured",
+        "announcedAt": "2026-03-22T08:56:46.323+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2026-03-22T08:56:46.323"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-22T09:18:55.934+05:30",
+    "checksum": "0790be13f9755190b3f13f96b9f98b52ea52b335251ad9d8a235d2eacc4530f9",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-22/awards-091855.json"
+  }
+}
