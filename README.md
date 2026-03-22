@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-22 13:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 22 Mar 2026 - 13:52 |
 | 2026-03-22 08:00 | RITES Ltd | 541556 | Intimation regarding Major Order Secured ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 22 Mar 2026 - 08:56 |
 
-_Last updated: 22 Mar 2026 - 14:37 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-22.json)_
+_Last updated: 22 Mar 2026 - 15:35 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-22.json)_
 
 <!-- snapshot:end -->
 
