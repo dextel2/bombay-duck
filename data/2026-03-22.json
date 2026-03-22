@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
         "rawTime": "2026-03-22T08:56:46.323"
       }
+    ],
+    "2026-03-22T13": [
+      {
+        "newsId": "109dd1ba-a53a-4f52-a098-7b52604b065c",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of work order",
+        "announcedAt": "2026-03-22T13:54:38.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-03-22T13:54:38.64"
+      },
+      {
+        "newsId": "8a4bce8f-77bf-42d1-887a-87267205a9c7",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of work order",
+        "announcedAt": "2026-03-22T13:52:07.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-03-22T13:52:07.017"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-22T13:36:20.381+05:30",
-    "checksum": "0790be13f9755190b3f13f96b9f98b52ea52b335251ad9d8a235d2eacc4530f9",
-    "totalAnnouncements": 1,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-22T14:37:59.302+05:30",
+    "checksum": "bdb3724747542cc0790c196d50229ec84642791d18a19eb09aae4da6d665a1d4",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-22/awards-133619.json"
+    "rawPayloadPath": "data/raw/2026-03-22/awards-143758.json"
   }
 }
