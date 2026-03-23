@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
         "rawTime": "2026-03-23T12:31:08.09"
       }
+    ],
+    "2026-03-23T13": [
+      {
+        "newsId": "eabb851c-df8f-4b1c-a8ff-539f6ef90b67",
+        "scripCode": 544477,
+        "shortName": "Highway Infrastructure Ltd",
+        "headline": "Company has received a work order for the operation at Katiyara Fee plaza.",
+        "announcedAt": "2026-03-23T13:25:42.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/",
+        "rawTime": "2026-03-23T13:25:42.84"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-23T12:58:57.379+05:30",
-    "checksum": "da7ddd56ed77527cbd751722a139ec080a56d24cbf3c541b7706614f04489f15",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-23T13:48:11.261+05:30",
+    "checksum": "9132b748ee9d3a906115add224af58a7b249cfc123a65b5b4e2e1ada811839b2",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-23/awards-125856.json"
+    "rawPayloadPath": "data/raw/2026-03-23/awards-134810.json"
   }
 }
