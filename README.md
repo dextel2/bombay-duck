@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-23 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-23 12:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/Supply Orders Received during the week ended March 2026. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 23 Mar 2026 - 12:31 |
 
-_Last updated: 23 Mar 2026 - 11:54 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-23.json)_
+_Last updated: 23 Mar 2026 - 12:58 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-23.json)_
 
 <!-- snapshot:end -->
 
