@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2026-03-24T08:46:20.683"
       }
+    ],
+    "2026-03-24T09": [
+      {
+        "newsId": "91489eab-d45c-42a5-b980-529343e30c57",
+        "scripCode": 522101,
+        "shortName": "Kilburn Engineering Ltd",
+        "headline": "We submit herewith details of orders amounting to Rs. 5458 lakhs bagged by the company since the previous announcement dated 28th January 2026. The orders received are in ordinary course of business.",
+        "announcedAt": "2026-03-24T09:44:27.487+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/",
+        "rawTime": "2026-03-24T09:44:27.487"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-24T09:17:30.772+05:30",
-    "checksum": "28f46f3f48cbc25b784e71b1c958d25b4cc46eeda6c6b93cb511abd4c480e08c",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-03-24T10:06:33.404+05:30",
+    "checksum": "0570b6fb9c8e0506e13063d8c25185ca6511b1ef8bf22cf731121acf655f3eb8",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-24/awards-091730.json"
+    "rawPayloadPath": "data/raw/2026-03-24/awards-100628.json"
   }
 }
