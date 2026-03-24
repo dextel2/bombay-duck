@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-03-24",
+  "buckets": {
+    "2026-03-24T08": [
+      {
+        "newsId": "d5ad7668-214f-4f78-a8e0-e2126a024940",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "Press Release - KPIL AWARDED NEW ORDERS OF RS. 4,439 CRORES",
+        "announcedAt": "2026-03-24T08:46:20.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2026-03-24T08:46:20.683"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-24T09:17:30.772+05:30",
+    "checksum": "28f46f3f48cbc25b784e71b1c958d25b4cc46eeda6c6b93cb511abd4c480e08c",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-24/awards-091730.json"
+  }
+}

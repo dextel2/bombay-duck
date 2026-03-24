@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-23 IST)
+### Today's Awarded Orders (2026-03-24 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-23 13:00 | Highway Infrastructure Ltd | 544477 | Company has received a work order for the operation at Katiyara Fee plaza. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Likely Positive | 23 Mar 2026 - 13:25 |
-| 2026-03-23 12:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/Supply Orders Received during the week ended March 2026. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 23 Mar 2026 - 12:31 |
+| 2026-03-24 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 4,439 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 24 Mar 2026 - 08:46 |
 
-_Last updated: 23 Mar 2026 - 15:50 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-23.json)_
+_Last updated: 24 Mar 2026 - 09:17 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-24.json)_
 
 <!-- snapshot:end -->
 
