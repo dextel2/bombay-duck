@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/",
         "rawTime": "2026-03-24T13:10:27.713"
       }
+    ],
+    "2026-03-24T15": [
+      {
+        "newsId": "e0753495-3e4c-4951-9463-2ef4bb80de39",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has received new contract from DG of Defence Estate, Department of Defence, Ministry of Defence of Rs. 17120844.53. Please refer attached file ....",
+        "announcedAt": "2026-03-24T15:26:41.040+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-03-24T15:26:41.04"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-24T14:47:37.486+05:30",
-    "checksum": "d11a595ab06f866a855406a35913caf89cfcaf33ec66bd4f1884f18ed182bc4d",
-    "totalAnnouncements": 3,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-24T15:46:42.297+05:30",
+    "checksum": "0fcf6c546b3dfc71611b1f55782a52fe6c697058a72c8c3668d3bf523ef57cf9",
+    "totalAnnouncements": 4,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-24/awards-144736.json"
+    "rawPayloadPath": "data/raw/2026-03-24/awards-154641.json"
   }
 }

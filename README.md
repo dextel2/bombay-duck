@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-24 15:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has received new contract from DG of Defence Estate, Department of Defence, Ministry of Defence of Rs. 17120844.53. Please refer attached file .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 24 Mar 2026 - 15:26 |
 | 2026-03-24 13:00 | KS Smart Technologies Ltd | 516038 | Intimation towards receipt of order from Kerala State Electronics Development Corporation Limited to the Company. ([Link](https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/)) | Likely Positive | 24 Mar 2026 - 13:10 |
 | 2026-03-24 09:00 | Kilburn Engineering Ltd | 522101 | We submit herewith details of orders amounting to Rs. 5458 lakhs bagged by the company since the previous announcement dated 28th January 2026. The orders received are in ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/)) | Likely Positive | 24 Mar 2026 - 09:44 |
 | 2026-03-24 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 4,439 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 24 Mar 2026 - 08:46 |
 
-_Last updated: 24 Mar 2026 - 14:47 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-24.json)_
+_Last updated: 24 Mar 2026 - 15:46 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-24.json)_
 
 <!-- snapshot:end -->
 
