@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/",
         "rawTime": "2026-03-24T09:44:27.487"
       }
+    ],
+    "2026-03-24T13": [
+      {
+        "newsId": "da5d342d-a757-4ed8-921e-82bf54213a42",
+        "scripCode": 516038,
+        "shortName": "KS Smart Technologies Ltd",
+        "headline": "Intimation towards receipt of order from Kerala State Electronics Development Corporation Limited to the Company.",
+        "announcedAt": "2026-03-24T13:10:27.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/",
+        "rawTime": "2026-03-24T13:10:27.713"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-24T12:53:23.006+05:30",
-    "checksum": "0570b6fb9c8e0506e13063d8c25185ca6511b1ef8bf22cf731121acf655f3eb8",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-24T13:43:53.904+05:30",
+    "checksum": "d11a595ab06f866a855406a35913caf89cfcaf33ec66bd4f1884f18ed182bc4d",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-24/awards-125322.json"
+    "rawPayloadPath": "data/raw/2026-03-24/awards-134353.json"
   }
 }
