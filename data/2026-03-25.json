@@ -25,6 +25,15 @@
     ],
     "2026-03-25T12": [
       {
+        "newsId": "9e932101-3175-4499-a88a-e8ddfa182703",
+        "scripCode": 543912,
+        "shortName": "Power and Instrumentation (Gujarat) Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulation 2015 - for receipt of order",
+        "announcedAt": "2026-03-25T12:54:59.280+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
+        "rawTime": "2026-03-25T12:54:59.28"
+      },
+      {
         "newsId": "4ad8e285-d884-4d33-a910-8b64ac5e069c",
         "scripCode": 544470,
         "shortName": "M & B Engineering Ltd",
@@ -33,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
         "rawTime": "2026-03-25T12:06:14.927"
       }
+    ],
+    "2026-03-25T13": [
+      {
+        "newsId": "5214d11a-93fc-47bd-98e5-07033f82c725",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation of our letter dated October 29, 2025, and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform that Ceigall ....",
+        "announcedAt": "2026-03-25T13:04:23.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-03-25T13:04:23.38"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-25T12:52:33.129+05:30",
-    "checksum": "e0e6d850f6d0cc6f1a09d5dbb70a118ec0fd835e213c89805e79958e71c1333f",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-25T13:43:38.022+05:30",
+    "checksum": "32a7dc6c2ba1f0ec7ebec9480f623a1d4a2a48d9114b14f4223356cce6672702",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-25/awards-125232.json"
+    "rawPayloadPath": "data/raw/2026-03-25/awards-134337.json"
   }
 }
