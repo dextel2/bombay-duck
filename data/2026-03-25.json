@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-03-25",
+  "buckets": {
+    "2026-03-25T08": [
+      {
+        "newsId": "d95570ae-44f7-4dc6-814d-5edf982b66bd",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Rate Contract worth of Rs.459.90 Cr",
+        "announcedAt": "2026-03-25T08:07:14.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-03-25T08:07:14.987"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-25T09:18:45.793+05:30",
+    "checksum": "5ca2fc400b79a4358bcadc8654a2b23c9fdb36eec8cb33399d99d7eb1df3f9ff",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-25/awards-091845.json"
+  }
+}
