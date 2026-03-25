@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-03-25T13:04:23.38"
       }
+    ],
+    "2026-03-25T14": [
+      {
+        "newsId": "388ee0a7-d906-4469-b309-a5b9b21bf3ce",
+        "scripCode": 539917,
+        "shortName": "Nagarjuna Fertilizers and Chemicals Ltd",
+        "headline": "We wish to inform that Adjudication Proceeding were initiated by SEBI in relation to an Arbitration Award and its disclosure requirements passed in favour of an Operational Creditor. The ....",
+        "announcedAt": "2026-03-25T14:24:18.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nagarjuna-fertilizers-and-chemicals-ltd/nagafert/539917/",
+        "rawTime": "2026-03-25T14:24:18.07"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-25T13:43:38.022+05:30",
-    "checksum": "32a7dc6c2ba1f0ec7ebec9480f623a1d4a2a48d9114b14f4223356cce6672702",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-25T14:47:22.135+05:30",
+    "checksum": "068d5afc59a30a3ec20b0c49c88cee0248c4bcfaac29c18cede73ca4d2ee2fd2",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-25/awards-134337.json"
+    "rawPayloadPath": "data/raw/2026-03-25/awards-144721.json"
   }
 }
