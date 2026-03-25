@@ -22,6 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-25 15:00 | Magellanic Cloud Ltd | 538891 | Attached herewith is the LOA received of worth Rs. 2 Crore by our wholly owned subsidiary- Provigil Survelliance Limited. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 25 Mar 2026 - 15:26 |
+| 2026-03-25 15:00 | Praruh Technologies Ltd | 544538 | We have received PO worth Rs.38,98,16,753.90/- from Railtel, who is implementing an optical fiber-based Metro-DWDM System with new generation optical networking systems (SDN based). The .... ([Link](https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/)) | Neutral | 25 Mar 2026 - 15:20 |
+| 2026-03-25 15:00 | Bartronics India Ltd | 532694 | Please find the enclosed announcement for your information. ([Link](https://www.bseindia.com/stock-share-price/bartronics-india-ltd/asms/532694/)) | Neutral | 25 Mar 2026 - 15:16 |
+| 2026-03-25 15:00 | KS Smart Technologies Ltd | 516038 | Intimation regarding receipt of order by KS Smart Solutions Private Limited, a wholly owned subsidiary of the Company, from Kerala State Electronics Development Corporation Limited (KELTRON), .... ([Link](https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/)) | Likely Positive | 25 Mar 2026 - 15:06 |
+| 2026-03-25 15:00 | Magellanic Cloud Ltd | 538891 | Attached herewith is the disclosure of purchase order received woth Rs.10 Crore by wholly owned subsidiary- Provigil Survelliance Limited ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 25 Mar 2026 - 15:06 |
 | 2026-03-25 14:00 | Nagarjuna Fertilizers and Chemicals Ltd | 539917 | We wish to inform that Adjudication Proceeding were initiated by SEBI in relation to an Arbitration Award and its disclosure requirements passed in favour of an Operational Creditor. The .... ([Link](https://www.bseindia.com/stock-share-price/nagarjuna-fertilizers-and-chemicals-ltd/nagafert/539917/)) | Neutral | 25 Mar 2026 - 14:24 |
 | 2026-03-25 13:00 | Ceigall India Ltd | 544223 | In continuation of our letter dated October 29, 2025, and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform that Ceigall .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 25 Mar 2026 - 13:04 |
 | 2026-03-25 12:00 | Power and Instrumentation (Gujarat) Ltd | 543912 | Intimation under Regulation 30 of SEBI (LODR) Regulation 2015 - for receipt of order ([Link](https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/)) | Likely Positive | 25 Mar 2026 - 12:54 |
@@ -29,7 +34,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (significant*) Order for Water & Effluent Treatment Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Mar 2026 - 09:49 |
 | 2026-03-25 08:00 | Avantel Ltd | 532406 | Receipt of Rate Contract worth of Rs.459.90 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 25 Mar 2026 - 08:07 |
 
-_Last updated: 25 Mar 2026 - 14:47 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-25.json)_
+_Last updated: 25 Mar 2026 - 15:46 | Entries: 11 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-25.json)_
 
 <!-- snapshot:end -->
 

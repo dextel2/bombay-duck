@@ -64,14 +64,61 @@
         "url": "https://www.bseindia.com/stock-share-price/nagarjuna-fertilizers-and-chemicals-ltd/nagafert/539917/",
         "rawTime": "2026-03-25T14:24:18.07"
       }
+    ],
+    "2026-03-25T15": [
+      {
+        "newsId": "a7bb2788-7446-4b49-908b-3477795ae653",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Attached herewith is the LOA received of worth Rs. 2 Crore by our wholly owned subsidiary- Provigil Survelliance Limited.",
+        "announcedAt": "2026-03-25T15:26:24.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-03-25T15:26:24.583"
+      },
+      {
+        "newsId": "5d7a68ae-162a-489c-abeb-b6f994156f02",
+        "scripCode": 544538,
+        "shortName": "Praruh Technologies Ltd",
+        "headline": "We have received PO worth Rs.38,98,16,753.90/- from Railtel, who is implementing an optical fiber-based Metro-DWDM System with new generation optical networking systems (SDN based). The ....",
+        "announcedAt": "2026-03-25T15:20:23.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/",
+        "rawTime": "2026-03-25T15:20:23.267"
+      },
+      {
+        "newsId": "94b65575-7f40-445a-8442-3b831dabe1ec",
+        "scripCode": 532694,
+        "shortName": "Bartronics India Ltd",
+        "headline": "Please find the enclosed announcement for your information.",
+        "announcedAt": "2026-03-25T15:16:25.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bartronics-india-ltd/asms/532694/",
+        "rawTime": "2026-03-25T15:16:25.71"
+      },
+      {
+        "newsId": "a511b155-ec88-4976-b8e0-bf564bcdf9bf",
+        "scripCode": 516038,
+        "shortName": "KS Smart Technologies Ltd",
+        "headline": "Intimation regarding receipt of order by KS Smart Solutions Private Limited, a wholly owned subsidiary of the Company, from Kerala State Electronics Development Corporation Limited (KELTRON), ....",
+        "announcedAt": "2026-03-25T15:06:59.547+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/",
+        "rawTime": "2026-03-25T15:06:59.547"
+      },
+      {
+        "newsId": "3d588840-c92c-433d-ba8a-bd5082af7f4f",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Attached herewith is the disclosure of purchase order received woth Rs.10 Crore by wholly owned subsidiary- Provigil Survelliance Limited",
+        "announcedAt": "2026-03-25T15:06:58.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-03-25T15:06:58.78"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-25T14:47:22.135+05:30",
-    "checksum": "068d5afc59a30a3ec20b0c49c88cee0248c4bcfaac29c18cede73ca4d2ee2fd2",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-25T15:46:55.847+05:30",
+    "checksum": "212a3b4e813b7fc31497ad6bb544ce33727c1b8ce8ce4639d2a2493df9769e62",
+    "totalAnnouncements": 11,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-25/awards-144721.json"
+    "rawPayloadPath": "data/raw/2026-03-25/awards-154655.json"
   }
 }
