@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (significant*) Order for Water & Effluent Treatment Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Mar 2026 - 09:49 |
 | 2026-03-25 08:00 | Avantel Ltd | 532406 | Receipt of Rate Contract worth of Rs.459.90 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 25 Mar 2026 - 08:07 |
 
-_Last updated: 25 Mar 2026 - 10:08 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-25.json)_
+_Last updated: 25 Mar 2026 - 10:58 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-25.json)_
 
 <!-- snapshot:end -->
 
