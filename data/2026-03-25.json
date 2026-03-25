@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-03-25T09:49:44.333"
       }
+    ],
+    "2026-03-25T12": [
+      {
+        "newsId": "4ad8e285-d884-4d33-a910-8b64ac5e069c",
+        "scripCode": 544470,
+        "shortName": "M & B Engineering Ltd",
+        "headline": "M&B Engineering Limited has informed the Stock Exchange for receipt of order",
+        "announcedAt": "2026-03-25T12:06:14.927+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/m--b-engineering-ltd/mbel/544470/",
+        "rawTime": "2026-03-25T12:06:14.927"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-25T11:51:31.081+05:30",
-    "checksum": "2709c039de0e334916146488896b28b92bfe8057a70954bf9aa9617b13baca43",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-25T12:52:33.129+05:30",
+    "checksum": "e0e6d850f6d0cc6f1a09d5dbb70a118ec0fd835e213c89805e79958e71c1333f",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-25/awards-115130.json"
+    "rawPayloadPath": "data/raw/2026-03-25/awards-125232.json"
   }
 }
