@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
         "rawTime": "2026-03-25T08:07:14.987"
       }
+    ],
+    "2026-03-25T09": [
+      {
+        "newsId": "1c67970f-48c6-4cbf-b827-8e5a9b581052",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins (significant*) Order for Water & Effluent Treatment Business",
+        "announcedAt": "2026-03-25T09:49:44.333+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-03-25T09:49:44.333"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-25T09:18:45.793+05:30",
-    "checksum": "5ca2fc400b79a4358bcadc8654a2b23c9fdb36eec8cb33399d99d7eb1df3f9ff",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-03-25T10:08:20.057+05:30",
+    "checksum": "2709c039de0e334916146488896b28b92bfe8057a70954bf9aa9617b13baca43",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-25/awards-091845.json"
+    "rawPayloadPath": "data/raw/2026-03-25/awards-100819.json"
   }
 }
