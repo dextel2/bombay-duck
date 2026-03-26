@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-03-26T11:31:44.76"
       }
+    ],
+    "2026-03-26T12": [
+      {
+        "newsId": "6f08c736-8266-4c00-a6a1-4e99da8a340d",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Intimation of receipt of Letter of acceptance of purchase order",
+        "announcedAt": "2026-03-26T12:51:33.223+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-03-26T12:51:33.223"
+      },
+      {
+        "newsId": "42597061-d24d-450f-ad55-8914494927c0",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are please to inform you that the Company has received Letter of Intent from Emerson Measurement Systems and Solutions (India) Private Limited amounting to Rs. 5,54,79,894/-.",
+        "announcedAt": "2026-03-26T12:46:33.027+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-03-26T12:46:33.027"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-26T11:54:00.345+05:30",
-    "checksum": "d4dd886c3a0a74270226fc861404f816875597ae11316a5ca3cb7f5867c1ff0a",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-26T12:56:54.579+05:30",
+    "checksum": "b532e26cebe831e00d18a524c1b5d82119ce961dfc8667da54e2024b435abaeb",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-26/awards-115359.json"
+    "rawPayloadPath": "data/raw/2026-03-26/awards-125654.json"
   }
 }
