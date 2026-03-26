@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-26 11:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH 185,100 USD RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 26 Mar 2026 - 11:31 |
 | 2026-03-26 09:00 | Highway Infrastructure Ltd | 544477 | Company Received a LOA for operation at Venkatapalem fee plaza in the state of Andhra Pradesh. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 26 Mar 2026 - 09:46 |
 
-_Last updated: 26 Mar 2026 - 12:56 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
+_Last updated: 26 Mar 2026 - 13:46 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
 
 <!-- snapshot:end -->
 
