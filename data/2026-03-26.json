@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/",
         "rawTime": "2026-03-26T09:46:34.533"
       }
+    ],
+    "2026-03-26T11": [
+      {
+        "newsId": "cedb710c-de50-4790-b937-d8d0c69035f6",
+        "scripCode": 543535,
+        "shortName": "We Win Ltd",
+        "headline": "Award of Work Order for Selection of Bidder for Implementation of CM Helpline & Complaint Management System for Chhattisgarh",
+        "announcedAt": "2026-03-26T11:41:35.347+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/",
+        "rawTime": "2026-03-26T11:41:35.347"
+      },
+      {
+        "newsId": "91cdfb3f-3524-4f23-9041-39ecfd62d7cb",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH 185,100 USD RECEIVED",
+        "announcedAt": "2026-03-26T11:31:44.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-03-26T11:31:44.76"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-26T11:02:18.540+05:30",
-    "checksum": "8ff3dc91847a6d37c6386d466a5b777c4c0999bbc58182d9d6c689975479187e",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-26T11:54:00.345+05:30",
+    "checksum": "d4dd886c3a0a74270226fc861404f816875597ae11316a5ca3cb7f5867c1ff0a",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-26/awards-110218.json"
+    "rawPayloadPath": "data/raw/2026-03-26/awards-115359.json"
   }
 }

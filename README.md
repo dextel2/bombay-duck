@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-26 11:00 | We Win Ltd | 543535 | Award of Work Order for Selection of Bidder for Implementation of CM Helpline & Complaint Management System for Chhattisgarh ([Link](https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/)) | Likely Positive | 26 Mar 2026 - 11:41 |
+| 2026-03-26 11:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH 185,100 USD RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 26 Mar 2026 - 11:31 |
 | 2026-03-26 09:00 | Highway Infrastructure Ltd | 544477 | Company Received a LOA for operation at Venkatapalem fee plaza in the state of Andhra Pradesh. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 26 Mar 2026 - 09:46 |
 
-_Last updated: 26 Mar 2026 - 11:02 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
+_Last updated: 26 Mar 2026 - 11:54 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
 
 <!-- snapshot:end -->
 
