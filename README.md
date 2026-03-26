@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-03-26 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-26 09:00 | Highway Infrastructure Ltd | 544477 | Company Received a LOA for operation at Venkatapalem fee plaza in the state of Andhra Pradesh. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 26 Mar 2026 - 09:46 |
 
-_Last updated: 26 Mar 2026 - 09:26 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
+_Last updated: 26 Mar 2026 - 10:20 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
 
 <!-- snapshot:end -->
 
