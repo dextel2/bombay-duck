@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-26 09:00 | Highway Infrastructure Ltd | 544477 | Company Received a LOA for operation at Venkatapalem fee plaza in the state of Andhra Pradesh. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 26 Mar 2026 - 09:46 |
 
-_Last updated: 26 Mar 2026 - 10:20 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
+_Last updated: 26 Mar 2026 - 11:02 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
 
 <!-- snapshot:end -->
 
