@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/defrail-technologies-ltd/defrail/544677/",
         "rawTime": "2026-03-26T13:55:06.127"
       }
+    ],
+    "2026-03-26T14": [
+      {
+        "newsId": "4145d94e-1d6a-47b8-a24c-3cec787a3a73",
+        "scripCode": 530745,
+        "shortName": "ACS Technologies Ltd",
+        "headline": "Receipt of Work order from Hindustan Aeronautics Limited",
+        "announcedAt": "2026-03-26T14:57:49.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acs-technologies-ltd/acstech/530745/",
+        "rawTime": "2026-03-26T14:57:49.673"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-26T14:50:20.779+05:30",
-    "checksum": "fa4d2d486f896ac69ba8ecf08f046b37a4f49c6e84607e7a6d56611c4bebef48",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-26T15:49:07.150+05:30",
+    "checksum": "f026e8089c51a36e645c7ceb54911e4885627b62376c5f2c656f5f5d74b92464",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-26/awards-145020.json"
+    "rawPayloadPath": "data/raw/2026-03-26/awards-154906.json"
   }
 }

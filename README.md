@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-26 14:00 | ACS Technologies Ltd | 530745 | Receipt of Work order from Hindustan Aeronautics Limited ([Link](https://www.bseindia.com/stock-share-price/acs-technologies-ltd/acstech/530745/)) | Likely Positive | 26 Mar 2026 - 14:57 |
 | 2026-03-26 13:00 | Defrail Technologies Ltd | 544677 | Receipt of Order from Indian Railways - North Eastern Railway. ([Link](https://www.bseindia.com/stock-share-price/defrail-technologies-ltd/defrail/544677/)) | Likely Positive | 26 Mar 2026 - 13:55 |
 | 2026-03-26 12:00 | Pace Digitek Ltd | 544550 | Intimation of receipt of Letter of acceptance of purchase order ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 26 Mar 2026 - 12:51 |
 | 2026-03-26 12:00 | Cryogenic Ogs Ltd | 544440 | We are please to inform you that the Company has received Letter of Intent from Emerson Measurement Systems and Solutions (India) Private Limited amounting to Rs. 5,54,79,894/-. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Neutral | 26 Mar 2026 - 12:46 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-26 11:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH 185,100 USD RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 26 Mar 2026 - 11:31 |
 | 2026-03-26 09:00 | Highway Infrastructure Ltd | 544477 | Company Received a LOA for operation at Venkatapalem fee plaza in the state of Andhra Pradesh. ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 26 Mar 2026 - 09:46 |
 
-_Last updated: 26 Mar 2026 - 14:50 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
+_Last updated: 26 Mar 2026 - 15:49 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-26.json)_
 
 <!-- snapshot:end -->
 
