@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
         "rawTime": "2026-03-26T12:46:33.027"
       }
+    ],
+    "2026-03-26T13": [
+      {
+        "newsId": "6ddbfb9e-f3dc-49e9-a3ee-c7e09d643258",
+        "scripCode": 544677,
+        "shortName": "Defrail Technologies Ltd",
+        "headline": "Receipt of Order from Indian Railways - North Eastern Railway.",
+        "announcedAt": "2026-03-26T13:55:06.127+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/defrail-technologies-ltd/defrail/544677/",
+        "rawTime": "2026-03-26T13:55:06.127"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-26T13:46:23.800+05:30",
-    "checksum": "b532e26cebe831e00d18a524c1b5d82119ce961dfc8667da54e2024b435abaeb",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-26T14:50:20.779+05:30",
+    "checksum": "fa4d2d486f896ac69ba8ecf08f046b37a4f49c6e84607e7a6d56611c4bebef48",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-26/awards-134623.json"
+    "rawPayloadPath": "data/raw/2026-03-26/awards-145020.json"
   }
 }
