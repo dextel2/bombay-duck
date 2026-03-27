@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-03-27",
+  "buckets": {
+    "2026-03-27T08": [
+      {
+        "newsId": "b80a6066-c738-4f4b-87df-145e4acabdef",
+        "scripCode": 526807,
+        "shortName": "Seamec Ltd",
+        "headline": "Intimation on Bagging of NOA from ONGC to Consortium of SEAMEC LIMITED and SUPREME HYDRO PVT LIMITED for Hiring of Operation & Maintenance (O&M) Services for ONGC owned MSV \"SAMUDRA PRABHA\" ....",
+        "announcedAt": "2026-03-27T08:00:43.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
+        "rawTime": "2026-03-27T08:00:43.057"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-03-27T09:27:15.926+05:30",
+    "checksum": "37fc5521934fa2f98cf1dc8f206d200c5faa69850addcb1aae23b11a79a8c51a",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-03-27/awards-092715.json"
+  }
+}
