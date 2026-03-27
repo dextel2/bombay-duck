@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-27 13:00 | Quality Power Electrical Equipments Ltd | 544367 | Receipt of Significant Order by Material Step-down subsidiary for supply and Integration of Battery Energy Storage System. ([Link](https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/)) | Likely Positive | 27 Mar 2026 - 13:37 |
+| 2026-03-27 12:00 | Jupiter Life Line Hospitals Ltd | 543980 | The Company has received a letter from Mumbai Metropolitan Region Development Authority (MMRDA) conveying the acceptance of its tender for allotment of land on lease basis ([Link](https://www.bseindia.com/stock-share-price/jupiter-life-line-hospitals-ltd/jlhl/543980/)) | Neutral | 27 Mar 2026 - 12:59 |
 | 2026-03-27 11:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED for 3645 NOS Solar PV Module. Total Value is around 3.11 Crores (exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 27 Mar 2026 - 11:33 |
 | 2026-03-27 11:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase Order from PERFECT RENEWTECH PRIVATE LIMITED for 1355 NOS Solar PV Module. Total Value is around 1.21 Crores (exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 27 Mar 2026 - 11:29 |
 | 2026-03-27 11:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED for 4056 NOS Solar PV Module. Total Value is around 3.49 Crores (exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 27 Mar 2026 - 11:25 |
@@ -29,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-27 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Significant*) Order for Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 27 Mar 2026 - 09:57 |
 | 2026-03-27 08:00 | Seamec Ltd | 526807 | Intimation on Bagging of NOA from ONGC to Consortium of SEAMEC LIMITED and SUPREME HYDRO PVT LIMITED for Hiring of Operation & Maintenance (O&M) Services for ONGC owned MSV "SAMUDRA PRABHA" .... ([Link](https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/)) | Neutral | 27 Mar 2026 - 08:00 |
 
-_Last updated: 27 Mar 2026 - 12:56 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-27.json)_
+_Last updated: 27 Mar 2026 - 13:44 | Entries: 8 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-27.json)_
 
 <!-- snapshot:end -->
 

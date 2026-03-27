@@ -60,14 +60,36 @@
         "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
         "rawTime": "2026-03-27T11:22:22.097"
       }
+    ],
+    "2026-03-27T13": [
+      {
+        "newsId": "841ce6cd-0626-4ae6-ae2b-f5a6a2932a8e",
+        "scripCode": 544367,
+        "shortName": "Quality Power Electrical Equipments Ltd",
+        "headline": "Receipt of Significant Order by Material Step-down subsidiary for supply and Integration of Battery Energy Storage System.",
+        "announcedAt": "2026-03-27T13:37:07.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/",
+        "rawTime": "2026-03-27T13:37:07.11"
+      }
+    ],
+    "2026-03-27T12": [
+      {
+        "newsId": "1fa2e762-8ac0-47d2-a235-f17d588f334d",
+        "scripCode": 543980,
+        "shortName": "Jupiter Life Line Hospitals Ltd",
+        "headline": "The Company has received a letter from Mumbai Metropolitan Region Development Authority (MMRDA) conveying the acceptance of its tender for allotment of land on lease basis",
+        "announcedAt": "2026-03-27T12:59:44.897+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jupiter-life-line-hospitals-ltd/jlhl/543980/",
+        "rawTime": "2026-03-27T12:59:44.897"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-27T12:56:21.044+05:30",
-    "checksum": "97bf737ba51aab502eb55de781712a721e26f1f8bf8824a61a558deb2156a7f9",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-27T13:44:10.001+05:30",
+    "checksum": "fe8ae3d5d3087c29381ef2f2a4c9633f96a2c1908d6d5d7518894322753c9bbc",
+    "totalAnnouncements": 8,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-27/awards-125620.json"
+    "rawPayloadPath": "data/raw/2026-03-27/awards-134409.json"
   }
 }
