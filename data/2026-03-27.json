@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
         "rawTime": "2026-03-27T08:00:43.057"
       }
+    ],
+    "2026-03-27T09": [
+      {
+        "newsId": "9ce780b2-9802-4472-96e6-c3f7d943f8ca",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins (Significant*) Order for Buildings & Factories Business",
+        "announcedAt": "2026-03-27T09:57:21.327+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-03-27T09:57:21.327"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-27T09:27:15.926+05:30",
-    "checksum": "37fc5521934fa2f98cf1dc8f206d200c5faa69850addcb1aae23b11a79a8c51a",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-03-27T10:22:09.112+05:30",
+    "checksum": "1e1d4ae5a62912cf9474066e76d17689517ff03ba472341fa7a20efcf6e81056",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-27/awards-092715.json"
+    "rawPayloadPath": "data/raw/2026-03-27/awards-102208.json"
   }
 }

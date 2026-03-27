@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-27 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Significant*) Order for Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 27 Mar 2026 - 09:57 |
 | 2026-03-27 08:00 | Seamec Ltd | 526807 | Intimation on Bagging of NOA from ONGC to Consortium of SEAMEC LIMITED and SUPREME HYDRO PVT LIMITED for Hiring of Operation & Maintenance (O&M) Services for ONGC owned MSV "SAMUDRA PRABHA" .... ([Link](https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/)) | Neutral | 27 Mar 2026 - 08:00 |
 
-_Last updated: 27 Mar 2026 - 09:27 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-27.json)_
+_Last updated: 27 Mar 2026 - 10:22 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-27.json)_
 
 <!-- snapshot:end -->
 
