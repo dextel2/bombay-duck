@@ -93,14 +93,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
         "rawTime": "2026-03-27T14:04:47.12"
       }
+    ],
+    "2026-03-27T15": [
+      {
+        "newsId": "82d49f2f-eb78-4843-9fd2-6d1cbb4e75e0",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-03-27T15:18:17.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2026-03-27T15:18:17.367"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-27T14:47:13.851+05:30",
-    "checksum": "d26ffeacf705339c2b8e1520bf072283c4f138460f07413d927a5d165ecdb679",
-    "totalAnnouncements": 9,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-27T15:45:48.202+05:30",
+    "checksum": "150a0c2052f4c458c1fefeb63af4342690d2de8a755c87aff9ddde51fda68c00",
+    "totalAnnouncements": 10,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-27/awards-144712.json"
+    "rawPayloadPath": "data/raw/2026-03-27/awards-154547.json"
   }
 }
