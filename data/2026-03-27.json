@@ -22,14 +22,52 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-03-27T09:57:21.327"
       }
+    ],
+    "2026-03-27T11": [
+      {
+        "newsId": "f1062010-0c0b-413f-91af-e75da83bde6c",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED for 3645 NOS Solar PV Module. Total Value is around 3.11 Crores (exclusive of GST).",
+        "announcedAt": "2026-03-27T11:33:44.363+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-03-27T11:33:44.363"
+      },
+      {
+        "newsId": "9cd48544-914a-49ef-8dd4-c37c895d622b",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "The Company has received a Purchase Order from PERFECT RENEWTECH PRIVATE LIMITED for 1355 NOS Solar PV Module. Total Value is around 1.21 Crores (exclusive of GST).",
+        "announcedAt": "2026-03-27T11:29:44.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-03-27T11:29:44.65"
+      },
+      {
+        "newsId": "3a93716b-4c3c-4989-aac2-71ccc93c2e6e",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "The Company has received a Purchase Order from EARTHWAVE TECHNOLOGY PRIVATE LIMITED for 4056 NOS Solar PV Module. Total Value is around 3.49 Crores (exclusive of GST).",
+        "announcedAt": "2026-03-27T11:25:44.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-03-27T11:25:44.973"
+      },
+      {
+        "newsId": "e4700f15-ad7e-4b99-97ea-aaac940f5080",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform you that the Company has received a Purchase order from Honeywell LNG LLC (Pennsylvania, USA) amounting to $231,820.00/-",
+        "announcedAt": "2026-03-27T11:22:22.097+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-03-27T11:22:22.097"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-27T11:02:48.490+05:30",
-    "checksum": "1e1d4ae5a62912cf9474066e76d17689517ff03ba472341fa7a20efcf6e81056",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-27T11:55:03.095+05:30",
+    "checksum": "97bf737ba51aab502eb55de781712a721e26f1f8bf8824a61a558deb2156a7f9",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-27/awards-110247.json"
+    "rawPayloadPath": "data/raw/2026-03-27/awards-115502.json"
   }
 }
