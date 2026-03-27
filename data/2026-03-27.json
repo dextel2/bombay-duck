@@ -82,14 +82,25 @@
         "url": "https://www.bseindia.com/stock-share-price/jupiter-life-line-hospitals-ltd/jlhl/543980/",
         "rawTime": "2026-03-27T12:59:44.897"
       }
+    ],
+    "2026-03-27T14": [
+      {
+        "newsId": "baa2afde-c643-439c-baf3-c9a79076fde9",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for receipt of Service order from Indian Space Research Organization (ISRO)",
+        "announcedAt": "2026-03-27T14:04:47.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
+        "rawTime": "2026-03-27T14:04:47.12"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-27T13:44:10.001+05:30",
-    "checksum": "fe8ae3d5d3087c29381ef2f2a4c9633f96a2c1908d6d5d7518894322753c9bbc",
-    "totalAnnouncements": 8,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-27T14:47:13.851+05:30",
+    "checksum": "d26ffeacf705339c2b8e1520bf072283c4f138460f07413d927a5d165ecdb679",
+    "totalAnnouncements": 9,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-27/awards-134409.json"
+    "rawPayloadPath": "data/raw/2026-03-27/awards-144712.json"
   }
 }
