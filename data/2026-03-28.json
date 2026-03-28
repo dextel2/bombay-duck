@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-28",
-  "buckets": {},
+  "buckets": {
+    "2026-03-28T11": [
+      {
+        "newsId": "0b6d422b-6826-43f4-a52a-3f16544bb238",
+        "scripCode": 532663,
+        "shortName": "Sasken Technologies Ltd",
+        "headline": "Please find enclosed details of the Order passed by the Office of the Superintendent Of GST & Central Excise, Range V, Perungudi Division, Chennai South Commissionerate.",
+        "announcedAt": "2026-03-28T11:03:35.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sasken-technologies-ltd/sasken/532663/",
+        "rawTime": "2026-03-28T11:03:35.107"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-28T10:57:22.411+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-28T11:49:30.297+05:30",
+    "checksum": "7981668efb9bf631fd8e45787908efb6cdbca2e2e8a60c19d895cd284bdeaaf6",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-28/awards-105721.json"
+    "rawPayloadPath": "data/raw/2026-03-28/awards-114929.json"
   }
 }
