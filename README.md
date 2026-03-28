@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-28 13:00 | Dilip Buildcon Ltd | 540047 | In continuation of our announcement dated February 17, 2026 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 28 Mar 2026 - 13:50 |
 | 2026-03-28 13:00 | Avantel Ltd | 532406 | Receipt of Supply Order worth of Rs.137.12 Cr from the India Meteorological Department, Ministry of Earth Sciences, Government of India ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 28 Mar 2026 - 13:04 |
 | 2026-03-28 11:00 | KNR Constructions Ltd | 532942 | Intimation of receipt of letter of award ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 28 Mar 2026 - 11:58 |
 | 2026-03-28 11:00 | Sasken Technologies Ltd | 532663 | Please find enclosed details of the Order passed by the Office of the Superintendent Of GST & Central Excise, Range V, Perungudi Division, Chennai South Commissionerate. ([Link](https://www.bseindia.com/stock-share-price/sasken-technologies-ltd/sasken/532663/)) | Likely Positive | 28 Mar 2026 - 11:03 |
 
-_Last updated: 28 Mar 2026 - 13:39 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-28.json)_
+_Last updated: 28 Mar 2026 - 14:41 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-28.json)_
 
 <!-- snapshot:end -->
 

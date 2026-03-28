@@ -23,6 +23,15 @@
     ],
     "2026-03-28T13": [
       {
+        "newsId": "d1508f7e-01b8-4041-af6b-cdf3d50d4741",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "In continuation of our announcement dated February 17, 2026 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) ....",
+        "announcedAt": "2026-03-28T13:50:31.547+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-03-28T13:50:31.547"
+      },
+      {
         "newsId": "f4aa13d8-e4cb-466d-9a47-9e272245237d",
         "scripCode": 532406,
         "shortName": "Avantel Ltd",
@@ -34,11 +43,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-28T13:39:54.830+05:30",
-    "checksum": "9c6ec9766e3ce571c1cede91e1f2eba982a1a040674e076d033047892c2f7a56",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-28T14:41:19.290+05:30",
+    "checksum": "a93793d589facf2000e95afebb0f69eb3ab7fb19834ca416f7f1ccbee37a563f",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-28/awards-133954.json"
+    "rawPayloadPath": "data/raw/2026-03-28/awards-144118.json"
   }
 }
