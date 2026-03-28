@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-28 11:00 | KNR Constructions Ltd | 532942 | Intimation of receipt of letter of award ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 28 Mar 2026 - 11:58 |
 | 2026-03-28 11:00 | Sasken Technologies Ltd | 532663 | Please find enclosed details of the Order passed by the Office of the Superintendent Of GST & Central Excise, Range V, Perungudi Division, Chennai South Commissionerate. ([Link](https://www.bseindia.com/stock-share-price/sasken-technologies-ltd/sasken/532663/)) | Likely Positive | 28 Mar 2026 - 11:03 |
 
-_Last updated: 28 Mar 2026 - 11:49 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-03-28.json)_
+_Last updated: 28 Mar 2026 - 12:49 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-28.json)_
 
 <!-- snapshot:end -->
 
