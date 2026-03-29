@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-29 14:00 | Minda Corporation Ltd | 538962 | Intimation of Assessment order under Section 143(3) of the Income Tax Act, 1961 dated March 28, 2026 from the office of Assistant Commissioner of Income Tax, Central Circle 13, Delhi ([Link](https://www.bseindia.com/stock-share-price/minda-corporation-ltd/mindacorp/538962/)) | Likely Positive | 29 Mar 2026 - 14:28 |
 
-_Last updated: 29 Mar 2026 - 14:41 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-29.json)_
+_Last updated: 29 Mar 2026 - 15:38 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-29.json)_
 
 <!-- snapshot:end -->
 
