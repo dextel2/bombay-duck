@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-03-29",
-  "buckets": {},
+  "buckets": {
+    "2026-03-29T14": [
+      {
+        "newsId": "f5e21a8a-25e2-4bef-b644-503d58c472fc",
+        "scripCode": 538962,
+        "shortName": "Minda Corporation Ltd",
+        "headline": "Intimation of Assessment order under Section 143(3) of the Income Tax Act, 1961 dated March 28, 2026 from the office of Assistant Commissioner of Income Tax, Central Circle 13, Delhi",
+        "announcedAt": "2026-03-29T14:28:18.223+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/minda-corporation-ltd/mindacorp/538962/",
+        "rawTime": "2026-03-29T14:28:18.223"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-03-29T13:40:13.897+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-29T14:41:18.772+05:30",
+    "checksum": "a571f59c63cc167b5d4b9aa1acd952169a3e3866285c21208d8215b59607e8a8",
+    "totalAnnouncements": 1,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-29/awards-134013.json"
+    "rawPayloadPath": "data/raw/2026-03-29/awards-144118.json"
   }
 }
