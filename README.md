@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-30 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 30 Mar 2026 - 08:28 |
 
-_Last updated: 30 Mar 2026 - 09:31 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
+_Last updated: 30 Mar 2026 - 11:13 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
 
 <!-- snapshot:end -->
 
