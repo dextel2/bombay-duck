@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
         "rawTime": "2026-03-30T08:28:47.223"
       }
+    ],
+    "2026-03-30T11": [
+      {
+        "newsId": "fcac3712-7610-4061-be5c-a0471f2bbba2",
+        "scripCode": 543535,
+        "shortName": "We Win Ltd",
+        "headline": "Award of Work order for Selection of an Agency for Establishment, Operations and Management of ICCC and District Helpdesks under the Surakshit Matrritva Ashwashan (SUMAN) Program for National ....",
+        "announcedAt": "2026-03-30T11:27:02.943+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/",
+        "rawTime": "2026-03-30T11:27:02.943"
+      },
+      {
+        "newsId": "18b5907f-776f-4c22-8f2b-c0455c402770",
+        "scripCode": 513250,
+        "shortName": "Jyoti Structures Ltd",
+        "headline": "Intimation on New Project Order",
+        "announcedAt": "2026-03-30T11:16:41.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
+        "rawTime": "2026-03-30T11:16:41.89"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-30T11:13:13.240+05:30",
-    "checksum": "aafb15d9cfed16170517b8ae6468a70225a656a341fd157713734ae883c62ad3",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-03-30T12:05:38.339+05:30",
+    "checksum": "4ba05681eff9d14304296a4494f241fcd1ea87986e40bf9c04a47102e5a5f691",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-30/awards-111312.json"
+    "rawPayloadPath": "data/raw/2026-03-30/awards-120537.json"
   }
 }

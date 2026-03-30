@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-30 11:00 | We Win Ltd | 543535 | Award of Work order for Selection of an Agency for Establishment, Operations and Management of ICCC and District Helpdesks under the Surakshit Matrritva Ashwashan (SUMAN) Program for National .... ([Link](https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/)) | Likely Positive | 30 Mar 2026 - 11:27 |
+| 2026-03-30 11:00 | Jyoti Structures Ltd | 513250 | Intimation on New Project Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Likely Positive | 30 Mar 2026 - 11:16 |
 | 2026-03-30 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 30 Mar 2026 - 08:28 |
 
-_Last updated: 30 Mar 2026 - 11:13 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
+_Last updated: 30 Mar 2026 - 12:05 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
 
 <!-- snapshot:end -->
 
