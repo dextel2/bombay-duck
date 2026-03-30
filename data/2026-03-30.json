@@ -31,14 +31,43 @@
         "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
         "rawTime": "2026-03-30T11:16:41.89"
       }
+    ],
+    "2026-03-30T12": [
+      {
+        "newsId": "0049b443-610e-4230-9c91-58c2bd1b71f8",
+        "scripCode": 544290,
+        "shortName": "Enviro Infra Engineers Ltd",
+        "headline": "Orders worth INR 405.71 Crores (excluding GST)",
+        "announcedAt": "2026-03-30T12:57:59.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/",
+        "rawTime": "2026-03-30T12:57:59.343"
+      },
+      {
+        "newsId": "4bb19f21-31d6-48c1-b312-69d933d5017b",
+        "scripCode": 500103,
+        "shortName": "Bharat Heavy Electricals Ltd",
+        "headline": "Receipt of Notification of Award (NOA) from NTPC Ltd.",
+        "announcedAt": "2026-03-30T12:44:18.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+        "rawTime": "2026-03-30T12:44:18.27"
+      },
+      {
+        "newsId": "b08c317b-f176-4566-ac7d-fb473911d2c2",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company has bagged new contract from Department of Agricultural Research and Education (DARE), Indian Council of Agricultural Research (ICAR), Ministry ....",
+        "announcedAt": "2026-03-30T12:41:31.807+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-03-30T12:41:31.807"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-30T12:05:38.339+05:30",
-    "checksum": "4ba05681eff9d14304296a4494f241fcd1ea87986e40bf9c04a47102e5a5f691",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-30T13:02:05.391+05:30",
+    "checksum": "7eb678cf0c2df9ef8322039a40520715df17ccdeeb02e28febfde1290427b6f4",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-30/awards-120537.json"
+    "rawPayloadPath": "data/raw/2026-03-30/awards-130204.json"
   }
 }
