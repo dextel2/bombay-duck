@@ -100,14 +100,43 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
         "rawTime": "2026-03-30T14:19:03.12"
       }
+    ],
+    "2026-03-30T15": [
+      {
+        "newsId": "d95f52b9-39c2-4a94-936a-0665d53e5ed2",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Revised Intimation of work/supply orders received during the ended March 28, 2026",
+        "announcedAt": "2026-03-30T15:45:27.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-03-30T15:45:27.207"
+      },
+      {
+        "newsId": "9ee6a937-7b2d-4b29-a0f8-8c43dab065ba",
+        "scripCode": 544532,
+        "shortName": "Solarworld Energy Solutions Ltd",
+        "headline": "Letter of Award of Contract for EPC Package for BESS Implementation at Feroze Gandhi Unchahar Thermal Power Station as per Bid Document No. CS-0011-171B-9",
+        "announcedAt": "2026-03-30T15:23:24.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
+        "rawTime": "2026-03-30T15:23:24.59"
+      },
+      {
+        "newsId": "0fb32550-d662-4db1-9a48-c9598dd87fb2",
+        "scripCode": 544532,
+        "shortName": "Solarworld Energy Solutions Ltd",
+        "headline": "Letter of Award of contract for EPC Package for BESS Implementation at Solapur Super Thermal Power station Lot-2 as per Bid Document No. CS-0011-171B-9",
+        "announcedAt": "2026-03-30T15:15:50.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
+        "rawTime": "2026-03-30T15:15:50.33"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-30T14:59:44.213+05:30",
-    "checksum": "d39c11cf54115a34e3a60e8f400bca660ef17d4bac851fd44da8e250c0db96b8",
-    "totalAnnouncements": 10,
-    "requestCount": 6,
+    "lastUpdated": "2026-03-30T15:58:22.420+05:30",
+    "checksum": "c2432bdf7c20f7340b5c56b2d8131b8f46ad94b9e6972b7fe45fb069ef6a1b33",
+    "totalAnnouncements": 13,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-30/awards-145943.json"
+    "rawPayloadPath": "data/raw/2026-03-30/awards-155821.json"
   }
 }

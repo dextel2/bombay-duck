@@ -22,6 +22,9 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-30 15:00 | Gabion Technologies India Ltd | 544675 | Revised Intimation of work/supply orders received during the ended March 28, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 30 Mar 2026 - 15:45 |
+| 2026-03-30 15:00 | Solarworld Energy Solutions Ltd | 544532 | Letter of Award of Contract for EPC Package for BESS Implementation at Feroze Gandhi Unchahar Thermal Power Station as per Bid Document No. CS-0011-171B-9 ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 30 Mar 2026 - 15:23 |
+| 2026-03-30 15:00 | Solarworld Energy Solutions Ltd | 544532 | Letter of Award of contract for EPC Package for BESS Implementation at Solapur Super Thermal Power station Lot-2 as per Bid Document No. CS-0011-171B-9 ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 30 Mar 2026 - 15:15 |
 | 2026-03-30 14:00 | Gabion Technologies India Ltd | 544675 | Initimation of work/ supply orders received during the week ended march 28, 2026. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 30 Mar 2026 - 14:42 |
 | 2026-03-30 14:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform that the Company has received purchase order of Rs. 2,27,73,997.64/- from Emerson Measurement Systems and Solutions (India) Private Limited. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 30 Mar 2026 - 14:21 |
 | 2026-03-30 14:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.1660 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 30 Mar 2026 - 14:19 |
@@ -33,7 +36,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-30 11:00 | Jyoti Structures Ltd | 513250 | Intimation on New Project Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Likely Positive | 30 Mar 2026 - 11:16 |
 | 2026-03-30 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 30 Mar 2026 - 08:28 |
 
-_Last updated: 30 Mar 2026 - 14:59 | Entries: 10 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
+_Last updated: 30 Mar 2026 - 15:58 | Entries: 13 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
 
 <!-- snapshot:end -->
 
