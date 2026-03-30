@@ -18,13 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-03-29 IST)
+### Today's Awarded Orders (2026-03-30 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-29 14:00 | Minda Corporation Ltd | 538962 | Intimation of Assessment order under Section 143(3) of the Income Tax Act, 1961 dated March 28, 2026 from the office of Assistant Commissioner of Income Tax, Central Circle 13, Delhi ([Link](https://www.bseindia.com/stock-share-price/minda-corporation-ltd/mindacorp/538962/)) | Likely Positive | 29 Mar 2026 - 14:28 |
+| 2026-03-30 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 30 Mar 2026 - 08:28 |
 
-_Last updated: 29 Mar 2026 - 15:38 | Entries: 1 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-29.json)_
+_Last updated: 30 Mar 2026 - 09:31 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
 
 <!-- snapshot:end -->
 
