@@ -22,6 +22,9 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-30 14:00 | Gabion Technologies India Ltd | 544675 | Initimation of work/ supply orders received during the week ended march 28, 2026. ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 30 Mar 2026 - 14:42 |
+| 2026-03-30 14:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform that the Company has received purchase order of Rs. 2,27,73,997.64/- from Emerson Measurement Systems and Solutions (India) Private Limited. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 30 Mar 2026 - 14:21 |
+| 2026-03-30 14:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs.1660 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 30 Mar 2026 - 14:19 |
 | 2026-03-30 13:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 30 Mar 2026 - 13:07 |
 | 2026-03-30 12:00 | Enviro Infra Engineers Ltd | 544290 | Orders worth INR 405.71 Crores (excluding GST) ([Link](https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/)) | Likely Positive | 30 Mar 2026 - 12:57 |
 | 2026-03-30 12:00 | Bharat Heavy Electricals Ltd | 500103 | Receipt of Notification of Award (NOA) from NTPC Ltd. ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Likely Positive | 30 Mar 2026 - 12:44 |
@@ -30,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-03-30 11:00 | Jyoti Structures Ltd | 513250 | Intimation on New Project Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Likely Positive | 30 Mar 2026 - 11:16 |
 | 2026-03-30 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 30 Mar 2026 - 08:28 |
 
-_Last updated: 30 Mar 2026 - 14:00 | Entries: 7 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
+_Last updated: 30 Mar 2026 - 14:59 | Entries: 10 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-03-30.json)_
 
 <!-- snapshot:end -->
 

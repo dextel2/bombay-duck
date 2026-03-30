@@ -71,14 +71,43 @@
         "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
         "rawTime": "2026-03-30T13:07:50.8"
       }
+    ],
+    "2026-03-30T14": [
+      {
+        "newsId": "22a6507b-1e8e-4ede-b8b9-e6f981aad6f9",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Initimation of work/ supply orders received during the week ended march 28, 2026.",
+        "announcedAt": "2026-03-30T14:42:42.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-03-30T14:42:42.49"
+      },
+      {
+        "newsId": "a4a6b240-8a5c-4537-8c8f-3c241cbe5a4f",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform that the Company has received purchase order of Rs. 2,27,73,997.64/- from Emerson Measurement Systems and Solutions (India) Private Limited.",
+        "announcedAt": "2026-03-30T14:21:28.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-03-30T14:21:28.71"
+      },
+      {
+        "newsId": "642f196d-cb35-44d4-8dd0-c4706b14d641",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs.1660 Crore.",
+        "announcedAt": "2026-03-30T14:19:03.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-03-30T14:19:03.12"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-30T14:00:56.342+05:30",
-    "checksum": "21e2f93d724594ca5d3e8eb0db85a00df6f3582c8d363fefa70b312438a0432c",
-    "totalAnnouncements": 7,
-    "requestCount": 5,
+    "lastUpdated": "2026-03-30T14:59:44.213+05:30",
+    "checksum": "d39c11cf54115a34e3a60e8f400bca660ef17d4bac851fd44da8e250c0db96b8",
+    "totalAnnouncements": 10,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-30/awards-140055.json"
+    "rawPayloadPath": "data/raw/2026-03-30/awards-145943.json"
   }
 }
