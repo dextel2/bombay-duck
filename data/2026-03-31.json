@@ -11,14 +11,43 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-03-31T10:58:44.393"
       }
+    ],
+    "2026-03-31T11": [
+      {
+        "newsId": "36ec980a-188e-4221-9c64-fe030accad32",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH 73,500 USD RECEIVED",
+        "announcedAt": "2026-03-31T11:35:04.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-03-31T11:35:04.76"
+      },
+      {
+        "newsId": "b2d7060d-d866-4b4a-ae0b-710034ccc0df",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-03-31T11:22:31.733+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-03-31T11:22:31.733"
+      },
+      {
+        "newsId": "55b1903a-2dd1-4c4b-b9fc-f1010c091663",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-03-31T11:17:28.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-03-31T11:17:28.95"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-31T11:03:13.474+05:30",
-    "checksum": "53bdc2553cad9f65b6306a2788c6fc32c9615233d98a3a612f0fac66a61e3a80",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-03-31T11:57:50.614+05:30",
+    "checksum": "0d03def964dc67e1e50a817a3566deb667b1c229913d02dd45b29713d621870a",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-31/awards-110312.json"
+    "rawPayloadPath": "data/raw/2026-03-31/awards-115749.json"
   }
 }
