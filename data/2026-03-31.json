@@ -51,14 +51,34 @@
         "url": "https://www.bseindia.com/stock-share-price/baazar-style-retail-ltd/stylebaaza/544243/",
         "rawTime": "2026-03-31T12:32:59.21"
       }
+    ],
+    "2026-03-31T15": [
+      {
+        "newsId": "6dadf344-655e-4db7-938a-51bd34f41dfe",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that company has received fresh and renewal order amounting to Rs. 0.70 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-03-31T15:29:08.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-03-31T15:29:08.44"
+      },
+      {
+        "newsId": "c4916fcd-fe84-46c7-beea-11582cf25d5e",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that company has received renewal purchase orders amounting to Rs. 3.06 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-03-31T15:25:03.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-03-31T15:25:03.84"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-31T14:53:20.450+05:30",
-    "checksum": "be578b8c21dc854b62760bd568caceae5a358547ec887e53fd1fb12e6827ef04",
-    "totalAnnouncements": 5,
-    "requestCount": 7,
+    "lastUpdated": "2026-03-31T15:50:30.171+05:30",
+    "checksum": "88aad48d43c03f3d6674eb25c3293028eb889ae58e4c3351b81a11b28c2d6b3f",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-31/awards-145319.json"
+    "rawPayloadPath": "data/raw/2026-03-31/awards-155029.json"
   }
 }

@@ -22,13 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03-31 15:00 | Meta Infotech Ltd | 544441 | We wish to inform that company has received fresh and renewal order amounting to Rs. 0.70 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 31 Mar 2026 - 15:29 |
+| 2026-03-31 15:00 | Meta Infotech Ltd | 544441 | We wish to inform that company has received renewal purchase orders amounting to Rs. 3.06 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 31 Mar 2026 - 15:25 |
 | 2026-03-31 12:00 | Baazar Style Retail Ltd | 544243 | Pursuant to Regulation 30 read with Clause 20 of Para A of Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, .... ([Link](https://www.bseindia.com/stock-share-price/baazar-style-retail-ltd/stylebaaza/544243/)) | Neutral | 31 Mar 2026 - 12:32 |
 | 2026-03-31 11:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH 73,500 USD RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 31 Mar 2026 - 11:35 |
 | 2026-03-31 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 31 Mar 2026 - 11:22 |
 | 2026-03-31 11:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 31 Mar 2026 - 11:17 |
 | 2026-03-31 10:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH 70,700 USD RECEIVED. ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 31 Mar 2026 - 10:58 |
 
-_Last updated: 31 Mar 2026 - 14:53 | Entries: 5 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-03-31.json)_
+_Last updated: 31 Mar 2026 - 15:50 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-03-31.json)_
 
 <!-- snapshot:end -->
 
