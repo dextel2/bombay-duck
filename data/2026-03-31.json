@@ -40,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-03-31T11:17:28.95"
       }
+    ],
+    "2026-03-31T12": [
+      {
+        "newsId": "0e6321da-ba90-44b0-aae1-3572933ee4ab",
+        "scripCode": 544243,
+        "shortName": "Baazar Style Retail Ltd",
+        "headline": "Pursuant to Regulation 30 read with Clause 20 of Para A of Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, ....",
+        "announcedAt": "2026-03-31T12:32:59.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/baazar-style-retail-ltd/stylebaaza/544243/",
+        "rawTime": "2026-03-31T12:32:59.21"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-03-31T11:57:50.614+05:30",
-    "checksum": "0d03def964dc67e1e50a817a3566deb667b1c229913d02dd45b29713d621870a",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-03-31T13:00:43.645+05:30",
+    "checksum": "be578b8c21dc854b62760bd568caceae5a358547ec887e53fd1fb12e6827ef04",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-03-31/awards-115749.json"
+    "rawPayloadPath": "data/raw/2026-03-31/awards-130042.json"
   }
 }
