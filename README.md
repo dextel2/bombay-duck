@@ -22,9 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-01 11:00 | J. Kumar Infraprojects Ltd | 532940 | We are pleased to inform you that, J. Kumar - SDPL (JV), is in receipt of Letter of Acceptance from M/s. National Highways Authority of India, for the work: Construction of 4 lane (expandable .... ([Link](https://www.bseindia.com/stock-share-price/j-kumar-infraprojects-ltd/jkil/532940/)) | Likely Positive | 01 Apr 2026 - 11:05 |
+| 2026-04-01 10:00 | Power Mech Projects Ltd | 539302 | Please find the attached ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 01 Apr 2026 - 10:39 |
+| 2026-04-01 10:00 | Shipwaves Online Ltd | 544646 | Intimation of receipt of purchase orders worth Rs. 35,68,500/- from FedEx Express Transportation & Supply Chain Services (India) Private Limited. ([Link](https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/)) | Likely Positive | 01 Apr 2026 - 10:30 |
+| 2026-04-01 10:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has informed the Exchange about the Outcome of the Order of Hon''ble PSERC revising the tariff for supply of electricity by its Wholly Owned Subsidiary .... ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 01 Apr 2026 - 10:18 |
 | 2026-04-01 08:00 | MTAR Technologies Ltd | 543270 | Company has received a purchase order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 01 Apr 2026 - 08:48 |
 
-_Last updated: 01 Apr 2026 - 09:32 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
+_Last updated: 01 Apr 2026 - 11:10 | Entries: 5 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
 
 <!-- snapshot:end -->
 
