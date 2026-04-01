@@ -14,6 +14,15 @@
     ],
     "2026-04-01T11": [
       {
+        "newsId": "f6b20598-1dba-4846-a71c-5ff3412dd035",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "Please find enclosed intimation regarding the letter of acceptance received from Sambalpur Division, East Coast Railway Division of Indian Railways.",
+        "announcedAt": "2026-04-01T11:57:00.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2026-04-01T11:57:00.263"
+      },
+      {
         "newsId": "18edd4a9-f841-4743-bc46-4045cebe7877",
         "scripCode": 532940,
         "shortName": "J. Kumar Infraprojects Ltd",
@@ -54,11 +63,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-01T11:10:06.450+05:30",
-    "checksum": "ad89401e725f9f9f0f6a84ea5c214d3ea573caa60af3bc308df4d7604aca6cde",
-    "totalAnnouncements": 5,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-01T12:02:57.993+05:30",
+    "checksum": "5f11c1e5678e20713157914ab7a0e8ec46369b3c36b1bef0d07ea40107fd3b8a",
+    "totalAnnouncements": 6,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-01/awards-111004.json"
+    "rawPayloadPath": "data/raw/2026-04-01/awards-120257.json"
   }
 }
