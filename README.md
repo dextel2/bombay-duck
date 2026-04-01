@@ -22,6 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-01 15:00 | Ashiana Housing Ltd-$ | 523716 | Corporate Announcement under Regulation 30 of the SEBI (LODR) Regulations, 2015 regarding rectification order under Section 74 of the CGST Act 2017 ([Link](https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/)) | Likely Positive | 01 Apr 2026 - 15:31 |
+| 2026-04-01 15:00 | Ashiana Housing Ltd-$ | 523716 | Corporate Announcement under Regulation 30 of SEBI (LODR), 2015 regarding demand under 74 of the CGST Act, 2017 ([Link](https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/)) | Neutral | 01 Apr 2026 - 15:23 |
+| 2026-04-01 15:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 01 Apr 2026 - 15:15 |
+| 2026-04-01 15:00 | Faalcon Concepts Ltd | 544164 | Received new work order for amount Rs. 2,86,53,745 for Aakash Hospital, Sector 12, Dwarka, New Delhi ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 01 Apr 2026 - 15:07 |
 | 2026-04-01 13:00 | Magellanic Cloud Ltd | 538891 | Order Copy attached for your reference ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 01 Apr 2026 - 13:53 |
 | 2026-04-01 13:00 | Newgen Software Technologies Ltd | 540900 | Enclosed Disclosure of Material Order of Rs.15.11 Cr. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 01 Apr 2026 - 13:09 |
 | 2026-04-01 12:00 | Finolex Cables Ltd | 500144 | Intimation of original order dated March 30, 2026 issued by Additional Commissioner, Center GST, Deharadun, Uttarakhand. ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 01 Apr 2026 - 12:48 |
@@ -33,7 +37,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-01 10:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has informed the Exchange about the Outcome of the Order of Hon''ble PSERC revising the tariff for supply of electricity by its Wholly Owned Subsidiary .... ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 01 Apr 2026 - 10:18 |
 | 2026-04-01 08:00 | MTAR Technologies Ltd | 543270 | Company has received a purchase order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 01 Apr 2026 - 08:48 |
 
-_Last updated: 01 Apr 2026 - 14:55 | Entries: 10 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
+_Last updated: 01 Apr 2026 - 15:51 | Entries: 14 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
 
 <!-- snapshot:end -->
 

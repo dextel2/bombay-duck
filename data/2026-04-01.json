@@ -100,14 +100,52 @@
         "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
         "rawTime": "2026-04-01T13:09:59.94"
       }
+    ],
+    "2026-04-01T15": [
+      {
+        "newsId": "076d2e4b-49b9-43f4-b416-4b24db7f7fb9",
+        "scripCode": 523716,
+        "shortName": "Ashiana Housing Ltd-$",
+        "headline": "Corporate Announcement under Regulation 30 of the SEBI (LODR) Regulations, 2015 regarding rectification order under Section 74 of the CGST Act 2017",
+        "announcedAt": "2026-04-01T15:31:30.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/",
+        "rawTime": "2026-04-01T15:31:30.98"
+      },
+      {
+        "newsId": "35fb25c8-1b87-4d74-99d4-150a6e95d734",
+        "scripCode": 523716,
+        "shortName": "Ashiana Housing Ltd-$",
+        "headline": "Corporate Announcement under Regulation 30 of SEBI (LODR), 2015 regarding demand under 74 of the CGST Act, 2017",
+        "announcedAt": "2026-04-01T15:23:36.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashiana-housing-ltd/ashiana/523716/",
+        "rawTime": "2026-04-01T15:23:36.42"
+      },
+      {
+        "newsId": "9e49c126-d6f0-4349-9a76-ce8a900bf4f3",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-04-01T15:15:41.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-04-01T15:15:41.98"
+      },
+      {
+        "newsId": "681c0a4a-d233-4f88-8033-6b2b88b7ed4b",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order for amount Rs. 2,86,53,745 for Aakash Hospital, Sector 12, Dwarka, New Delhi",
+        "announcedAt": "2026-04-01T15:07:32.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-04-01T15:07:32.677"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-01T14:55:27.556+05:30",
-    "checksum": "8842594085312be60d089f98ce0aa1318240121fbf0c13ee56e1eebf6cf077ed",
-    "totalAnnouncements": 10,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-01T15:51:28.662+05:30",
+    "checksum": "8764aa47dde8b2e520b0ebf1595c5bcf8215020f7737c9d801ec533f1ecedadd",
+    "totalAnnouncements": 14,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-01/awards-145526.json"
+    "rawPayloadPath": "data/raw/2026-04-01/awards-155127.json"
   }
 }
