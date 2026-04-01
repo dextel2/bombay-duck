@@ -80,14 +80,34 @@
         "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
         "rawTime": "2026-04-01T12:41:00.013"
       }
+    ],
+    "2026-04-01T13": [
+      {
+        "newsId": "7c35c77a-c819-46f0-a874-245898c9c47b",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Order Copy attached for your reference",
+        "announcedAt": "2026-04-01T13:53:46.337+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-04-01T13:53:46.337"
+      },
+      {
+        "newsId": "438524a0-3e44-4374-8967-135483a18405",
+        "scripCode": 540900,
+        "shortName": "Newgen Software Technologies Ltd",
+        "headline": "Enclosed Disclosure of Material Order of Rs.15.11 Cr.",
+        "announcedAt": "2026-04-01T13:09:59.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
+        "rawTime": "2026-04-01T13:09:59.94"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-01T13:01:33.438+05:30",
-    "checksum": "d551d7083edb2b7f769405cefbdb4232a5192d0db28b782b735a475d98222cc0",
-    "totalAnnouncements": 8,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-01T13:56:31.517+05:30",
+    "checksum": "8842594085312be60d089f98ce0aa1318240121fbf0c13ee56e1eebf6cf077ed",
+    "totalAnnouncements": 10,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-01/awards-130133.json"
+    "rawPayloadPath": "data/raw/2026-04-01/awards-135630.json"
   }
 }

@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-01 13:00 | Magellanic Cloud Ltd | 538891 | Order Copy attached for your reference ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 01 Apr 2026 - 13:53 |
+| 2026-04-01 13:00 | Newgen Software Technologies Ltd | 540900 | Enclosed Disclosure of Material Order of Rs.15.11 Cr. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 01 Apr 2026 - 13:09 |
 | 2026-04-01 12:00 | Finolex Cables Ltd | 500144 | Intimation of original order dated March 30, 2026 issued by Additional Commissioner, Center GST, Deharadun, Uttarakhand. ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 01 Apr 2026 - 12:48 |
 | 2026-04-01 12:00 | Solarworld Energy Solutions Ltd | 544532 | Intimation of receipt of letter of Award of Contract for Block-IX (200 MW) under "BALANCE OF SYSYTEM PACKAGE FOR DEVELOPMENT OF 1000MW (2X300MW + 2X200MW) GRID CONNECTED SOLAR PV PROJECT .... ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 01 Apr 2026 - 12:41 |
 | 2026-04-01 11:00 | MIC Electronics Ltd | 532850 | Please find enclosed intimation regarding the letter of acceptance received from Sambalpur Division, East Coast Railway Division of Indian Railways. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 01 Apr 2026 - 11:57 |
@@ -31,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-01 10:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has informed the Exchange about the Outcome of the Order of Hon''ble PSERC revising the tariff for supply of electricity by its Wholly Owned Subsidiary .... ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 01 Apr 2026 - 10:18 |
 | 2026-04-01 08:00 | MTAR Technologies Ltd | 543270 | Company has received a purchase order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 01 Apr 2026 - 08:48 |
 
-_Last updated: 01 Apr 2026 - 13:01 | Entries: 8 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
+_Last updated: 01 Apr 2026 - 13:56 | Entries: 10 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
 
 <!-- snapshot:end -->
 
