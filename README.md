@@ -33,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-01 10:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has informed the Exchange about the Outcome of the Order of Hon''ble PSERC revising the tariff for supply of electricity by its Wholly Owned Subsidiary .... ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 01 Apr 2026 - 10:18 |
 | 2026-04-01 08:00 | MTAR Technologies Ltd | 543270 | Company has received a purchase order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 01 Apr 2026 - 08:48 |
 
-_Last updated: 01 Apr 2026 - 13:56 | Entries: 10 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
+_Last updated: 01 Apr 2026 - 14:55 | Entries: 10 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-01.json)_
 
 <!-- snapshot:end -->
 
