@@ -60,14 +60,34 @@
         "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
         "rawTime": "2026-04-01T10:18:44.747"
       }
+    ],
+    "2026-04-01T12": [
+      {
+        "newsId": "7f73492b-e992-4e21-88ab-6dbfa9d6a006",
+        "scripCode": 500144,
+        "shortName": "Finolex Cables Ltd",
+        "headline": "Intimation of original order dated March 30, 2026 issued by Additional Commissioner, Center GST, Deharadun, Uttarakhand.",
+        "announcedAt": "2026-04-01T12:48:08.537+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/",
+        "rawTime": "2026-04-01T12:48:08.537"
+      },
+      {
+        "newsId": "21a80b47-a921-483c-a73f-3b9d9fb0042c",
+        "scripCode": 544532,
+        "shortName": "Solarworld Energy Solutions Ltd",
+        "headline": "Intimation of receipt of letter of Award of Contract for Block-IX (200 MW) under \"BALANCE OF SYSYTEM PACKAGE FOR DEVELOPMENT OF 1000MW (2X300MW + 2X200MW) GRID CONNECTED SOLAR PV PROJECT ....",
+        "announcedAt": "2026-04-01T12:41:00.013+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
+        "rawTime": "2026-04-01T12:41:00.013"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-01T12:02:57.993+05:30",
-    "checksum": "5f11c1e5678e20713157914ab7a0e8ec46369b3c36b1bef0d07ea40107fd3b8a",
-    "totalAnnouncements": 6,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-01T13:01:33.438+05:30",
+    "checksum": "d551d7083edb2b7f769405cefbdb4232a5192d0db28b782b735a475d98222cc0",
+    "totalAnnouncements": 8,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-01/awards-120257.json"
+    "rawPayloadPath": "data/raw/2026-04-01/awards-130133.json"
   }
 }
