@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shilchar-technologies-ltd/shilctech/531201/",
         "rawTime": "2026-04-02T12:53:36.02"
       }
+    ],
+    "2026-04-02T13": [
+      {
+        "newsId": "56bad9a8-e43c-468b-9825-984db330a43f",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation of our letter dated January 2, 2026 and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform that Ceigall ....",
+        "announcedAt": "2026-04-02T13:00:13.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-04-02T13:00:13.55"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-02T12:59:43.402+05:30",
-    "checksum": "902e1a93635f666a3d450ee72b6b798db8b79cac957036837dac99ff58b20d10",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-02T13:50:29.968+05:30",
+    "checksum": "754c43c54a800f7f1f8f1b214c10c3cad397b9a58da603a8c237c52159913268",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-02/awards-125942.json"
+    "rawPayloadPath": "data/raw/2026-04-02/awards-135029.json"
   }
 }

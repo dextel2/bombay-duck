@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-02 13:00 | Ceigall India Ltd | 544223 | In continuation of our letter dated January 2, 2026 and pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform that Ceigall .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 02 Apr 2026 - 13:00 |
 | 2026-04-02 12:00 | Shilchar Technologies Ltd | 531201 | Intimation of the Order dated 26th March, 2026, issued by Joint Commissioner of Central Tax, CGST and Central Excise, Vadodara-1 ([Link](https://www.bseindia.com/stock-share-price/shilchar-technologies-ltd/shilctech/531201/)) | Likely Positive | 02 Apr 2026 - 12:53 |
 
-_Last updated: 02 Apr 2026 - 12:59 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-02.json)_
+_Last updated: 02 Apr 2026 - 13:50 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-02.json)_
 
 <!-- snapshot:end -->
 
