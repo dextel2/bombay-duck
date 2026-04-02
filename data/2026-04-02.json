@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-02",
-  "buckets": {},
+  "buckets": {
+    "2026-04-02T12": [
+      {
+        "newsId": "00d43cbe-f916-413a-97d5-67a1bcb20d0e",
+        "scripCode": 531201,
+        "shortName": "Shilchar Technologies Ltd",
+        "headline": "Intimation of the Order dated 26th March, 2026, issued by Joint Commissioner of Central Tax, CGST and Central Excise, Vadodara-1",
+        "announcedAt": "2026-04-02T12:53:36.020+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shilchar-technologies-ltd/shilctech/531201/",
+        "rawTime": "2026-04-02T12:53:36.02"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-02T11:54:47.476+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-02T12:59:43.402+05:30",
+    "checksum": "902e1a93635f666a3d450ee72b6b798db8b79cac957036837dac99ff58b20d10",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-02/awards-115446.json"
+    "rawPayloadPath": "data/raw/2026-04-02/awards-125942.json"
   }
 }
