@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-04-02T14:00:43.507"
       }
+    ],
+    "2026-04-02T15": [
+      {
+        "newsId": "1d72b517-b4a5-44fb-9806-c7ff822d0316",
+        "scripCode": 540776,
+        "shortName": "5paisa Capital Ltd",
+        "headline": "Announcement under Regulation 30 (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-04-02T15:34:57.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/5paisa-capital-ltd/5paisa/540776/",
+        "rawTime": "2026-04-02T15:34:57.29"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-02T14:51:18.318+05:30",
-    "checksum": "f36e7006a09542bc6e0663a24b6ffd098a9d68166b0048d3247a17f60ea1ea04",
-    "totalAnnouncements": 4,
-    "requestCount": 7,
+    "lastUpdated": "2026-04-02T15:48:53.994+05:30",
+    "checksum": "dfab77e87af4eec10686fd0dd9952662d21c90d8d49bcfeca94d792aee79925d",
+    "totalAnnouncements": 5,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-02/awards-145117.json"
+    "rawPayloadPath": "data/raw/2026-04-02/awards-154853.json"
   }
 }
