@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
         "rawTime": "2026-04-03T11:45:01.433"
       }
+    ],
+    "2026-04-03T15": [
+      {
+        "newsId": "eb0d010f-f59d-4975-8ecd-3d6ef1708a1b",
+        "scripCode": 523732,
+        "shortName": "Ecoboard Industries Ltd",
+        "headline": "Intimation under regulation 30 of SEBI (LODR) Regulations, 2018 regarding receipt of work order on 02nd April, 2026.",
+        "announcedAt": "2026-04-03T15:05:52.383+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ecoboard-industries-ltd/ecoboar/523732/",
+        "rawTime": "2026-04-03T15:05:52.383"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-03T14:48:28.861+05:30",
-    "checksum": "ae6e1fd23799de59fed58d1de034c5e248f3e96e5440b8c430c2abc684275391",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2026-04-03T15:43:57.735+05:30",
+    "checksum": "5f3147246a2aba42b294971285879f3870ce5a791cd10501f37f3c89ccf9aa5f",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-03/awards-144828.json"
+    "rawPayloadPath": "data/raw/2026-04-03/awards-154357.json"
   }
 }
