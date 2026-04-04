@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/triton-valves-ltd/tritonv/505978/",
         "rawTime": "2026-04-04T00:30:29.777"
       }
+    ],
+    "2026-04-04T12": [
+      {
+        "newsId": "9a515dcf-1de8-492c-b320-d919e80ed0d4",
+        "scripCode": 544158,
+        "shortName": "SRM Contractors Ltd",
+        "headline": "Bagging of New Contract of INR 483 cr. from MSIDCL",
+        "announcedAt": "2026-04-04T12:43:51.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/",
+        "rawTime": "2026-04-04T12:43:51.42"
+      },
+      {
+        "newsId": "fe968b80-2e14-4887-8303-2bcd65373163",
+        "scripCode": 532940,
+        "shortName": "J. Kumar Infraprojects Ltd",
+        "headline": "In pursuance to the Regulation 30(4) of the SEBI Listing Regulations, 2015, we are pleased to inform you that the Company is in receipt of \"Letter of Acceptance\" dated April 03, 2026 from ....",
+        "announcedAt": "2026-04-04T12:38:47.413+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/j-kumar-infraprojects-ltd/jkil/532940/",
+        "rawTime": "2026-04-04T12:38:47.413"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-04T11:50:33.425+05:30",
-    "checksum": "bdd68221eb9e981a79804e99fe871756906da81aa8127d89a0c1992b83b1672e",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-04T12:52:16.267+05:30",
+    "checksum": "78df2992bf49e4ead3732b0579420c29c143cdb520fb0814f9bf81f2f8da1eae",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-04/awards-115032.json"
+    "rawPayloadPath": "data/raw/2026-04-04/awards-125215.json"
   }
 }
