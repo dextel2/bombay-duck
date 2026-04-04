@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-04 12:00 | J. Kumar Infraprojects Ltd | 532940 | In pursuance to the Regulation 30(4) of the SEBI Listing Regulations, 2015, we are pleased to inform you that the Company is in receipt of "Letter of Acceptance" dated April 03, 2026 from .... ([Link](https://www.bseindia.com/stock-share-price/j-kumar-infraprojects-ltd/jkil/532940/)) | Likely Positive | 04 Apr 2026 - 12:38 |
 | 2026-04-04 00:00 | Triton Valves Ltd | 505978 | please find enclosed an intimation with regard to company receipt of a contract from an international customer, kindly refer to the attached document for detailed information. ([Link](https://www.bseindia.com/stock-share-price/triton-valves-ltd/tritonv/505978/)) | Likely Positive | 04 Apr 2026 - 00:30 |
 
-_Last updated: 04 Apr 2026 - 12:52 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-04.json)_
+_Last updated: 04 Apr 2026 - 13:40 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-04.json)_
 
 <!-- snapshot:end -->
 
