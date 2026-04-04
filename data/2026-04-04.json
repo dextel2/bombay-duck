@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-04",
+  "buckets": {
+    "2026-04-04T00": [
+      {
+        "newsId": "e589e74b-8a9f-40b1-a314-899c5927724a",
+        "scripCode": 505978,
+        "shortName": "Triton Valves Ltd",
+        "headline": "please find enclosed an intimation with regard to company receipt of a contract from an international customer, kindly refer to the attached document for detailed information.",
+        "announcedAt": "2026-04-04T00:30:29.777+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/triton-valves-ltd/tritonv/505978/",
+        "rawTime": "2026-04-04T00:30:29.777"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-04T09:17:39.379+05:30",
+    "checksum": "bdd68221eb9e981a79804e99fe871756906da81aa8127d89a0c1992b83b1672e",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-04/awards-091738.json"
+  }
+}
