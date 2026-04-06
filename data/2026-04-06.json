@@ -49,14 +49,25 @@
         "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
         "rawTime": "2026-04-06T12:25:12.49"
       }
+    ],
+    "2026-04-06T14": [
+      {
+        "newsId": "c5957581-0011-41ad-b82d-cd181e0afdf6",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-04-06T14:35:53.773+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-04-06T14:35:53.773"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-06T14:00:40.859+05:30",
-    "checksum": "92c8f328eff843beff5de00a784df3b4b02e1e6898ed30e883d5ca8e6f3a2b37",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-06T14:57:20.472+05:30",
+    "checksum": "47813bab52f24ad31d8252b58d1e59679aa800c4bf4b5f7f5ba889056dac5fc3",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-06/awards-140040.json"
+    "rawPayloadPath": "data/raw/2026-04-06/awards-145719.json"
   }
 }
