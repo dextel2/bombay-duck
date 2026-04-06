@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-06 10:00 | Dhabriya Polywood Ltd | 538715 | Intimation for receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 06 Apr 2026 - 10:00 |
 
-_Last updated: 06 Apr 2026 - 09:30 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-06.json)_
+_Last updated: 06 Apr 2026 - 11:12 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-06.json)_
 
 <!-- snapshot:end -->
 
