@@ -11,14 +11,52 @@
         "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
         "rawTime": "2026-04-06T10:00:52.66"
       }
+    ],
+    "2026-04-06T12": [
+      {
+        "newsId": "8c1d6816-22a8-4ea7-82f6-2ff71961774f",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order worth Rs 1,46,94,642.10 received.",
+        "announcedAt": "2026-04-06T12:32:52.960+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-04-06T12:32:52.96"
+      },
+      {
+        "newsId": "9a62c5ae-55f3-4d20-8336-3c08fcffc0ae",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent",
+        "announcedAt": "2026-04-06T12:28:20.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-04-06T12:28:20.987"
+      },
+      {
+        "newsId": "42fbfeb1-5065-49d7-9466-30cbf63878f7",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent",
+        "announcedAt": "2026-04-06T12:26:46.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-04-06T12:26:46.91"
+      },
+      {
+        "newsId": "f2374617-4884-41b3-b50d-b4c3a03ee778",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent",
+        "announcedAt": "2026-04-06T12:25:12.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-04-06T12:25:12.49"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-06T12:05:27.945+05:30",
-    "checksum": "c37d412328ce785c42e7e6aa47ab977f548b4f9bf06313ea4b1e900015ddb88a",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-06T13:02:14.121+05:30",
+    "checksum": "92c8f328eff843beff5de00a784df3b4b02e1e6898ed30e883d5ca8e6f3a2b37",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-06/awards-120527.json"
+    "rawPayloadPath": "data/raw/2026-04-06/awards-130213.json"
   }
 }

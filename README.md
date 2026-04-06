@@ -22,9 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-06 12:00 | Indobell Insulations Ltd | 544334 | New Domestic Order worth Rs 1,46,94,642.10 received. ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 06 Apr 2026 - 12:32 |
+| 2026-04-06 12:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 06 Apr 2026 - 12:28 |
+| 2026-04-06 12:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 06 Apr 2026 - 12:26 |
+| 2026-04-06 12:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 06 Apr 2026 - 12:25 |
 | 2026-04-06 10:00 | Dhabriya Polywood Ltd | 538715 | Intimation for receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 06 Apr 2026 - 10:00 |
 
-_Last updated: 06 Apr 2026 - 12:05 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-06.json)_
+_Last updated: 06 Apr 2026 - 13:02 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-06.json)_
 
 <!-- snapshot:end -->
 
