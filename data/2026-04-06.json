@@ -52,6 +52,15 @@
     ],
     "2026-04-06T14": [
       {
+        "newsId": "de068268-5e01-43cb-b778-41a0c90f6873",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.11.59 cr (Excl. Taxes) from M/s. NewSpace India Limited",
+        "announcedAt": "2026-04-06T14:57:48.497+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-04-06T14:57:48.497"
+      },
+      {
         "newsId": "c5957581-0011-41ad-b82d-cd181e0afdf6",
         "scripCode": 533326,
         "shortName": "Texmaco Rail & Engineering Ltd",
@@ -63,11 +72,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-06T14:57:20.472+05:30",
-    "checksum": "47813bab52f24ad31d8252b58d1e59679aa800c4bf4b5f7f5ba889056dac5fc3",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-06T15:53:52.243+05:30",
+    "checksum": "949d2f3619bc8ce8aed7f5d7ef662d1d81e0265922e534bb14acb64a5827e44d",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-06/awards-145719.json"
+    "rawPayloadPath": "data/raw/2026-04-06/awards-155351.json"
   }
 }
