@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-07 11:00 | Aartech Solonics Ltd | 542580 | Receipt of Purchase Order by the Company ([Link](https://www.bseindia.com/stock-share-price/aartech-solonics-ltd/aartech/542580/)) | Likely Positive | 07 Apr 2026 - 11:58 |
 | 2026-04-07 11:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation for securing project from Jammu and Kashmir Bank for ERP solution ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Neutral | 07 Apr 2026 - 11:17 |
 
-_Last updated: 07 Apr 2026 - 14:54 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-07.json)_
+_Last updated: 07 Apr 2026 - 15:51 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-04-07.json)_
 
 <!-- snapshot:end -->
 
