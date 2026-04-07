@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/",
         "rawTime": "2026-04-07T11:17:49.523"
       }
+    ],
+    "2026-04-07T14": [
+      {
+        "newsId": "699f23fb-a06b-4ef3-9ef3-abb278c55cc6",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 - Bagging of Order by Refex Industries Limited for supply of Bulk Industrial Commodity",
+        "announcedAt": "2026-04-07T14:48:10.863+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-04-07T14:48:10.863"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-07T13:55:04.217+05:30",
-    "checksum": "74f3106a865639bdc3e768762001ae696f36c262a53774830f34ec2ce5c245b1",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-07T14:54:15.589+05:30",
+    "checksum": "bfb2292f5bb98f0a8666436a991a31e54474ca16f1b8f69cbf866ba07bf52b4d",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-07/awards-135503.json"
+    "rawPayloadPath": "data/raw/2026-04-07/awards-145415.json"
   }
 }

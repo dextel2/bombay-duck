@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-07 14:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 - Bagging of Order by Refex Industries Limited for supply of Bulk Industrial Commodity ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 07 Apr 2026 - 14:48 |
 | 2026-04-07 11:00 | Aartech Solonics Ltd | 542580 | Receipt of Purchase Order by the Company ([Link](https://www.bseindia.com/stock-share-price/aartech-solonics-ltd/aartech/542580/)) | Likely Positive | 07 Apr 2026 - 11:58 |
 | 2026-04-07 11:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation for securing project from Jammu and Kashmir Bank for ERP solution ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Neutral | 07 Apr 2026 - 11:17 |
 
-_Last updated: 07 Apr 2026 - 13:55 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-07.json)_
+_Last updated: 07 Apr 2026 - 14:54 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-07.json)_
 
 <!-- snapshot:end -->
 
