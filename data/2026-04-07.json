@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-04-07",
-  "buckets": {},
+  "buckets": {
+    "2026-04-07T11": [
+      {
+        "newsId": "4bdb3aca-f205-4f4f-bf25-83c60598a3a5",
+        "scripCode": 542580,
+        "shortName": "Aartech Solonics Ltd",
+        "headline": "Receipt of Purchase Order by the Company",
+        "announcedAt": "2026-04-07T11:58:47.163+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aartech-solonics-ltd/aartech/542580/",
+        "rawTime": "2026-04-07T11:58:47.163"
+      },
+      {
+        "newsId": "1c9c8afc-cae3-44fc-b30c-918168ade466",
+        "scripCode": 532365,
+        "shortName": "Dynacons Systems & Solutions Ltd",
+        "headline": "Please find enclosed intimation for securing project from Jammu and Kashmir Bank for ERP solution",
+        "announcedAt": "2026-04-07T11:17:49.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/",
+        "rawTime": "2026-04-07T11:17:49.523"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-07T11:03:52.549+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-07T11:59:44.914+05:30",
+    "checksum": "74f3106a865639bdc3e768762001ae696f36c262a53774830f34ec2ce5c245b1",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-07/awards-110351.json"
+    "rawPayloadPath": "data/raw/2026-04-07/awards-115944.json"
   }
 }
