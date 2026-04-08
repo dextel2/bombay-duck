@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
         "rawTime": "2026-04-08T11:49:39.3"
       }
+    ],
+    "2026-04-08T12": [
+      {
+        "newsId": "ad4da7c7-752c-4ff2-9a21-898df645f9c0",
+        "scripCode": 531279,
+        "shortName": "Trishakti Industries Ltd",
+        "headline": "Intimation of Order Received - Larsen & Toubro Limited",
+        "announcedAt": "2026-04-08T12:19:27.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+        "rawTime": "2026-04-08T12:19:27.983"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-08T12:00:46.367+05:30",
-    "checksum": "4c2e5760d72894ece85a5fdc90f7068d9f092e21e6e92843175630f94060b172",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-08T13:01:21.666+05:30",
+    "checksum": "899aa37dd2dd2d9690a5f7444b746db057de018b2ffa57faa4036e8cb1e0bf2a",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-08/awards-120045.json"
+    "rawPayloadPath": "data/raw/2026-04-08/awards-130120.json"
   }
 }

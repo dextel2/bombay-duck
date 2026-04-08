@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-08 12:00 | Trishakti Industries Ltd | 531279 | Intimation of Order Received - Larsen & Toubro Limited ([Link](https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/)) | Likely Positive | 08 Apr 2026 - 12:19 |
 | 2026-04-08 11:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation of work/supply orders received to the Company ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 08 Apr 2026 - 11:49 |
 | 2026-04-08 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that HTL Limited, a material subsidiary of the Company has secured orders worth Rs.1366 crore approx., from a renowned Tier 1 customer for the .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 08 Apr 2026 - 08:33 |
 
-_Last updated: 08 Apr 2026 - 12:00 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-08.json)_
+_Last updated: 08 Apr 2026 - 13:01 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-08.json)_
 
 <!-- snapshot:end -->
 
