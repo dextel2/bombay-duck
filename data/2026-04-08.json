@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
         "rawTime": "2026-04-08T08:33:24.907"
       }
+    ],
+    "2026-04-08T11": [
+      {
+        "newsId": "333d3bea-c059-413c-8f8c-2975f21f8967",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation of work/supply orders received to the Company",
+        "announcedAt": "2026-04-08T11:49:39.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-04-08T11:49:39.3"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-08T11:08:26.423+05:30",
-    "checksum": "7d0830e2143c44ed5c05dee6ab0c3543bd0fc793951f45f020284981260a7393",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-08T12:00:46.367+05:30",
+    "checksum": "4c2e5760d72894ece85a5fdc90f7068d9f092e21e6e92843175630f94060b172",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-08/awards-110825.json"
+    "rawPayloadPath": "data/raw/2026-04-08/awards-120045.json"
   }
 }
