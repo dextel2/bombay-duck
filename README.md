@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-07 IST)
+### Today's Awarded Orders (2026-04-08 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-04-07 14:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 - Bagging of Order by Refex Industries Limited for supply of Bulk Industrial Commodity ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 07 Apr 2026 - 14:48 |
-| 2026-04-07 11:00 | Aartech Solonics Ltd | 542580 | Receipt of Purchase Order by the Company ([Link](https://www.bseindia.com/stock-share-price/aartech-solonics-ltd/aartech/542580/)) | Likely Positive | 07 Apr 2026 - 11:58 |
-| 2026-04-07 11:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation for securing project from Jammu and Kashmir Bank for ERP solution ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Neutral | 07 Apr 2026 - 11:17 |
+| 2026-04-08 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that HTL Limited, a material subsidiary of the Company has secured orders worth Rs.1366 crore approx., from a renowned Tier 1 customer for the .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 08 Apr 2026 - 08:33 |
 
-_Last updated: 07 Apr 2026 - 15:51 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-04-07.json)_
+_Last updated: 08 Apr 2026 - 09:27 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-08.json)_
 
 <!-- snapshot:end -->
 

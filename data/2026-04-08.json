@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-08",
+  "buckets": {
+    "2026-04-08T08": [
+      {
+        "newsId": "ee4f615d-ade0-4e0c-bf73-bb8b51b05b86",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "We are pleased to inform all stakeholders that HTL Limited, a material subsidiary of the Company has secured orders worth Rs.1366 crore approx., from a renowned Tier 1 customer for the ....",
+        "announcedAt": "2026-04-08T08:33:24.907+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2026-04-08T08:33:24.907"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-08T09:27:59.960+05:30",
+    "checksum": "7d0830e2143c44ed5c05dee6ab0c3543bd0fc793951f45f020284981260a7393",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-08/awards-092759.json"
+  }
+}
