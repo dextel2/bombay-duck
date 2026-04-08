@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-08 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that HTL Limited, a material subsidiary of the Company has secured orders worth Rs.1366 crore approx., from a renowned Tier 1 customer for the .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 08 Apr 2026 - 08:33 |
 
-_Last updated: 08 Apr 2026 - 09:27 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-08.json)_
+_Last updated: 08 Apr 2026 - 10:27 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-08.json)_
 
 <!-- snapshot:end -->
 
