@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hrs-aluglaze-ltd/hrs/544656/",
         "rawTime": "2026-04-09T11:17:12.967"
       }
+    ],
+    "2026-04-09T12": [
+      {
+        "newsId": "ef107f0f-cfab-4304-b489-545738ee5f7b",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited through DBL-RBL (JV) has declared as L-1 bidder for the project 'Designing and Construction of Ged Barrage, Protection work & Other allied activities across river ....",
+        "announcedAt": "2026-04-09T12:39:00.063+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-04-09T12:39:00.063"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-09T12:01:06.516+05:30",
-    "checksum": "fe972725880d1db08db0f9ba4e234c21dffbecff9b17239860c86e660b6c2376",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-09T13:01:52.704+05:30",
+    "checksum": "454db285c9b2ee9c41b538d472366cb09000a6928473d65bcc8697785c8b3722",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 2,
-    "rawPayloadPath": "data/raw/2026-04-09/awards-120106.json"
+    "rawPayloadPath": "data/raw/2026-04-09/awards-130152.json"
   }
 }
