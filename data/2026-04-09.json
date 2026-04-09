@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-09",
+  "buckets": {
+    "2026-04-09T08": [
+      {
+        "newsId": "57eb3fa8-b578-4093-ac47-600e18180170",
+        "scripCode": 517271,
+        "shortName": "HBL Engineering Ltd-$",
+        "headline": "HBL has accepted an order worth Rs.83.81 Crores (inclusive of 18% GST) from Patiala Loco Works, Punjab for supply, testing and commissioning of on-board Kavach equipment (Ver.4.0).",
+        "announcedAt": "2026-04-09T08:54:30.227+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
+        "rawTime": "2026-04-09T08:54:30.227"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-09T09:26:11.851+05:30",
+    "checksum": "45ea1947ed75743a44ad146fcbd466c9a610e7a89c5af0528afc4481395f5a66",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-09/awards-092611.json"
+  }
+}
