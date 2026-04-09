@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
         "rawTime": "2026-04-09T08:54:30.227"
       }
+    ],
+    "2026-04-09T10": [
+      {
+        "newsId": "76536602-5658-4d46-a2f5-38fbba08aa5c",
+        "scripCode": 517271,
+        "shortName": "HBL Engineering Ltd-$",
+        "headline": "In the cover letter the order worth should be read as Rs.83.81 Crores.",
+        "announcedAt": "2026-04-09T10:07:06.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
+        "rawTime": "2026-04-09T10:07:06.05"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-09T09:26:11.851+05:30",
-    "checksum": "45ea1947ed75743a44ad146fcbd466c9a610e7a89c5af0528afc4481395f5a66",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-09T10:19:46.881+05:30",
+    "checksum": "204502eece8b2890f9525891d3ba3bce7f1048776d036b5ebe8ef0574e532698",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-09/awards-092611.json"
+    "rawPayloadPath": "data/raw/2026-04-09/awards-101946.json"
   }
 }
