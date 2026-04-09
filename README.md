@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-09 10:00 | HBL Engineering Ltd-$ | 517271 | In the cover letter the order worth should be read as Rs.83.81 Crores. ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 09 Apr 2026 - 10:07 |
 | 2026-04-09 08:00 | HBL Engineering Ltd-$ | 517271 | HBL has accepted an order worth Rs.83.81 Crores (inclusive of 18% GST) from Patiala Loco Works, Punjab for supply, testing and commissioning of on-board Kavach equipment (Ver.4.0). ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 09 Apr 2026 - 08:54 |
 
-_Last updated: 09 Apr 2026 - 14:00 | Entries: 6 | Requests: 6 | Retries: 2 | [Raw JSON](data/2026-04-09.json)_
+_Last updated: 09 Apr 2026 - 14:57 | Entries: 6 | Requests: 7 | Retries: 4 | [Raw JSON](data/2026-04-09.json)_
 
 <!-- snapshot:end -->
 
