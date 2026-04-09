@@ -64,14 +64,25 @@
         "url": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
         "rawTime": "2026-04-09T13:18:24.9"
       }
+    ],
+    "2026-04-09T14": [
+      {
+        "newsId": "a6a9c09e-000b-4109-affa-5518e5f96716",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Intimation Regrading Award of Order",
+        "announcedAt": "2026-04-09T14:00:54.857+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-04-09T14:00:54.857"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-09T14:57:49.314+05:30",
-    "checksum": "bcb6000a731b6981b344ed4d613e0186b719ecc9ba7be911abe1ae427a2fe87f",
-    "totalAnnouncements": 6,
-    "requestCount": 7,
+    "lastUpdated": "2026-04-09T15:55:03.399+05:30",
+    "checksum": "781dc90f6a584160831dfa70a8c8327e8fb1b64716495dcc96720d97085b63a1",
+    "totalAnnouncements": 7,
+    "requestCount": 8,
     "retryCount": 4,
-    "rawPayloadPath": "data/raw/2026-04-09/awards-145713.json"
+    "rawPayloadPath": "data/raw/2026-04-09/awards-155502.json"
   }
 }

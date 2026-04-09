@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-09 14:00 | Dev Information Technology Ltd | 543462 | Intimation Regrading Award of Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 09 Apr 2026 - 14:00 |
 | 2026-04-09 13:00 | CFF Fluid Control Ltd | 543920 | Recepit of Purchase Order : Intimation Under Regulation 30 of SEBI (Listing Obligationas and Disclosure Requirement) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/)) | Likely Positive | 09 Apr 2026 - 13:18 |
 | 2026-04-09 12:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited through DBL-RBL (JV) has declared as L-1 bidder for the project 'Designing and Construction of Ged Barrage, Protection work & Other allied activities across river .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 09 Apr 2026 - 12:39 |
 | 2026-04-09 11:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation of work/supply order received to the Company ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 09 Apr 2026 - 11:20 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-09 10:00 | HBL Engineering Ltd-$ | 517271 | In the cover letter the order worth should be read as Rs.83.81 Crores. ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 09 Apr 2026 - 10:07 |
 | 2026-04-09 08:00 | HBL Engineering Ltd-$ | 517271 | HBL has accepted an order worth Rs.83.81 Crores (inclusive of 18% GST) from Patiala Loco Works, Punjab for supply, testing and commissioning of on-board Kavach equipment (Ver.4.0). ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 09 Apr 2026 - 08:54 |
 
-_Last updated: 09 Apr 2026 - 14:57 | Entries: 6 | Requests: 7 | Retries: 4 | [Raw JSON](data/2026-04-09.json)_
+_Last updated: 09 Apr 2026 - 15:55 | Entries: 7 | Requests: 8 | Retries: 4 | [Raw JSON](data/2026-04-09.json)_
 
 <!-- snapshot:end -->
 
