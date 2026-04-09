@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
         "rawTime": "2026-04-09T12:39:00.063"
       }
+    ],
+    "2026-04-09T13": [
+      {
+        "newsId": "553b98dc-84fb-4c56-a2ee-8f0558ac3890",
+        "scripCode": 543920,
+        "shortName": "CFF Fluid Control Ltd",
+        "headline": "Recepit of Purchase Order : Intimation Under Regulation 30 of SEBI (Listing Obligationas and Disclosure Requirement) Regulations, 2015.",
+        "announcedAt": "2026-04-09T13:18:24.900+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
+        "rawTime": "2026-04-09T13:18:24.9"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-09T13:01:52.704+05:30",
-    "checksum": "454db285c9b2ee9c41b538d472366cb09000a6928473d65bcc8697785c8b3722",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-09T14:00:07.074+05:30",
+    "checksum": "bcb6000a731b6981b344ed4d613e0186b719ecc9ba7be911abe1ae427a2fe87f",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 2,
-    "rawPayloadPath": "data/raw/2026-04-09/awards-130152.json"
+    "rawPayloadPath": "data/raw/2026-04-09/awards-140006.json"
   }
 }
