@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-09 11:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation of work/supply order received to the Company ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 09 Apr 2026 - 11:20 |
+| 2026-04-09 11:00 | HRS Aluglaze Ltd | 544656 | Kindly find attached Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/hrs-aluglaze-ltd/hrs/544656/)) | Likely Positive | 09 Apr 2026 - 11:17 |
 | 2026-04-09 10:00 | HBL Engineering Ltd-$ | 517271 | In the cover letter the order worth should be read as Rs.83.81 Crores. ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 09 Apr 2026 - 10:07 |
 | 2026-04-09 08:00 | HBL Engineering Ltd-$ | 517271 | HBL has accepted an order worth Rs.83.81 Crores (inclusive of 18% GST) from Patiala Loco Works, Punjab for supply, testing and commissioning of on-board Kavach equipment (Ver.4.0). ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 09 Apr 2026 - 08:54 |
 
-_Last updated: 09 Apr 2026 - 11:05 | Entries: 2 | Requests: 3 | Retries: 2 | [Raw JSON](data/2026-04-09.json)_
+_Last updated: 09 Apr 2026 - 12:01 | Entries: 4 | Requests: 4 | Retries: 2 | [Raw JSON](data/2026-04-09.json)_
 
 <!-- snapshot:end -->
 

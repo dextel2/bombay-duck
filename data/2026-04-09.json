@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
         "rawTime": "2026-04-09T10:07:06.05"
       }
+    ],
+    "2026-04-09T11": [
+      {
+        "newsId": "731f8ed7-f619-4daf-901e-6df274554c38",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation of work/supply order received to the Company",
+        "announcedAt": "2026-04-09T11:20:02.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-04-09T11:20:02.14"
+      },
+      {
+        "newsId": "ca37a574-bdf0-481d-915a-4bf0de1b4a19",
+        "scripCode": 544656,
+        "shortName": "HRS Aluglaze Ltd",
+        "headline": "Kindly find attached Receipt of Work Order",
+        "announcedAt": "2026-04-09T11:17:12.967+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hrs-aluglaze-ltd/hrs/544656/",
+        "rawTime": "2026-04-09T11:17:12.967"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-09T11:05:16.016+05:30",
-    "checksum": "204502eece8b2890f9525891d3ba3bce7f1048776d036b5ebe8ef0574e532698",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-09T12:01:06.516+05:30",
+    "checksum": "fe972725880d1db08db0f9ba4e234c21dffbecff9b17239860c86e660b6c2376",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 2,
-    "rawPayloadPath": "data/raw/2026-04-09/awards-110439.json"
+    "rawPayloadPath": "data/raw/2026-04-09/awards-120106.json"
   }
 }
