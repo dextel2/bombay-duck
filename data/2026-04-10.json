@@ -62,14 +62,34 @@
         "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
         "rawTime": "2026-04-10T11:29:27.97"
       }
+    ],
+    "2026-04-10T13": [
+      {
+        "newsId": "58a90e10-df84-4aef-bb36-f891fb7b82d1",
+        "scripCode": 543615,
+        "shortName": "Silicon Rental Solutions Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015",
+        "announcedAt": "2026-04-10T13:40:30.497+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/silicon-rental-solutions-ltd/srsoltd/543615/",
+        "rawTime": "2026-04-10T13:40:30.497"
+      },
+      {
+        "newsId": "fb0a5bcd-3dd0-4659-b8cb-4766ef6a9887",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH USD 82500 RECEIVED",
+        "announcedAt": "2026-04-10T13:11:59.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-04-10T13:11:59.193"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-10T13:01:49.361+05:30",
-    "checksum": "dc6fc536a94055408b610e9a73196b54ce6abdf8e24c76a95eb28ed706b01416",
-    "totalAnnouncements": 6,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-10T13:59:43.238+05:30",
+    "checksum": "809e8da113401b3ea572f81d13d02b00b942f88e53d5df5a7b70662ecaa82ebf",
+    "totalAnnouncements": 8,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-10/awards-130146.json"
+    "rawPayloadPath": "data/raw/2026-04-10/awards-135942.json"
   }
 }
