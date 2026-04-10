@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-10",
+  "buckets": {
+    "2026-04-10T08": [
+      {
+        "newsId": "d31ee103-605e-497a-b2b9-faffe9e2a6ee",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of Domestic Order for Fancy Coloured Lab Grown Polished Diamonds amounting to INR 14.00 Crores",
+        "announcedAt": "2026-04-10T08:45:23.913+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-04-10T08:45:23.913"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-10T09:31:18.706+05:30",
+    "checksum": "52ede45cdf313421f3c08e2734d2d82c2934c12d4a7a2a89e89016ae260187c5",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-10/awards-093117.json"
+  }
+}
