@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-10 10:00 | KD Leisures Ltd | 540385 | Securities Appellate Tribunal (SAT) Order passed on dated 17-03-2026 for restoration of listing. ([Link](https://www.bseindia.com/stock-share-price/kd-leisures-ltd/kdll/540385/)) | Likely Positive | 10 Apr 2026 - 10:30 |
+| 2026-04-10 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 10 Apr 2026 - 09:31 |
 | 2026-04-10 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Domestic Order for Fancy Coloured Lab Grown Polished Diamonds amounting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 10 Apr 2026 - 08:45 |
 
-_Last updated: 10 Apr 2026 - 09:31 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-10.json)_
+_Last updated: 10 Apr 2026 - 11:12 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-10.json)_
 
 <!-- snapshot:end -->
 

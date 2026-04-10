@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-04-10T08:45:23.913"
       }
+    ],
+    "2026-04-10T10": [
+      {
+        "newsId": "6c4b76c2-26e5-402b-b9ec-c361a3b9d9cf",
+        "scripCode": 540385,
+        "shortName": "KD Leisures Ltd",
+        "headline": "Securities Appellate Tribunal (SAT) Order passed on dated 17-03-2026 for restoration of listing.",
+        "announcedAt": "2026-04-10T10:30:52.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kd-leisures-ltd/kdll/540385/",
+        "rawTime": "2026-04-10T10:30:52.647"
+      }
+    ],
+    "2026-04-10T09": [
+      {
+        "newsId": "ca70de80-be41-4924-862d-5a2cdf1ed41b",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-04-10T09:31:55.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-04-10T09:31:55.16"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-10T09:31:18.706+05:30",
-    "checksum": "52ede45cdf313421f3c08e2734d2d82c2934c12d4a7a2a89e89016ae260187c5",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-10T11:12:19.294+05:30",
+    "checksum": "61983ad2701692f5e3486d908ed23df91f628c7656511a7180a3a9215a71573c",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-10/awards-093117.json"
+    "rawPayloadPath": "data/raw/2026-04-10/awards-111218.json"
   }
 }
