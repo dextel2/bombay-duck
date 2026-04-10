@@ -31,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-10 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 10 Apr 2026 - 09:31 |
 | 2026-04-10 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Domestic Order for Fancy Coloured Lab Grown Polished Diamonds amounting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 10 Apr 2026 - 08:45 |
 
-_Last updated: 10 Apr 2026 - 13:59 | Entries: 8 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-10.json)_
+_Last updated: 10 Apr 2026 - 14:56 | Entries: 8 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-10.json)_
 
 <!-- snapshot:end -->
 
