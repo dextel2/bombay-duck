@@ -33,14 +33,43 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-04-10T09:31:55.16"
       }
+    ],
+    "2026-04-10T11": [
+      {
+        "newsId": "4cb7bb2e-0915-4df9-91cf-2c71dc9ee226",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 21027600 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015",
+        "announcedAt": "2026-04-10T11:46:55.937+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-04-10T11:46:55.937"
+      },
+      {
+        "newsId": "e80f5cf1-5648-4dca-bf43-60960b2891aa",
+        "scripCode": 544313,
+        "shortName": "NACDAC Infrastructure Ltd",
+        "headline": "Intimation of Work/Supply Order received to the Company",
+        "announcedAt": "2026-04-10T11:31:32.690+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nacdac-infrastructure-ltd/nacdac/544313/",
+        "rawTime": "2026-04-10T11:31:32.69"
+      },
+      {
+        "newsId": "2258f795-aca1-4d33-ae78-ec2f1754f591",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please find the attached",
+        "announcedAt": "2026-04-10T11:29:27.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-04-10T11:29:27.97"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-10T11:12:19.294+05:30",
-    "checksum": "61983ad2701692f5e3486d908ed23df91f628c7656511a7180a3a9215a71573c",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-10T12:04:57.811+05:30",
+    "checksum": "dc6fc536a94055408b610e9a73196b54ce6abdf8e24c76a95eb28ed706b01416",
+    "totalAnnouncements": 6,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-10/awards-111218.json"
+    "rawPayloadPath": "data/raw/2026-04-10/awards-120456.json"
   }
 }

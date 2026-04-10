@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-10 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with Regards to Siyaram Recycling Secured Order amounting to Rs. 21027600 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclousure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 10 Apr 2026 - 11:46 |
+| 2026-04-10 11:00 | NACDAC Infrastructure Ltd | 544313 | Intimation of Work/Supply Order received to the Company ([Link](https://www.bseindia.com/stock-share-price/nacdac-infrastructure-ltd/nacdac/544313/)) | Likely Positive | 10 Apr 2026 - 11:31 |
+| 2026-04-10 11:00 | Power Mech Projects Ltd | 539302 | Please find the attached ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 10 Apr 2026 - 11:29 |
 | 2026-04-10 10:00 | KD Leisures Ltd | 540385 | Securities Appellate Tribunal (SAT) Order passed on dated 17-03-2026 for restoration of listing. ([Link](https://www.bseindia.com/stock-share-price/kd-leisures-ltd/kdll/540385/)) | Likely Positive | 10 Apr 2026 - 10:30 |
 | 2026-04-10 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 10 Apr 2026 - 09:31 |
 | 2026-04-10 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Domestic Order for Fancy Coloured Lab Grown Polished Diamonds amounting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 10 Apr 2026 - 08:45 |
 
-_Last updated: 10 Apr 2026 - 11:12 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-10.json)_
+_Last updated: 10 Apr 2026 - 12:04 | Entries: 6 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-10.json)_
 
 <!-- snapshot:end -->
 
