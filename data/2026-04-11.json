@@ -3,6 +3,15 @@
   "buckets": {
     "2026-04-11T12": [
       {
+        "newsId": "9d91c635-4c2a-42de-8d1f-c7b6ffadcb03",
+        "scripCode": 511523,
+        "shortName": "Veerhealth Care Ltd",
+        "headline": "The Company has received an order from New York -based Company for supply of body care products for a value aggregating to 150 lakhs",
+        "announcedAt": "2026-04-11T12:53:37.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/veerhealth-care-ltd/veerhealth/511523/",
+        "rawTime": "2026-04-11T12:53:37.267"
+      },
+      {
         "newsId": "b2c0a92d-287c-409a-8054-991c7764cc2d",
         "scripCode": 543985,
         "shortName": "Zaggle Prepaid Ocean Services Ltd",
@@ -23,11 +32,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-11T12:51:40.273+05:30",
-    "checksum": "d78100fd64d19a5164430315fa403531c76cebbfac68e28896a5e8846285b347",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-11T13:41:16.837+05:30",
+    "checksum": "8e818792d86da94586d0f31cd5c0432e6a63e8244d16b1d85d3e4df2c66afcc1",
+    "totalAnnouncements": 3,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-11/awards-125139.json"
+    "rawPayloadPath": "data/raw/2026-04-11/awards-134116.json"
   }
 }
