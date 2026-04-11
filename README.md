@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-11 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-11 12:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulation, 2015, this is to inform you that the Zaggle Prepaid Ocean Services Limited has entered into an agreement with Generali Central Insurance .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 11 Apr 2026 - 12:48 |
+| 2026-04-11 12:00 | Advance Agrolife Ltd | 544562 | Pursuant to Regulation 30, The Company has informed regarding Bagging/Receiving of order/contract ([Link](https://www.bseindia.com/stock-share-price/advance-agrolife-ltd/advance/544562/)) | Likely Positive | 11 Apr 2026 - 12:20 |
 
-_Last updated: 11 Apr 2026 - 11:51 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-11.json)_
+_Last updated: 11 Apr 2026 - 12:51 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-11.json)_
 
 <!-- snapshot:end -->
 

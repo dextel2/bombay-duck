@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-04-11",
-  "buckets": {},
+  "buckets": {
+    "2026-04-11T12": [
+      {
+        "newsId": "b2c0a92d-287c-409a-8054-991c7764cc2d",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulation, 2015, this is to inform you that the Zaggle Prepaid Ocean Services Limited has entered into an agreement with Generali Central Insurance ....",
+        "announcedAt": "2026-04-11T12:48:01.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-04-11T12:48:01.583"
+      },
+      {
+        "newsId": "a2fe7132-2bbc-4d82-b665-9d5961d46e78",
+        "scripCode": 544562,
+        "shortName": "Advance Agrolife Ltd",
+        "headline": "Pursuant to Regulation 30, The Company has informed regarding Bagging/Receiving of order/contract",
+        "announcedAt": "2026-04-11T12:20:47.453+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/advance-agrolife-ltd/advance/544562/",
+        "rawTime": "2026-04-11T12:20:47.453"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-11T11:51:25.945+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-11T12:51:40.273+05:30",
+    "checksum": "d78100fd64d19a5164430315fa403531c76cebbfac68e28896a5e8846285b347",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-11/awards-115125.json"
+    "rawPayloadPath": "data/raw/2026-04-11/awards-125139.json"
   }
 }
