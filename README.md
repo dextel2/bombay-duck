@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-12 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-12 15:00 | GHV Infra Projects Ltd | 505504 | The Company has informed the exchange about the Construction Contract entered between GHV Infra Projects Limited (''the Company'') and APCO Infratech Private Limited ([Link](https://www.bseindia.com/stock-share-price/ghv-infra-projects-ltd/ghvinfra/505504/)) | Likely Positive | 12 Apr 2026 - 15:27 |
 
-_Last updated: 12 Apr 2026 - 14:46 | Entries: 0 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-12.json)_
+_Last updated: 12 Apr 2026 - 15:43 | Entries: 1 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-12.json)_
 
 <!-- snapshot:end -->
 

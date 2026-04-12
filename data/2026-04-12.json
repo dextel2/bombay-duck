@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-12",
-  "buckets": {},
+  "buckets": {
+    "2026-04-12T15": [
+      {
+        "newsId": "2f4141a3-7465-4e16-90fa-a647079f394d",
+        "scripCode": 505504,
+        "shortName": "GHV Infra Projects Ltd",
+        "headline": "The Company has informed the exchange about the Construction Contract entered between GHV Infra Projects Limited (''the Company'') and APCO Infratech Private Limited",
+        "announcedAt": "2026-04-12T15:27:45.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ghv-infra-projects-ltd/ghvinfra/505504/",
+        "rawTime": "2026-04-12T15:27:45.617"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-12T14:46:07.136+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-12T15:43:19.966+05:30",
+    "checksum": "6b89c4d3ad33834b92c346ea2130d14a12e0985497462ad05e5c32d944b37b94",
+    "totalAnnouncements": 1,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-12/awards-144606.json"
+    "rawPayloadPath": "data/raw/2026-04-12/awards-154319.json"
   }
 }
