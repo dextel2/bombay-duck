@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-13",
-  "buckets": {},
+  "buckets": {
+    "2026-04-13T11": [
+      {
+        "newsId": "8323db61-d9b5-4ace-9cd5-282eefab1921",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of award from Rail Coach Factory, Kapurthala",
+        "announcedAt": "2026-04-13T11:16:55.687+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-04-13T11:16:55.687"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-13T09:35:58.628+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-13T11:22:46.178+05:30",
+    "checksum": "293ca70d84e93c3ff98df73b28cc2204186e8aa7f0beecfd1a25c134eb3b2f0a",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-13/awards-093558.json"
+    "rawPayloadPath": "data/raw/2026-04-13/awards-112245.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-13 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-13 11:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of award from Rail Coach Factory, Kapurthala ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 13 Apr 2026 - 11:16 |
 
-_Last updated: 13 Apr 2026 - 09:35 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-13.json)_
+_Last updated: 13 Apr 2026 - 11:22 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-13.json)_
 
 <!-- snapshot:end -->
 
