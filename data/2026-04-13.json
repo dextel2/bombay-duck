@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
         "rawTime": "2026-04-13T13:16:30.83"
       }
+    ],
+    "2026-04-13T15": [
+      {
+        "newsId": "628022fd-de63-4b72-8d4f-8c58f72bac53",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "BEML Limited has secured an export order of USD 36.38 million from Middle East region",
+        "announcedAt": "2026-04-13T15:04:05.587+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2026-04-13T15:04:05.587"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-13T14:10:43.869+05:30",
-    "checksum": "bbe414739e89de70cfbd917deddfd6fcd4d47014ddb19c8dda0173f19a92bbe9",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-13T15:04:40.670+05:30",
+    "checksum": "8fcdc3a9f45924e2a266b5b2ac2c2905312217a54d60ce0b5809d1c171b95df2",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-13/awards-141042.json"
+    "rawPayloadPath": "data/raw/2026-04-13/awards-150439.json"
   }
 }
