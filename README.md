@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-13 11:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of award from Rail Coach Factory, Kapurthala ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 13 Apr 2026 - 11:16 |
 
-_Last updated: 13 Apr 2026 - 12:11 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-13.json)_
+_Last updated: 13 Apr 2026 - 13:04 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-13.json)_
 
 <!-- snapshot:end -->
 
