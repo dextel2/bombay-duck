@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-14 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Northern Railway. ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 14 Apr 2026 - 13:07 |
 | 2026-04-14 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 Apr 2026 - 11:19 |
 
-_Last updated: 14 Apr 2026 - 14:02 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-14.json)_
+_Last updated: 14 Apr 2026 - 15:01 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-14.json)_
 
 <!-- snapshot:end -->
 
