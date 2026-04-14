@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-13 IST)
+### Today's Awarded Orders (2026-04-14 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-04-13 15:00 | BEML Ltd | 500048 | BEML Limited has secured an export order of USD 36.38 million from Middle East region ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 13 Apr 2026 - 15:04 |
-| 2026-04-13 13:00 | Gabion Technologies India Ltd | 544675 | INITIMATION OF WORK/SUPPLY ORDERS RECEIVED DURING THE PERIOD FROM MARCH 29,2026 TO APRIL 11, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 13 Apr 2026 - 13:32 |
-| 2026-04-13 13:00 | Kernex Microsystems India Ltd | 532686 | The company was awarded order from PCMM Office, Patiala for a value of Rs.67.53 crores for supply, installation, testing and commissioning of on baord KAVACH Loco Equipment ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Likely Positive | 13 Apr 2026 - 13:16 |
-| 2026-04-13 11:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of award from Rail Coach Factory, Kapurthala ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 13 Apr 2026 - 11:16 |
+_No award announcements have been captured yet today._
 
-_Last updated: 13 Apr 2026 - 16:02 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-13.json)_
+_Last updated: 14 Apr 2026 - 09:31 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-14.json)_
 
 <!-- snapshot:end -->
 
