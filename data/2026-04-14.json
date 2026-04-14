@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-04-14T11:19:17.687"
       }
+    ],
+    "2026-04-14T13": [
+      {
+        "newsId": "385d8a86-86c0-46aa-beb6-1077b80c9b99",
+        "scripCode": 500074,
+        "shortName": "BPL Ltd",
+        "headline": "Disclosure under Regulation 30",
+        "announcedAt": "2026-04-14T13:57:44.837+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bpl-ltd/bpl/500074/",
+        "rawTime": "2026-04-14T13:57:44.837"
+      },
+      {
+        "newsId": "ed9575d7-3d6b-407c-b3f4-d19538bae281",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Northern Railway.",
+        "announcedAt": "2026-04-14T13:07:53.717+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-04-14T13:07:53.717"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-14T13:02:24.027+05:30",
-    "checksum": "483011f49b2465c96f12adaa84e6673366c97f54fc70dc60a2a795447bc2aabb",
-    "totalAnnouncements": 1,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-14T14:02:29.792+05:30",
+    "checksum": "aad0267cbcebf14d28cd23270a9a14b48bb78ae0ba0ab7069c437749d9ae25b9",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-14/awards-130223.json"
+    "rawPayloadPath": "data/raw/2026-04-14/awards-140229.json"
   }
 }
