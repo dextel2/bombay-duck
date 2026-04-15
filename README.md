@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-14 IST)
+### Today's Awarded Orders (2026-04-15 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-04-14 13:00 | BPL Ltd | 500074 | Disclosure under Regulation 30 ([Link](https://www.bseindia.com/stock-share-price/bpl-ltd/bpl/500074/)) | Neutral | 14 Apr 2026 - 13:57 |
-| 2026-04-14 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Northern Railway. ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 14 Apr 2026 - 13:07 |
-| 2026-04-14 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 Apr 2026 - 11:19 |
+_No award announcements have been captured yet today._
 
-_Last updated: 14 Apr 2026 - 15:58 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-14.json)_
+_Last updated: 15 Apr 2026 - 09:31 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-15.json)_
 
 <!-- snapshot:end -->
 
