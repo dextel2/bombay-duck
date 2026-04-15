@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-15 14:00 | SRM Contractors Ltd | 544158 | Bagging of Contract ([Link](https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/)) | Likely Positive | 15 Apr 2026 - 14:06 |
 | 2026-04-15 11:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 15 Apr 2026 - 11:43 |
 | 2026-04-15 11:00 | Indo Euro Indchem Ltd | 524458 | Please find enclosed herewith the intimation regarding the reciept of Demand order. ([Link](https://www.bseindia.com/stock-share-price/indo-euro-indchem-ltd/indoeuro/524458/)) | Likely Positive | 15 Apr 2026 - 11:29 |
 | 2026-04-15 11:00 | Markolines Pavement Technologies Ltd | 543364 | General Disclosure of acceptance of Letter of Acceptance for multiple work orders from Sports Authority of Andhra Pradesh, I.G.M.C. Stadium, Vijaywada. ([Link](https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/)) | Likely Positive | 15 Apr 2026 - 11:03 |
 | 2026-04-15 09:00 | TANFAC Industries Ltd-$ | 506854 | Memorandum of Understanding ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Neutral | 15 Apr 2026 - 09:53 |
 
-_Last updated: 15 Apr 2026 - 14:02 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-15.json)_
+_Last updated: 15 Apr 2026 - 15:01 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-15.json)_
 
 <!-- snapshot:end -->
 

@@ -40,14 +40,25 @@
         "url": "https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/",
         "rawTime": "2026-04-15T09:53:20.277"
       }
+    ],
+    "2026-04-15T14": [
+      {
+        "newsId": "77f29eb5-b05a-44d5-a242-ed94b7115bc7",
+        "scripCode": 544158,
+        "shortName": "SRM Contractors Ltd",
+        "headline": "Bagging of Contract",
+        "announcedAt": "2026-04-15T14:06:09.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/",
+        "rawTime": "2026-04-15T14:06:09.23"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-15T14:02:59.688+05:30",
-    "checksum": "902a7bf27c6a970a72f1dcd3fede90c6b875a53f4f8d5de272212ee87c63a8a2",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-15T15:01:31.552+05:30",
+    "checksum": "0d14aaf4bed05faf504a0679a99122316d3c9ad0ef0477e8b87b52bf0cd59d96",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-15/awards-140259.json"
+    "rawPayloadPath": "data/raw/2026-04-15/awards-150130.json"
   }
 }
