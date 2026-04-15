@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-04-15",
-  "buckets": {},
+  "buckets": {
+    "2026-04-15T11": [
+      {
+        "newsId": "92251613-ab34-4ab8-abda-a6da39fb3c5f",
+        "scripCode": 543364,
+        "shortName": "Markolines Pavement Technologies Ltd",
+        "headline": "General Disclosure of acceptance of Letter of Acceptance for multiple work orders from Sports Authority of Andhra Pradesh, I.G.M.C. Stadium, Vijaywada.",
+        "announcedAt": "2026-04-15T11:03:18.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/",
+        "rawTime": "2026-04-15T11:03:18.61"
+      }
+    ],
+    "2026-04-15T09": [
+      {
+        "newsId": "e9ffbcf5-7d4b-4fb2-b456-525cdbffc727",
+        "scripCode": 506854,
+        "shortName": "TANFAC Industries Ltd-$",
+        "headline": "Memorandum of Understanding",
+        "announcedAt": "2026-04-15T09:53:20.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/",
+        "rawTime": "2026-04-15T09:53:20.277"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-15T09:31:11.773+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-15T11:12:23.094+05:30",
+    "checksum": "caaa4c2dcb94f2cc5b34f7c8e9345cf16026d5e86b9af257c189d1bc028dc257",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-15/awards-093111.json"
+    "rawPayloadPath": "data/raw/2026-04-15/awards-111222.json"
   }
 }
