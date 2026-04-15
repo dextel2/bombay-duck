@@ -3,6 +3,24 @@
   "buckets": {
     "2026-04-15T11": [
       {
+        "newsId": "b0456a40-af1e-43ea-b541-c5c4f1a19adb",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Diamond Power Infrastructure Limited has informed the exchange regarding the receipt of letter of intent",
+        "announcedAt": "2026-04-15T11:43:03.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-04-15T11:43:03.867"
+      },
+      {
+        "newsId": "2f7b7eb0-714e-4688-b038-a3d861082ca4",
+        "scripCode": 524458,
+        "shortName": "Indo Euro Indchem Ltd",
+        "headline": "Please find enclosed herewith the intimation regarding the reciept of Demand order.",
+        "announcedAt": "2026-04-15T11:29:33.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indo-euro-indchem-ltd/indoeuro/524458/",
+        "rawTime": "2026-04-15T11:29:33.037"
+      },
+      {
         "newsId": "92251613-ab34-4ab8-abda-a6da39fb3c5f",
         "scripCode": 543364,
         "shortName": "Markolines Pavement Technologies Ltd",
@@ -25,11 +43,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-15T11:12:23.094+05:30",
-    "checksum": "caaa4c2dcb94f2cc5b34f7c8e9345cf16026d5e86b9af257c189d1bc028dc257",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-15T12:05:35.515+05:30",
+    "checksum": "902a7bf27c6a970a72f1dcd3fede90c6b875a53f4f8d5de272212ee87c63a8a2",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-15/awards-111222.json"
+    "rawPayloadPath": "data/raw/2026-04-15/awards-120534.json"
   }
 }
