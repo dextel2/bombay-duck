@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/",
         "rawTime": "2026-04-15T14:06:09.23"
       }
+    ],
+    "2026-04-15T15": [
+      {
+        "newsId": "11287fa9-fe3c-4aec-b66b-fac0aaa56e94",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of receipt of Order worth Rs. 0.39 Crore (excl. taxes) from South Eastern Railway",
+        "announcedAt": "2026-04-15T15:43:01.763+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-04-15T15:43:01.763"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-15T15:01:31.552+05:30",
-    "checksum": "0d14aaf4bed05faf504a0679a99122316d3c9ad0ef0477e8b87b52bf0cd59d96",
-    "totalAnnouncements": 5,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-15T15:57:39.527+05:30",
+    "checksum": "1e27c8993170befb8c1164ad90ed678f84014df2baf2bd0d076a34595227d12d",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-15/awards-150130.json"
+    "rawPayloadPath": "data/raw/2026-04-15/awards-155738.json"
   }
 }
