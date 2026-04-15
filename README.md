@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-15 11:00 | Markolines Pavement Technologies Ltd | 543364 | General Disclosure of acceptance of Letter of Acceptance for multiple work orders from Sports Authority of Andhra Pradesh, I.G.M.C. Stadium, Vijaywada. ([Link](https://www.bseindia.com/stock-share-price/markolines-pavement-technologies-ltd/markolines/543364/)) | Likely Positive | 15 Apr 2026 - 11:03 |
 | 2026-04-15 09:00 | TANFAC Industries Ltd-$ | 506854 | Memorandum of Understanding ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Neutral | 15 Apr 2026 - 09:53 |
 
-_Last updated: 15 Apr 2026 - 12:05 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-15.json)_
+_Last updated: 15 Apr 2026 - 13:02 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-15.json)_
 
 <!-- snapshot:end -->
 
