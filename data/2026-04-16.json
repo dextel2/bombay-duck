@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
         "rawTime": "2026-04-16T11:24:35.59"
       }
+    ],
+    "2026-04-16T12": [
+      {
+        "newsId": "c1b3c6dc-32d8-4a65-862d-47c9fe31b099",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company ahs bagged new contract from Indian Army, Department of Military Affairs, Ministry of Defence of Rs. 8538027.08. For more details, please refer attached file",
+        "announcedAt": "2026-04-16T12:09:45.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-04-16T12:09:45.267"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-16T12:06:08.643+05:30",
-    "checksum": "34faefca0becc238ded86eb563f2820e958ad719fd187dd59bb6fd2030f78dfc",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-16T13:02:37.182+05:30",
+    "checksum": "90ff4e59c12791ed167506221d12b3a94edbbafaceee0c583ee037edfb45e3ac",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-16/awards-120608.json"
+    "rawPayloadPath": "data/raw/2026-04-16/awards-130236.json"
   }
 }
