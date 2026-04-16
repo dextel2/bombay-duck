@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-16 11:00 | MIC Electronics Ltd | 532850 | Please find enclosed the receipt of the LOAs (letters of acceptance) intimation. ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Likely Positive | 16 Apr 2026 - 11:24 |
 | 2026-04-16 09:00 | Elitecon International Ltd | 539533 | Order of Long-Term Supply of Goods ([Link](https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/)) | Likely Positive | 16 Apr 2026 - 09:24 |
 
-_Last updated: 16 Apr 2026 - 14:03 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-16.json)_
+_Last updated: 16 Apr 2026 - 15:01 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-16.json)_
 
 <!-- snapshot:end -->
 
