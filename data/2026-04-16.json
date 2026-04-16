@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-04-16T12:09:45.267"
       }
+    ],
+    "2026-04-16T13": [
+      {
+        "newsId": "082f98e7-35d2-4b54-89e4-8bff5030be3f",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of order by Refex Industries Limited for transportation of pond ash ....",
+        "announcedAt": "2026-04-16T13:11:04.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-04-16T13:11:04.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-16T13:02:37.182+05:30",
-    "checksum": "90ff4e59c12791ed167506221d12b3a94edbbafaceee0c583ee037edfb45e3ac",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-16T14:03:01.937+05:30",
+    "checksum": "98a4cdf93e900dc994b8c6c4da061d29ea2f6bec3259f3b3bb0f3bd6bbdcc23d",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-16/awards-130236.json"
+    "rawPayloadPath": "data/raw/2026-04-16/awards-140300.json"
   }
 }
