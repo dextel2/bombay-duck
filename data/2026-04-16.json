@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-16",
+  "buckets": {
+    "2026-04-16T09": [
+      {
+        "newsId": "ed70c77a-7529-4d55-a6fd-f348d41fd073",
+        "scripCode": 539533,
+        "shortName": "Elitecon International Ltd",
+        "headline": "Order of Long-Term Supply of Goods",
+        "announcedAt": "2026-04-16T09:24:07.327+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/",
+        "rawTime": "2026-04-16T09:24:07.327"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-16T09:32:55.364+05:30",
+    "checksum": "df692a23ebb8ac3ccc0a282b888f8fe8f623a90b79e1e8d422bd1313e5ab3ab6",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-16/awards-093254.json"
+  }
+}
