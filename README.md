@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-16 09:00 | Elitecon International Ltd | 539533 | Order of Long-Term Supply of Goods ([Link](https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/)) | Likely Positive | 16 Apr 2026 - 09:24 |
 
-_Last updated: 16 Apr 2026 - 09:32 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-16.json)_
+_Last updated: 16 Apr 2026 - 11:14 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-16.json)_
 
 <!-- snapshot:end -->
 
