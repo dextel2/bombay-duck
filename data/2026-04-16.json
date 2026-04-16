@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/elitecon-international-ltd/elitecon/539533/",
         "rawTime": "2026-04-16T09:24:07.327"
       }
+    ],
+    "2026-04-16T11": [
+      {
+        "newsId": "8cd728bc-d9c3-4c9b-a210-ca5787d49e50",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Stabilizer order from ONGC",
+        "announcedAt": "2026-04-16T11:49:44.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-04-16T11:49:44.95"
+      },
+      {
+        "newsId": "85c139d3-fe77-46c8-afc4-16c385fadfd8",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "Please find enclosed the receipt of the LOAs (letters of acceptance) intimation.",
+        "announcedAt": "2026-04-16T11:24:35.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2026-04-16T11:24:35.59"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-16T11:14:02.634+05:30",
-    "checksum": "df692a23ebb8ac3ccc0a282b888f8fe8f623a90b79e1e8d422bd1313e5ab3ab6",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-16T12:06:08.643+05:30",
+    "checksum": "34faefca0becc238ded86eb563f2820e958ad719fd187dd59bb6fd2030f78dfc",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-16/awards-111402.json"
+    "rawPayloadPath": "data/raw/2026-04-16/awards-120608.json"
   }
 }
