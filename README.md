@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-17 15:00 | Harshdeep Hortico Ltd | 544105 | Receipt of Purchase Order of Rs. 50,74,002/- from Lucknow International Airport Limited. ([Link](https://www.bseindia.com/stock-share-price/harshdeep-hortico-ltd/harshdeep/544105/)) | Likely Positive | 17 Apr 2026 - 15:54 |
+| 2026-04-17 15:00 | Shree Refrigerations Ltd | 544458 | Pursuant to provisions of Regulation 30 read with subpara 4 para B, part A, Schedule III of SEBI(LODR) Regulations, 2015, we hereby submit the disclosure regarding the order received from .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 17 Apr 2026 - 15:01 |
 | 2026-04-17 14:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform you that the Company has received a LOI from Emerson Measurement Systems And Solutions India Pvt. Ltd. amounting to Rs. 2,12,66,380/-. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Neutral | 17 Apr 2026 - 14:21 |
 | 2026-04-17 12:00 | Kesoram Industries Ltd | 502937 | Update on Income Tax Demand ([Link](https://www.bseindia.com/stock-share-price/kesoram-industries-ltd/kesoramind/502937/)) | Neutral | 17 Apr 2026 - 12:37 |
 | 2026-04-17 12:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Intimation of receipt of award ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 17 Apr 2026 - 12:34 |
@@ -30,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-17 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,06,64,750 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Apr 2026 - 11:15 |
 | 2026-04-17 09:00 | Novus Loyalty Ltd | 544735 | The engagement has been awarded pursuant to Gem RFP Bid No. GEM/2025/B/6413323 for providing loyalty reward program for various channels for Central bank of india. ([Link](https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/)) | Likely Positive | 17 Apr 2026 - 09:24 |
 
-_Last updated: 17 Apr 2026 - 15:00 | Entries: 7 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
+_Last updated: 17 Apr 2026 - 15:55 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
 
 <!-- snapshot:end -->
 
