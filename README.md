@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-17 09:00 | Novus Loyalty Ltd | 544735 | The engagement has been awarded pursuant to Gem RFP Bid No. GEM/2025/B/6413323 for providing loyalty reward program for various channels for Central bank of india. ([Link](https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/)) | Likely Positive | 17 Apr 2026 - 09:24 |
 
-_Last updated: 17 Apr 2026 - 09:32 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
+_Last updated: 17 Apr 2026 - 11:13 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
 
 <!-- snapshot:end -->
 
