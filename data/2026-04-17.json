@@ -14,6 +14,33 @@
     ],
     "2026-04-17T12": [
       {
+        "newsId": "2c783665-7fde-4899-b99b-d07e71279539",
+        "scripCode": 502937,
+        "shortName": "Kesoram Industries Ltd",
+        "headline": "Update on Income Tax Demand",
+        "announcedAt": "2026-04-17T12:37:52.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kesoram-industries-ltd/kesoramind/502937/",
+        "rawTime": "2026-04-17T12:37:52.01"
+      },
+      {
+        "newsId": "2efb456b-9b66-4e6f-aae7-2748c524ae15",
+        "scripCode": 539876,
+        "shortName": "Crompton Greaves Consumer Electricals Ltd",
+        "headline": "Intimation of receipt of award",
+        "announcedAt": "2026-04-17T12:34:26.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/",
+        "rawTime": "2026-04-17T12:34:26.68"
+      },
+      {
+        "newsId": "a7cdae9c-591f-4140-bea3-d13ae6c8b29c",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with The Federal Bank Limited",
+        "announcedAt": "2026-04-17T12:07:36.393+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-04-17T12:07:36.393"
+      },
+      {
         "newsId": "07392956-cd85-49db-ba8a-95adab6649de",
         "scripCode": 544511,
         "shortName": "Karbonsteel Engineering Ltd",
@@ -36,11 +63,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-17T12:06:18.714+05:30",
-    "checksum": "49c3c758da520b195d026842960b2946f2d569b41cc281dd199fe7d01cb1753a",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-17T13:02:55.831+05:30",
+    "checksum": "33c02c56a61f265ad097b6aa90b9f5c03407f7bed28a36c573fd6b974e36d0ef",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-17/awards-120617.json"
+    "rawPayloadPath": "data/raw/2026-04-17/awards-130255.json"
   }
 }
