@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-17",
+  "buckets": {
+    "2026-04-17T09": [
+      {
+        "newsId": "4bbcfd3d-68b5-423a-a9cb-8ad720a300c6",
+        "scripCode": 544735,
+        "shortName": "Novus Loyalty Ltd",
+        "headline": "The engagement has been awarded pursuant to Gem RFP Bid No. GEM/2025/B/6413323 for providing loyalty reward program for various channels for Central bank of india.",
+        "announcedAt": "2026-04-17T09:24:09.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/",
+        "rawTime": "2026-04-17T09:24:09.14"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-17T09:32:10.561+05:30",
+    "checksum": "f487bf2c44c2a72bd4120443e88ddd1e040c1cee10679d7a97709c561efea501",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-17/awards-093209.json"
+  }
+}
