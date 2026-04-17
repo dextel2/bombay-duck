@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/",
         "rawTime": "2026-04-17T09:24:09.14"
       }
+    ],
+    "2026-04-17T12": [
+      {
+        "newsId": "07392956-cd85-49db-ba8a-95adab6649de",
+        "scripCode": 544511,
+        "shortName": "Karbonsteel Engineering Ltd",
+        "headline": "Intimation of receipt of new order amounting to Rs. 101.01 crores from Leading Domestic Infrastructure & Engineering Company",
+        "announcedAt": "2026-04-17T12:03:01.027+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/",
+        "rawTime": "2026-04-17T12:03:01.027"
+      }
+    ],
+    "2026-04-17T11": [
+      {
+        "newsId": "be391b10-d0d0-4ecb-8dd9-773f29cda64c",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 2,06,64,750 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-04-17T11:15:40.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-04-17T11:15:40.673"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-17T11:13:05.323+05:30",
-    "checksum": "f487bf2c44c2a72bd4120443e88ddd1e040c1cee10679d7a97709c561efea501",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-17T12:06:18.714+05:30",
+    "checksum": "49c3c758da520b195d026842960b2946f2d569b41cc281dd199fe7d01cb1753a",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-17/awards-111304.json"
+    "rawPayloadPath": "data/raw/2026-04-17/awards-120617.json"
   }
 }

@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-17 12:00 | Karbonsteel Engineering Ltd | 544511 | Intimation of receipt of new order amounting to Rs. 101.01 crores from Leading Domestic Infrastructure & Engineering Company ([Link](https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/)) | Likely Positive | 17 Apr 2026 - 12:03 |
+| 2026-04-17 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,06,64,750 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Apr 2026 - 11:15 |
 | 2026-04-17 09:00 | Novus Loyalty Ltd | 544735 | The engagement has been awarded pursuant to Gem RFP Bid No. GEM/2025/B/6413323 for providing loyalty reward program for various channels for Central bank of india. ([Link](https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/)) | Likely Positive | 17 Apr 2026 - 09:24 |
 
-_Last updated: 17 Apr 2026 - 11:13 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
+_Last updated: 17 Apr 2026 - 12:06 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
 
 <!-- snapshot:end -->
 
