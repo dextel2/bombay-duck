@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-17 14:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform you that the Company has received a LOI from Emerson Measurement Systems And Solutions India Pvt. Ltd. amounting to Rs. 2,12,66,380/-. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Neutral | 17 Apr 2026 - 14:21 |
 | 2026-04-17 12:00 | Kesoram Industries Ltd | 502937 | Update on Income Tax Demand ([Link](https://www.bseindia.com/stock-share-price/kesoram-industries-ltd/kesoramind/502937/)) | Neutral | 17 Apr 2026 - 12:37 |
 | 2026-04-17 12:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Intimation of receipt of award ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 17 Apr 2026 - 12:34 |
 | 2026-04-17 12:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of the SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with The Federal Bank Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 17 Apr 2026 - 12:07 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-17 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,06,64,750 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Apr 2026 - 11:15 |
 | 2026-04-17 09:00 | Novus Loyalty Ltd | 544735 | The engagement has been awarded pursuant to Gem RFP Bid No. GEM/2025/B/6413323 for providing loyalty reward program for various channels for Central bank of india. ([Link](https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/)) | Likely Positive | 17 Apr 2026 - 09:24 |
 
-_Last updated: 17 Apr 2026 - 14:02 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
+_Last updated: 17 Apr 2026 - 15:00 | Entries: 7 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-17.json)_
 
 <!-- snapshot:end -->
 

@@ -60,14 +60,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-04-17T11:15:40.673"
       }
+    ],
+    "2026-04-17T14": [
+      {
+        "newsId": "6b813808-9552-4208-a468-1e24274f3337",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We hereby inform you that the Company has received a LOI from Emerson Measurement Systems And Solutions India Pvt. Ltd. amounting to Rs. 2,12,66,380/-.",
+        "announcedAt": "2026-04-17T14:21:39.777+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-04-17T14:21:39.777"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-17T14:02:45.722+05:30",
-    "checksum": "33c02c56a61f265ad097b6aa90b9f5c03407f7bed28a36c573fd6b974e36d0ef",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-17T15:00:57.943+05:30",
+    "checksum": "164f3aa33b4fcc22a983e190db5e642e006eeeb11ebafb8fbe916929edacd3b2",
+    "totalAnnouncements": 7,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-17/awards-140244.json"
+    "rawPayloadPath": "data/raw/2026-04-17/awards-150057.json"
   }
 }
