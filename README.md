@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-18 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-18 09:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 18 Apr 2026 - 09:57 |
 
-_Last updated: 18 Apr 2026 - 09:26 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-18.json)_
+_Last updated: 18 Apr 2026 - 10:19 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-18.json)_
 
 <!-- snapshot:end -->
 
