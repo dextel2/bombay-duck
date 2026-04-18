@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-18 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 regarding receipt of an order ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 18 Apr 2026 - 11:35 |
 | 2026-04-18 09:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 18 Apr 2026 - 09:57 |
 
-_Last updated: 18 Apr 2026 - 14:46 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-18.json)_
+_Last updated: 18 Apr 2026 - 15:43 | Entries: 3 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-04-18.json)_
 
 <!-- snapshot:end -->
 
