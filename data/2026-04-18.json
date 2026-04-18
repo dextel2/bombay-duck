@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
         "rawTime": "2026-04-18T11:35:14.95"
       }
+    ],
+    "2026-04-18T12": [
+      {
+        "newsId": "5c46fbb7-4384-434e-a97e-68e375cc307a",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of Receipt of Order for Technical Manpower Services",
+        "announcedAt": "2026-04-18T12:51:11.700+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-04-18T12:51:11.7"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-18T11:54:43.440+05:30",
-    "checksum": "5fa78c0009b29017c9b17013d6dc19471c74deac471069ab17e3ce5cfc741314",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-18T12:56:08.312+05:30",
+    "checksum": "5e764486aecceb6bbcc729ff36342ac042fdc357da84ba05eb7f0ec06137cf09",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-18/awards-115442.json"
+    "rawPayloadPath": "data/raw/2026-04-18/awards-125607.json"
   }
 }
