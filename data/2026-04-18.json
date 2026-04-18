@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-04-18T09:57:40.8"
       }
+    ],
+    "2026-04-18T11": [
+      {
+        "newsId": "0800cecd-b18b-4a56-9593-bd24f484f2e5",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 regarding receipt of an order",
+        "announcedAt": "2026-04-18T11:35:14.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2026-04-18T11:35:14.95"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-18T11:02:01.767+05:30",
-    "checksum": "399db9861a6af91baaa7d67cbb7a6df71c4c095ca5e78c6738ac0aae4e0dd39c",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-18T11:54:43.440+05:30",
+    "checksum": "5fa78c0009b29017c9b17013d6dc19471c74deac471069ab17e3ce5cfc741314",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-18/awards-110201.json"
+    "rawPayloadPath": "data/raw/2026-04-18/awards-115442.json"
   }
 }
