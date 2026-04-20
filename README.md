@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-20 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-20 11:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Apr 2026 - 11:14 |
 
-_Last updated: 20 Apr 2026 - 09:35 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-20.json)_
+_Last updated: 20 Apr 2026 - 11:21 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-20.json)_
 
 <!-- snapshot:end -->
 
