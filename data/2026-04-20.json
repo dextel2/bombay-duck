@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
         "rawTime": "2026-04-20T12:04:38.68"
       }
+    ],
+    "2026-04-20T13": [
+      {
+        "newsId": "93b3b49a-094d-494b-98e1-7cf17fed1bfa",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work/supply Orders Received during the week Ended April 18, 2026",
+        "announcedAt": "2026-04-20T13:04:22.833+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-04-20T13:04:22.833"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-20T12:13:32.620+05:30",
-    "checksum": "b2d38de700857847544c50c816a43d0253f214b273e6c5abd58b9935ccebb699",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-20T13:05:12.644+05:30",
+    "checksum": "6d5d8dc8194805484dcd4f0964b70b57d7599740fc389b1a4be957d907398f05",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-20/awards-121331.json"
+    "rawPayloadPath": "data/raw/2026-04-20/awards-130512.json"
   }
 }
