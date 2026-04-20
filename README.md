@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-20 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of order by Refex Industries Limited for transportation of Pond Ash .... ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 20 Apr 2026 - 12:04 |
 | 2026-04-20 11:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Apr 2026 - 11:14 |
 
-_Last updated: 20 Apr 2026 - 11:21 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-20.json)_
+_Last updated: 20 Apr 2026 - 12:13 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-20.json)_
 
 <!-- snapshot:end -->
 

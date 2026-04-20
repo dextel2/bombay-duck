@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
         "rawTime": "2026-04-20T11:14:19.62"
       }
+    ],
+    "2026-04-20T12": [
+      {
+        "newsId": "f893268f-71ee-4621-b1d8-c5dd710814d7",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of order by Refex Industries Limited for transportation of Pond Ash ....",
+        "announcedAt": "2026-04-20T12:04:38.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-04-20T12:04:38.68"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-20T11:21:56.960+05:30",
-    "checksum": "0d5c1b76baa8ed5a70ede2760b55e3ac5d737ef6fca716244fad20dcf8e6d919",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-20T12:13:32.620+05:30",
+    "checksum": "b2d38de700857847544c50c816a43d0253f214b273e6c5abd58b9935ccebb699",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-20/awards-112156.json"
+    "rawPayloadPath": "data/raw/2026-04-20/awards-121331.json"
   }
 }
