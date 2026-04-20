@@ -25,6 +25,15 @@
     ],
     "2026-04-20T13": [
       {
+        "newsId": "b2692f20-3ccf-4e99-9f52-ea90e1207860",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of Work Order by one of the Subsidiaries.",
+        "announcedAt": "2026-04-20T13:36:08.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-04-20T13:36:08.887"
+      },
+      {
         "newsId": "93b3b49a-094d-494b-98e1-7cf17fed1bfa",
         "scripCode": 544675,
         "shortName": "Gabion Technologies India Ltd",
@@ -36,11 +45,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-20T13:05:12.644+05:30",
-    "checksum": "6d5d8dc8194805484dcd4f0964b70b57d7599740fc389b1a4be957d907398f05",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-20T14:14:10.037+05:30",
+    "checksum": "da5da9d05634942b8d84c611b12a6539e47259e1a77df70beccc20a0f94beeb3",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-20/awards-130512.json"
+    "rawPayloadPath": "data/raw/2026-04-20/awards-141408.json"
   }
 }
