@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-21 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-21 12:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Tushti Homes LLP ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 21 Apr 2026 - 12:54 |
+| 2026-04-21 12:00 | Saatvik Green Energy Ltd | 544526 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 21 Apr 2026 - 12:41 |
 
-_Last updated: 21 Apr 2026 - 12:06 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-21.json)_
+_Last updated: 21 Apr 2026 - 13:02 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-21.json)_
 
 <!-- snapshot:end -->
 

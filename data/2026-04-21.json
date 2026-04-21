@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-04-21",
-  "buckets": {},
+  "buckets": {
+    "2026-04-21T12": [
+      {
+        "newsId": "48fed862-b510-424c-b393-5af801b2d4ec",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order from Tushti Homes LLP",
+        "announcedAt": "2026-04-21T12:54:25.777+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-04-21T12:54:25.777"
+      },
+      {
+        "newsId": "b2b43102-ff86-42b4-ae56-47a349688f41",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-04-21T12:41:50.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2026-04-21T12:41:50.267"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-21T12:06:21.278+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-21T13:02:57.313+05:30",
+    "checksum": "539a1c000a7be6f08587af192bdbaf2786255454dc5d70373fa3d5c2ea387154",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-21/awards-120620.json"
+    "rawPayloadPath": "data/raw/2026-04-21/awards-130256.json"
   }
 }
