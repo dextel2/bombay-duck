@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-20 IST)
+### Today's Awarded Orders (2026-04-21 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-04-20 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Order by one of the Subsidiaries. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 20 Apr 2026 - 13:36 |
-| 2026-04-20 13:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/supply Orders Received during the week Ended April 18, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 20 Apr 2026 - 13:04 |
-| 2026-04-20 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of order by Refex Industries Limited for transportation of Pond Ash .... ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 20 Apr 2026 - 12:04 |
-| 2026-04-20 11:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Apr 2026 - 11:14 |
+_No award announcements have been captured yet today._
 
-_Last updated: 20 Apr 2026 - 16:03 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-20.json)_
+_Last updated: 21 Apr 2026 - 09:32 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-21.json)_
 
 <!-- snapshot:end -->
 
