@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
         "rawTime": "2026-04-21T12:41:50.267"
       }
+    ],
+    "2026-04-21T15": [
+      {
+        "newsId": "b9a203a1-ea21-4080-ac9e-0003951ca8f1",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "BEML Limited has secured an order from the MOD for supply of Trawl Assemblies",
+        "announcedAt": "2026-04-21T15:51:07.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2026-04-21T15:51:07.27"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-21T15:02:02.232+05:30",
-    "checksum": "539a1c000a7be6f08587af192bdbaf2786255454dc5d70373fa3d5c2ea387154",
-    "totalAnnouncements": 2,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-21T15:59:03.347+05:30",
+    "checksum": "7b2c97f14b435f3a737519b070a465b5ee1180c6fcaff8dbba57e40733407312",
+    "totalAnnouncements": 3,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-21/awards-150201.json"
+    "rawPayloadPath": "data/raw/2026-04-21/awards-155902.json"
   }
 }
