@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-22 15:00 | Bharat Electronics Ltd | 500049 | BEL receives orders worth Rs. 569 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 22 Apr 2026 - 15:48 |
+| 2026-04-22 15:00 | Hindustan Tin Works Ltd-$ | 530315 | Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding order issued by Commissioner (Appeals-I), CGST, Delhi. ([Link](https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/)) | Likely Positive | 22 Apr 2026 - 15:39 |
+| 2026-04-22 15:00 | Atishay Ltd | 538713 | The Company has secured a work order from the office of CHiPS, Chhattisgarh for Aadhaar Services project -Order value Rs. 1.90 Crores inclusive of taxes. For more details kindly refer .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 22 Apr 2026 - 15:30 |
 | 2026-04-22 13:00 | Premier Explosives Ltd | 526247 | Intimation of receipt of export orders for INR 350.23 crores. ([Link](https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/)) | Likely Positive | 22 Apr 2026 - 13:20 |
 | 2026-04-22 11:00 | United Drilling Tools Ltd | 522014 | Award of Order from Vedanta Limited (Cairn Oil & Gas) ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 22 Apr 2026 - 11:59 |
 | 2026-04-22 11:00 | Speciality Medicines Ltd | 544738 | We hereby submit the Corporate annoucement on order booking. ([Link](https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/)) | Likely Positive | 22 Apr 2026 - 11:03 |
 
-_Last updated: 22 Apr 2026 - 15:01 | Entries: 3 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
+_Last updated: 22 Apr 2026 - 15:59 | Entries: 6 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
 
 <!-- snapshot:end -->
 

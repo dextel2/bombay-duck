@@ -31,14 +31,43 @@
         "url": "https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/",
         "rawTime": "2026-04-22T13:20:09.92"
       }
+    ],
+    "2026-04-22T15": [
+      {
+        "newsId": "e9b24a4f-6ffb-48bf-af4d-015aa1eaf04c",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives orders worth Rs. 569 Crore.",
+        "announcedAt": "2026-04-22T15:48:55.527+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-04-22T15:48:55.527"
+      },
+      {
+        "newsId": "946bd02d-244d-4ea8-98da-58e8fbcafd4e",
+        "scripCode": 530315,
+        "shortName": "Hindustan Tin Works Ltd-$",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding order issued by Commissioner (Appeals-I), CGST, Delhi.",
+        "announcedAt": "2026-04-22T15:39:01.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/",
+        "rawTime": "2026-04-22T15:39:01.507"
+      },
+      {
+        "newsId": "63a6d01a-565c-4067-a6b1-d6af8c16a2c4",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has secured a work order from the office of CHiPS, Chhattisgarh for Aadhaar Services project -Order value Rs. 1.90 Crores inclusive of taxes. For more details kindly refer ....",
+        "announcedAt": "2026-04-22T15:30:15.967+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-04-22T15:30:15.967"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-22T15:01:17.232+05:30",
-    "checksum": "f7e714caa300140bfaeb44a1a4424234ca2b0d61c41ce1c46acd1a1b66b29861",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-22T15:59:13.791+05:30",
+    "checksum": "a1048cb0bd21ad58d08b072fd9074ef1d03556a5af1e7c4213035c33b7e10b00",
+    "totalAnnouncements": 6,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-22/awards-150116.json"
+    "rawPayloadPath": "data/raw/2026-04-22/awards-155913.json"
   }
 }
