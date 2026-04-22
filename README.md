@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-21 IST)
+### Today's Awarded Orders (2026-04-22 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-04-21 15:00 | BEML Ltd | 500048 | BEML Limited has secured an order from the MOD for supply of Trawl Assemblies ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 21 Apr 2026 - 15:51 |
-| 2026-04-21 12:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Tushti Homes LLP ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 21 Apr 2026 - 12:54 |
-| 2026-04-21 12:00 | Saatvik Green Energy Ltd | 544526 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 21 Apr 2026 - 12:41 |
+_No award announcements have been captured yet today._
 
-_Last updated: 21 Apr 2026 - 15:59 | Entries: 3 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-21.json)_
+_Last updated: 22 Apr 2026 - 09:31 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
 
 <!-- snapshot:end -->
 
