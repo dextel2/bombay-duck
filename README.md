@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-22 13:00 | Premier Explosives Ltd | 526247 | Intimation of receipt of export orders for INR 350.23 crores. ([Link](https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/)) | Likely Positive | 22 Apr 2026 - 13:20 |
 | 2026-04-22 11:00 | United Drilling Tools Ltd | 522014 | Award of Order from Vedanta Limited (Cairn Oil & Gas) ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 22 Apr 2026 - 11:59 |
 | 2026-04-22 11:00 | Speciality Medicines Ltd | 544738 | We hereby submit the Corporate annoucement on order booking. ([Link](https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/)) | Likely Positive | 22 Apr 2026 - 11:03 |
 
-_Last updated: 22 Apr 2026 - 13:02 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
+_Last updated: 22 Apr 2026 - 14:04 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
 
 <!-- snapshot:end -->
 

@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/",
         "rawTime": "2026-04-22T11:03:34.25"
       }
+    ],
+    "2026-04-22T13": [
+      {
+        "newsId": "765fe231-6b4f-46df-93b6-fc5275a2d630",
+        "scripCode": 526247,
+        "shortName": "Premier Explosives Ltd",
+        "headline": "Intimation of receipt of export orders for INR 350.23 crores.",
+        "announcedAt": "2026-04-22T13:20:09.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/",
+        "rawTime": "2026-04-22T13:20:09.92"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-22T13:02:53.210+05:30",
-    "checksum": "a2bbd696f9098561dbbf1c4d5830097ca5743c90f5e0cec4a9a3b31c8e0b55d5",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-22T14:04:05.290+05:30",
+    "checksum": "f7e714caa300140bfaeb44a1a4424234ca2b0d61c41ce1c46acd1a1b66b29861",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-22/awards-130252.json"
+    "rawPayloadPath": "data/raw/2026-04-22/awards-140404.json"
   }
 }
