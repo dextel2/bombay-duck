@@ -3,6 +3,15 @@
   "buckets": {
     "2026-04-22T11": [
       {
+        "newsId": "0a0c160e-dc19-4f76-8ce5-d230c466338e",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of Order from Vedanta Limited (Cairn Oil & Gas)",
+        "announcedAt": "2026-04-22T11:59:11.517+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-04-22T11:59:11.517"
+      },
+      {
         "newsId": "5658a37f-bdbb-432a-8ff0-d063ed2244a8",
         "scripCode": 544738,
         "shortName": "Speciality Medicines Ltd",
@@ -14,11 +23,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-22T11:12:58.913+05:30",
-    "checksum": "4b7458da697827b267bf17a66f5d79b553d0e85ee63321eef6f078e76d62a899",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-22T12:06:00.308+05:30",
+    "checksum": "a2bbd696f9098561dbbf1c4d5830097ca5743c90f5e0cec4a9a3b31c8e0b55d5",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-22/awards-111257.json"
+    "rawPayloadPath": "data/raw/2026-04-22/awards-120559.json"
   }
 }

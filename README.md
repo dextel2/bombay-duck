@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-22 11:00 | United Drilling Tools Ltd | 522014 | Award of Order from Vedanta Limited (Cairn Oil & Gas) ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 22 Apr 2026 - 11:59 |
 | 2026-04-22 11:00 | Speciality Medicines Ltd | 544738 | We hereby submit the Corporate annoucement on order booking. ([Link](https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/)) | Likely Positive | 22 Apr 2026 - 11:03 |
 
-_Last updated: 22 Apr 2026 - 11:12 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
+_Last updated: 22 Apr 2026 - 12:06 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
 
 <!-- snapshot:end -->
 
