@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-22 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-22 11:00 | Speciality Medicines Ltd | 544738 | We hereby submit the Corporate annoucement on order booking. ([Link](https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/)) | Likely Positive | 22 Apr 2026 - 11:03 |
 
-_Last updated: 22 Apr 2026 - 09:31 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
+_Last updated: 22 Apr 2026 - 11:12 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-22.json)_
 
 <!-- snapshot:end -->
 

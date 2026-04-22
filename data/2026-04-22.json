@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-22",
-  "buckets": {},
+  "buckets": {
+    "2026-04-22T11": [
+      {
+        "newsId": "5658a37f-bdbb-432a-8ff0-d063ed2244a8",
+        "scripCode": 544738,
+        "shortName": "Speciality Medicines Ltd",
+        "headline": "We hereby submit the Corporate annoucement on order booking.",
+        "announcedAt": "2026-04-22T11:03:34.250+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/",
+        "rawTime": "2026-04-22T11:03:34.25"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-22T09:31:13.100+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-22T11:12:58.913+05:30",
+    "checksum": "4b7458da697827b267bf17a66f5d79b553d0e85ee63321eef6f078e76d62a899",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-22/awards-093112.json"
+    "rawPayloadPath": "data/raw/2026-04-22/awards-111257.json"
   }
 }
