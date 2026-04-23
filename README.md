@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-23 12:00 | Diffusion Engineers Ltd | 544264 | Intimation for Receipt of an order of about INR 09.88 Crores( approx). ([Link](https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/)) | Likely Positive | 23 Apr 2026 - 12:41 |
+| 2026-04-23 12:00 | Speciality Medicines Ltd | 544738 | We hereby submit the Corporate announcement on order booking. ([Link](https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/)) | Likely Positive | 23 Apr 2026 - 12:07 |
 | 2026-04-23 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Significant*) for Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Apr 2026 - 09:40 |
 
-_Last updated: 23 Apr 2026 - 12:06 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-23.json)_
+_Last updated: 23 Apr 2026 - 13:03 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-23.json)_
 
 <!-- snapshot:end -->
 

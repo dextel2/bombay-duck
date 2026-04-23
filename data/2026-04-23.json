@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-04-23T09:40:16.047"
       }
+    ],
+    "2026-04-23T12": [
+      {
+        "newsId": "bc8f38df-e8f6-4dcd-be23-a5b6828405ed",
+        "scripCode": 544264,
+        "shortName": "Diffusion Engineers Ltd",
+        "headline": "Intimation for Receipt of an order of about INR 09.88 Crores( approx).",
+        "announcedAt": "2026-04-23T12:41:36.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/",
+        "rawTime": "2026-04-23T12:41:36.697"
+      },
+      {
+        "newsId": "aebf38a3-a1ad-474c-97e4-ab016959da9a",
+        "scripCode": 544738,
+        "shortName": "Speciality Medicines Ltd",
+        "headline": "We hereby submit the Corporate announcement on order booking.",
+        "announcedAt": "2026-04-23T12:07:29.000+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/",
+        "rawTime": "2026-04-23T12:07:29"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-23T12:06:45.943+05:30",
-    "checksum": "16c2cbdf6b1bcfebd603f93cda77545c86d1d47749dd539bad406a241c4c354c",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-23T13:03:20.045+05:30",
+    "checksum": "86229ab0010d42aa1d492b2ab6581b90d6dc4911e74aaf7ccc61ca14aea2165a",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-23/awards-120645.json"
+    "rawPayloadPath": "data/raw/2026-04-23/awards-130319.json"
   }
 }
