@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/",
         "rawTime": "2026-04-23T12:07:29"
       }
+    ],
+    "2026-04-23T14": [
+      {
+        "newsId": "a1acb87b-20df-4102-ad24-80ccb5e3216b",
+        "scripCode": 532940,
+        "shortName": "J. Kumar Infraprojects Ltd",
+        "headline": "Pursuant to Regulation 30(4) of SEBI Listing Regulations, 2015 we are pleased to inform you that company is in receipt of Letter of Acceptance worth Rs. 2487.65 crores. The details of ....",
+        "announcedAt": "2026-04-23T14:19:36.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/j-kumar-infraprojects-ltd/jkil/532940/",
+        "rawTime": "2026-04-23T14:19:36.43"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-23T14:04:59.879+05:30",
-    "checksum": "86229ab0010d42aa1d492b2ab6581b90d6dc4911e74aaf7ccc61ca14aea2165a",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-23T15:02:52.511+05:30",
+    "checksum": "bf75984dff76bb07ed86900302a7859a0fa294e4bf5928893bc3d768ca546726",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-23/awards-140459.json"
+    "rawPayloadPath": "data/raw/2026-04-23/awards-150251.json"
   }
 }
