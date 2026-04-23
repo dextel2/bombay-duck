@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-23",
-  "buckets": {},
+  "buckets": {
+    "2026-04-23T09": [
+      {
+        "newsId": "b8f46434-dee8-43e7-8668-24267bb35008",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Orders (Significant*) for Buildings & Factories Business",
+        "announcedAt": "2026-04-23T09:40:16.047+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-04-23T09:40:16.047"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-23T09:32:37.237+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-23T11:14:53.271+05:30",
+    "checksum": "16c2cbdf6b1bcfebd603f93cda77545c86d1d47749dd539bad406a241c4c354c",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-23/awards-093236.json"
+    "rawPayloadPath": "data/raw/2026-04-23/awards-111452.json"
   }
 }
