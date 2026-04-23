@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-23 12:00 | Speciality Medicines Ltd | 544738 | We hereby submit the Corporate announcement on order booking. ([Link](https://www.bseindia.com/stock-share-price/speciality-medicines-ltd/spml/544738/)) | Likely Positive | 23 Apr 2026 - 12:07 |
 | 2026-04-23 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Significant*) for Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Apr 2026 - 09:40 |
 
-_Last updated: 23 Apr 2026 - 15:02 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-23.json)_
+_Last updated: 23 Apr 2026 - 16:00 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-23.json)_
 
 <!-- snapshot:end -->
 
