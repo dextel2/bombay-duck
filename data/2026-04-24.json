@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/atul-auto-ltd/atulauto/531795/",
         "rawTime": "2026-04-24T08:48:40.743"
       }
+    ],
+    "2026-04-24T12": [
+      {
+        "newsId": "df0b9d9f-b193-4dc5-8775-8ffabfc7f317",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid to the Ministry of Energy and Water, the Republic of Angola, (the Authority) for the Project viz. Electricity ....",
+        "announcedAt": "2026-04-24T12:41:50.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-04-24T12:41:50.597"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-24T12:07:26.903+05:30",
-    "checksum": "0ab48de0d1795f5b69873906465bf861125caeac0c12d2c5404a1a80e4764a67",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-24T13:05:27.900+05:30",
+    "checksum": "edd191ed9ad73a7576a2b637921d9749a8c6cfb45af4b0fea6e869334086141a",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-24/awards-120726.json"
+    "rawPayloadPath": "data/raw/2026-04-24/awards-130527.json"
   }
 }
