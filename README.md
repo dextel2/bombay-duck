@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-24 08:00 | Atul Auto Ltd-$ | 531795 | Atul Auto and Exponent Signed Contract/ MOU for the manufacture and supply of 15000 electric three-wheelers in a period of 3 years from state approval to vehicles. ([Link](https://www.bseindia.com/stock-share-price/atul-auto-ltd/atulauto/531795/)) | Likely Positive | 24 Apr 2026 - 08:48 |
 
-_Last updated: 24 Apr 2026 - 09:34 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-24.json)_
+_Last updated: 24 Apr 2026 - 11:17 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-24.json)_
 
 <!-- snapshot:end -->
 
