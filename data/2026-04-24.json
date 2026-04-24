@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
         "rawTime": "2026-04-24T12:41:50.597"
       }
+    ],
+    "2026-04-24T13": [
+      {
+        "newsId": "2966bf80-7b66-49ec-bcc0-d3150e6add0b",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015.",
+        "announcedAt": "2026-04-24T13:06:51.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-04-24T13:06:51.81"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-24T13:05:27.900+05:30",
-    "checksum": "edd191ed9ad73a7576a2b637921d9749a8c6cfb45af4b0fea6e869334086141a",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-24T14:10:02.856+05:30",
+    "checksum": "b4ee7f0b0c6b3131382b016c223c32f3679cb50c6e76fa55351bea493306731e",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-24/awards-130527.json"
+    "rawPayloadPath": "data/raw/2026-04-24/awards-141001.json"
   }
 }
