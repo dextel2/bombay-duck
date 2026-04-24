@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
         "rawTime": "2026-04-24T13:06:51.81"
       }
+    ],
+    "2026-04-24T15": [
+      {
+        "newsId": "73b79c7b-6735-4330-942e-1d35c8dcbe48",
+        "scripCode": 543965,
+        "shortName": "TVS Supply Chain Solutions Ltd",
+        "headline": "TVS Supply Chain Solutions Limited (\"Company\") has received an order from Income Tax Department, Assessment Authority.",
+        "announcedAt": "2026-04-24T15:57:48.197+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/",
+        "rawTime": "2026-04-24T15:57:48.197"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-24T15:02:50.158+05:30",
-    "checksum": "b4ee7f0b0c6b3131382b016c223c32f3679cb50c6e76fa55351bea493306731e",
-    "totalAnnouncements": 3,
-    "requestCount": 6,
+    "lastUpdated": "2026-04-24T16:00:52.364+05:30",
+    "checksum": "3438dc5436597686832c278af2ee42a52d6380fc255ad77bd4654d7fd1cc8f43",
+    "totalAnnouncements": 4,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-24/awards-150249.json"
+    "rawPayloadPath": "data/raw/2026-04-24/awards-160051.json"
   }
 }
