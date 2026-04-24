@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-24",
+  "buckets": {
+    "2026-04-24T08": [
+      {
+        "newsId": "42ea7d86-be7f-48ae-85b4-4e372717c5d8",
+        "scripCode": 531795,
+        "shortName": "Atul Auto Ltd-$",
+        "headline": "Atul Auto and Exponent Signed Contract/ MOU for the manufacture and supply of 15000 electric three-wheelers in a period of 3 years from state approval to vehicles.",
+        "announcedAt": "2026-04-24T08:48:40.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atul-auto-ltd/atulauto/531795/",
+        "rawTime": "2026-04-24T08:48:40.743"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-24T09:34:49.654+05:30",
+    "checksum": "0ab48de0d1795f5b69873906465bf861125caeac0c12d2c5404a1a80e4764a67",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-24/awards-093449.json"
+  }
+}
