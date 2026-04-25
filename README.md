@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-25 10:00 | Shayona Engineering Ltd | 544686 | Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we wish to inform you that the company has received Purchase Order from M/s. Rahul Ferromet & Engineering Pvt. Ltd. fro .... ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 25 Apr 2026 - 10:34 |
 
-_Last updated: 25 Apr 2026 - 11:06 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-25.json)_
+_Last updated: 25 Apr 2026 - 11:59 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-25.json)_
 
 <!-- snapshot:end -->
 
