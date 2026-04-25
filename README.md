@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-24 IST)
+### Today's Awarded Orders (2026-04-25 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-04-24 15:00 | TVS Supply Chain Solutions Ltd | 543965 | TVS Supply Chain Solutions Limited ("Company") has received an order from Income Tax Department, Assessment Authority. ([Link](https://www.bseindia.com/stock-share-price/tvs-supply-chain-solutions-ltd/tvsscs/543965/)) | Likely Positive | 24 Apr 2026 - 15:57 |
-| 2026-04-24 13:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015. ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 24 Apr 2026 - 13:06 |
-| 2026-04-24 12:00 | Ashoka Buildcon Ltd | 533271 | Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid to the Ministry of Energy and Water, the Republic of Angola, (the Authority) for the Project viz. Electricity .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 24 Apr 2026 - 12:41 |
-| 2026-04-24 08:00 | Atul Auto Ltd-$ | 531795 | Atul Auto and Exponent Signed Contract/ MOU for the manufacture and supply of 15000 electric three-wheelers in a period of 3 years from state approval to vehicles. ([Link](https://www.bseindia.com/stock-share-price/atul-auto-ltd/atulauto/531795/)) | Likely Positive | 24 Apr 2026 - 08:48 |
+_No award announcements have been captured yet today._
 
-_Last updated: 24 Apr 2026 - 16:00 | Entries: 4 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-04-24.json)_
+_Last updated: 25 Apr 2026 - 09:27 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-25.json)_
 
 <!-- snapshot:end -->
 
