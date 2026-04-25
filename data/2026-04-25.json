@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-25",
-  "buckets": {},
+  "buckets": {
+    "2026-04-25T10": [
+      {
+        "newsId": "59e4afd3-9583-4637-a41e-4621e0ef7fde",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we wish to inform you that the company has received Purchase Order from M/s. Rahul Ferromet & Engineering Pvt. Ltd. fro ....",
+        "announcedAt": "2026-04-25T10:34:56.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-04-25T10:34:56.85"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-25T10:26:00.116+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-25T11:06:55.691+05:30",
+    "checksum": "ddbce57be6db25b2ab03c57387ec888ba0a99547b703b0e0b0bc1a53983c8c26",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-25/awards-102559.json"
+    "rawPayloadPath": "data/raw/2026-04-25/awards-110654.json"
   }
 }
