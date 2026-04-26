@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-04-26",
-  "buckets": {},
+  "buckets": {
+    "2026-04-26T13": [
+      {
+        "newsId": "31ca62bd-077f-41a5-839e-4009700c3a60",
+        "scripCode": 517421,
+        "shortName": "Butterfly Gandhimathi Appliances Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-04-26T13:12:07.690+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/",
+        "rawTime": "2026-04-26T13:12:07.69"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-04-26T13:01:28.609+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-26T13:55:50.028+05:30",
+    "checksum": "87d8171c8c3d764d643670a7ae89c7b7191e6acce4490f4fc4acbce435f57b30",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-26/awards-130127.json"
+    "rawPayloadPath": "data/raw/2026-04-26/awards-135549.json"
   }
 }

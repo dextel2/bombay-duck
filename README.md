@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-04-26 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-04-26 13:00 | Butterfly Gandhimathi Appliances Ltd | 517421 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/)) | Likely Positive | 26 Apr 2026 - 13:12 |
 
-_Last updated: 26 Apr 2026 - 13:01 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-26.json)_
+_Last updated: 26 Apr 2026 - 13:55 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-26.json)_
 
 <!-- snapshot:end -->
 
