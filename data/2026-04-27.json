@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
         "rawTime": "2026-04-27T09:03:14.01"
       }
+    ],
+    "2026-04-27T13": [
+      {
+        "newsId": "18c2af5a-b0d6-4544-bae7-910adc144504",
+        "scripCode": 544121,
+        "shortName": "Rudra Gas Enterprise Ltd",
+        "headline": "Corrections to Announcement dated 21st April, 2026 in respect of contract for Long Term Supply.",
+        "announcedAt": "2026-04-27T13:55:18.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/",
+        "rawTime": "2026-04-27T13:55:18.023"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-27T12:39:26.400+05:30",
-    "checksum": "7555404cc82c1759fa26f5899c90290e662ca7bbe34bc3f9a29e576e2eb81836",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-27T14:19:47.129+05:30",
+    "checksum": "595c8f7a88963d00ca001c58857a501d246c40624ce97f50d85e9e00e9559b25",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-27/awards-123925.json"
+    "rawPayloadPath": "data/raw/2026-04-27/awards-141946.json"
   }
 }

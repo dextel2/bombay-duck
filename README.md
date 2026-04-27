@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-27 13:00 | Rudra Gas Enterprise Ltd | 544121 | Corrections to Announcement dated 21st April, 2026 in respect of contract for Long Term Supply. ([Link](https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/)) | Likely Positive | 27 Apr 2026 - 13:55 |
 | 2026-04-27 09:00 | Garment Mantra Lifestyle Ltd | 539216 | Pursuant to Regulation 30 of SEBI(LODR) 2015 the receipt of export order by our wholly owned subsidiary is submitted ([Link](https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/)) | Likely Positive | 27 Apr 2026 - 09:21 |
 | 2026-04-27 09:00 | Transformers and Rectifiers (India) Ltd | 532928 | Export Order Received. ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 27 Apr 2026 - 09:03 |
 
-_Last updated: 27 Apr 2026 - 12:39 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-27.json)_
+_Last updated: 27 Apr 2026 - 14:19 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-27.json)_
 
 <!-- snapshot:end -->
 
