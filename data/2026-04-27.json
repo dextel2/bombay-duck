@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-04-27",
+  "buckets": {
+    "2026-04-27T09": [
+      {
+        "newsId": "6ece9d59-0ba6-4caf-8760-e9c1a7705ca5",
+        "scripCode": 539216,
+        "shortName": "Garment Mantra Lifestyle Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) 2015 the receipt of export order by our wholly owned subsidiary is submitted",
+        "announcedAt": "2026-04-27T09:21:31.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/",
+        "rawTime": "2026-04-27T09:21:31.84"
+      },
+      {
+        "newsId": "9b695187-f5fc-46ad-b446-014255ca1ddf",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "Export Order Received.",
+        "announcedAt": "2026-04-27T09:03:14.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-04-27T09:03:14.01"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-27T09:42:45.530+05:30",
+    "checksum": "7555404cc82c1759fa26f5899c90290e662ca7bbe34bc3f9a29e576e2eb81836",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-27/awards-094244.json"
+  }
+}
