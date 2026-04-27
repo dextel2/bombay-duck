@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/",
         "rawTime": "2026-04-27T13:55:18.023"
       }
+    ],
+    "2026-04-27T14": [
+      {
+        "newsId": "2c68a452-da3d-44af-8872-f019ef8a3794",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Western Railway.",
+        "announcedAt": "2026-04-27T14:39:39.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-04-27T14:39:39.43"
+      },
+      {
+        "newsId": "173f40c6-6f89-415e-83fc-91f6b334cc71",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please find the attached",
+        "announcedAt": "2026-04-27T14:29:03.340+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-04-27T14:29:03.34"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-27T14:19:47.129+05:30",
-    "checksum": "595c8f7a88963d00ca001c58857a501d246c40624ce97f50d85e9e00e9559b25",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-27T15:14:57.507+05:30",
+    "checksum": "3843e7d9b794599d6e0064f8e67d1cecca727f52dd4fe49696719613a27eee98",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-27/awards-141946.json"
+    "rawPayloadPath": "data/raw/2026-04-27/awards-151456.json"
   }
 }
