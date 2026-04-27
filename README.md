@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-27 09:00 | Garment Mantra Lifestyle Ltd | 539216 | Pursuant to Regulation 30 of SEBI(LODR) 2015 the receipt of export order by our wholly owned subsidiary is submitted ([Link](https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/)) | Likely Positive | 27 Apr 2026 - 09:21 |
 | 2026-04-27 09:00 | Transformers and Rectifiers (India) Ltd | 532928 | Export Order Received. ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 27 Apr 2026 - 09:03 |
 
-_Last updated: 27 Apr 2026 - 09:42 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-27.json)_
+_Last updated: 27 Apr 2026 - 11:30 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-27.json)_
 
 <!-- snapshot:end -->
 
