@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/",
         "rawTime": "2026-04-28T11:03:56.69"
       }
+    ],
+    "2026-04-28T13": [
+      {
+        "newsId": "b865f403-2b41-4284-ace7-83ebec861aff",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-04-28T13:49:00.060+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-04-28T13:49:00.06"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-28T13:16:39.785+05:30",
-    "checksum": "9db55929274bdb7b6259a04982f68a808c463861de8fd7267249f2dc1a6f6624",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-28T14:18:17.132+05:30",
+    "checksum": "c48af3e2ea92488e127de6819043ae16bdc015dd8883463da2983186b6d67872",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-28/awards-131638.json"
+    "rawPayloadPath": "data/raw/2026-04-28/awards-141816.json"
   }
 }
