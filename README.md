@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-27 IST)
+### Today's Awarded Orders (2026-04-28 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-04-27 14:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Western Railway. ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 27 Apr 2026 - 14:39 |
-| 2026-04-27 14:00 | Power Mech Projects Ltd | 539302 | Please find the attached ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 27 Apr 2026 - 14:29 |
-| 2026-04-27 13:00 | Rudra Gas Enterprise Ltd | 544121 | Corrections to Announcement dated 21st April, 2026 in respect of contract for Long Term Supply. ([Link](https://www.bseindia.com/stock-share-price/rudra-gas-enterprise-ltd/rudragas/544121/)) | Likely Positive | 27 Apr 2026 - 13:55 |
-| 2026-04-27 09:00 | Garment Mantra Lifestyle Ltd | 539216 | Pursuant to Regulation 30 of SEBI(LODR) 2015 the receipt of export order by our wholly owned subsidiary is submitted ([Link](https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/)) | Likely Positive | 27 Apr 2026 - 09:21 |
-| 2026-04-27 09:00 | Transformers and Rectifiers (India) Ltd | 532928 | Export Order Received. ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 27 Apr 2026 - 09:03 |
+_No award announcements have been captured yet today._
 
-_Last updated: 27 Apr 2026 - 16:09 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-27.json)_
+_Last updated: 28 Apr 2026 - 09:45 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-28.json)_
 
 <!-- snapshot:end -->
 
