@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-28 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 28 Apr 2026 - 14:55 |
 | 2026-04-28 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 28 Apr 2026 - 13:49 |
 | 2026-04-28 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended from time to time and Company''s Policy for determining .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 28 Apr 2026 - 11:03 |
 
-_Last updated: 28 Apr 2026 - 14:18 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-28.json)_
+_Last updated: 28 Apr 2026 - 15:16 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-28.json)_
 
 <!-- snapshot:end -->
 

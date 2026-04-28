@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-04-28T13:49:00.06"
       }
+    ],
+    "2026-04-28T14": [
+      {
+        "newsId": "61305e97-d7e0-45b1-a810-aa224a51ed50",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-04-28T14:55:41.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-04-28T14:55:41.823"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-28T14:18:17.132+05:30",
-    "checksum": "c48af3e2ea92488e127de6819043ae16bdc015dd8883463da2983186b6d67872",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-04-28T15:16:16.125+05:30",
+    "checksum": "767a1d57aea859d700d889fb33e86474f2c924854b5b347530899b3f81e2c3e0",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-28/awards-141816.json"
+    "rawPayloadPath": "data/raw/2026-04-28/awards-151615.json"
   }
 }
