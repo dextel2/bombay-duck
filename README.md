@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-04-28 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended from time to time and Company''s Policy for determining .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 28 Apr 2026 - 11:03 |
 
-_Last updated: 28 Apr 2026 - 11:30 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-28.json)_
+_Last updated: 28 Apr 2026 - 13:16 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-28.json)_
 
 <!-- snapshot:end -->
 
