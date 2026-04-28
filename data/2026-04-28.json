@@ -33,14 +33,36 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-04-28T14:55:41.823"
       }
+    ],
+    "2026-04-28T16": [
+      {
+        "newsId": "354ed56b-fd9b-4d89-b468-4245e44711d8",
+        "scripCode": 517421,
+        "shortName": "Butterfly Gandhimathi Appliances Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-04-28T16:07:45.013+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/",
+        "rawTime": "2026-04-28T16:07:45.013"
+      }
+    ],
+    "2026-04-28T15": [
+      {
+        "newsId": "af39e9dc-39be-4450-b699-20bd15f81197",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Pursuant to Reg 30 of SEBI (LODR) Regulations, 2015, we hereby inform you that the Company has received a Purchase Order from M/s. B.K. Grinding House for supply of engineering components.",
+        "announcedAt": "2026-04-28T15:30:01.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-04-28T15:30:01.743"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-28T15:16:16.125+05:30",
-    "checksum": "767a1d57aea859d700d889fb33e86474f2c924854b5b347530899b3f81e2c3e0",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-28T16:09:14.606+05:30",
+    "checksum": "98abf205a1de96de42f4e3c6e2fb3cafeedc74bf44a1e6428f632838409fd994",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-28/awards-151615.json"
+    "rawPayloadPath": "data/raw/2026-04-28/awards-160913.json"
   }
 }
