@@ -22,14 +22,36 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-04-29T10:03:48.507"
       }
+    ],
+    "2026-04-29T12": [
+      {
+        "newsId": "e9fc2151-5a7e-471e-affb-ebd41d269904",
+        "scripCode": 544042,
+        "shortName": "Bajel Projects Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) for Bagging of order for Tramsmission Line.",
+        "announcedAt": "2026-04-29T12:03:41.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
+        "rawTime": "2026-04-29T12:03:41.01"
+      }
+    ],
+    "2026-04-29T11": [
+      {
+        "newsId": "ab369f8b-0826-43f5-86df-95c45828bbfd",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for Acceptance Letter received from Ministry of Environmental Protection and Agriculture of Georgia (MEPA), (Country: Georgia)",
+        "announcedAt": "2026-04-29T11:57:30.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
+        "rawTime": "2026-04-29T11:57:30.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-29T11:29:37.458+05:30",
-    "checksum": "cf194a21171ce31896b822cd5969c4250885d01a3bdce77cc19f9d6459931273",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-29T12:33:10.563+05:30",
+    "checksum": "330330441fa440a9e6476a51f71d47f6c998498a8940b5dd73ffcdfda047148d",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-29/awards-112936.json"
+    "rawPayloadPath": "data/raw/2026-04-29/awards-123309.json"
   }
 }
