@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
         "rawTime": "2026-04-29T11:57:30.107"
       }
+    ],
+    "2026-04-29T15": [
+      {
+        "newsId": "ec6812ee-017e-4771-90fd-2cef3cf376bc",
+        "scripCode": 504741,
+        "shortName": "Indian Hume Pipe Company Ltd",
+        "headline": "Letter of work order as per attached letter",
+        "announcedAt": "2026-04-29T15:31:09.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indian-hume-pipe-company-ltd/indianhume/504741/",
+        "rawTime": "2026-04-29T15:31:09.72"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-29T15:11:05.598+05:30",
-    "checksum": "22009483b1ef69b1c678cedbd15d4f2777a01d914b5882ba440f9780c6c79b99",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-04-29T16:06:00.497+05:30",
+    "checksum": "a67719a76c01708ab49666c55cb63aa25e77ec720fb9b9ef9caeccb9441ac261",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-29/awards-151104.json"
+    "rawPayloadPath": "data/raw/2026-04-29/awards-160559.json"
   }
 }
