@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/",
         "rawTime": "2026-04-29T08:43:32.48"
       }
+    ],
+    "2026-04-29T10": [
+      {
+        "newsId": "ec6aed2b-dc91-4d9d-907f-0942cdd23cdc",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Announcement under Regulation 30 (LODR)- Receipt of multiple Orders aggregating to Rs. 125.30 Crs. - 75 MW Balance of System (BOS)",
+        "announcedAt": "2026-04-29T10:03:48.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-04-29T10:03:48.507"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-29T09:42:56.579+05:30",
-    "checksum": "ab2296351fa1483e9f41115f465507b022973dc7121da46954d992dae1934071",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-29T11:29:37.458+05:30",
+    "checksum": "cf194a21171ce31896b822cd5969c4250885d01a3bdce77cc19f9d6459931273",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-29/awards-094256.json"
+    "rawPayloadPath": "data/raw/2026-04-29/awards-112936.json"
   }
 }
