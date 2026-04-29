@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-29",
+  "buckets": {
+    "2026-04-29T08": [
+      {
+        "newsId": "40400848-7226-4e25-897c-8049a6354dcc",
+        "scripCode": 506854,
+        "shortName": "TANFAC Industries Ltd-$",
+        "headline": "Disclosure under Regulation 30 of SEBI LODR - Signing of Agreement",
+        "announcedAt": "2026-04-29T08:43:32.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/",
+        "rawTime": "2026-04-29T08:43:32.48"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-29T09:42:56.579+05:30",
+    "checksum": "ab2296351fa1483e9f41115f465507b022973dc7121da46954d992dae1934071",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-29/awards-094256.json"
+  }
+}

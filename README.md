@@ -18,17 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-04-28 IST)
+### Today's Awarded Orders (2026-04-29 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-04-28 16:00 | Butterfly Gandhimathi Appliances Ltd | 517421 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/butterfly-gandhimathi-appliances-ltd/butterfly/517421/)) | Likely Positive | 28 Apr 2026 - 16:07 |
-| 2026-04-28 15:00 | Shayona Engineering Ltd | 544686 | Pursuant to Reg 30 of SEBI (LODR) Regulations, 2015, we hereby inform you that the Company has received a Purchase Order from M/s. B.K. Grinding House for supply of engineering components. ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 28 Apr 2026 - 15:30 |
-| 2026-04-28 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 28 Apr 2026 - 14:55 |
-| 2026-04-28 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 28 Apr 2026 - 13:49 |
-| 2026-04-28 11:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 as amended from time to time and Company''s Policy for determining .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 28 Apr 2026 - 11:03 |
+| 2026-04-29 08:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under Regulation 30 of SEBI LODR - Signing of Agreement ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Neutral | 29 Apr 2026 - 08:43 |
 
-_Last updated: 28 Apr 2026 - 16:09 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-28.json)_
+_Last updated: 29 Apr 2026 - 09:42 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-04-29.json)_
 
 <!-- snapshot:end -->
 
