@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-29 10:00 | Bondada Engineering Ltd | 543971 | Announcement under Regulation 30 (LODR)- Receipt of multiple Orders aggregating to Rs. 125.30 Crs. - 75 MW Balance of System (BOS) ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 29 Apr 2026 - 10:03 |
 | 2026-04-29 08:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under Regulation 30 of SEBI LODR - Signing of Agreement ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Neutral | 29 Apr 2026 - 08:43 |
 
-_Last updated: 29 Apr 2026 - 14:15 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-29.json)_
+_Last updated: 29 Apr 2026 - 15:11 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-29.json)_
 
 <!-- snapshot:end -->
 
