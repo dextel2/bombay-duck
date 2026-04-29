@@ -25,6 +25,15 @@
     ],
     "2026-04-29T12": [
       {
+        "newsId": "b739ec84-0a91-47ee-8a0c-dc2f1c89a5ff",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation with regards to \"Shelter Pharma\" secured order from Taha Drugs & Chemicals Co. Ltd pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015.",
+        "announcedAt": "2026-04-29T12:50:01.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-04-29T12:50:01.58"
+      },
+      {
         "newsId": "e9fc2151-5a7e-471e-affb-ebd41d269904",
         "scripCode": 544042,
         "shortName": "Bajel Projects Ltd",
@@ -47,11 +56,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-29T12:33:10.563+05:30",
-    "checksum": "330330441fa440a9e6476a51f71d47f6c998498a8940b5dd73ffcdfda047148d",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-29T14:15:06.283+05:30",
+    "checksum": "22009483b1ef69b1c678cedbd15d4f2777a01d914b5882ba440f9780c6c79b99",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-29/awards-123309.json"
+    "rawPayloadPath": "data/raw/2026-04-29/awards-141505.json"
   }
 }

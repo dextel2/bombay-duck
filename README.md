@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-29 12:00 | Shelter Pharma Ltd | 543963 | Intimation with regards to "Shelter Pharma" secured order from Taha Drugs & Chemicals Co. Ltd pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 29 Apr 2026 - 12:50 |
 | 2026-04-29 12:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) for Bagging of order for Tramsmission Line. ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 29 Apr 2026 - 12:03 |
 | 2026-04-29 11:00 | Ceinsys Tech Ltd | 538734 | Intimation for Acceptance Letter received from Ministry of Environmental Protection and Agriculture of Georgia (MEPA), (Country: Georgia) ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/)) | Neutral | 29 Apr 2026 - 11:57 |
 | 2026-04-29 10:00 | Bondada Engineering Ltd | 543971 | Announcement under Regulation 30 (LODR)- Receipt of multiple Orders aggregating to Rs. 125.30 Crs. - 75 MW Balance of System (BOS) ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 29 Apr 2026 - 10:03 |
 | 2026-04-29 08:00 | TANFAC Industries Ltd-$ | 506854 | Disclosure under Regulation 30 of SEBI LODR - Signing of Agreement ([Link](https://www.bseindia.com/stock-share-price/tanfac-industries-ltd/tanfacind/506854/)) | Neutral | 29 Apr 2026 - 08:43 |
 
-_Last updated: 29 Apr 2026 - 12:33 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-29.json)_
+_Last updated: 29 Apr 2026 - 14:15 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-04-29.json)_
 
 <!-- snapshot:end -->
 
