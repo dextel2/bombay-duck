@@ -33,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-04-30 10:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Apr 2026 - 10:10 |
 | 2026-04-30 08:00 | Welspun Enterprises Ltd | 532553 | Welspun Enterprises Limited has informed the exchange about bagging/receiving of award for construction of Pune-SHirur Highway - Partially Elevated Highway Corridor along with improvement .... ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Neutral | 30 Apr 2026 - 08:43 |
 
-_Last updated: 30 Apr 2026 - 15:10 | Entries: 10 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-04-30.json)_
+_Last updated: 30 Apr 2026 - 16:04 | Entries: 10 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-04-30.json)_
 
 <!-- snapshot:end -->
 
