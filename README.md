@@ -22,12 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-04-30 13:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that PARAS has received an order from DRDO, Ministry of Defence valued at approximately Rs. 7.7 Cr. (Inc. of Taxes) for Development of Ku/C-Band Satellite Communication .... ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 30 Apr 2026 - 13:07 |
+| 2026-04-30 13:00 | Brahmaputra Infrastructure Ltd | 535693 | NCDC - Brahmaputra JV declared L-1 of an total Contract Value Rs. 81.98 Crores. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 30 Apr 2026 - 13:06 |
+| 2026-04-30 11:00 | HRS Aluglaze Ltd | 544656 | Please find herewith attached Press release ([Link](https://www.bseindia.com/stock-share-price/hrs-aluglaze-ltd/hrs/544656/)) | Neutral | 30 Apr 2026 - 11:39 |
 | 2026-04-30 11:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 6,580 Off-Grid Solar Photovoltaic Water Pumping .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 30 Apr 2026 - 11:27 |
 | 2026-04-30 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 30 Apr 2026 - 10:25 |
 | 2026-04-30 10:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Apr 2026 - 10:10 |
 | 2026-04-30 08:00 | Welspun Enterprises Ltd | 532553 | Welspun Enterprises Limited has informed the exchange about bagging/receiving of award for construction of Pune-SHirur Highway - Partially Elevated Highway Corridor along with improvement .... ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Neutral | 30 Apr 2026 - 08:43 |
 
-_Last updated: 30 Apr 2026 - 11:31 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-04-30.json)_
+_Last updated: 30 Apr 2026 - 13:15 | Entries: 7 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-04-30.json)_
 
 <!-- snapshot:end -->
 

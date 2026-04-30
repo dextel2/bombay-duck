@@ -14,6 +14,15 @@
     ],
     "2026-04-30T11": [
       {
+        "newsId": "14dead35-d796-49c2-85f3-fe5d47617c83",
+        "scripCode": 544656,
+        "shortName": "HRS Aluglaze Ltd",
+        "headline": "Please find herewith attached Press release",
+        "announcedAt": "2026-04-30T11:39:36.320+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hrs-aluglaze-ltd/hrs/544656/",
+        "rawTime": "2026-04-30T11:39:36.32"
+      },
+      {
         "newsId": "f1d42a3b-031b-4c43-b2fc-3c44c30be715",
         "scripCode": 531431,
         "shortName": "Shakti Pumps India Ltd-$",
@@ -42,14 +51,34 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-04-30T10:10:32.48"
       }
+    ],
+    "2026-04-30T13": [
+      {
+        "newsId": "d399ec3c-5bc0-4305-8b3c-9a46f786a40e",
+        "scripCode": 543367,
+        "shortName": "Paras Defence and Space Technologies Ltd",
+        "headline": "We are pleased to inform that PARAS has received an order from DRDO, Ministry of Defence valued at approximately Rs. 7.7 Cr. (Inc. of Taxes) for Development of Ku/C-Band Satellite Communication ....",
+        "announcedAt": "2026-04-30T13:07:08.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
+        "rawTime": "2026-04-30T13:07:08.983"
+      },
+      {
+        "newsId": "784c2960-feac-41d3-beb1-c0a0c4bd6dbc",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "NCDC - Brahmaputra JV declared L-1 of an total Contract Value Rs. 81.98 Crores.",
+        "announcedAt": "2026-04-30T13:06:18.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-04-30T13:06:18.843"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-30T11:31:00.138+05:30",
-    "checksum": "bd87312c07d152cd9f6750c1ef83d55244defa6768ceaa9adc83bf1021637366",
-    "totalAnnouncements": 4,
-    "requestCount": 2,
+    "lastUpdated": "2026-04-30T13:15:19.819+05:30",
+    "checksum": "b2f602eb0c62d08f07ed7f28dd055adfcc60f90c4ba7d8e3e6d68fee16343974",
+    "totalAnnouncements": 7,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-30/awards-113059.json"
+    "rawPayloadPath": "data/raw/2026-04-30/awards-131519.json"
   }
 }
