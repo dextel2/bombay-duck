@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/",
         "rawTime": "2026-04-30T08:43:45.313"
       }
+    ],
+    "2026-04-30T11": [
+      {
+        "newsId": "f1d42a3b-031b-4c43-b2fc-3c44c30be715",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 6,580 Off-Grid Solar Photovoltaic Water Pumping ....",
+        "announcedAt": "2026-04-30T11:27:45.153+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-04-30T11:27:45.153"
+      }
+    ],
+    "2026-04-30T10": [
+      {
+        "newsId": "eb571a14-3e47-4738-ac50-ed5ef5e346df",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-04-30T10:25:46.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-04-30T10:25:46.617"
+      },
+      {
+        "newsId": "4f5a0fb1-3227-4e7f-a384-49a80868c2b6",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as ....",
+        "announcedAt": "2026-04-30T10:10:32.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-04-30T10:10:32.48"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-30T09:45:01.783+05:30",
-    "checksum": "45a465971671bf3bd8023fe360bd1f82286fa551ab9f01e4c67d38344c6e1d59",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-04-30T11:31:00.138+05:30",
+    "checksum": "bd87312c07d152cd9f6750c1ef83d55244defa6768ceaa9adc83bf1021637366",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-30/awards-094500.json"
+    "rawPayloadPath": "data/raw/2026-04-30/awards-113059.json"
   }
 }
