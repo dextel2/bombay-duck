@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-04-30",
+  "buckets": {
+    "2026-04-30T08": [
+      {
+        "newsId": "42940ea9-dfd4-442c-84b1-12a16addcaec",
+        "scripCode": 532553,
+        "shortName": "Welspun Enterprises Ltd",
+        "headline": "Welspun Enterprises Limited has informed the exchange about bagging/receiving of award for construction of Pune-SHirur Highway - Partially Elevated Highway Corridor along with improvement ....",
+        "announcedAt": "2026-04-30T08:43:45.313+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/",
+        "rawTime": "2026-04-30T08:43:45.313"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-04-30T09:45:01.783+05:30",
+    "checksum": "45a465971671bf3bd8023fe360bd1f82286fa551ab9f01e4c67d38344c6e1d59",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-04-30/awards-094500.json"
+  }
+}
