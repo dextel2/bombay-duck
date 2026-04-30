@@ -54,6 +54,15 @@
     ],
     "2026-04-30T13": [
       {
+        "newsId": "2a2f2f32-30d0-4421-84c9-5eaf33a632ce",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "The Company has bagged a new contract from Khadi and Village Industries Commission (KVIC) of RS. 42150201.89. For further details, kindly refer attached file",
+        "announcedAt": "2026-04-30T13:42:38.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-04-30T13:42:38.71"
+      },
+      {
         "newsId": "d399ec3c-5bc0-4305-8b3c-9a46f786a40e",
         "scripCode": 543367,
         "shortName": "Paras Defence and Space Technologies Ltd",
@@ -74,11 +83,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-04-30T13:15:19.819+05:30",
-    "checksum": "b2f602eb0c62d08f07ed7f28dd055adfcc60f90c4ba7d8e3e6d68fee16343974",
-    "totalAnnouncements": 7,
-    "requestCount": 3,
+    "lastUpdated": "2026-04-30T14:15:20.443+05:30",
+    "checksum": "fd2190231c21a77379d44aee3da3343375f5c4be52010185407b5586d413f9a5",
+    "totalAnnouncements": 8,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-04-30/awards-131519.json"
+    "rawPayloadPath": "data/raw/2026-04-30/awards-141519.json"
   }
 }
