@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-01 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-01 12:00 | Indian Hume Pipe Company Ltd | 504741 | Intimation letter for work order and Letter of Intent as per attached letter. ([Link](https://www.bseindia.com/stock-share-price/indian-hume-pipe-company-ltd/indianhume/504741/)) | Likely Positive | 01 May 2026 - 12:54 |
 
-_Last updated: 01 May 2026 - 11:32 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-01.json)_
+_Last updated: 01 May 2026 - 13:15 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-01.json)_
 
 <!-- snapshot:end -->
 

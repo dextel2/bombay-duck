@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-01",
-  "buckets": {},
+  "buckets": {
+    "2026-05-01T12": [
+      {
+        "newsId": "673a83b3-a364-44f2-ad8f-b9cf07595ccb",
+        "scripCode": 504741,
+        "shortName": "Indian Hume Pipe Company Ltd",
+        "headline": "Intimation letter for work order and Letter of Intent as per attached letter.",
+        "announcedAt": "2026-05-01T12:54:24.537+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indian-hume-pipe-company-ltd/indianhume/504741/",
+        "rawTime": "2026-05-01T12:54:24.537"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-01T11:32:07.778+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-01T13:15:09.903+05:30",
+    "checksum": "6f191a33eb61b7c957c9ab8b91f6164a7985d92c8584e6bf87f999c7fa291725",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-01/awards-113207.json"
+    "rawPayloadPath": "data/raw/2026-05-01/awards-131509.json"
   }
 }
