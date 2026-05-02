@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-02 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-02 11:00 | Ceigall India Ltd | 544223 | we are pleased to inform you that CIL-SAM India JV (Ceigall India Limited holding 74% share jointly with SAM India Builtwell Pvt. Ltd. holding 26% share) has received the Letter of Acceptance .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 02 May 2026 - 11:36 |
 
-_Last updated: 02 May 2026 - 11:17 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-02.json)_
+_Last updated: 02 May 2026 - 12:07 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-02.json)_
 
 <!-- snapshot:end -->
 

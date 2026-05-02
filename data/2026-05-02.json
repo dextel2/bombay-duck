@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-02",
-  "buckets": {},
+  "buckets": {
+    "2026-05-02T11": [
+      {
+        "newsId": "9dc0fc01-6134-4e81-883e-e9a7fb2cbcea",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "we are pleased to inform you that CIL-SAM India JV (Ceigall India Limited holding 74% share jointly with SAM India Builtwell Pvt. Ltd. holding 26% share) has received the Letter of Acceptance ....",
+        "announcedAt": "2026-05-02T11:36:56.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-05-02T11:36:56.94"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-02T11:17:45.763+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-02T12:07:37.010+05:30",
+    "checksum": "5e22ed025707dcee7e1033a62f2d9197a88d176382e679efd9760eb8de986ad3",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-02/awards-111744.json"
+    "rawPayloadPath": "data/raw/2026-05-02/awards-120736.json"
   }
 }
