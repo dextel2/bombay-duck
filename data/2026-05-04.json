@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-05-04",
-  "buckets": {},
+  "buckets": {
+    "2026-05-04T12": [
+      {
+        "newsId": "ec3bdbc7-edc7-4e5b-b8c0-e9c5d2ffc5ce",
+        "scripCode": 517546,
+        "shortName": "Alfa Transformers Ltd",
+        "headline": "Company has received contract for supply of various capacity of distribution of Transformers of Rs.3,78,64,017.64",
+        "announcedAt": "2026-05-04T12:04:50.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/",
+        "rawTime": "2026-05-04T12:04:50.843"
+      }
+    ],
+    "2026-05-04T11": [
+      {
+        "newsId": "a5afa00a-ab5c-4aea-a22a-e0846ac9da6a",
+        "scripCode": 517546,
+        "shortName": "Alfa Transformers Ltd",
+        "headline": "Company has received an Award for the Certificate of Appreciation (Excellent Contribution for Supply of Materials) from TPCODL Business Associates Meet, TP Central Odisha Distribution ....",
+        "announcedAt": "2026-05-04T11:46:54.870+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/",
+        "rawTime": "2026-05-04T11:46:54.87"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-04T11:31:24.879+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-04T13:26:13.196+05:30",
+    "checksum": "869246ed7e6873ea1bcc5d77b477d7843b7cb5f1bef3b760fcb43a57cf5542b5",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-04/awards-113124.json"
+    "rawPayloadPath": "data/raw/2026-05-04/awards-132612.json"
   }
 }
