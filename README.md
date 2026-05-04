@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-04 13:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company along with HTL Limited, a material subsidiary of the Company, has secured purchase orders worth ~?84.23 crore, for the supply .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 04 May 2026 - 13:28 |
+| 2026-05-04 13:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited has declared an L-1 of an total amount Rs. 257.80 Millions for a Maintenance Contract by NHIDCL. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 04 May 2026 - 13:26 |
 | 2026-05-04 12:00 | Alfa Transformers Ltd | 517546 | Company has received contract for supply of various capacity of distribution of Transformers of Rs.3,78,64,017.64 ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Likely Positive | 04 May 2026 - 12:04 |
 | 2026-05-04 11:00 | Alfa Transformers Ltd | 517546 | Company has received an Award for the Certificate of Appreciation (Excellent Contribution for Supply of Materials) from TPCODL Business Associates Meet, TP Central Odisha Distribution .... ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Neutral | 04 May 2026 - 11:46 |
 
-_Last updated: 04 May 2026 - 13:26 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-04.json)_
+_Last updated: 04 May 2026 - 14:22 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-04.json)_
 
 <!-- snapshot:end -->
 
