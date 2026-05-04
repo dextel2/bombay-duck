@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-04 12:00 | Alfa Transformers Ltd | 517546 | Company has received contract for supply of various capacity of distribution of Transformers of Rs.3,78,64,017.64 ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Likely Positive | 04 May 2026 - 12:04 |
 | 2026-05-04 11:00 | Alfa Transformers Ltd | 517546 | Company has received an Award for the Certificate of Appreciation (Excellent Contribution for Supply of Materials) from TPCODL Business Associates Meet, TP Central Odisha Distribution .... ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Neutral | 04 May 2026 - 11:46 |
 
-_Last updated: 04 May 2026 - 14:22 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-04.json)_
+_Last updated: 04 May 2026 - 15:14 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-04.json)_
 
 <!-- snapshot:end -->
 
