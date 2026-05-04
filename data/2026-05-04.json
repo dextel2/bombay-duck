@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-05-04T13:26:54.31"
       }
+    ],
+    "2026-05-04T15": [
+      {
+        "newsId": "f6efeb76-6611-4f14-b09e-c56f8978a628",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of Work/Supply Orders Received during the period from April 19, 2026 to May 02, 2026.",
+        "announcedAt": "2026-05-04T15:29:24.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-05-04T15:29:24.54"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-04T15:14:44.946+05:30",
-    "checksum": "77db33fb2e79c5bdb42db243a8dfe1ef08f786a520485d6d372cf6684d7614ee",
-    "totalAnnouncements": 4,
-    "requestCount": 5,
+    "lastUpdated": "2026-05-04T16:09:02.164+05:30",
+    "checksum": "a589139c16230f7ae8f13406222fc3b0b05b150890ab72c6061627086278564b",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-04/awards-151444.json"
+    "rawPayloadPath": "data/raw/2026-05-04/awards-160901.json"
   }
 }
