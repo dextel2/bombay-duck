@@ -45,6 +45,15 @@
     ],
     "2026-05-05T14": [
       {
+        "newsId": "b008d16e-bf4b-4e21-8440-30c5a31fc62c",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-05-05T14:32:18.447+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-05-05T14:32:18.447"
+      },
+      {
         "newsId": "ca02a409-ac81-4451-a1bf-44bae7e0e67f",
         "scripCode": 532850,
         "shortName": "MIC Electronics Ltd",
@@ -67,11 +76,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-05T14:13:22.096+05:30",
-    "checksum": "f85816938d747d705ef3626b59edf4d9a4b8929b6d950a42c5cefd25abdb31ff",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2026-05-05T15:05:59.732+05:30",
+    "checksum": "f3bfb1d46a50da0bee425e6ab07554130af6394359e1b0e6a96513fc88d30cb6",
+    "totalAnnouncements": 7,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-05/awards-141321.json"
+    "rawPayloadPath": "data/raw/2026-05-05/awards-150558.json"
   }
 }
