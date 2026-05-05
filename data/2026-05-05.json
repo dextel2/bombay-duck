@@ -73,14 +73,43 @@
         "url": "https://www.bseindia.com/stock-share-price/nanta-tech-ltd/nanta/544668/",
         "rawTime": "2026-05-05T13:14:52.9"
       }
+    ],
+    "2026-05-05T15": [
+      {
+        "newsId": "5090083b-1c24-447c-8214-d667daa15dcf",
+        "scripCode": 526247,
+        "shortName": "Premier Explosives Ltd",
+        "headline": "Intimation of receipt of export orders worth INR 33.69 crores.",
+        "announcedAt": "2026-05-05T15:50:11.030+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/",
+        "rawTime": "2026-05-05T15:50:11.03"
+      },
+      {
+        "newsId": "629c49eb-e2a5-421a-8532-ba297eacd4f6",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "BEL receives Rs.1251 Crore order for supply of Ground Based Mobile ELINT System (GBMES) to Indian Army.",
+        "announcedAt": "2026-05-05T15:24:08.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-05-05T15:24:08.91"
+      },
+      {
+        "newsId": "3b8d962e-c765-4030-a6f8-fdc4c75d3168",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.3.01 Cr",
+        "announcedAt": "2026-05-05T15:08:39.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-05-05T15:08:39.673"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-05T15:05:59.732+05:30",
-    "checksum": "f3bfb1d46a50da0bee425e6ab07554130af6394359e1b0e6a96513fc88d30cb6",
-    "totalAnnouncements": 7,
-    "requestCount": 6,
+    "lastUpdated": "2026-05-05T16:02:48.437+05:30",
+    "checksum": "2632ba53abfdbdabfd10d203fdce60b7296c9dedb1d24a38ae178bea2083e07c",
+    "totalAnnouncements": 10,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-05/awards-150558.json"
+    "rawPayloadPath": "data/raw/2026-05-05/awards-160247.json"
   }
 }
