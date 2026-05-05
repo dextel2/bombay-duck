@@ -42,14 +42,36 @@
         "url": "https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/",
         "rawTime": "2026-05-05T12:50:35.91"
       }
+    ],
+    "2026-05-05T14": [
+      {
+        "newsId": "ca02a409-ac81-4451-a1bf-44bae7e0e67f",
+        "scripCode": 532850,
+        "shortName": "MIC Electronics Ltd",
+        "headline": "We wish to inform you that the company has received a letter of acceptance from the Chhattisgarh Environment Conservation Board for an amount of Rs. 3,78,00,000/- for the design, supply, ....",
+        "announcedAt": "2026-05-05T14:07:51.457+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/",
+        "rawTime": "2026-05-05T14:07:51.457"
+      }
+    ],
+    "2026-05-05T13": [
+      {
+        "newsId": "0df1b35c-b916-4709-8c4e-aff613abfd4b",
+        "scripCode": 544668,
+        "shortName": "Nanta Tech Ltd",
+        "headline": "Nanta Tech Limited has received a significant order from Pointers Insurance Brokers Private Limited for the supply of end-to-end AI Automation Solutions.",
+        "announcedAt": "2026-05-05T13:14:52.900+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nanta-tech-ltd/nanta/544668/",
+        "rawTime": "2026-05-05T13:14:52.9"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-05T13:07:59.776+05:30",
-    "checksum": "dae2fb82e491d6955cd61bcebe37a7c721eb2a582495f0a464bfe1acdad3ac2d",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-05T14:13:22.096+05:30",
+    "checksum": "f85816938d747d705ef3626b59edf4d9a4b8929b6d950a42c5cefd25abdb31ff",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-05/awards-130759.json"
+    "rawPayloadPath": "data/raw/2026-05-05/awards-141321.json"
   }
 }
