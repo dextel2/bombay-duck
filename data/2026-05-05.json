@@ -3,6 +3,15 @@
   "buckets": {
     "2026-05-05T11": [
       {
+        "newsId": "903eccee-eb09-41ba-9d30-04146f3230da",
+        "scripCode": 544471,
+        "shortName": "Takyon Networks Ltd",
+        "headline": "Takyon Networks Limited received orderworth of Rs.8,300,000 (Rupees Eighty Three Lakhs Only) from Hindustan Aerinautics Limited (HAL).",
+        "announcedAt": "2026-05-05T11:43:15.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/",
+        "rawTime": "2026-05-05T11:43:15.38"
+      },
+      {
         "newsId": "4b6b8d7f-a01b-4a4e-a1d8-9599f14c05b6",
         "scripCode": 543963,
         "shortName": "Shelter Pharma Ltd",
@@ -25,11 +34,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-05T11:23:04.818+05:30",
-    "checksum": "fe533c7bd6ae85d9b95cc06e7574ed87220280bde88adb8c567c0041b99904e0",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-05T12:14:04.046+05:30",
+    "checksum": "d83b9f7021e37e4a661354ce8cdfbc1edc50737bb8c2c7f382508badb38edd86",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-05/awards-112304.json"
+    "rawPayloadPath": "data/raw/2026-05-05/awards-121402.json"
   }
 }
