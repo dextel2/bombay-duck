@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-05 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-05 11:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of Significant International Purchase Orders. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 05 May 2026 - 11:08 |
+| 2026-05-05 09:00 | Larsen & Toubro Ltd | 500510 | L&T Secures (Large*) Order to Reinforce India''s Energy Security Through Coal Gasification ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 05 May 2026 - 09:56 |
 
-_Last updated: 05 May 2026 - 09:33 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-05.json)_
+_Last updated: 05 May 2026 - 11:23 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-05.json)_
 
 <!-- snapshot:end -->
 
