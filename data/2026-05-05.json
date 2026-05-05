@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-05-05T09:56:09.067"
       }
+    ],
+    "2026-05-05T12": [
+      {
+        "newsId": "47b94930-840d-4f63-b3c2-3f18051302fd",
+        "scripCode": 541353,
+        "shortName": "Innovators Facade Systems Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended from time to time and Company''s policy for determining ....",
+        "announcedAt": "2026-05-05T12:50:35.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/",
+        "rawTime": "2026-05-05T12:50:35.91"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-05T12:14:04.046+05:30",
-    "checksum": "d83b9f7021e37e4a661354ce8cdfbc1edc50737bb8c2c7f382508badb38edd86",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-05T13:07:59.776+05:30",
+    "checksum": "dae2fb82e491d6955cd61bcebe37a7c721eb2a582495f0a464bfe1acdad3ac2d",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-05/awards-121402.json"
+    "rawPayloadPath": "data/raw/2026-05-05/awards-130759.json"
   }
 }
