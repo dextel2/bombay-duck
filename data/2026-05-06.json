@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
         "rawTime": "2026-05-06T08:50:45.587"
       }
+    ],
+    "2026-05-06T11": [
+      {
+        "newsId": "6c5693c8-dd4e-495c-8c74-f6239bb0000a",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new work order of Rs. 180 Crores",
+        "announcedAt": "2026-05-06T11:35:49.443+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2026-05-06T11:35:49.443"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-06T11:30:22.304+05:30",
-    "checksum": "bb5b9e7950204c5c4b047a1c7fe1011aaa1f2eaebf874fb72bfd4c19b591fb5b",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-06T13:17:59.230+05:30",
+    "checksum": "7507bae4d8f6ebeca9c74e3a3292f2e5880d402d0710574f315d56fdd712b6b5",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-06/awards-113021.json"
+    "rawPayloadPath": "data/raw/2026-05-06/awards-131758.json"
   }
 }

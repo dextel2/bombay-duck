@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-06 11:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new work order of Rs. 180 Crores ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 06 May 2026 - 11:35 |
 | 2026-05-06 09:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the exchange that the company has received a letter of empanelment from Maharashtra State Electricity Distribution Company Limited for 15,000 Off-Grid Solar .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 06 May 2026 - 09:38 |
 | 2026-05-06 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Mega*) Order for Minerals & Metals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 06 May 2026 - 09:29 |
 | 2026-05-06 08:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 06 May 2026 - 08:50 |
 
-_Last updated: 06 May 2026 - 11:30 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
+_Last updated: 06 May 2026 - 13:17 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
 
 <!-- snapshot:end -->
 
