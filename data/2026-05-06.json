@@ -42,14 +42,36 @@
         "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
         "rawTime": "2026-05-06T11:35:49.443"
       }
+    ],
+    "2026-05-06T14": [
+      {
+        "newsId": "9ed644c7-d8bd-42af-a428-5bf42f36cd68",
+        "scripCode": 543240,
+        "shortName": "Likhitha Infrastructure Ltd",
+        "headline": "We hereby inform that the Company has received an order worth Rs. 72.15 Crores (Excl. GST) from M/s. Hindustan Petroleum Corporation Limited on May 06, 2026.",
+        "announcedAt": "2026-05-06T14:53:17.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/",
+        "rawTime": "2026-05-06T14:53:17.89"
+      }
+    ],
+    "2026-05-06T13": [
+      {
+        "newsId": "7334d846-5073-4266-8c6f-74f701ab3c9b",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "Intimation regarding receipt of Letter of Award from UP Jal Nigam, Varanasi for construction of 2 wards namely Hukulganj and Naibasti out of 18 problematic wards. Estimated order Value ....",
+        "announcedAt": "2026-05-06T13:23:14.390+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-05-06T13:23:14.39"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-06T13:17:59.230+05:30",
-    "checksum": "7507bae4d8f6ebeca9c74e3a3292f2e5880d402d0710574f315d56fdd712b6b5",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-06T15:16:23.890+05:30",
+    "checksum": "1cb0c18d55412cf77fb0ae6db1c252e06ba6691ef8d6501b6e00ac47fcc327cd",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-06/awards-131758.json"
+    "rawPayloadPath": "data/raw/2026-05-06/awards-151622.json"
   }
 }
