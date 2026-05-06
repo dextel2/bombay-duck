@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-06 15:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with The Supreme Industries Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 06 May 2026 - 15:38 |
 | 2026-05-06 14:00 | Likhitha Infrastructure Ltd | 543240 | We hereby inform that the Company has received an order worth Rs. 72.15 Crores (Excl. GST) from M/s. Hindustan Petroleum Corporation Limited on May 06, 2026. ([Link](https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/)) | Likely Positive | 06 May 2026 - 14:53 |
 | 2026-05-06 13:00 | EMS Ltd | 543983 | Intimation regarding receipt of Letter of Award from UP Jal Nigam, Varanasi for construction of 2 wards namely Hukulganj and Naibasti out of 18 problematic wards. Estimated order Value .... ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 06 May 2026 - 13:23 |
 | 2026-05-06 11:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new work order of Rs. 180 Crores ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 06 May 2026 - 11:35 |
@@ -29,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-06 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Mega*) Order for Minerals & Metals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 06 May 2026 - 09:29 |
 | 2026-05-06 08:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 06 May 2026 - 08:50 |
 
-_Last updated: 06 May 2026 - 15:16 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
+_Last updated: 06 May 2026 - 16:10 | Entries: 7 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
 
 <!-- snapshot:end -->
 

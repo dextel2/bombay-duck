@@ -64,14 +64,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
         "rawTime": "2026-05-06T13:23:14.39"
       }
+    ],
+    "2026-05-06T15": [
+      {
+        "newsId": "f2003bb0-d585-4132-ae8e-b0aae1a3f961",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with The Supreme Industries Limited.",
+        "announcedAt": "2026-05-06T15:38:26.833+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-05-06T15:38:26.833"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-06T15:16:23.890+05:30",
-    "checksum": "1cb0c18d55412cf77fb0ae6db1c252e06ba6691ef8d6501b6e00ac47fcc327cd",
-    "totalAnnouncements": 6,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-06T16:10:00.540+05:30",
+    "checksum": "5ba7efcbbef79f84796c990a1f3ede67d725e0aeb28f190533f79b2b44993bf9",
+    "totalAnnouncements": 7,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-06/awards-151622.json"
+    "rawPayloadPath": "data/raw/2026-05-06/awards-161000.json"
   }
 }
