@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-06 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Mega*) Order for Minerals & Metals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 06 May 2026 - 09:29 |
 | 2026-05-06 08:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 06 May 2026 - 08:50 |
 
-_Last updated: 06 May 2026 - 09:45 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
+_Last updated: 06 May 2026 - 11:30 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
 
 <!-- snapshot:end -->
 
