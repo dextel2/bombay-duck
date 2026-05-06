@@ -18,22 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-05 IST)
+### Today's Awarded Orders (2026-05-06 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-05 15:00 | Premier Explosives Ltd | 526247 | Intimation of receipt of export orders worth INR 33.69 crores. ([Link](https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/)) | Likely Positive | 05 May 2026 - 15:50 |
-| 2026-05-05 15:00 | Bharat Electronics Ltd | 500049 | BEL receives Rs.1251 Crore order for supply of Ground Based Mobile ELINT System (GBMES) to Indian Army. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 05 May 2026 - 15:24 |
-| 2026-05-05 15:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.3.01 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 05 May 2026 - 15:08 |
-| 2026-05-05 14:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 05 May 2026 - 14:32 |
-| 2026-05-05 14:00 | MIC Electronics Ltd | 532850 | We wish to inform you that the company has received a letter of acceptance from the Chhattisgarh Environment Conservation Board for an amount of Rs. 3,78,00,000/- for the design, supply, .... ([Link](https://www.bseindia.com/stock-share-price/mic-electronics-ltd/micel/532850/)) | Neutral | 05 May 2026 - 14:07 |
-| 2026-05-05 13:00 | Nanta Tech Ltd | 544668 | Nanta Tech Limited has received a significant order from Pointers Insurance Brokers Private Limited for the supply of end-to-end AI Automation Solutions. ([Link](https://www.bseindia.com/stock-share-price/nanta-tech-ltd/nanta/544668/)) | Likely Positive | 05 May 2026 - 13:14 |
-| 2026-05-05 12:00 | Innovators Facade Systems Ltd | 541353 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended from time to time and Company''s policy for determining .... ([Link](https://www.bseindia.com/stock-share-price/innovators-facade-systems-ltd/innovators/541353/)) | Neutral | 05 May 2026 - 12:50 |
-| 2026-05-05 11:00 | Takyon Networks Ltd | 544471 | Takyon Networks Limited received orderworth of Rs.8,300,000 (Rupees Eighty Three Lakhs Only) from Hindustan Aerinautics Limited (HAL). ([Link](https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/)) | Likely Positive | 05 May 2026 - 11:43 |
-| 2026-05-05 11:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of Significant International Purchase Orders. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 05 May 2026 - 11:08 |
-| 2026-05-05 09:00 | Larsen & Toubro Ltd | 500510 | L&T Secures (Large*) Order to Reinforce India''s Energy Security Through Coal Gasification ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 05 May 2026 - 09:56 |
+| 2026-05-06 09:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the exchange that the company has received a letter of empanelment from Maharashtra State Electricity Distribution Company Limited for 15,000 Off-Grid Solar .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 06 May 2026 - 09:38 |
+| 2026-05-06 09:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Mega*) Order for Minerals & Metals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 06 May 2026 - 09:29 |
+| 2026-05-06 08:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 06 May 2026 - 08:50 |
 
-_Last updated: 05 May 2026 - 16:02 | Entries: 10 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-05-05.json)_
+_Last updated: 06 May 2026 - 09:45 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-06.json)_
 
 <!-- snapshot:end -->
 

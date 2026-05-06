@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-05-06",
+  "buckets": {
+    "2026-05-06T09": [
+      {
+        "newsId": "beaf2223-3b21-47d1-90ae-513927cf3189",
+        "scripCode": 544525,
+        "shortName": "GK Energy Ltd",
+        "headline": "GK Energy Limited has informed the exchange that the company has received a letter of empanelment from Maharashtra State Electricity Distribution Company Limited for 15,000 Off-Grid Solar ....",
+        "announcedAt": "2026-05-06T09:38:06.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
+        "rawTime": "2026-05-06T09:38:06.75"
+      },
+      {
+        "newsId": "21b09725-f080-45bf-bfb0-c258ba598413",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T wins (Mega*) Order for Minerals & Metals Business",
+        "announcedAt": "2026-05-06T09:29:23.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-05-06T09:29:23.883"
+      }
+    ],
+    "2026-05-06T08": [
+      {
+        "newsId": "024390b3-8bfe-4b87-a386-58239d306f5c",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached intimation letter.",
+        "announcedAt": "2026-05-06T08:50:45.587+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2026-05-06T08:50:45.587"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-06T09:45:32.515+05:30",
+    "checksum": "bb5b9e7950204c5c4b047a1c7fe1011aaa1f2eaebf874fb72bfd4c19b591fb5b",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-06/awards-094531.json"
+  }
+}
