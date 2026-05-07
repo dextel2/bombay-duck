@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-05-07",
-  "buckets": {},
+  "buckets": {
+    "2026-05-07T11": [
+      {
+        "newsId": "5635f782-9519-46f9-af21-3734ce7800ca",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Order Receipt of Order to the value of Rs.92.08 lakhs.",
+        "announcedAt": "2026-05-07T11:13:07.520+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-05-07T11:13:07.52"
+      }
+    ],
+    "2026-05-07T10": [
+      {
+        "newsId": "8fc6bb88-cb30-42af-9ecf-7ada51500236",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Buildings & Factories Business Wins Orders (Large*)",
+        "announcedAt": "2026-05-07T10:44:08.807+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-05-07T10:44:08.807"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-07T09:45:16.230+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-07T11:31:56.818+05:30",
+    "checksum": "e8415718e7a921900abba15e5770214a93671504c3e5d0b6581d4a1aa3e0de83",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-07/awards-094515.json"
+    "rawPayloadPath": "data/raw/2026-05-07/awards-113155.json"
   }
 }
