@@ -33,14 +33,36 @@
         "url": "https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/",
         "rawTime": "2026-05-07T14:40:42.367"
       }
+    ],
+    "2026-05-07T16": [
+      {
+        "newsId": "2e253e3e-1f61-4737-92f7-8d4ea481ec28",
+        "scripCode": 543288,
+        "shortName": "Deep Industries Ltd",
+        "headline": "Extension of contract from Antelopus Selan Energy Limited (Formerly known as Selan Exploration Technology Limited)",
+        "announcedAt": "2026-05-07T16:00:42.090+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/",
+        "rawTime": "2026-05-07T16:00:42.09"
+      }
+    ],
+    "2026-05-07T15": [
+      {
+        "newsId": "d02656da-6000-4c2f-a6fb-d716d1420480",
+        "scripCode": 532894,
+        "shortName": "Indowind Energy Ltd",
+        "headline": "Dear sir/Madam, PFA the modified NCLT Order Dated March 10th 2026 w.r.t amalgamation of IND ECO VENTURES LIMITED with INDOWIND ENERGY LIMITED.",
+        "announcedAt": "2026-05-07T15:34:29.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/",
+        "rawTime": "2026-05-07T15:34:29.987"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-07T15:20:42.462+05:30",
-    "checksum": "0da4a0506db17e35f130d51e3f6978e9767a409aa95fe243998095171e22b8e4",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-05-07T16:14:03.081+05:30",
+    "checksum": "c041fd1aa4bea61f540eaf5eae16c2752ec3506e5e021b945dbce6c114920a1a",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-07/awards-152041.json"
+    "rawPayloadPath": "data/raw/2026-05-07/awards-161402.json"
   }
 }
