@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-05-07T10:44:08.807"
       }
+    ],
+    "2026-05-07T14": [
+      {
+        "newsId": "f3f695be-82b7-499e-bb7d-c09ce2dc6ef1",
+        "scripCode": 544264,
+        "shortName": "Diffusion Engineers Ltd",
+        "headline": "Intimation for receipt of an order of about INR 10.63 Cr. (Approx)",
+        "announcedAt": "2026-05-07T14:40:42.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/",
+        "rawTime": "2026-05-07T14:40:42.367"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-07T14:22:56.020+05:30",
-    "checksum": "e8415718e7a921900abba15e5770214a93671504c3e5d0b6581d4a1aa3e0de83",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-07T15:20:42.462+05:30",
+    "checksum": "0da4a0506db17e35f130d51e3f6978e9767a409aa95fe243998095171e22b8e4",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-07/awards-142255.json"
+    "rawPayloadPath": "data/raw/2026-05-07/awards-152041.json"
   }
 }
