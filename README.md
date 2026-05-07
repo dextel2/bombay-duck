@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-07 11:00 | Airfloa Rail Technology Ltd | 544516 | Order Receipt of Order to the value of Rs.92.08 lakhs. ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 07 May 2026 - 11:13 |
 | 2026-05-07 10:00 | Larsen & Toubro Ltd | 500510 | L&T Buildings & Factories Business Wins Orders (Large*) ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 May 2026 - 10:44 |
 
-_Last updated: 07 May 2026 - 13:24 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-07.json)_
+_Last updated: 07 May 2026 - 14:22 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-07.json)_
 
 <!-- snapshot:end -->
 
