@@ -1,0 +1,12 @@
+{
+  "tradingDate": "2026-05-07",
+  "buckets": {},
+  "meta": {
+    "lastUpdated": "2026-05-07T09:45:16.230+05:30",
+    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "totalAnnouncements": 0,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-07/awards-094515.json"
+  }
+}
