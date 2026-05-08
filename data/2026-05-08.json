@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-05-08T09:45:47.843"
       }
+    ],
+    "2026-05-08T11": [
+      {
+        "newsId": "945865d6-2cf0-40a8-9bdc-32fa40bcc2f5",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-05-08T11:49:31.127+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-05-08T11:49:31.127"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-08T11:11:27.672+05:30",
-    "checksum": "d0774746475c2da8ffad224e0cfef494bfbf46b8471c7e62b5b497286af69ddc",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-08T12:04:44.192+05:30",
+    "checksum": "ebdce15c200604e332f49081c85ca64e98ae307f87b872bf246aebac6a1860b6",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-08/awards-111127.json"
+    "rawPayloadPath": "data/raw/2026-05-08/awards-120443.json"
   }
 }

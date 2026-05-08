@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-08 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 May 2026 - 11:49 |
 | 2026-05-08 09:00 | Larsen & Toubro Ltd | 500510 | L&T Strengthens its Coal-to-Chemicals EPC Leadership with Significant* Order from BCGCL ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 08 May 2026 - 09:45 |
 
-_Last updated: 08 May 2026 - 11:11 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-08.json)_
+_Last updated: 08 May 2026 - 12:04 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-08.json)_
 
 <!-- snapshot:end -->
 
