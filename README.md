@@ -22,13 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-08 14:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited through its JV SB - BIL declared an L-1 of an total amount Rs. 114.24 Crores ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 08 May 2026 - 14:53 |
+| 2026-05-08 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 08 May 2026 - 14:33 |
+| 2026-05-08 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 08 May 2026 - 14:22 |
 | 2026-05-08 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt pf work order ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 08 May 2026 - 13:53 |
 | 2026-05-08 13:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received Purchase order worth Rs. 18,88,00,000.00 (incl. GST )(Rupees Eighteen crores Eighty Eight Lakhs only) from Ram Taranga Solutions .... ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 08 May 2026 - 13:04 |
 | 2026-05-08 12:00 | Remsons Industries Ltd | 530919 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/)) | Likely Positive | 08 May 2026 - 12:30 |
 | 2026-05-08 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 May 2026 - 11:49 |
 | 2026-05-08 09:00 | Larsen & Toubro Ltd | 500510 | L&T Strengthens its Coal-to-Chemicals EPC Leadership with Significant* Order from BCGCL ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 08 May 2026 - 09:45 |
 
-_Last updated: 08 May 2026 - 14:00 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-08.json)_
+_Last updated: 08 May 2026 - 15:01 | Entries: 8 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-05-08.json)_
 
 <!-- snapshot:end -->
 
