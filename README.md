@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-07 IST)
+### Today's Awarded Orders (2026-05-08 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-05-07 16:00 | Deep Industries Ltd | 543288 | Extension of contract from Antelopus Selan Energy Limited (Formerly known as Selan Exploration Technology Limited) ([Link](https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/)) | Likely Positive | 07 May 2026 - 16:00 |
-| 2026-05-07 15:00 | Indowind Energy Ltd | 532894 | Dear sir/Madam, PFA the modified NCLT Order Dated March 10th 2026 w.r.t amalgamation of IND ECO VENTURES LIMITED with INDOWIND ENERGY LIMITED. ([Link](https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/)) | Likely Positive | 07 May 2026 - 15:34 |
-| 2026-05-07 14:00 | Diffusion Engineers Ltd | 544264 | Intimation for receipt of an order of about INR 10.63 Cr. (Approx) ([Link](https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/)) | Likely Positive | 07 May 2026 - 14:40 |
-| 2026-05-07 11:00 | Airfloa Rail Technology Ltd | 544516 | Order Receipt of Order to the value of Rs.92.08 lakhs. ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 07 May 2026 - 11:13 |
-| 2026-05-07 10:00 | Larsen & Toubro Ltd | 500510 | L&T Buildings & Factories Business Wins Orders (Large*) ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 May 2026 - 10:44 |
+_No award announcements have been captured yet today._
 
-_Last updated: 07 May 2026 - 16:14 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-05-07.json)_
+_Last updated: 08 May 2026 - 09:34 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-08.json)_
 
 <!-- snapshot:end -->
 
