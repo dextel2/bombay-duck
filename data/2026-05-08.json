@@ -82,14 +82,25 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-05-08T14:22:25.09"
       }
+    ],
+    "2026-05-08T15": [
+      {
+        "newsId": "afe1f5f3-22e8-4b24-aa88-e4b563ad6451",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding Receipt of Purchase Order amounting Rs. 1.92 Cr from KP Energy Ltd & successful completion of gasification and commissioning at Vizag Steel Plant in association with ....",
+        "announcedAt": "2026-05-08T15:08:35.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-05-08T15:08:35.99"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-08T15:01:40.467+05:30",
-    "checksum": "7226660d1ef6824a1fe65da419f7808911473f80e466d2e6cc385b31ac25ef35",
-    "totalAnnouncements": 8,
-    "requestCount": 6,
+    "lastUpdated": "2026-05-08T16:01:25.106+05:30",
+    "checksum": "6cc30fa6fcdf9c798621e0e322eb90208a653e6441b4ecc79a89560e8434ea5e",
+    "totalAnnouncements": 9,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-08/awards-150139.json"
+    "rawPayloadPath": "data/raw/2026-05-08/awards-160124.json"
   }
 }
