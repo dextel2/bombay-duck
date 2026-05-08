@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-08",
-  "buckets": {},
+  "buckets": {
+    "2026-05-08T09": [
+      {
+        "newsId": "6f641ef7-c5e7-4e43-b2a7-97c4e1e273d1",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Strengthens its Coal-to-Chemicals EPC Leadership with Significant* Order from BCGCL",
+        "announcedAt": "2026-05-08T09:45:47.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-05-08T09:45:47.843"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-08T09:34:24.953+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-08T11:11:27.672+05:30",
+    "checksum": "d0774746475c2da8ffad224e0cfef494bfbf46b8471c7e62b5b497286af69ddc",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-08/awards-093424.json"
+    "rawPayloadPath": "data/raw/2026-05-08/awards-111127.json"
   }
 }
