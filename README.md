@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-09 14:00 | Innovision Ltd | 544732 | Engagement of Innovision Limited as User fee Collection agency for Aaini Fee Plaza at Jarwal to Bahraich Bypass Section of NH-28C in the state of Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Neutral | 09 May 2026 - 14:39 |
 | 2026-05-09 12:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015. ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 09 May 2026 - 12:47 |
 
-_Last updated: 09 May 2026 - 14:01 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-09.json)_
+_Last updated: 09 May 2026 - 15:00 | Entries: 2 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-05-09.json)_
 
 <!-- snapshot:end -->
 

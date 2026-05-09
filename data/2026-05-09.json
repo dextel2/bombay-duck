@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
         "rawTime": "2026-05-09T12:47:18.603"
       }
+    ],
+    "2026-05-09T14": [
+      {
+        "newsId": "caf759b9-43ca-4291-b444-1f39eaeb201e",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Engagement of Innovision Limited as User fee Collection agency for Aaini Fee Plaza at Jarwal to Bahraich Bypass Section of NH-28C in the state of Uttar Pradesh",
+        "announcedAt": "2026-05-09T14:39:09.087+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-05-09T14:39:09.087"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-09T14:01:58.660+05:30",
-    "checksum": "515fc86aca9fd1629793769403017c5024e58cef22ee08830562955b35c93d42",
-    "totalAnnouncements": 1,
-    "requestCount": 5,
+    "lastUpdated": "2026-05-09T15:00:14.424+05:30",
+    "checksum": "ee4da280f4af0d0144fe98ee0ecf89e20f1bfa881d5e7ecac940d9b7e87cb928",
+    "totalAnnouncements": 2,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-09/awards-140157.json"
+    "rawPayloadPath": "data/raw/2026-05-09/awards-150013.json"
   }
 }
