@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-09 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-09 12:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015. ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 09 May 2026 - 12:47 |
 
-_Last updated: 09 May 2026 - 12:11 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-09.json)_
+_Last updated: 09 May 2026 - 13:02 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-09.json)_
 
 <!-- snapshot:end -->
 

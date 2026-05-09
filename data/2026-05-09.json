@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-09",
-  "buckets": {},
+  "buckets": {
+    "2026-05-09T12": [
+      {
+        "newsId": "0285963d-0216-46c4-9696-5ff778fd57eb",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015.",
+        "announcedAt": "2026-05-09T12:47:18.603+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-05-09T12:47:18.603"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-09T12:11:54.861+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-09T13:02:58.794+05:30",
+    "checksum": "515fc86aca9fd1629793769403017c5024e58cef22ee08830562955b35c93d42",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-09/awards-121154.json"
+    "rawPayloadPath": "data/raw/2026-05-09/awards-130258.json"
   }
 }
