@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
         "rawTime": "2026-05-11T13:22:11.927"
       }
+    ],
+    "2026-05-11T14": [
+      {
+        "newsId": "c6e0e7af-847d-49c7-91bf-158f6aec3bc0",
+        "scripCode": 517320,
+        "shortName": "Magnus Steel and Infra Ltd",
+        "headline": "Please refer the attached intimation",
+        "announcedAt": "2026-05-11T14:55:57.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magnus-steel-and-infra-ltd/magnus/517320/",
+        "rawTime": "2026-05-11T14:55:57.803"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-11T13:39:47.973+05:30",
-    "checksum": "04e05b1da100daa82847951adb6ab18eb359f18bdf51e0421e4687174e012f3b",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-11T15:43:14.844+05:30",
+    "checksum": "f864aad5f5154f86d14cc18df95ad8fe6090a7852b90b57584b4c844b09f4eac",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-11/awards-133947.json"
+    "rawPayloadPath": "data/raw/2026-05-11/awards-154314.json"
   }
 }
