@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-05-11T08:54:51.177"
       }
+    ],
+    "2026-05-11T11": [
+      {
+        "newsId": "884208e1-0ab6-479e-ac6c-68bbc0fe379e",
+        "scripCode": 526729,
+        "shortName": "Goldiam International Ltd",
+        "headline": "Intimation with regard to new export orders received",
+        "announcedAt": "2026-05-11T11:16:06.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/",
+        "rawTime": "2026-05-11T11:16:06.373"
+      }
+    ],
+    "2026-05-11T10": [
+      {
+        "newsId": "a7d12d22-661c-4d63-a8fc-7a0f3db467e2",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Attached Herewith the Intimation under Regulation 30",
+        "announcedAt": "2026-05-11T10:46:35.553+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-05-11T10:46:35.553"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-11T09:55:32.666+05:30",
-    "checksum": "ee941f40a79f23e83bac792cd049588eb16466adf6132a54c76f7e65e121dc5a",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-11T11:45:36.901+05:30",
+    "checksum": "390acb3505207813b5533fc6c09e2a8d2c113d78dd9bbcca8ed3f79757a6cb66",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-11/awards-095532.json"
+    "rawPayloadPath": "data/raw/2026-05-11/awards-114536.json"
   }
 }

@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-11 11:00 | Goldiam International Ltd | 526729 | Intimation with regard to new export orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 11 May 2026 - 11:16 |
+| 2026-05-11 10:00 | Magellanic Cloud Ltd | 538891 | Attached Herewith the Intimation under Regulation 30 ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 11 May 2026 - 10:46 |
 | 2026-05-11 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for Cut and Polished Lab Grown Diamonds amounting to INR 12.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 11 May 2026 - 08:54 |
 
-_Last updated: 11 May 2026 - 09:55 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-11.json)_
+_Last updated: 11 May 2026 - 11:45 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-11.json)_
 
 <!-- snapshot:end -->
 
