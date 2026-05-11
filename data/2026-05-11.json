@@ -14,6 +14,15 @@
     ],
     "2026-05-11T11": [
       {
+        "newsId": "98726105-773d-44d3-b657-17afdd54f393",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of receipt of work order received.",
+        "announcedAt": "2026-05-11T11:52:29.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-05-11T11:52:29.263"
+      },
+      {
         "newsId": "884208e1-0ab6-479e-ac6c-68bbc0fe379e",
         "scripCode": 526729,
         "shortName": "Goldiam International Ltd",
@@ -33,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
         "rawTime": "2026-05-11T10:46:35.553"
       }
+    ],
+    "2026-05-11T13": [
+      {
+        "newsId": "58a6e2eb-ab45-4101-a603-37abfaf158ec",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work/supply orders received during the week ended May 09, 2026",
+        "announcedAt": "2026-05-11T13:22:11.927+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-05-11T13:22:11.927"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-11T11:45:36.901+05:30",
-    "checksum": "390acb3505207813b5533fc6c09e2a8d2c113d78dd9bbcca8ed3f79757a6cb66",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-11T13:39:47.973+05:30",
+    "checksum": "04e05b1da100daa82847951adb6ab18eb359f18bdf51e0421e4687174e012f3b",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-11/awards-114536.json"
+    "rawPayloadPath": "data/raw/2026-05-11/awards-133947.json"
   }
 }
