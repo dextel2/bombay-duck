@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
         "rawTime": "2026-05-12T11:17:19.323"
       }
+    ],
+    "2026-05-12T13": [
+      {
+        "newsId": "7b026abd-3b12-46e4-a569-3d572c8c9b94",
+        "scripCode": 522231,
+        "shortName": "Conart Engineers Ltd-$",
+        "headline": "We are pleased to inform you that the company has received work order from M/s. Hindalco Industries Limited, for yellow soil filling and compound wall work at savli, Vadodara. The approx ....",
+        "announcedAt": "2026-05-12T13:03:13.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/conart-engineers-ltd/conart/522231/",
+        "rawTime": "2026-05-12T13:03:13.44"
+      }
+    ],
+    "2026-05-12T12": [
+      {
+        "newsId": "823aae22-b218-4ce7-86ea-3d03eb722714",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Revised Work Order file on 11th May, 2026.",
+        "announcedAt": "2026-05-12T12:32:48.917+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-05-12T12:32:48.917"
+      },
+      {
+        "newsId": "b45c7901-7285-4dde-9e15-3c5ecf005a5a",
+        "scripCode": 544607,
+        "shortName": "Shining Tools Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation 2015, it is hereby informed that Shining Tools Limited has received a significant Order.",
+        "announcedAt": "2026-05-12T12:08:54.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shining-tools-ltd/shtl/544607/",
+        "rawTime": "2026-05-12T12:08:54.59"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-12T11:32:11.951+05:30",
-    "checksum": "e319987a66c199192d301ff0b78f5d8cd95b929a2dd9e6bf2a308ac3147aad2c",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-12T13:26:44.563+05:30",
+    "checksum": "7f56bf6f9c39b5cab0f9eabdc66f612805524341a89078c3cdcf685211b82728",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-12/awards-113210.json"
+    "rawPayloadPath": "data/raw/2026-05-12/awards-132643.json"
   }
 }
