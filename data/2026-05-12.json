@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shining-tools-ltd/shtl/544607/",
         "rawTime": "2026-05-12T12:08:54.59"
       }
+    ],
+    "2026-05-12T15": [
+      {
+        "newsId": "f2f0fda9-19d2-4a1a-919e-0bb7beadd904",
+        "scripCode": 517546,
+        "shortName": "Alfa Transformers Ltd",
+        "headline": "Supply of various capacity of distribution of Transformer of Rs.8,14,69,356/- from TP Western Odisha Distribution Ltd (TPWODL), a joint venture of Tata Power and Government of Odisha.",
+        "announcedAt": "2026-05-12T15:16:26.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/",
+        "rawTime": "2026-05-12T15:16:26.63"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-12T14:32:55.304+05:30",
-    "checksum": "7f56bf6f9c39b5cab0f9eabdc66f612805524341a89078c3cdcf685211b82728",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-12T16:17:45.337+05:30",
+    "checksum": "13f0494bae32f517cbfd34e47ab1452cb85950dd1fba4808fb813b5789934a2b",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-12/awards-143254.json"
+    "rawPayloadPath": "data/raw/2026-05-12/awards-161744.json"
   }
 }
