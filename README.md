@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-12 12:00 | Shining Tools Ltd | 544607 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation 2015, it is hereby informed that Shining Tools Limited has received a significant Order. ([Link](https://www.bseindia.com/stock-share-price/shining-tools-ltd/shtl/544607/)) | Likely Positive | 12 May 2026 - 12:08 |
 | 2026-05-12 11:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulation of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the Company .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 12 May 2026 - 11:17 |
 
-_Last updated: 12 May 2026 - 13:26 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-12.json)_
+_Last updated: 12 May 2026 - 14:32 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-12.json)_
 
 <!-- snapshot:end -->
 
