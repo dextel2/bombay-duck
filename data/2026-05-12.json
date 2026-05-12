@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-12",
-  "buckets": {},
+  "buckets": {
+    "2026-05-12T11": [
+      {
+        "newsId": "20051336-cc08-4a96-b8f4-18f87044de5c",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulation of SEBI (LODR) Regulations, 2015 and other relevant amendment thereto from time to time, we would like to inform you that the Company ....",
+        "announcedAt": "2026-05-12T11:17:19.323+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-05-12T11:17:19.323"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-12T09:46:00.026+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-12T11:32:11.951+05:30",
+    "checksum": "e319987a66c199192d301ff0b78f5d8cd95b929a2dd9e6bf2a308ac3147aad2c",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-12/awards-094559.json"
+    "rawPayloadPath": "data/raw/2026-05-12/awards-113210.json"
   }
 }
