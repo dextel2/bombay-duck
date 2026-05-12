@@ -18,18 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-11 IST)
+### Today's Awarded Orders (2026-05-12 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-05-11 14:00 | Magnus Steel and Infra Ltd | 517320 | Please refer the attached intimation ([Link](https://www.bseindia.com/stock-share-price/magnus-steel-and-infra-ltd/magnus/517320/)) | Neutral | 11 May 2026 - 14:55 |
-| 2026-05-11 13:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/supply orders received during the week ended May 09, 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 11 May 2026 - 13:22 |
-| 2026-05-11 11:00 | Ahasolar Technologies Ltd | 543941 | Intimation of receipt of work order received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 11 May 2026 - 11:52 |
-| 2026-05-11 11:00 | Goldiam International Ltd | 526729 | Intimation with regard to new export orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 11 May 2026 - 11:16 |
-| 2026-05-11 10:00 | Magellanic Cloud Ltd | 538891 | Attached Herewith the Intimation under Regulation 30 ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 11 May 2026 - 10:46 |
-| 2026-05-11 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for Cut and Polished Lab Grown Diamonds amounting to INR 12.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 11 May 2026 - 08:54 |
+_No award announcements have been captured yet today._
 
-_Last updated: 11 May 2026 - 15:43 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-11.json)_
+_Last updated: 12 May 2026 - 09:46 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-12.json)_
 
 <!-- snapshot:end -->
 
