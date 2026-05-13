@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-13 15:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) for Bagging of Order for Transmission Line ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 13 May 2026 - 15:55 |
+| 2026-05-13 15:00 | PNC Infratech Ltd | 539150 | as per attachment ([Link](https://www.bseindia.com/stock-share-price/pnc-infratech-ltd/pncinfra/539150/)) | Neutral | 13 May 2026 - 15:29 |
 | 2026-05-13 13:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra - NCDC JV had recieved an LOA of an total amount Rs. 81,98,23,592 /- ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 13 May 2026 - 13:23 |
 | 2026-05-13 13:00 | Jyoti Structures Ltd | 513250 | Intimation on New Project Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Likely Positive | 13 May 2026 - 13:17 |
 | 2026-05-13 12:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ('CIL') has received .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 13 May 2026 - 12:02 |
@@ -30,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-13 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,51,33,500 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 13 May 2026 - 11:02 |
 | 2026-05-13 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Significant*) for Power Transmission & Distribution Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 May 2026 - 10:10 |
 
-_Last updated: 13 May 2026 - 14:44 | Entries: 7 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-13.json)_
+_Last updated: 13 May 2026 - 16:20 | Entries: 9 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-13.json)_
 
 <!-- snapshot:end -->
 
