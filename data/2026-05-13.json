@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-05-13",
-  "buckets": {},
+  "buckets": {
+    "2026-05-13T11": [
+      {
+        "newsId": "97ae30a0-f598-46d5-a569-13fb4c878e9e",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 1,51,33,500 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-05-13T11:02:53.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-05-13T11:02:53.133"
+      }
+    ],
+    "2026-05-13T10": [
+      {
+        "newsId": "cc72fdef-783a-441f-9e38-caedaaf8a4ef",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Orders (Significant*) for Power Transmission & Distribution Business",
+        "announcedAt": "2026-05-13T10:10:07.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-05-13T10:10:07.31"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-13T09:49:23.070+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-13T11:36:55.167+05:30",
+    "checksum": "1a5030213e1495bad1656a6929d54a653e0d05c235fd4c67545c58bc173a0f37",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-13/awards-094922.json"
+    "rawPayloadPath": "data/raw/2026-05-13/awards-113654.json"
   }
 }
