@@ -3,6 +3,24 @@
   "buckets": {
     "2026-05-13T11": [
       {
+        "newsId": "e6edb1a7-540f-4f84-b7c7-4e2aed1b2fd7",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ('CIL') has received ....",
+        "announcedAt": "2026-05-13T11:54:38.833+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-05-13T11:54:38.833"
+      },
+      {
+        "newsId": "effc16f8-21fc-43a8-9f4b-c8d2075ad48b",
+        "scripCode": 531201,
+        "shortName": "Shilchar Technologies Ltd",
+        "headline": "Intimation of order dated 30th April 2026, issued by Commissioner of Central Tax (Appeals), CGST and Central Excise, Vadodara.",
+        "announcedAt": "2026-05-13T11:37:40.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shilchar-technologies-ltd/shilctech/531201/",
+        "rawTime": "2026-05-13T11:37:40.57"
+      },
+      {
         "newsId": "97ae30a0-f598-46d5-a569-13fb4c878e9e",
         "scripCode": 544047,
         "shortName": "Siyaram Recycling Industries Ltd",
@@ -22,14 +40,45 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-05-13T10:10:07.31"
       }
+    ],
+    "2026-05-13T13": [
+      {
+        "newsId": "d19c6a87-fba1-48f3-ae44-aaf6983822a5",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra - NCDC JV had recieved an LOA of an total amount Rs. 81,98,23,592 /-",
+        "announcedAt": "2026-05-13T13:23:07.997+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-05-13T13:23:07.997"
+      },
+      {
+        "newsId": "9ca35652-5910-4b34-ae93-6ac9644f2fea",
+        "scripCode": 513250,
+        "shortName": "Jyoti Structures Ltd",
+        "headline": "Intimation on New Project Order",
+        "announcedAt": "2026-05-13T13:17:49.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
+        "rawTime": "2026-05-13T13:17:49.26"
+      }
+    ],
+    "2026-05-13T12": [
+      {
+        "newsId": "76801cba-defc-4ca6-8d17-066a03b1cbc3",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ('CIL') has received ....",
+        "announcedAt": "2026-05-13T12:02:39.200+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-05-13T12:02:39.2"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-13T11:36:55.167+05:30",
-    "checksum": "1a5030213e1495bad1656a6929d54a653e0d05c235fd4c67545c58bc173a0f37",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-13T13:29:18.870+05:30",
+    "checksum": "9b7a29fc1415df49c03fba7600305302b291b0ebb14db217c8b6b56d5aa950eb",
+    "totalAnnouncements": 7,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-13/awards-113654.json"
+    "rawPayloadPath": "data/raw/2026-05-13/awards-132918.json"
   }
 }

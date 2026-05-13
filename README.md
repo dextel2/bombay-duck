@@ -22,10 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-13 13:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra - NCDC JV had recieved an LOA of an total amount Rs. 81,98,23,592 /- ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 13 May 2026 - 13:23 |
+| 2026-05-13 13:00 | Jyoti Structures Ltd | 513250 | Intimation on New Project Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Likely Positive | 13 May 2026 - 13:17 |
+| 2026-05-13 12:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ('CIL') has received .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 13 May 2026 - 12:02 |
+| 2026-05-13 11:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ('CIL') has received .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 13 May 2026 - 11:54 |
+| 2026-05-13 11:00 | Shilchar Technologies Ltd | 531201 | Intimation of order dated 30th April 2026, issued by Commissioner of Central Tax (Appeals), CGST and Central Excise, Vadodara. ([Link](https://www.bseindia.com/stock-share-price/shilchar-technologies-ltd/shilctech/531201/)) | Likely Positive | 13 May 2026 - 11:37 |
 | 2026-05-13 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,51,33,500 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 13 May 2026 - 11:02 |
 | 2026-05-13 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Significant*) for Power Transmission & Distribution Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 May 2026 - 10:10 |
 
-_Last updated: 13 May 2026 - 11:36 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-13.json)_
+_Last updated: 13 May 2026 - 13:29 | Entries: 7 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-13.json)_
 
 <!-- snapshot:end -->
 
