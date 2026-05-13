@@ -30,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-13 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,51,33,500 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 13 May 2026 - 11:02 |
 | 2026-05-13 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Significant*) for Power Transmission & Distribution Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 May 2026 - 10:10 |
 
-_Last updated: 13 May 2026 - 13:29 | Entries: 7 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-13.json)_
+_Last updated: 13 May 2026 - 14:44 | Entries: 7 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-13.json)_
 
 <!-- snapshot:end -->
 
