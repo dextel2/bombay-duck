@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-05-14",
+  "buckets": {
+    "2026-05-14T09": [
+      {
+        "newsId": "c79de4a8-8af9-426d-a1e2-4506aff7003f",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-05-14T09:00:16.607+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2026-05-14T09:00:16.607"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-14T09:49:00.533+05:30",
+    "checksum": "e236e50bcd054d129d5eaab6bd9187209ab2982765a2e1d58ac0a16cdbe29a28",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-14/awards-094859.json"
+  }
+}
