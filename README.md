@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-14 14:00 | Shashijit Infraprojects Ltd | 540147 | intimation of receipt of LOI from Fortune Dreamcon Private Limited for the construction of Row Houses ([Link](https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/)) | Likely Positive | 14 May 2026 - 14:30 |
+| 2026-05-14 14:00 | Shashijit Infraprojects Ltd | 540147 | Intimation of receipt of LOI from Mehul Roadways for the Construction of Industrial Shed Building ([Link](https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/)) | Likely Positive | 14 May 2026 - 14:27 |
 | 2026-05-14 11:00 | WEP Solutions Ltd | 532373 | Receipt of Demand Order ([Link](https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/)) | Likely Positive | 14 May 2026 - 11:41 |
 | 2026-05-14 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to Siyaram Recycling secured Order amounting to Rs. 4,45,87,480 pursuant to Regukation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 14 May 2026 - 11:40 |
 | 2026-05-14 09:00 | MTAR Technologies Ltd | 543270 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 14 May 2026 - 09:00 |
 
-_Last updated: 14 May 2026 - 13:26 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-14.json)_
+_Last updated: 14 May 2026 - 14:30 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-14.json)_
 
 <!-- snapshot:end -->
 

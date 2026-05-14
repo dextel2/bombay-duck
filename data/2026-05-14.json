@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-05-14T11:40:33.987"
       }
+    ],
+    "2026-05-14T14": [
+      {
+        "newsId": "676535c5-73e4-4e46-800a-54e84acdbae5",
+        "scripCode": 540147,
+        "shortName": "Shashijit Infraprojects Ltd",
+        "headline": "intimation of receipt of LOI from Fortune Dreamcon Private Limited for the construction of Row Houses",
+        "announcedAt": "2026-05-14T14:30:14.100+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/",
+        "rawTime": "2026-05-14T14:30:14.1"
+      },
+      {
+        "newsId": "62d08954-c2e4-497d-862a-ec15e349e0cb",
+        "scripCode": 540147,
+        "shortName": "Shashijit Infraprojects Ltd",
+        "headline": "Intimation of receipt of LOI from Mehul Roadways for the Construction of Industrial Shed Building",
+        "announcedAt": "2026-05-14T14:27:18.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/",
+        "rawTime": "2026-05-14T14:27:18.193"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-14T13:26:43.325+05:30",
-    "checksum": "ff96e865201011b4c32348efe43585e9d8dafe0918a83ed275e91fd5f0092c27",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-14T14:30:47.362+05:30",
+    "checksum": "405b8d86950ca363fea18fce8e180d6487663626d9843e4fb42765f2ecc91b39",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-14/awards-132642.json"
+    "rawPayloadPath": "data/raw/2026-05-14/awards-143046.json"
   }
 }
