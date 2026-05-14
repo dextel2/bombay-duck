@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/",
         "rawTime": "2026-05-14T14:27:18.193"
       }
+    ],
+    "2026-05-14T15": [
+      {
+        "newsId": "4126c230-fb86-40fe-a204-8ceb077a6b90",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-05-14T15:06:57.533+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-05-14T15:06:57.533"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-14T14:30:47.362+05:30",
-    "checksum": "405b8d86950ca363fea18fce8e180d6487663626d9843e4fb42765f2ecc91b39",
-    "totalAnnouncements": 5,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-14T16:17:19.281+05:30",
+    "checksum": "429b8fdf397676135b4c12a1d7c26ecf3f85ed81b7073c2eb5d05347ddfb5ed8",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-14/awards-143046.json"
+    "rawPayloadPath": "data/raw/2026-05-14/awards-161718.json"
   }
 }
