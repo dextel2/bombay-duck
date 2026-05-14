@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-05-14 09:00 | MTAR Technologies Ltd | 543270 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 14 May 2026 - 09:00 |
 
-_Last updated: 14 May 2026 - 09:49 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-14.json)_
+_Last updated: 14 May 2026 - 11:36 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-14.json)_
 
 <!-- snapshot:end -->
 
