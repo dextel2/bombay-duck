@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
         "rawTime": "2026-05-14T09:00:16.607"
       }
+    ],
+    "2026-05-14T11": [
+      {
+        "newsId": "986904fb-7ad4-4f44-8418-c8e949cb9731",
+        "scripCode": 532373,
+        "shortName": "WEP Solutions Ltd",
+        "headline": "Receipt of Demand Order",
+        "announcedAt": "2026-05-14T11:41:43.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/",
+        "rawTime": "2026-05-14T11:41:43.97"
+      },
+      {
+        "newsId": "f7169dde-7c56-4f2f-9fbd-e8ab4399311c",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to Siyaram Recycling secured Order amounting to Rs. 4,45,87,480 pursuant to Regukation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015",
+        "announcedAt": "2026-05-14T11:40:33.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-05-14T11:40:33.987"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-14T11:36:20.770+05:30",
-    "checksum": "e236e50bcd054d129d5eaab6bd9187209ab2982765a2e1d58ac0a16cdbe29a28",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-14T13:26:43.325+05:30",
+    "checksum": "ff96e865201011b4c32348efe43585e9d8dafe0918a83ed275e91fd5f0092c27",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-14/awards-113620.json"
+    "rawPayloadPath": "data/raw/2026-05-14/awards-132642.json"
   }
 }
