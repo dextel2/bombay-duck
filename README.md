@@ -18,18 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-14 IST)
+### Today's Awarded Orders (2026-05-15 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-14 15:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 May 2026 - 15:06 |
-| 2026-05-14 14:00 | Shashijit Infraprojects Ltd | 540147 | intimation of receipt of LOI from Fortune Dreamcon Private Limited for the construction of Row Houses ([Link](https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/)) | Likely Positive | 14 May 2026 - 14:30 |
-| 2026-05-14 14:00 | Shashijit Infraprojects Ltd | 540147 | Intimation of receipt of LOI from Mehul Roadways for the Construction of Industrial Shed Building ([Link](https://www.bseindia.com/stock-share-price/shashijit-infraprojects-ltd/shashijit/540147/)) | Likely Positive | 14 May 2026 - 14:27 |
-| 2026-05-14 11:00 | WEP Solutions Ltd | 532373 | Receipt of Demand Order ([Link](https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/)) | Likely Positive | 14 May 2026 - 11:41 |
-| 2026-05-14 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to Siyaram Recycling secured Order amounting to Rs. 4,45,87,480 pursuant to Regukation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 14 May 2026 - 11:40 |
-| 2026-05-14 09:00 | MTAR Technologies Ltd | 543270 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 14 May 2026 - 09:00 |
+| 2026-05-15 08:00 | Welspun Corp Ltd | 532144 | Receipt of a Large Order for supply of LSAW Pipes from our US facility ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 15 May 2026 - 08:34 |
 
-_Last updated: 14 May 2026 - 16:17 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-14.json)_
+_Last updated: 15 May 2026 - 09:52 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-15.json)_
 
 <!-- snapshot:end -->
 

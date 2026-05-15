@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-05-15",
+  "buckets": {
+    "2026-05-15T08": [
+      {
+        "newsId": "34d56263-04cc-4926-aff9-eb6bac15a84e",
+        "scripCode": 532144,
+        "shortName": "Welspun Corp Ltd",
+        "headline": "Receipt of a Large Order for supply of LSAW Pipes from our US facility",
+        "announcedAt": "2026-05-15T08:34:51.937+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
+        "rawTime": "2026-05-15T08:34:51.937"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-15T09:52:11.649+05:30",
+    "checksum": "7a52f34c133b6b52e66a21a246c93a86cfb10ff57b5301234c38e1d7d786c869",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-15/awards-095210.json"
+  }
+}
