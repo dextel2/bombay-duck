@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
         "rawTime": "2026-05-15T08:34:51.937"
       }
+    ],
+    "2026-05-15T11": [
+      {
+        "newsId": "e05e38ab-533b-4ec4-a39a-1cfbcb0bf8a0",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW DOMESTIC ORDER WORTH RS 1,38,70,074.00 RECEIVED",
+        "announcedAt": "2026-05-15T11:30:20.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-05-15T11:30:20.88"
+      }
+    ],
+    "2026-05-15T10": [
+      {
+        "newsId": "56452f47-e44b-435a-92ca-c50825910d93",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding Receipt of Notification of award from ONGC amounting to Rs. 166.69 million",
+        "announcedAt": "2026-05-15T10:41:47.693+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-05-15T10:41:47.693"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-15T09:52:11.649+05:30",
-    "checksum": "7a52f34c133b6b52e66a21a246c93a86cfb10ff57b5301234c38e1d7d786c869",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-15T11:42:06.545+05:30",
+    "checksum": "258274991c639df3296d51d210fa7506cafa1e32c5e9f41f2cc8028ea646e384",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-15/awards-095210.json"
+    "rawPayloadPath": "data/raw/2026-05-15/awards-114205.json"
   }
 }

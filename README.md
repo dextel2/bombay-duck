@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-15 11:00 | Indobell Insulations Ltd | 544334 | NEW DOMESTIC ORDER WORTH RS 1,38,70,074.00 RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 15 May 2026 - 11:30 |
+| 2026-05-15 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Notification of award from ONGC amounting to Rs. 166.69 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 15 May 2026 - 10:41 |
 | 2026-05-15 08:00 | Welspun Corp Ltd | 532144 | Receipt of a Large Order for supply of LSAW Pipes from our US facility ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 15 May 2026 - 08:34 |
 
-_Last updated: 15 May 2026 - 09:52 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-15.json)_
+_Last updated: 15 May 2026 - 11:42 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-15.json)_
 
 <!-- snapshot:end -->
 
