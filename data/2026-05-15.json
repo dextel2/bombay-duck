@@ -33,14 +33,56 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2026-05-15T10:41:47.693"
       }
+    ],
+    "2026-05-15T15": [
+      {
+        "newsId": "b3701e1f-e8f3-48cb-8037-2c4bf423e4a0",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an Agreement with Bikaji Foods International Limited",
+        "announcedAt": "2026-05-15T15:11:13.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-05-15T15:11:13.747"
+      }
+    ],
+    "2026-05-15T14": [
+      {
+        "newsId": "74192c2b-241b-42c2-a053-e21e7f3e2ca9",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt Work Order pursuant to Tender Process.",
+        "announcedAt": "2026-05-15T14:21:26.620+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-05-15T14:21:26.62"
+      },
+      {
+        "newsId": "c9e07cd6-7e0e-4cc6-a40a-f43528e4d574",
+        "scripCode": 538562,
+        "shortName": "Skipper Ltd",
+        "headline": "Intimation of receipt of Order",
+        "announcedAt": "2026-05-15T14:08:17.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/",
+        "rawTime": "2026-05-15T14:08:17.81"
+      }
+    ],
+    "2026-05-15T13": [
+      {
+        "newsId": "5a263076-4bef-49fe-99da-f3e4f7fc12a2",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited recieved an LOA of an total amount Rs. 25,78,73,516 /-",
+        "announcedAt": "2026-05-15T13:15:21.837+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-05-15T13:15:21.837"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-15T11:42:06.545+05:30",
-    "checksum": "258274991c639df3296d51d210fa7506cafa1e32c5e9f41f2cc8028ea646e384",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-15T15:24:12.644+05:30",
+    "checksum": "ee690588d60f61f48c9d80d545ade336fcb4d84197edfd0e26152c44c8cf84f4",
+    "totalAnnouncements": 7,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-15/awards-114205.json"
+    "rawPayloadPath": "data/raw/2026-05-15/awards-152411.json"
   }
 }
