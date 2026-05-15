@@ -30,7 +30,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-15 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Notification of award from ONGC amounting to Rs. 166.69 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 15 May 2026 - 10:41 |
 | 2026-05-15 08:00 | Welspun Corp Ltd | 532144 | Receipt of a Large Order for supply of LSAW Pipes from our US facility ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 15 May 2026 - 08:34 |
 
-_Last updated: 15 May 2026 - 15:24 | Entries: 7 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-15.json)_
+_Last updated: 15 May 2026 - 16:16 | Entries: 7 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-15.json)_
 
 <!-- snapshot:end -->
 
