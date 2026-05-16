@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-05-16 13:00 | Jaykay Enterprises Ltd | 500306 | Receipt of order from BrahMos Aerospace Private Limited by Jaykay Enterprises Limited ([Link](https://www.bseindia.com/stock-share-price/jaykay-enterprises-ltd/jaykay/500306/)) | Likely Positive | 16 May 2026 - 13:38 |
 
-_Last updated: 16 May 2026 - 14:03 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-16.json)_
+_Last updated: 16 May 2026 - 15:01 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-05-16.json)_
 
 <!-- snapshot:end -->
 
