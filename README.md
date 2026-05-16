@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-15 IST)
+### Today's Awarded Orders (2026-05-16 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-05-15 15:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an Agreement with Bikaji Foods International Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 15 May 2026 - 15:11 |
-| 2026-05-15 14:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt Work Order pursuant to Tender Process. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 15 May 2026 - 14:21 |
-| 2026-05-15 14:00 | Skipper Ltd | 538562 | Intimation of receipt of Order ([Link](https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/)) | Likely Positive | 15 May 2026 - 14:08 |
-| 2026-05-15 13:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited recieved an LOA of an total amount Rs. 25,78,73,516 /- ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 15 May 2026 - 13:15 |
-| 2026-05-15 11:00 | Indobell Insulations Ltd | 544334 | NEW DOMESTIC ORDER WORTH RS 1,38,70,074.00 RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 15 May 2026 - 11:30 |
-| 2026-05-15 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding Receipt of Notification of award from ONGC amounting to Rs. 166.69 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 15 May 2026 - 10:41 |
-| 2026-05-15 08:00 | Welspun Corp Ltd | 532144 | Receipt of a Large Order for supply of LSAW Pipes from our US facility ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 15 May 2026 - 08:34 |
+_No award announcements have been captured yet today._
 
-_Last updated: 15 May 2026 - 16:16 | Entries: 7 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-15.json)_
+_Last updated: 16 May 2026 - 09:42 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-16.json)_
 
 <!-- snapshot:end -->
 
