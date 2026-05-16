@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-16",
-  "buckets": {},
+  "buckets": {
+    "2026-05-16T13": [
+      {
+        "newsId": "66a46783-bb4b-43fb-9e59-b29b1f187f93",
+        "scripCode": 500306,
+        "shortName": "Jaykay Enterprises Ltd",
+        "headline": "Receipt of order from BrahMos Aerospace Private Limited by Jaykay Enterprises Limited",
+        "announcedAt": "2026-05-16T13:38:22.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jaykay-enterprises-ltd/jaykay/500306/",
+        "rawTime": "2026-05-16T13:38:22.31"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-16T13:11:49.537+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-16T14:03:43.273+05:30",
+    "checksum": "56efc506f439061fc04342936da8d64af9d94c373f081e33d21447a044e1046b",
+    "totalAnnouncements": 1,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-16/awards-131148.json"
+    "rawPayloadPath": "data/raw/2026-05-16/awards-140342.json"
   }
 }
