@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-18",
-  "buckets": {},
+  "buckets": {
+    "2026-05-18T11": [
+      {
+        "newsId": "6c5284c2-cd22-4d01-8c9e-868ade111a30",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Announcement under Regulation 30 (LODR)_Receipt of multiple orders from Adani Group",
+        "announcedAt": "2026-05-18T11:22:29.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-05-18T11:22:29.82"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-18T09:58:08.805+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-18T11:55:35.585+05:30",
+    "checksum": "a7780fb08d62842a88251c69772ce75798bf2b32a63c22fecea0008696589749",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-18/awards-095808.json"
+    "rawPayloadPath": "data/raw/2026-05-18/awards-115535.json"
   }
 }

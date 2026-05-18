@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-18 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-18 11:00 | Bondada Engineering Ltd | 543971 | Announcement under Regulation 30 (LODR)_Receipt of multiple orders from Adani Group ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 18 May 2026 - 11:22 |
 
-_Last updated: 18 May 2026 - 09:58 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-18.json)_
+_Last updated: 18 May 2026 - 11:55 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-18.json)_
 
 <!-- snapshot:end -->
 
