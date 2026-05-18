@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-05-18T11:22:29.82"
       }
+    ],
+    "2026-05-18T15": [
+      {
+        "newsId": "99c68b08-b0aa-483c-b894-5fb320b5c915",
+        "scripCode": 531274,
+        "shortName": "Kinetic Trust Ltd",
+        "headline": "Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regualtions, 2015, we wish to inform you that the Hon''ble National Company ....",
+        "announcedAt": "2026-05-18T15:35:48.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kinetic-trust-ltd/kinetru/531274/",
+        "rawTime": "2026-05-18T15:35:48.72"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-18T13:50:42.556+05:30",
-    "checksum": "a7780fb08d62842a88251c69772ce75798bf2b32a63c22fecea0008696589749",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-18T15:56:59.828+05:30",
+    "checksum": "4048fc7ca1641e5e05d29ea0cb9eabd62927a477c1dd42fa7cf78593e4dfc5ee",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-18/awards-135041.json"
+    "rawPayloadPath": "data/raw/2026-05-18/awards-155658.json"
   }
 }
