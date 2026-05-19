@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-19",
-  "buckets": {},
+  "buckets": {
+    "2026-05-19T11": [
+      {
+        "newsId": "967a8b9d-bb13-40c9-8ba4-39bcb873d77f",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited in its JV name SB BIL (JV) recieved an LOA of an total amount Rs. 114.24 Crores.",
+        "announcedAt": "2026-05-19T11:28:18.090+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-05-19T11:28:18.09"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-19T09:55:07.518+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-19T11:53:02.890+05:30",
+    "checksum": "afa4d915095118e6bddf398b82e69a9ad6d487ad1ef2bb5d521cba3407d3ea8c",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-19/awards-095507.json"
+    "rawPayloadPath": "data/raw/2026-05-19/awards-115302.json"
   }
 }
