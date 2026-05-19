@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-19 12:00 | Remsons Industries Ltd | 530919 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/)) | Likely Positive | 19 May 2026 - 12:46 |
+| 2026-05-19 11:00 | Transformers and Rectifiers (India) Ltd | 532928 | Intimation of Order received amounting to Rs. 175 Crore ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 19 May 2026 - 11:53 |
 | 2026-05-19 11:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited in its JV name SB BIL (JV) recieved an LOA of an total amount Rs. 114.24 Crores. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 19 May 2026 - 11:28 |
 
-_Last updated: 19 May 2026 - 11:53 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-19.json)_
+_Last updated: 19 May 2026 - 13:39 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-19.json)_
 
 <!-- snapshot:end -->
 
