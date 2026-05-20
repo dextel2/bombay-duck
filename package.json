@@ -27,13 +27,16 @@
     "mustache": "^4.2.0"
   },
   "devDependencies": {
+    "@types/jest": "^30.0.0",
     "@types/luxon": "^3.3.3",
     "@types/mustache": "^4.2.6",
     "@types/node": "^20.12.7",
+    "jest": "^30.4.2",
     "rimraf": "^5.0.5",
+    "ts-jest": "^29.4.10",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5",
+    "tsc-alias": "^1.8.7",
     "tsconfig-paths": "^4.2.0",
-    "tsc-alias": "^1.8.7"
+    "typescript": "^5.4.5"
   }
 }
