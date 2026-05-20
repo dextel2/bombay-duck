@@ -14,6 +14,15 @@
     ],
     "2026-05-20T13": [
       {
+        "newsId": "2dd18b78-0e0e-47ea-acea-301b178591fa",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of Order for Logistics and material handling services in the infrastructure ....",
+        "announcedAt": "2026-05-20T13:40:25.493+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-05-20T13:40:25.493"
+      },
+      {
         "newsId": "b26c20ec-66da-486f-b398-b86a830c6f4f",
         "scripCode": 544550,
         "shortName": "Pace Digitek Ltd",
@@ -54,11 +63,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-20T13:39:13.430+05:30",
-    "checksum": "f5239a670730ee10977a864b4636d26e2370860dbf7a0a94920e9b108cb7979e",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-20T15:37:15.252+05:30",
+    "checksum": "86dc9b563791f52cc03ee480e5616b07e0120bd76dffb147487781aa35d4548c",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-20/awards-133912.json"
+    "rawPayloadPath": "data/raw/2026-05-20/awards-153714.json"
   }
 }

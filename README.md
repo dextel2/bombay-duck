@@ -22,13 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-20 13:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of Order for Logistics and material handling services in the infrastructure .... ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 20 May 2026 - 13:40 |
 | 2026-05-20 13:00 | Pace Digitek Ltd | 544550 | Intimation of receipt of order from BSNL ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 20 May 2026 - 13:31 |
 | 2026-05-20 13:00 | GRE Renew Enertech Ltd | 544682 | Business Update - Disclosure of Orders Received (Fortnightly Update) ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 20 May 2026 - 13:11 |
 | 2026-05-20 12:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH 91300 USD RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 20 May 2026 - 12:54 |
 | 2026-05-20 12:00 | Indobell Insulations Ltd | 544334 | NEW EXPORT ORDER WORTH USD 91300 RECEIVED ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 20 May 2026 - 12:30 |
 | 2026-05-20 09:00 | Mahindra EPC Irrigation Ltd | 523754 | The Company has been awarded contract for supply of Micro Irrigation System under community micro irrigation project for an amount of approx Rs. 3.30 Crore (including GST) ([Link](https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/)) | Likely Positive | 20 May 2026 - 09:43 |
 
-_Last updated: 20 May 2026 - 13:39 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-20.json)_
+_Last updated: 20 May 2026 - 15:37 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-20.json)_
 
 <!-- snapshot:end -->
 
