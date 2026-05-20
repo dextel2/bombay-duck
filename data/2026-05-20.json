@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-05-20",
+  "buckets": {
+    "2026-05-20T09": [
+      {
+        "newsId": "7f07c21a-89c5-40e1-8011-dbd38b611b30",
+        "scripCode": 523754,
+        "shortName": "Mahindra EPC Irrigation Ltd",
+        "headline": "The Company has been awarded contract for supply of Micro Irrigation System under community micro irrigation project for an amount of approx Rs. 3.30 Crore (including GST)",
+        "announcedAt": "2026-05-20T09:43:38.587+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/",
+        "rawTime": "2026-05-20T09:43:38.587"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-20T09:56:12.748+05:30",
+    "checksum": "4338aa40a762d87aecc12af1826163ff35dabfd02cb74381751228cc8c78e4cb",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-20/awards-095612.json"
+  }
+}
