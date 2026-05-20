@@ -11,14 +11,54 @@
         "url": "https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/",
         "rawTime": "2026-05-20T09:43:38.587"
       }
+    ],
+    "2026-05-20T13": [
+      {
+        "newsId": "b26c20ec-66da-486f-b398-b86a830c6f4f",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Intimation of receipt of order from BSNL",
+        "announcedAt": "2026-05-20T13:31:48.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-05-20T13:31:48.13"
+      },
+      {
+        "newsId": "f70f901d-83a4-4a1e-8c8a-0a10ca94dfbe",
+        "scripCode": 544682,
+        "shortName": "GRE Renew Enertech Ltd",
+        "headline": "Business Update - Disclosure of Orders Received (Fortnightly Update)",
+        "announcedAt": "2026-05-20T13:11:42.977+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/",
+        "rawTime": "2026-05-20T13:11:42.977"
+      }
+    ],
+    "2026-05-20T12": [
+      {
+        "newsId": "9185df99-2c94-4470-902f-1a6e626d9497",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH 91300 USD RECEIVED",
+        "announcedAt": "2026-05-20T12:54:39.077+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-05-20T12:54:39.077"
+      },
+      {
+        "newsId": "acb5a5b1-9660-4af7-8bec-9b9fbec216db",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "NEW EXPORT ORDER WORTH USD 91300 RECEIVED",
+        "announcedAt": "2026-05-20T12:30:06.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-05-20T12:30:06.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-20T11:52:33.953+05:30",
-    "checksum": "4338aa40a762d87aecc12af1826163ff35dabfd02cb74381751228cc8c78e4cb",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-20T13:39:13.430+05:30",
+    "checksum": "f5239a670730ee10977a864b4636d26e2370860dbf7a0a94920e9b108cb7979e",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-20/awards-115233.json"
+    "rawPayloadPath": "data/raw/2026-05-20/awards-133912.json"
   }
 }
