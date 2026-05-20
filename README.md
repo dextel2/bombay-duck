@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-05-20 09:00 | Mahindra EPC Irrigation Ltd | 523754 | The Company has been awarded contract for supply of Micro Irrigation System under community micro irrigation project for an amount of approx Rs. 3.30 Crore (including GST) ([Link](https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/)) | Likely Positive | 20 May 2026 - 09:43 |
 
-_Last updated: 20 May 2026 - 09:56 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-20.json)_
+_Last updated: 20 May 2026 - 11:52 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-20.json)_
 
 <!-- snapshot:end -->
 
