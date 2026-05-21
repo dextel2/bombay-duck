@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
         "rawTime": "2026-05-21T11:10:07.743"
       }
+    ],
+    "2026-05-21T13": [
+      {
+        "newsId": "318d0f7c-8bdc-4ca1-9f42-33f75e9a68be",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a Letter of Award/ Purchase order from US- based Solar Energy Developer for supply of 200 MVA 115 kV Power Transformer.",
+        "announcedAt": "2026-05-21T13:32:00.323+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-05-21T13:32:00.323"
+      }
+    ],
+    "2026-05-21T12": [
+      {
+        "newsId": "1e837ab9-8108-4eea-9ad6-fa1beabb2d80",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "Engagement with a leading Telecom operator in North Africa to modernize its RAFM operations",
+        "announcedAt": "2026-05-21T12:44:23.593+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2026-05-21T12:44:23.593"
+      },
+      {
+        "newsId": "67edcebc-3a64-45b3-8fe8-05449bdacae4",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation for receipt of work order.",
+        "announcedAt": "2026-05-21T12:34:38.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-05-21T12:34:38.183"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-21T11:53:08.731+05:30",
-    "checksum": "e96fb7fcbe57f4a3350de220ed96c261512b9ebe36cdc6f8d97fb454875f9d37",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-21T13:42:14.473+05:30",
+    "checksum": "be8f111cca754d54f861d32c7957156a708e3ca2f2a3b81502d4d4a067f1e571",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-21/awards-115307.json"
+    "rawPayloadPath": "data/raw/2026-05-21/awards-134213.json"
   }
 }
