@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-21 12:00 | Dhabriya Polywood Ltd | 538715 | Intimation for receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 21 May 2026 - 12:34 |
 | 2026-05-21 11:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform that the company has received purchase order from Endress and Hauser India amounting to Rs. 1.49 cr. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 21 May 2026 - 11:10 |
 
-_Last updated: 21 May 2026 - 13:42 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-21.json)_
+_Last updated: 21 May 2026 - 15:44 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-21.json)_
 
 <!-- snapshot:end -->
 
