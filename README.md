@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-21 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-21 11:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform that the company has received purchase order from Endress and Hauser India amounting to Rs. 1.49 cr. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 21 May 2026 - 11:10 |
 
-_Last updated: 21 May 2026 - 09:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-21.json)_
+_Last updated: 21 May 2026 - 11:53 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-21.json)_
 
 <!-- snapshot:end -->
 

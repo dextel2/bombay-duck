@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-05-21",
-  "buckets": {},
+  "buckets": {
+    "2026-05-21T11": [
+      {
+        "newsId": "f144ecef-a9e1-4de6-81be-be665c55f916",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We hereby inform that the company has received purchase order from Endress and Hauser India amounting to Rs. 1.49 cr.",
+        "announcedAt": "2026-05-21T11:10:07.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-05-21T11:10:07.743"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-21T09:59:34.003+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-21T11:53:08.731+05:30",
+    "checksum": "e96fb7fcbe57f4a3350de220ed96c261512b9ebe36cdc6f8d97fb454875f9d37",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-21/awards-095933.json"
+    "rawPayloadPath": "data/raw/2026-05-21/awards-115307.json"
   }
 }
