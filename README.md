@@ -18,16 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-21 IST)
+### Today's Awarded Orders (2026-05-22 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-21 13:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a Letter of Award/ Purchase order from US- based Solar Energy Developer for supply of 200 MVA 115 kV Power Transformer. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 21 May 2026 - 13:32 |
-| 2026-05-21 12:00 | Subex Ltd | 532348 | Engagement with a leading Telecom operator in North Africa to modernize its RAFM operations ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Neutral | 21 May 2026 - 12:44 |
-| 2026-05-21 12:00 | Dhabriya Polywood Ltd | 538715 | Intimation for receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 21 May 2026 - 12:34 |
-| 2026-05-21 11:00 | Cryogenic Ogs Ltd | 544440 | We hereby inform that the company has received purchase order from Endress and Hauser India amounting to Rs. 1.49 cr. ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 21 May 2026 - 11:10 |
+| 2026-05-22 09:00 | MTAR Technologies Ltd | 543270 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 22 May 2026 - 09:51 |
+| 2026-05-22 08:00 | Transformers and Rectifiers (India) Ltd | 532928 | We have received Order from GETCO of Rs. 228.26 Crore ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 22 May 2026 - 08:56 |
+| 2026-05-22 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures Design, Build and Operation Order for the State-of-the-Art Wastewater Treatment Plant in Delhi ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 22 May 2026 - 08:32 |
 
-_Last updated: 21 May 2026 - 15:44 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-21.json)_
+_Last updated: 22 May 2026 - 09:56 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-22.json)_
 
 <!-- snapshot:end -->
 

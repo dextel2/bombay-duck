@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-05-22",
+  "buckets": {
+    "2026-05-22T09": [
+      {
+        "newsId": "f265bccf-88c8-4c15-b2a0-759a9232f984",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-05-22T09:51:35.000+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2026-05-22T09:51:35"
+      }
+    ],
+    "2026-05-22T08": [
+      {
+        "newsId": "c4220692-e01f-4f95-a3c5-8e426c76e0f4",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "We have received Order from GETCO of Rs. 228.26 Crore",
+        "announcedAt": "2026-05-22T08:56:32.857+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-05-22T08:56:32.857"
+      },
+      {
+        "newsId": "c5d3dc98-1008-4e51-a419-f6e46dfe8f68",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG secures Design, Build and Operation Order for the State-of-the-Art Wastewater Treatment Plant in Delhi",
+        "announcedAt": "2026-05-22T08:32:21.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-05-22T08:32:21.99"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-22T09:56:47.416+05:30",
+    "checksum": "0d67bf9709294c1daca9b2ef52d3738154887c08adecf26fce5efe46925efdf1",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-22/awards-095646.json"
+  }
+}
