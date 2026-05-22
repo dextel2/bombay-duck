@@ -42,14 +42,45 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-05-22T10:49:22.187"
       }
+    ],
+    "2026-05-22T13": [
+      {
+        "newsId": "b056fc80-e98e-473b-af39-adcf68b6cf55",
+        "scripCode": 530655,
+        "shortName": "Goodluck India Ltd",
+        "headline": "we are please to inform you that the company has received the Order for supply of approx 14,500 MT for Transmission line Structures value of USD 13.6 Mn.",
+        "announcedAt": "2026-05-22T13:18:11.947+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goodluck-india-ltd/goodluck/530655/",
+        "rawTime": "2026-05-22T13:18:11.947"
+      }
+    ],
+    "2026-05-22T12": [
+      {
+        "newsId": "19dd0b51-09c8-4fc0-9d27-9df67ca0aebe",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award of Contract from NMDC Limited.",
+        "announcedAt": "2026-05-22T12:44:45.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-05-22T12:44:45.267"
+      },
+      {
+        "newsId": "8e52b3da-024a-40fa-ad7a-f4fa6a20b86b",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order",
+        "announcedAt": "2026-05-22T12:27:19.520+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-05-22T12:27:19.52"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-22T11:51:57.524+05:30",
-    "checksum": "148292410cda665cc15c55aa9fb095bcc82716077c68faa1b80c2110f0971aa7",
-    "totalAnnouncements": 4,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-22T13:37:01.363+05:30",
+    "checksum": "8481742cbf980a90a911226dde6c79872d28bfecabc4b53fd644d95216abdc0e",
+    "totalAnnouncements": 7,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-22/awards-115156.json"
+    "rawPayloadPath": "data/raw/2026-05-22/awards-133700.json"
   }
 }
