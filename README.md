@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-22 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,63,90,287 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requireements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 22 May 2026 - 10:49 |
 | 2026-05-22 09:00 | MTAR Technologies Ltd | 543270 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 22 May 2026 - 09:51 |
 | 2026-05-22 08:00 | Transformers and Rectifiers (India) Ltd | 532928 | We have received Order from GETCO of Rs. 228.26 Crore ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 22 May 2026 - 08:56 |
 | 2026-05-22 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures Design, Build and Operation Order for the State-of-the-Art Wastewater Treatment Plant in Delhi ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 22 May 2026 - 08:32 |
 
-_Last updated: 22 May 2026 - 09:56 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-22.json)_
+_Last updated: 22 May 2026 - 11:51 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-22.json)_
 
 <!-- snapshot:end -->
 

@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2026-05-22T08:32:21.99"
       }
+    ],
+    "2026-05-22T10": [
+      {
+        "newsId": "097786c1-bb78-4bb4-b26d-fa27e223a411",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 2,63,90,287 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requireements) Regulation, 2015",
+        "announcedAt": "2026-05-22T10:49:22.187+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-05-22T10:49:22.187"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-22T09:56:47.416+05:30",
-    "checksum": "0d67bf9709294c1daca9b2ef52d3738154887c08adecf26fce5efe46925efdf1",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-22T11:51:57.524+05:30",
+    "checksum": "148292410cda665cc15c55aa9fb095bcc82716077c68faa1b80c2110f0971aa7",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-22/awards-095646.json"
+    "rawPayloadPath": "data/raw/2026-05-22/awards-115156.json"
   }
 }
