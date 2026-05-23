@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-23 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 23 May 2026 - 13:13 |
 | 2026-05-23 10:00 | R P P Infra Projects Ltd | 533284 | The Company has received a new work order from State Industries Promotion Corporation of Tamil Nadu Limited for Rs.5,13,00,000 ([Link](https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/)) | Likely Positive | 23 May 2026 - 10:58 |
 
-_Last updated: 23 May 2026 - 11:32 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-23.json)_
+_Last updated: 23 May 2026 - 13:18 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-23.json)_
 
 <!-- snapshot:end -->
 

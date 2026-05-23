@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/",
         "rawTime": "2026-05-23T10:58:38.85"
       }
+    ],
+    "2026-05-23T13": [
+      {
+        "newsId": "a0add5b1-fcab-446e-9bbc-14cafb7d9044",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-05-23T13:13:06.863+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-05-23T13:13:06.863"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-23T11:32:20.569+05:30",
-    "checksum": "c496518840555d54802a31d98109c1c69ccebe7fd6a557b350dfa69b8595c71d",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-23T13:18:01.415+05:30",
+    "checksum": "bc19536a234a3e8f9d9088f452b7bf838ed610809fe9d16116710c35303fd5e0",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-23/awards-113220.json"
+    "rawPayloadPath": "data/raw/2026-05-23/awards-131800.json"
   }
 }
