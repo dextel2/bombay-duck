@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-05-23T13:13:06.863"
       }
+    ],
+    "2026-05-23T14": [
+      {
+        "newsId": "cf895143-2f13-4a7f-a9e3-23e931e00d43",
+        "scripCode": 544332,
+        "shortName": "Fabtech Technologies Cleanrooms Ltd",
+        "headline": "Intimation of receipt of purchase order",
+        "announcedAt": "2026-05-23T14:24:49.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/fabtech-technologies-cleanrooms-ltd/fabclean/544332/",
+        "rawTime": "2026-05-23T14:24:49.81"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-23T14:11:03.736+05:30",
-    "checksum": "bc19536a234a3e8f9d9088f452b7bf838ed610809fe9d16116710c35303fd5e0",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-05-23T15:03:56.560+05:30",
+    "checksum": "7a6dad4245872bcf0acadea1049557ecaff071e5cc047f7c76b8b5786685b1e4",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-23/awards-141103.json"
+    "rawPayloadPath": "data/raw/2026-05-23/awards-150356.json"
   }
 }
