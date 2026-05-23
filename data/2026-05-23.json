@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/fabtech-technologies-cleanrooms-ltd/fabclean/544332/",
         "rawTime": "2026-05-23T14:24:49.81"
       }
+    ],
+    "2026-05-23T15": [
+      {
+        "newsId": "d8a1e146-3543-4727-90c5-04a2654b4b98",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of Receipt of Order for Mechanical and Engineering Manpower Services",
+        "announcedAt": "2026-05-23T15:14:30.437+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-05-23T15:14:30.437"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-23T15:03:56.560+05:30",
-    "checksum": "7a6dad4245872bcf0acadea1049557ecaff071e5cc047f7c76b8b5786685b1e4",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-05-23T16:00:30.587+05:30",
+    "checksum": "f40da458088b6924a9c1087409974f01d46e9388903b96f49e200d1d4835d29c",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-23/awards-150356.json"
+    "rawPayloadPath": "data/raw/2026-05-23/awards-160029.json"
   }
 }
