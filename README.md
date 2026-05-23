@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-22 IST)
+### Today's Awarded Orders (2026-05-23 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-05-22 15:00 | Dilip Buildcon Ltd | 540047 | In continuation of our announcement dated April 09, 2026 and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 22 May 2026 - 15:06 |
-| 2026-05-22 14:00 | Twamev Construction And Infrastructure Ltd | 532738 | Disclosure of Information pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Acceptance. ([Link](https://www.bseindia.com/stock-share-price/twamev-construction-and-infrastructure-ltd/ticl/532738/)) | Likely Positive | 22 May 2026 - 14:30 |
-| 2026-05-22 13:00 | Goodluck India Ltd | 530655 | we are please to inform you that the company has received the Order for supply of approx 14,500 MT for Transmission line Structures value of USD 13.6 Mn. ([Link](https://www.bseindia.com/stock-share-price/goodluck-india-ltd/goodluck/530655/)) | Likely Positive | 22 May 2026 - 13:18 |
-| 2026-05-22 12:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Receipt of Letter of Award of Contract from NMDC Limited. ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 22 May 2026 - 12:44 |
-| 2026-05-22 12:00 | Avantel Ltd | 532406 | Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 22 May 2026 - 12:27 |
-| 2026-05-22 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,63,90,287 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requireements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 22 May 2026 - 10:49 |
-| 2026-05-22 09:00 | MTAR Technologies Ltd | 543270 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 22 May 2026 - 09:51 |
-| 2026-05-22 08:00 | Transformers and Rectifiers (India) Ltd | 532928 | We have received Order from GETCO of Rs. 228.26 Crore ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 22 May 2026 - 08:56 |
-| 2026-05-22 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures Design, Build and Operation Order for the State-of-the-Art Wastewater Treatment Plant in Delhi ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 22 May 2026 - 08:32 |
+_No award announcements have been captured yet today._
 
-_Last updated: 22 May 2026 - 15:34 | Entries: 9 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-22.json)_
+_Last updated: 23 May 2026 - 09:46 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-23.json)_
 
 <!-- snapshot:end -->
 
