@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-23 IST)
+### Today's Awarded Orders (2026-05-24 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-05-23 15:00 | Icon Facilitators Ltd | 544426 | Intimation of Receipt of Order for Mechanical and Engineering Manpower Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 23 May 2026 - 15:14 |
-| 2026-05-23 14:00 | Fabtech Technologies Cleanrooms Ltd | 544332 | Intimation of receipt of purchase order ([Link](https://www.bseindia.com/stock-share-price/fabtech-technologies-cleanrooms-ltd/fabclean/544332/)) | Likely Positive | 23 May 2026 - 14:24 |
-| 2026-05-23 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 23 May 2026 - 13:13 |
-| 2026-05-23 10:00 | R P P Infra Projects Ltd | 533284 | The Company has received a new work order from State Industries Promotion Corporation of Tamil Nadu Limited for Rs.5,13,00,000 ([Link](https://www.bseindia.com/stock-share-price/r-p-p-infra-projects-ltd/rppinfra/533284/)) | Likely Positive | 23 May 2026 - 10:58 |
+_No award announcements have been captured yet today._
 
-_Last updated: 23 May 2026 - 16:00 | Entries: 4 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-05-23.json)_
+_Last updated: 24 May 2026 - 09:57 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-24.json)_
 
 <!-- snapshot:end -->
 
