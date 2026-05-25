@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-05-25",
-  "buckets": {},
+  "buckets": {
+    "2026-05-25T15": [
+      {
+        "newsId": "2d123e0a-9bf0-49d9-9bb7-26199d03dedd",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company has bagged a new contract from Advanced Weapons and Equipment India Limited, Department of Defence Production , Ministry of Defence at a contract ....",
+        "announcedAt": "2026-05-25T15:58:40.337+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-05-25T15:58:40.337"
+      }
+    ],
+    "2026-05-25T14": [
+      {
+        "newsId": "5ffdf391-9662-4d80-8d9a-0af0a8dfe4c4",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Contract from Coast Guard Headquarters, New Delhi",
+        "announcedAt": "2026-05-25T14:57:14.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-05-25T14:57:14.75"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-05-25T14:00:03.731+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-25T16:01:09.411+05:30",
+    "checksum": "141d4f76efcc24aee27b9442451a9b8188170fd276807d177105bf73f4574792",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-25/awards-140002.json"
+    "rawPayloadPath": "data/raw/2026-05-25/awards-160108.json"
   }
 }
