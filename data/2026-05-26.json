@@ -31,14 +31,36 @@
         "url": "https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/",
         "rawTime": "2026-05-26T10:49:55.12"
       }
+    ],
+    "2026-05-26T13": [
+      {
+        "newsId": "4ff8e56f-e937-45d0-b12d-6c4fdefba09f",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "PFA the work order",
+        "announcedAt": "2026-05-26T13:29:35.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-05-26T13:29:35.81"
+      }
+    ],
+    "2026-05-26T11": [
+      {
+        "newsId": "677f61fb-7c34-443a-93bf-ce6835b2d109",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Orders (Significant*) for GeoStructure Business",
+        "announcedAt": "2026-05-26T11:58:03.837+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-05-26T11:58:03.837"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-26T11:51:50.022+05:30",
-    "checksum": "a8bf7ca301f1eeb3c2b39347cfcc4a9ff99b7c2862db13df5b75c9ea54bb884e",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-26T13:41:56.383+05:30",
+    "checksum": "8c10ef03d2e5260391735cd07002dd42edbe155a4c1af179ca67a03866952bef",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-26/awards-115149.json"
+    "rawPayloadPath": "data/raw/2026-05-26/awards-134155.json"
   }
 }
