@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
         "rawTime": "2026-05-26T08:59:45.123"
       }
+    ],
+    "2026-05-26T10": [
+      {
+        "newsId": "d007ba3e-4937-4f71-b9de-e8a08fdc87ee",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding receipt of Purchase Order amounting to Rs. 31.46 million",
+        "announcedAt": "2026-05-26T10:57:18.433+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-05-26T10:57:18.433"
+      },
+      {
+        "newsId": "179ec115-29db-4c66-9e1d-476d0e37dbb4",
+        "scripCode": 544495,
+        "shortName": "NIS Management Ltd",
+        "headline": "Work Orders",
+        "announcedAt": "2026-05-26T10:49:55.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/",
+        "rawTime": "2026-05-26T10:49:55.12"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-26T09:55:23.998+05:30",
-    "checksum": "817f2d17d1f816ae3b155cca9d799d09f2c49b66573f7a4abad21db4e21b97e0",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-26T11:51:50.022+05:30",
+    "checksum": "a8bf7ca301f1eeb3c2b39347cfcc4a9ff99b7c2862db13df5b75c9ea54bb884e",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-26/awards-095523.json"
+    "rawPayloadPath": "data/raw/2026-05-26/awards-115149.json"
   }
 }

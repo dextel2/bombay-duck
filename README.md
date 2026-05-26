@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-26 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of Purchase Order amounting to Rs. 31.46 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 26 May 2026 - 10:57 |
+| 2026-05-26 10:00 | NIS Management Ltd | 544495 | Work Orders ([Link](https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/)) | Likely Positive | 26 May 2026 - 10:49 |
 | 2026-05-26 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 May 2026 - 08:59 |
 
-_Last updated: 26 May 2026 - 09:55 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-26.json)_
+_Last updated: 26 May 2026 - 11:51 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-26.json)_
 
 <!-- snapshot:end -->
 
