@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-05-26",
+  "buckets": {
+    "2026-05-26T08": [
+      {
+        "newsId": "0f0baf4b-7889-40f8-818c-a520e74b5266",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Execution of Power Purchase Agreement",
+        "announcedAt": "2026-05-26T08:59:45.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-05-26T08:59:45.123"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-26T09:55:23.998+05:30",
+    "checksum": "817f2d17d1f816ae3b155cca9d799d09f2c49b66573f7a4abad21db4e21b97e0",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-26/awards-095523.json"
+  }
+}

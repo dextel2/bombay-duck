@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-25 IST)
+### Today's Awarded Orders (2026-05-26 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-25 15:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged a new contract from Advanced Weapons and Equipment India Limited, Department of Defence Production , Ministry of Defence at a contract .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 25 May 2026 - 15:58 |
-| 2026-05-25 14:00 | Avantel Ltd | 532406 | Receipt of Contract from Coast Guard Headquarters, New Delhi ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 25 May 2026 - 14:57 |
+| 2026-05-26 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 May 2026 - 08:59 |
 
-_Last updated: 25 May 2026 - 16:01 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-25.json)_
+_Last updated: 26 May 2026 - 09:55 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-26.json)_
 
 <!-- snapshot:end -->
 
