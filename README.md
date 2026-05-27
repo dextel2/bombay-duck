@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-27 12:00 | Kernex Microsystems India Ltd | 532686 | The Company was awarded order from CLW for a value of Rs. 475.21 crores for supply, installation, testing and commissioning of on Board KAVACH Loco Equipment ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Likely Positive | 27 May 2026 - 12:50 |
+| 2026-05-27 12:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has received a Purchase Order worth ~INR 135.09 Crore from RailTel Corporation of India Limited, a Government of India Undertaking, .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 27 May 2026 - 12:26 |
 | 2026-05-27 11:00 | Desco Infratech Ltd | 544387 | Intimation regarding Purchase order/FOA under Reg 30 of SEBI (LODR) Regulations, 2015 amounting to Rs. 56.22 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 27 May 2026 - 11:12 |
 | 2026-05-27 10:00 | Stanley Lifestyles Ltd | 544202 | Stanley Lifestyles Limited has informed the Exchange about Bagging/Receiving of orders. ([Link](https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/)) | Likely Positive | 27 May 2026 - 10:28 |
 | 2026-05-27 08:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 27 May 2026 - 08:22 |
 
-_Last updated: 27 May 2026 - 11:59 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-27.json)_
+_Last updated: 27 May 2026 - 13:47 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-27.json)_
 
 <!-- snapshot:end -->
 

@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
         "rawTime": "2026-05-27T10:28:21.61"
       }
+    ],
+    "2026-05-27T12": [
+      {
+        "newsId": "95cde7e3-97d1-41b1-85de-ed6714173bad",
+        "scripCode": 532686,
+        "shortName": "Kernex Microsystems India Ltd",
+        "headline": "The Company was awarded order from CLW for a value of Rs. 475.21 crores for supply, installation, testing and commissioning of on Board KAVACH Loco Equipment",
+        "announcedAt": "2026-05-27T12:50:17.313+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
+        "rawTime": "2026-05-27T12:50:17.313"
+      },
+      {
+        "newsId": "2150f1e9-e668-434e-9bd6-e20c34258dda",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "We are pleased to inform all stakeholders that the Company has received a Purchase Order worth ~INR 135.09 Crore from RailTel Corporation of India Limited, a Government of India Undertaking, ....",
+        "announcedAt": "2026-05-27T12:26:34.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2026-05-27T12:26:34.133"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-27T11:59:54.016+05:30",
-    "checksum": "cc9deeef545eaec820ae425cee07c7fdf6cae4840172ea86e3e9094fd70371f8",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-27T13:47:35.847+05:30",
+    "checksum": "dedc7a03ece3fe0e64c8f46bdd4a42f3fd3d756d76b709dd0a02558097db34c6",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-27/awards-115953.json"
+    "rawPayloadPath": "data/raw/2026-05-27/awards-134734.json"
   }
 }
