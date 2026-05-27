@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-27 11:00 | Desco Infratech Ltd | 544387 | Intimation regarding Purchase order/FOA under Reg 30 of SEBI (LODR) Regulations, 2015 amounting to Rs. 56.22 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 27 May 2026 - 11:12 |
+| 2026-05-27 10:00 | Stanley Lifestyles Ltd | 544202 | Stanley Lifestyles Limited has informed the Exchange about Bagging/Receiving of orders. ([Link](https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/)) | Likely Positive | 27 May 2026 - 10:28 |
 | 2026-05-27 08:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 27 May 2026 - 08:22 |
 
-_Last updated: 27 May 2026 - 09:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-27.json)_
+_Last updated: 27 May 2026 - 11:59 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-27.json)_
 
 <!-- snapshot:end -->
 

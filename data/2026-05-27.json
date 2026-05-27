@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/",
         "rawTime": "2026-05-27T08:22:10.25"
       }
+    ],
+    "2026-05-27T11": [
+      {
+        "newsId": "22d4755a-8c98-4c97-989c-d309ed27302b",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding Purchase order/FOA under Reg 30 of SEBI (LODR) Regulations, 2015 amounting to Rs. 56.22 million",
+        "announcedAt": "2026-05-27T11:12:30.047+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-05-27T11:12:30.047"
+      }
+    ],
+    "2026-05-27T10": [
+      {
+        "newsId": "48ad4a69-c3cf-4df9-b0c2-ec6e34da23d3",
+        "scripCode": 544202,
+        "shortName": "Stanley Lifestyles Ltd",
+        "headline": "Stanley Lifestyles Limited has informed the Exchange about Bagging/Receiving of orders.",
+        "announcedAt": "2026-05-27T10:28:21.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
+        "rawTime": "2026-05-27T10:28:21.61"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-27T09:59:58.679+05:30",
-    "checksum": "7b2157b9fdcffdde98a9e485ad79b2119ad7810d421b98456250580705298a53",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-27T11:59:54.016+05:30",
+    "checksum": "cc9deeef545eaec820ae425cee07c7fdf6cae4840172ea86e3e9094fd70371f8",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-27/awards-095958.json"
+    "rawPayloadPath": "data/raw/2026-05-27/awards-115953.json"
   }
 }
