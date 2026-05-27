@@ -53,14 +53,45 @@
         "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
         "rawTime": "2026-05-27T12:26:34.133"
       }
+    ],
+    "2026-05-27T14": [
+      {
+        "newsId": "8ac8bb8a-d78c-4cb6-b30b-684ab11e8008",
+        "scripCode": 522231,
+        "shortName": "Conart Engineers Ltd-$",
+        "headline": "Receipt of New order from M/s. Apothecon Pharmaceuticals Private Limited of Rs. 15.41 Cr.",
+        "announcedAt": "2026-05-27T14:50:27.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/conart-engineers-ltd/conart/522231/",
+        "rawTime": "2026-05-27T14:50:27.983"
+      }
+    ],
+    "2026-05-27T13": [
+      {
+        "newsId": "650868bf-7f93-42ce-a223-3f4ab36b9a31",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Pursuant to Regulation 30 read with Schedule III of the SEBI (LODR) Regulations, 2015, we hereby inform that the Company has received a Purchase Order from domestic customer for Supply ....",
+        "announcedAt": "2026-05-27T13:57:57.200+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-05-27T13:57:57.2"
+      },
+      {
+        "newsId": "b06e18cc-a70f-485a-8bb1-b244c18aa350",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Pursuant to Regulation 30 read with Schedule III of the SEBI (LODR) Regulations, 2015, we hereby inform that the Company has received a Purchase Order from domestic customer for Supply ....",
+        "announcedAt": "2026-05-27T13:56:23.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-05-27T13:56:23.83"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-27T13:47:35.847+05:30",
-    "checksum": "dedc7a03ece3fe0e64c8f46bdd4a42f3fd3d756d76b709dd0a02558097db34c6",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-27T15:53:31.386+05:30",
+    "checksum": "2667fed9fd264096f42bfd2b4799fa9eb843f5668c085b5ed85e17d7a54eb851",
+    "totalAnnouncements": 8,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-27/awards-134734.json"
+    "rawPayloadPath": "data/raw/2026-05-27/awards-155330.json"
   }
 }
