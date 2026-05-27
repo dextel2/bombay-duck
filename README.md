@@ -18,18 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-26 IST)
+### Today's Awarded Orders (2026-05-27 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-26 15:00 | Saatvik Green Energy Ltd | 544526 | Receipt of the order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 26 May 2026 - 15:50 |
-| 2026-05-26 13:00 | ITCONS E-Solutions Ltd | 543806 | PFA the work order ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 26 May 2026 - 13:29 |
-| 2026-05-26 11:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Significant*) for GeoStructure Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 26 May 2026 - 11:58 |
-| 2026-05-26 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of Purchase Order amounting to Rs. 31.46 million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 26 May 2026 - 10:57 |
-| 2026-05-26 10:00 | NIS Management Ltd | 544495 | Work Orders ([Link](https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/)) | Likely Positive | 26 May 2026 - 10:49 |
-| 2026-05-26 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 May 2026 - 08:59 |
+| 2026-05-27 08:00 | Axiscades Technologies Ltd | 532395 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Bagging of Order ([Link](https://www.bseindia.com/stock-share-price/axiscades-technologies-ltd/axiscades/532395/)) | Likely Positive | 27 May 2026 - 08:22 |
 
-_Last updated: 26 May 2026 - 15:53 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-26.json)_
+_Last updated: 27 May 2026 - 09:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-27.json)_
 
 <!-- snapshot:end -->
 
