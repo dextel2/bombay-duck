@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-28 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-28 13:00 | Panasonic Energy India Company Ltd-$ | 504093 | This is to inform you that the company had received a order from the office of Deputy/Assistant commissioner of Central GST and Central Excise, Division V, Vadodara I, Race Course, Vadodara .... ([Link](https://www.bseindia.com/stock-share-price/panasonic-energy-india-company-ltd/panaenerg/504093/)) | Likely Positive | 28 May 2026 - 13:08 |
 
-_Last updated: 28 May 2026 - 11:54 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-28.json)_
+_Last updated: 28 May 2026 - 13:49 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-28.json)_
 
 <!-- snapshot:end -->
 
