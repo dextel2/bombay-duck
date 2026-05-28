@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/panasonic-energy-india-company-ltd/panaenerg/504093/",
         "rawTime": "2026-05-28T13:08:51.117"
       }
+    ],
+    "2026-05-28T15": [
+      {
+        "newsId": "89f403e6-0cbd-48b0-90fb-f7c102cd09d0",
+        "scripCode": 543240,
+        "shortName": "Likhitha Infrastructure Ltd",
+        "headline": "We hreby inform that the Company has received an order worth Rs. 121.04 Crores (Incl. GST) from M/s. Oil India Limited on May 28, 2026.",
+        "announcedAt": "2026-05-28T15:23:43.740+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/",
+        "rawTime": "2026-05-28T15:23:43.74"
+      }
+    ],
+    "2026-05-28T14": [
+      {
+        "newsId": "f7288245-8ae3-478f-87e8-c722ea6335d6",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of receipt of work order.",
+        "announcedAt": "2026-05-28T14:17:08.113+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-05-28T14:17:08.113"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-28T13:49:03.645+05:30",
-    "checksum": "6b42c618085bbfdeb80011ea9a18d03e20310b461ba8cc28b605e1a1dfbf7578",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-28T15:56:32.879+05:30",
+    "checksum": "4af2ec7d014b9752a3e93b0442026822f29b15bc8476c7b074b5839ced5fb9e0",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-28/awards-134902.json"
+    "rawPayloadPath": "data/raw/2026-05-28/awards-155632.json"
   }
 }
