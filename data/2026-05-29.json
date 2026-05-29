@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-05-29",
+  "buckets": {
+    "2026-05-29T09": [
+      {
+        "newsId": "98e74099-f375-4f50-9853-86b5810e23a2",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Letter of Acceptance from Southern Central Railway for an aggregate value of Rs. 7.64 crore.",
+        "announcedAt": "2026-05-29T09:33:27.333+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-05-29T09:33:27.333"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-05-29T09:59:09.080+05:30",
+    "checksum": "473cfe94379fafa90fb365938d81269527605b15e5d3946be63630d35886adcb",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-05-29/awards-095908.json"
+  }
+}

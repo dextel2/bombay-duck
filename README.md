@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-28 IST)
+### Today's Awarded Orders (2026-05-29 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05-28 15:00 | Likhitha Infrastructure Ltd | 543240 | We hreby inform that the Company has received an order worth Rs. 121.04 Crores (Incl. GST) from M/s. Oil India Limited on May 28, 2026. ([Link](https://www.bseindia.com/stock-share-price/likhitha-infrastructure-ltd/likhitha/543240/)) | Likely Positive | 28 May 2026 - 15:23 |
-| 2026-05-28 14:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 28 May 2026 - 14:17 |
-| 2026-05-28 13:00 | Panasonic Energy India Company Ltd-$ | 504093 | This is to inform you that the company had received a order from the office of Deputy/Assistant commissioner of Central GST and Central Excise, Division V, Vadodara I, Race Course, Vadodara .... ([Link](https://www.bseindia.com/stock-share-price/panasonic-energy-india-company-ltd/panaenerg/504093/)) | Likely Positive | 28 May 2026 - 13:08 |
+| 2026-05-29 09:00 | Magellanic Cloud Ltd | 538891 | Letter of Acceptance from Southern Central Railway for an aggregate value of Rs. 7.64 crore. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 29 May 2026 - 09:33 |
 
-_Last updated: 28 May 2026 - 15:56 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-28.json)_
+_Last updated: 29 May 2026 - 09:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-29.json)_
 
 <!-- snapshot:end -->
 
