@@ -22,12 +22,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-29 15:00 | Bandaram Pharma Packtech Ltd | 524602 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/bandaram-pharma-packtech-ltd/bandaram/524602/)) | Likely Positive | 29 May 2026 - 15:46 |
+| 2026-05-29 15:00 | Bandaram Pharma Packtech Ltd | 524602 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/bandaram-pharma-packtech-ltd/bandaram/524602/)) | Likely Positive | 29 May 2026 - 15:44 |
+| 2026-05-29 15:00 | Bandaram Pharma Packtech Ltd | 524602 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/bandaram-pharma-packtech-ltd/bandaram/524602/)) | Likely Positive | 29 May 2026 - 15:42 |
+| 2026-05-29 14:00 | Sharika Enterprises Ltd | 540786 | Intimation of Receipt of order from East India Udyog Ltd ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 29 May 2026 - 14:46 |
+| 2026-05-29 14:00 | Ironwood Education Ltd | 508918 | The Company has been appointed as the Development Manager for the development of project situated at Kalyan ([Link](https://www.bseindia.com/stock-share-price/ironwood-education-ltd/ironwood/508918/)) | Neutral | 29 May 2026 - 14:36 |
 | 2026-05-29 12:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015- Bagging of Order for excavation, loading and transportation of pond ash to open .... ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 29 May 2026 - 12:55 |
 | 2026-05-29 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to Siyaram Recycling Secured Order amounting to Rs. 19694068 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 29 May 2026 - 11:21 |
 | 2026-05-29 10:00 | Solar Industries India Ltd | 532725 | Intimation of Receipt of Export Order for Supply of Defence Products of INR 1076 Crores. ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 29 May 2026 - 10:09 |
 | 2026-05-29 09:00 | Magellanic Cloud Ltd | 538891 | Letter of Acceptance from Southern Central Railway for an aggregate value of Rs. 7.64 crore. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 29 May 2026 - 09:33 |
 
-_Last updated: 29 May 2026 - 13:46 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-29.json)_
+_Last updated: 29 May 2026 - 15:50 | Entries: 9 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-29.json)_
 
 <!-- snapshot:end -->
 

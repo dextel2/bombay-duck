@@ -44,14 +44,63 @@
         "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
         "rawTime": "2026-05-29T12:55:05.053"
       }
+    ],
+    "2026-05-29T15": [
+      {
+        "newsId": "4347b424-95bd-4d42-9345-2f576ac5aa91",
+        "scripCode": 524602,
+        "shortName": "Bandaram Pharma Packtech Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-05-29T15:46:36.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bandaram-pharma-packtech-ltd/bandaram/524602/",
+        "rawTime": "2026-05-29T15:46:36.89"
+      },
+      {
+        "newsId": "a3813181-742c-43d7-962a-72b2420a24fd",
+        "scripCode": 524602,
+        "shortName": "Bandaram Pharma Packtech Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-05-29T15:44:44.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bandaram-pharma-packtech-ltd/bandaram/524602/",
+        "rawTime": "2026-05-29T15:44:44.19"
+      },
+      {
+        "newsId": "43ac7ccd-4f7d-445b-abdd-ca21f16df526",
+        "scripCode": 524602,
+        "shortName": "Bandaram Pharma Packtech Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-05-29T15:42:58.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bandaram-pharma-packtech-ltd/bandaram/524602/",
+        "rawTime": "2026-05-29T15:42:58.07"
+      }
+    ],
+    "2026-05-29T14": [
+      {
+        "newsId": "153e41e9-0923-4f6a-a54c-5e696de64ee4",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of order from East India Udyog Ltd",
+        "announcedAt": "2026-05-29T14:46:10.447+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-05-29T14:46:10.447"
+      },
+      {
+        "newsId": "dd1e7ae5-dae0-4c83-98aa-6916fc247021",
+        "scripCode": 508918,
+        "shortName": "Ironwood Education Ltd",
+        "headline": "The Company has been appointed as the Development Manager for the development of project situated at Kalyan",
+        "announcedAt": "2026-05-29T14:36:16.600+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ironwood-education-ltd/ironwood/508918/",
+        "rawTime": "2026-05-29T14:36:16.6"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-29T13:46:39.334+05:30",
-    "checksum": "ac84fec7875a48bc82c677f722a3c803b04131382c0377bda42b9b084de2391b",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-29T15:50:03.040+05:30",
+    "checksum": "30cd47c201ea81dc97758cc513164348f69853e92ffaa9d2b9d7aaf74014e730",
+    "totalAnnouncements": 9,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-29/awards-134638.json"
+    "rawPayloadPath": "data/raw/2026-05-29/awards-155002.json"
   }
 }
