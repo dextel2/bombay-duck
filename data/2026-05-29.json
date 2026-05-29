@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
         "rawTime": "2026-05-29T09:33:27.333"
       }
+    ],
+    "2026-05-29T11": [
+      {
+        "newsId": "321a8609-e15e-4718-b0d4-337179a3a173",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to Siyaram Recycling Secured Order amounting to Rs. 19694068 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation 2015",
+        "announcedAt": "2026-05-29T11:21:06.497+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-05-29T11:21:06.497"
+      }
+    ],
+    "2026-05-29T10": [
+      {
+        "newsId": "e836d9cb-d9a4-4739-adab-1b8082e3ea28",
+        "scripCode": 532725,
+        "shortName": "Solar Industries India Ltd",
+        "headline": "Intimation of Receipt of Export Order for Supply of Defence Products of INR 1076 Crores.",
+        "announcedAt": "2026-05-29T10:09:17.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/",
+        "rawTime": "2026-05-29T10:09:17.24"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-29T09:59:09.080+05:30",
-    "checksum": "473cfe94379fafa90fb365938d81269527605b15e5d3946be63630d35886adcb",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-05-29T11:55:27.378+05:30",
+    "checksum": "6de65f24a8ac549ed1ba22a43aeab454b582cd18a0ca144d0303c2d5292b9927",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-29/awards-095908.json"
+    "rawPayloadPath": "data/raw/2026-05-29/awards-115526.json"
   }
 }

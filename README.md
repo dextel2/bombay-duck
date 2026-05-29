@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-05-29 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to Siyaram Recycling Secured Order amounting to Rs. 19694068 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements ) Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 29 May 2026 - 11:21 |
+| 2026-05-29 10:00 | Solar Industries India Ltd | 532725 | Intimation of Receipt of Export Order for Supply of Defence Products of INR 1076 Crores. ([Link](https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/)) | Likely Positive | 29 May 2026 - 10:09 |
 | 2026-05-29 09:00 | Magellanic Cloud Ltd | 538891 | Letter of Acceptance from Southern Central Railway for an aggregate value of Rs. 7.64 crore. ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Neutral | 29 May 2026 - 09:33 |
 
-_Last updated: 29 May 2026 - 09:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-05-29.json)_
+_Last updated: 29 May 2026 - 11:55 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-29.json)_
 
 <!-- snapshot:end -->
 
