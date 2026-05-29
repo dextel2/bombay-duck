@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/solar-industries-india-ltd/solarinds/532725/",
         "rawTime": "2026-05-29T10:09:17.24"
       }
+    ],
+    "2026-05-29T12": [
+      {
+        "newsId": "4036ffbf-7253-47d0-8598-483f23371638",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015- Bagging of Order for excavation, loading and transportation of pond ash to open ....",
+        "announcedAt": "2026-05-29T12:55:05.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-05-29T12:55:05.053"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-29T11:55:27.378+05:30",
-    "checksum": "6de65f24a8ac549ed1ba22a43aeab454b582cd18a0ca144d0303c2d5292b9927",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-05-29T13:46:39.334+05:30",
+    "checksum": "ac84fec7875a48bc82c677f722a3c803b04131382c0377bda42b9b084de2391b",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-29/awards-115526.json"
+    "rawPayloadPath": "data/raw/2026-05-29/awards-134638.json"
   }
 }
