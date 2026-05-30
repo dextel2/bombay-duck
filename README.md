@@ -20,9 +20,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-05-30 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-05-30 13:00 | WEP Solutions Ltd | 532373 | Receipt of Demand Order ([Link](https://www.bseindia.com/stock-share-price/wep-solutions-ltd/wepsoln/532373/)) | Likely Positive | 30 May 2026 - 13:10 |
+| 2026-05-30 12:00 | H.M. Electro Mech Ltd | 544349 | H.M. Electro Mech Limited has received the Work Order. ([Link](https://www.bseindia.com/stock-share-price/hm-electro-mech-ltd/hmeml/544349/)) | Likely Positive | 30 May 2026 - 12:46 |
+| 2026-05-30 12:00 | Concord Control Systems Ltd | 543619 | Intimation of Order ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 30 May 2026 - 12:28 |
+| 2026-05-30 12:00 | Zenith Exports Ltd | 512553 | Intimation under Regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/zenith-exports-ltd/zenithexpo/512553/)) | Neutral | 30 May 2026 - 12:19 |
 
-_Last updated: 30 May 2026 - 11:36 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-05-30.json)_
+_Last updated: 30 May 2026 - 13:23 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-05-30.json)_
 
 <!-- snapshot:end -->
 
