@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-05-30 12:00 | Concord Control Systems Ltd | 543619 | Intimation of Order ([Link](https://www.bseindia.com/stock-share-price/concord-control-systems-ltd/cncrd/543619/)) | Likely Positive | 30 May 2026 - 12:28 |
 | 2026-05-30 12:00 | Zenith Exports Ltd | 512553 | Intimation under Regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/zenith-exports-ltd/zenithexpo/512553/)) | Neutral | 30 May 2026 - 12:19 |
 
-_Last updated: 30 May 2026 - 14:17 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-05-30.json)_
+_Last updated: 30 May 2026 - 15:06 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-30.json)_
 
 <!-- snapshot:end -->
 
