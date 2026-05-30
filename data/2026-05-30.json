@@ -3,6 +3,15 @@
   "buckets": {
     "2026-05-30T13": [
       {
+        "newsId": "2fb690d5-aa71-4447-9ca8-7d3ccb3e41a8",
+        "scripCode": 544538,
+        "shortName": "Praruh Technologies Ltd",
+        "headline": "receipt of purchase order (CGNAT) from Railtel Corporation of India Limited",
+        "announcedAt": "2026-05-30T13:36:28.997+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/",
+        "rawTime": "2026-05-30T13:36:28.997"
+      },
+      {
         "newsId": "d2dfde66-66ed-47ff-adcc-44b4a3062e56",
         "scripCode": 532373,
         "shortName": "WEP Solutions Ltd",
@@ -43,11 +52,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-05-30T13:23:02.218+05:30",
-    "checksum": "71b3579ebdf07df6d30cc55193530c0ed11b83e1c656b5738a6bc9d3186d2b7c",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-05-30T14:17:32.328+05:30",
+    "checksum": "7233f5fed5ab71a9e1bf08183e665f20391b145fb6674b8a810b8e37bbeebaa4",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-05-30/awards-132301.json"
+    "rawPayloadPath": "data/raw/2026-05-30/awards-141731.json"
   }
 }
