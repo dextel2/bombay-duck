@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2026-06-01T08:46:47.557"
       }
+    ],
+    "2026-06-01T11": [
+      {
+        "newsId": "5e73deec-efb2-42a6-8893-0b5508d074af",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regard to \"Siyaram Recycling\" secured order amounting to Rs. 95,63,900 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-06-01T11:21:14.423+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-06-01T11:21:14.423"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-01T10:01:33.056+05:30",
-    "checksum": "197d5db4c2da81926693fb829b6ea025254686cf43adaabd71fc158bc54bd09d",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-01T12:06:14.644+05:30",
+    "checksum": "78cb29998b8c6c3442547f27eb278f989fe28ad73f753e18d076f4d7db41852b",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-01/awards-100132.json"
+    "rawPayloadPath": "data/raw/2026-06-01/awards-120613.json"
   }
 }
