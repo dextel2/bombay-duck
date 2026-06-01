@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-06-01",
+  "buckets": {
+    "2026-06-01T08": [
+      {
+        "newsId": "4f9cb588-5d44-4971-b250-a3185c181dc9",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of significant doemstic order for Cut and Polished Lab Grown Diamonds from Aura Diamond amounting to INR 14.00 Crores",
+        "announcedAt": "2026-06-01T08:58:40.347+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-06-01T08:58:40.347"
+      },
+      {
+        "newsId": "f1ae7d9d-879e-4eaf-ba8c-48182a6b6e1f",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "Press Release - KPIL AWARDED NEW ORDERS OF RS. 2002 CRORES",
+        "announcedAt": "2026-06-01T08:46:47.557+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2026-06-01T08:46:47.557"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-01T10:01:33.056+05:30",
+    "checksum": "197d5db4c2da81926693fb829b6ea025254686cf43adaabd71fc158bc54bd09d",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-01/awards-100132.json"
+  }
+}

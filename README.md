@@ -18,11 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-05-31 IST)
+### Today's Awarded Orders (2026-06-01 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-01 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant doemstic order for Cut and Polished Lab Grown Diamonds from Aura Diamond amounting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 01 Jun 2026 - 08:58 |
+| 2026-06-01 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2002 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 01 Jun 2026 - 08:46 |
 
-_Last updated: 31 May 2026 - 16:08 | Entries: 0 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-05-31.json)_
+_Last updated: 01 Jun 2026 - 10:01 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-01.json)_
 
 <!-- snapshot:end -->
 
