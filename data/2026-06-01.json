@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-06-01T11:21:14.423"
       }
+    ],
+    "2026-06-01T12": [
+      {
+        "newsId": "1b373164-c6ba-416b-8f50-79160ae8c280",
+        "scripCode": 544471,
+        "shortName": "Takyon Networks Ltd",
+        "headline": "This is to inform that \"Takyon Networks Limited\" has received a work order worth of Rs. 60,50,000 from \"Hindustan Aerinautics Limited.",
+        "announcedAt": "2026-06-01T12:38:32.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/",
+        "rawTime": "2026-06-01T12:38:32.583"
+      },
+      {
+        "newsId": "c1f6bb9f-912b-48f5-9e45-ebf08ae419bd",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 93,52,680 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-06-01T12:29:41.997+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-06-01T12:29:41.997"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-01T12:06:14.644+05:30",
-    "checksum": "78cb29998b8c6c3442547f27eb278f989fe28ad73f753e18d076f4d7db41852b",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-01T14:20:26.369+05:30",
+    "checksum": "2b8ce3606d0c1aa283eea2375def4621bf90fd020fee3773ec63542002ca820c",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-01/awards-120613.json"
+    "rawPayloadPath": "data/raw/2026-06-01/awards-142025.json"
   }
 }
