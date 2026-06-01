@@ -51,14 +51,36 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-06-01T12:29:41.997"
       }
+    ],
+    "2026-06-01T15": [
+      {
+        "newsId": "cba1fd04-3fad-4c33-ac70-e4865dcdeccc",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Intimation of work/ supply orders Received during the period period from may 17, 2026 to may 30 2026",
+        "announcedAt": "2026-06-01T15:13:49.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-06-01T15:13:49.823"
+      }
+    ],
+    "2026-06-01T14": [
+      {
+        "newsId": "a2d8e8eb-24ae-4f7a-aae4-ca2540659e8b",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of order from M/s ShivGanga Drillers Limited",
+        "announcedAt": "2026-06-01T14:31:06.313+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-06-01T14:31:06.313"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-01T14:20:26.369+05:30",
-    "checksum": "2b8ce3606d0c1aa283eea2375def4621bf90fd020fee3773ec63542002ca820c",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-01T16:12:55.724+05:30",
+    "checksum": "b6b3736525ba75c82b1d00faffca02ad19c6c14439bfd7534af65d7ffe97822e",
+    "totalAnnouncements": 7,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-01/awards-142025.json"
+    "rawPayloadPath": "data/raw/2026-06-01/awards-161255.json"
   }
 }

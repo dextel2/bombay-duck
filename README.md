@@ -22,13 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-01 15:00 | Gabion Technologies India Ltd | 544675 | Intimation of work/ supply orders Received during the period period from may 17, 2026 to may 30 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 01 Jun 2026 - 15:13 |
+| 2026-06-01 14:00 | United Drilling Tools Ltd | 522014 | Award of order from M/s ShivGanga Drillers Limited ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 01 Jun 2026 - 14:31 |
 | 2026-06-01 12:00 | Takyon Networks Ltd | 544471 | This is to inform that "Takyon Networks Limited" has received a work order worth of Rs. 60,50,000 from "Hindustan Aerinautics Limited. ([Link](https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/)) | Likely Positive | 01 Jun 2026 - 12:38 |
 | 2026-06-01 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 93,52,680 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 01 Jun 2026 - 12:29 |
 | 2026-06-01 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regard to "Siyaram Recycling" secured order amounting to Rs. 95,63,900 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 01 Jun 2026 - 11:21 |
 | 2026-06-01 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant doemstic order for Cut and Polished Lab Grown Diamonds from Aura Diamond amounting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 01 Jun 2026 - 08:58 |
 | 2026-06-01 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2002 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 01 Jun 2026 - 08:46 |
 
-_Last updated: 01 Jun 2026 - 14:20 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-01.json)_
+_Last updated: 01 Jun 2026 - 16:12 | Entries: 7 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-01.json)_
 
 <!-- snapshot:end -->
 
