@@ -42,14 +42,54 @@
         "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
         "rawTime": "2026-06-02T12:41:46.943"
       }
+    ],
+    "2026-06-02T15": [
+      {
+        "newsId": "5e17be79-6e0b-43a9-b06e-5c4daaebd933",
+        "scripCode": 517546,
+        "shortName": "Alfa Transformers Ltd",
+        "headline": "Company has received a contract from TP Southern Odisha Distribution Ltd (TPSODL) dated 20th May,2026 for supply of various capacity of Transformers of Rs,3,00,43,019.93",
+        "announcedAt": "2026-06-02T15:23:32.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/",
+        "rawTime": "2026-06-02T15:23:32.713"
+      }
+    ],
+    "2026-06-02T14": [
+      {
+        "newsId": "5d8b6fc6-8ff1-4c4a-982d-c834c1126c87",
+        "scripCode": 544471,
+        "shortName": "Takyon Networks Ltd",
+        "headline": "Company has received work order worth Rs. 99,67,932 from Bharat Sanchar Nigam Limited.",
+        "announcedAt": "2026-06-02T14:57:22.150+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/",
+        "rawTime": "2026-06-02T14:57:22.15"
+      },
+      {
+        "newsId": "dbd61b8e-36ef-40ff-a28d-c214e0957d0e",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Attached Herewith the Regulation 30 for receipt of order",
+        "announcedAt": "2026-06-02T14:39:35.503+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-06-02T14:39:35.503"
+      },
+      {
+        "newsId": "01441fdd-599b-478b-b6df-911286a17b59",
+        "scripCode": 542725,
+        "shortName": "SBC Exports Ltd",
+        "headline": "Export Order received from Dubai Based company _Huxx readymade Garments trading LLC amounting 18 cr.",
+        "announcedAt": "2026-06-02T14:20:57.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/",
+        "rawTime": "2026-06-02T14:20:57.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-02T14:01:32.109+05:30",
-    "checksum": "4914ebd03ab29438278adbecf6ab70ea398c479fb1491664db09d0672b604ccb",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-02T16:01:41.743+05:30",
+    "checksum": "c03639d8dbf4affbd9e3d2244045034c10df4e7cb53293b76c10024e00409709",
+    "totalAnnouncements": 8,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-02/awards-140130.json"
+    "rawPayloadPath": "data/raw/2026-06-02/awards-160141.json"
   }
 }
