@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-02 13:00 | Magellanic Cloud Ltd | 538891 | Attached Herewith the Regulation 30 for receipt of Order ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 02 Jun 2026 - 13:52 |
+| 2026-06-02 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged a new contract from Ministry of Ayush of work order value 12892544.95. For more details, refer attached file. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 02 Jun 2026 - 12:41 |
 | 2026-06-02 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged new contract from Sports Authority of India of order value of Rs. 5702580. For more details, kindly refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 02 Jun 2026 - 11:42 |
 | 2026-06-02 11:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that PARAS has received an order from Bharat Electronics Limited valued at approximately Rs. 52.82 Cr. (Incl. of Taxes) for supply of Electro-Optics. ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 02 Jun 2026 - 11:17 |
 
-_Last updated: 02 Jun 2026 - 12:01 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-02.json)_
+_Last updated: 02 Jun 2026 - 14:01 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-02.json)_
 
 <!-- snapshot:end -->
 

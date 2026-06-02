@@ -20,14 +20,36 @@
         "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
         "rawTime": "2026-06-02T11:17:40.207"
       }
+    ],
+    "2026-06-02T13": [
+      {
+        "newsId": "c093268a-7a79-4c2e-8ff6-e40e0704b394",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Attached Herewith the Regulation 30 for receipt of Order",
+        "announcedAt": "2026-06-02T13:52:45.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-06-02T13:52:45.95"
+      }
+    ],
+    "2026-06-02T12": [
+      {
+        "newsId": "9489f2fc-6f86-452e-b5bd-8188622e8378",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company has bagged a new contract from Ministry of Ayush of work order value 12892544.95. For more details, refer attached file.",
+        "announcedAt": "2026-06-02T12:41:46.943+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-06-02T12:41:46.943"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-02T12:01:51.706+05:30",
-    "checksum": "be039d83b53e18ff302d35ee59f799c92c9c2f11e87ac89de095e4d7b0157562",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-02T14:01:32.109+05:30",
+    "checksum": "4914ebd03ab29438278adbecf6ab70ea398c479fb1491664db09d0672b604ccb",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-02/awards-120150.json"
+    "rawPayloadPath": "data/raw/2026-06-02/awards-140130.json"
   }
 }
