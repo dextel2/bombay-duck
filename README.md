@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-02 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-02 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged new contract from Sports Authority of India of order value of Rs. 5702580. For more details, kindly refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 02 Jun 2026 - 11:42 |
+| 2026-06-02 11:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that PARAS has received an order from Bharat Electronics Limited valued at approximately Rs. 52.82 Cr. (Incl. of Taxes) for supply of Electro-Optics. ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 02 Jun 2026 - 11:17 |
 
-_Last updated: 02 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-02.json)_
+_Last updated: 02 Jun 2026 - 12:01 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-02.json)_
 
 <!-- snapshot:end -->
 

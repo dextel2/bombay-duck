@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-06-02",
-  "buckets": {},
+  "buckets": {
+    "2026-06-02T11": [
+      {
+        "newsId": "a55c158d-9833-442b-be00-71b3de2f00f8",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company has bagged new contract from Sports Authority of India of order value of Rs. 5702580. For more details, kindly refer attached file",
+        "announcedAt": "2026-06-02T11:42:37.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-06-02T11:42:37.053"
+      },
+      {
+        "newsId": "aff0920c-2780-4f3c-b8d6-354d75551a96",
+        "scripCode": 543367,
+        "shortName": "Paras Defence and Space Technologies Ltd",
+        "headline": "We are pleased to inform that PARAS has received an order from Bharat Electronics Limited valued at approximately Rs. 52.82 Cr. (Incl. of Taxes) for supply of Electro-Optics.",
+        "announcedAt": "2026-06-02T11:17:40.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/",
+        "rawTime": "2026-06-02T11:17:40.207"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-02T10:00:20.313+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-02T12:01:51.706+05:30",
+    "checksum": "be039d83b53e18ff302d35ee59f799c92c9c2f11e87ac89de095e4d7b0157562",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-02/awards-100019.json"
+    "rawPayloadPath": "data/raw/2026-06-02/awards-120150.json"
   }
 }
