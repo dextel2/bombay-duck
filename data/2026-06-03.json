@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-03",
+  "buckets": {
+    "2026-06-03T09": [
+      {
+        "newsId": "4624ffda-e63c-43ae-8eb0-53434d94d40e",
+        "scripCode": 544042,
+        "shortName": "Bajel Projects Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Bagging of order of EHV Substation",
+        "announcedAt": "2026-06-03T09:45:43.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
+        "rawTime": "2026-06-03T09:45:43.65"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-03T10:00:43.253+05:30",
+    "checksum": "d41151798bfdd40d8e91ff394ea8669515a5950e8c0f11a632cb5138dc3d72ad",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-03/awards-100042.json"
+  }
+}

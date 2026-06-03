@@ -18,20 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-02 IST)
+### Today's Awarded Orders (2026-06-03 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-02 15:00 | Alfa Transformers Ltd | 517546 | Company has received a contract from TP Southern Odisha Distribution Ltd (TPSODL) dated 20th May,2026 for supply of various capacity of Transformers of Rs,3,00,43,019.93 ([Link](https://www.bseindia.com/stock-share-price/alfa-transformers-ltd/alfatran/517546/)) | Likely Positive | 02 Jun 2026 - 15:23 |
-| 2026-06-02 14:00 | Takyon Networks Ltd | 544471 | Company has received work order worth Rs. 99,67,932 from Bharat Sanchar Nigam Limited. ([Link](https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/)) | Likely Positive | 02 Jun 2026 - 14:57 |
-| 2026-06-02 14:00 | Magellanic Cloud Ltd | 538891 | Attached Herewith the Regulation 30 for receipt of order ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 02 Jun 2026 - 14:39 |
-| 2026-06-02 14:00 | SBC Exports Ltd | 542725 | Export Order received from Dubai Based company _Huxx readymade Garments trading LLC amounting 18 cr. ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 02 Jun 2026 - 14:20 |
-| 2026-06-02 13:00 | Magellanic Cloud Ltd | 538891 | Attached Herewith the Regulation 30 for receipt of Order ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 02 Jun 2026 - 13:52 |
-| 2026-06-02 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged a new contract from Ministry of Ayush of work order value 12892544.95. For more details, refer attached file. ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 02 Jun 2026 - 12:41 |
-| 2026-06-02 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged new contract from Sports Authority of India of order value of Rs. 5702580. For more details, kindly refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 02 Jun 2026 - 11:42 |
-| 2026-06-02 11:00 | Paras Defence and Space Technologies Ltd | 543367 | We are pleased to inform that PARAS has received an order from Bharat Electronics Limited valued at approximately Rs. 52.82 Cr. (Incl. of Taxes) for supply of Electro-Optics. ([Link](https://www.bseindia.com/stock-share-price/paras-defence-and-space-technologies-ltd/paras/543367/)) | Likely Positive | 02 Jun 2026 - 11:17 |
+| 2026-06-03 09:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of order of EHV Substation ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 03 Jun 2026 - 09:45 |
 
-_Last updated: 02 Jun 2026 - 16:01 | Entries: 8 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-02.json)_
+_Last updated: 03 Jun 2026 - 10:00 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-03.json)_
 
 <!-- snapshot:end -->
 
