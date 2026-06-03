@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
         "rawTime": "2026-06-03T10:51:14.903"
       }
+    ],
+    "2026-06-03T13": [
+      {
+        "newsId": "a138d369-9412-4f69-aa49-63ab73423db9",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our Company has received a Letter of Intent (LoI) worth Rs. 31,26,70,500.00 (incl GST) from Assam Electricity Grid Corporation Limited.",
+        "announcedAt": "2026-06-03T13:44:21.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-06-03T13:44:21.93"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-03T12:05:11.335+05:30",
-    "checksum": "3767fbf175247d03750227927c032fbe68dc4c5ba75f77149f4bb488ecfb070d",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-03T14:07:51.408+05:30",
+    "checksum": "a1ce8ff7cc1a68b987e20a388f0385c48b9c99c27ffb9df0caa537d8bb13b756",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-03/awards-120510.json"
+    "rawPayloadPath": "data/raw/2026-06-03/awards-140750.json"
   }
 }
