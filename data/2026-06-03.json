@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
         "rawTime": "2026-06-03T09:45:43.65"
       }
+    ],
+    "2026-06-03T10": [
+      {
+        "newsId": "22b223b2-6bc7-4de1-bfe1-a8f5c4139b4f",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please find the attached",
+        "announcedAt": "2026-06-03T10:51:14.903+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-06-03T10:51:14.903"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-03T10:00:43.253+05:30",
-    "checksum": "d41151798bfdd40d8e91ff394ea8669515a5950e8c0f11a632cb5138dc3d72ad",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-03T12:05:11.335+05:30",
+    "checksum": "3767fbf175247d03750227927c032fbe68dc4c5ba75f77149f4bb488ecfb070d",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-03/awards-100042.json"
+    "rawPayloadPath": "data/raw/2026-06-03/awards-120510.json"
   }
 }
