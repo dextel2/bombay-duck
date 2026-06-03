@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-03 10:00 | Power Mech Projects Ltd | 539302 | Please find the attached ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 03 Jun 2026 - 10:51 |
 | 2026-06-03 09:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of order of EHV Substation ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 03 Jun 2026 - 09:45 |
 
-_Last updated: 03 Jun 2026 - 14:07 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-03.json)_
+_Last updated: 03 Jun 2026 - 16:03 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-03.json)_
 
 <!-- snapshot:end -->
 
