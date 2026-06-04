@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
         "rawTime": "2026-06-04T13:24:55.967"
       }
+    ],
+    "2026-06-04T15": [
+      {
+        "newsId": "cedcd4fb-6909-4628-97ba-1b38c707dbc4",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation of work order under regulation 30, Engagement of User fee agency for Mundiyar Toll Plaza wef 11.07.2026",
+        "announcedAt": "2026-06-04T15:40:42.460+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-06-04T15:40:42.46"
+      }
+    ],
+    "2026-06-04T14": [
+      {
+        "newsId": "b825b3f7-ab67-48ce-8c9b-e25a0cf1a3cc",
+        "scripCode": 544458,
+        "shortName": "Shree Refrigerations Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 read with Sub Para 4, Para B, Part A, Schedule III of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has Secured two orders ....",
+        "announcedAt": "2026-06-04T14:39:37.777+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
+        "rawTime": "2026-06-04T14:39:37.777"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-04T13:57:10.982+05:30",
-    "checksum": "702b57ff50744c3df9054ebcbfedb0fe0925537d569d849b3bac4bfe982a214d",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-04T15:47:19.290+05:30",
+    "checksum": "85d64c14daa808bd9d2f47723f189d9a9ce69976d1ea6f6a982b1e26cac801f7",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-04/awards-135710.json"
+    "rawPayloadPath": "data/raw/2026-06-04/awards-154718.json"
   }
 }
