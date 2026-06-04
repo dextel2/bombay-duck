@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-04 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-04 13:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for receipt of Letter of Award/Work Orders ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Likely Positive | 04 Jun 2026 - 13:24 |
 
-_Last updated: 04 Jun 2026 - 12:02 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-04.json)_
+_Last updated: 04 Jun 2026 - 13:57 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-04.json)_
 
 <!-- snapshot:end -->
 

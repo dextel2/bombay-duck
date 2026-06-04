@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-04",
-  "buckets": {},
+  "buckets": {
+    "2026-06-04T13": [
+      {
+        "newsId": "dd3d0a2a-469b-4981-8ebc-4506ea0832ef",
+        "scripCode": 543986,
+        "shortName": "South West Pinnacle Exploration Ltd",
+        "headline": "Announcement for receipt of Letter of Award/Work Orders",
+        "announcedAt": "2026-06-04T13:24:55.967+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
+        "rawTime": "2026-06-04T13:24:55.967"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-04T12:02:07.327+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-04T13:57:10.982+05:30",
+    "checksum": "702b57ff50744c3df9054ebcbfedb0fe0925537d569d849b3bac4bfe982a214d",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-04/awards-120206.json"
+    "rawPayloadPath": "data/raw/2026-06-04/awards-135710.json"
   }
 }
