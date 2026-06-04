@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-03 IST)
+### Today's Awarded Orders (2026-06-04 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-03 13:00 | Marsons Ltd | 517467 | We are pleased to announce that our Company has received a Letter of Intent (LoI) worth Rs. 31,26,70,500.00 (incl GST) from Assam Electricity Grid Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Neutral | 03 Jun 2026 - 13:44 |
-| 2026-06-03 10:00 | Power Mech Projects Ltd | 539302 | Please find the attached ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Neutral | 03 Jun 2026 - 10:51 |
-| 2026-06-03 09:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of order of EHV Substation ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Likely Positive | 03 Jun 2026 - 09:45 |
+_No award announcements have been captured yet today._
 
-_Last updated: 03 Jun 2026 - 16:03 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-03.json)_
+_Last updated: 04 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-04.json)_
 
 <!-- snapshot:end -->
 
