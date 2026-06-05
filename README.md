@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-05 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-05 11:00 | Bharat Heavy Electricals Ltd | 500103 | BHEL has received a Notification of Award from Meja Urja Nigam Pvt. Ltd. (MUNPL) ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Neutral | 05 Jun 2026 - 11:26 |
 
-_Last updated: 05 Jun 2026 - 09:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-05.json)_
+_Last updated: 05 Jun 2026 - 11:59 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-05.json)_
 
 <!-- snapshot:end -->
 

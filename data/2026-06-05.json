@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-05",
-  "buckets": {},
+  "buckets": {
+    "2026-06-05T11": [
+      {
+        "newsId": "982e0153-1534-4230-ab3e-2433f80b586e",
+        "scripCode": 500103,
+        "shortName": "Bharat Heavy Electricals Ltd",
+        "headline": "BHEL has received a Notification of Award from Meja Urja Nigam Pvt. Ltd. (MUNPL)",
+        "announcedAt": "2026-06-05T11:26:50.220+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+        "rawTime": "2026-06-05T11:26:50.22"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-05T09:59:35.688+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-05T11:59:41.964+05:30",
+    "checksum": "e48540059ed217a4da0ed05a0ef123d4ece15dc56ac4fb78d007d7c6c780c307",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-05/awards-095934.json"
+    "rawPayloadPath": "data/raw/2026-06-05/awards-115941.json"
   }
 }
