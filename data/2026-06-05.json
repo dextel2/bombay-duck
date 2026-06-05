@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
         "rawTime": "2026-06-05T11:26:50.22"
       }
+    ],
+    "2026-06-05T13": [
+      {
+        "newsId": "1686f2f2-6959-4656-9ba7-708e3294d0ea",
+        "scripCode": 544414,
+        "shortName": "Bluspring Enterprises Ltd",
+        "headline": "Intimation of Bagging/Receiving of Order/contracts",
+        "announcedAt": "2026-06-05T13:12:07.613+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bluspring-enterprises-ltd/bluspring/544414/",
+        "rawTime": "2026-06-05T13:12:07.613"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-05T11:59:41.964+05:30",
-    "checksum": "e48540059ed217a4da0ed05a0ef123d4ece15dc56ac4fb78d007d7c6c780c307",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-05T13:51:10.117+05:30",
+    "checksum": "6d02ade59cf949f4f921804feba8ff5528687f40fc80a604c320d16a642d3d51",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-05/awards-115941.json"
+    "rawPayloadPath": "data/raw/2026-06-05/awards-135109.json"
   }
 }
