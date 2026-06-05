@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-05 13:00 | Bluspring Enterprises Ltd | 544414 | Intimation of Bagging/Receiving of Order/contracts ([Link](https://www.bseindia.com/stock-share-price/bluspring-enterprises-ltd/bluspring/544414/)) | Likely Positive | 05 Jun 2026 - 13:12 |
 | 2026-06-05 11:00 | Bharat Heavy Electricals Ltd | 500103 | BHEL has received a Notification of Award from Meja Urja Nigam Pvt. Ltd. (MUNPL) ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Neutral | 05 Jun 2026 - 11:26 |
 
-_Last updated: 05 Jun 2026 - 13:51 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-05.json)_
+_Last updated: 05 Jun 2026 - 15:50 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-05.json)_
 
 <!-- snapshot:end -->
 
