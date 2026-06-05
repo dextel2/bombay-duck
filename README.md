@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-04 IST)
+### Today's Awarded Orders (2026-06-05 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-04 15:00 | Innovision Ltd | 544732 | Intimation of work order under regulation 30, Engagement of User fee agency for Mundiyar Toll Plaza wef 11.07.2026 ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 04 Jun 2026 - 15:40 |
-| 2026-06-04 14:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of Regulation 30 read with Sub Para 4, Para B, Part A, Schedule III of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has Secured two orders .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 04 Jun 2026 - 14:39 |
-| 2026-06-04 13:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for receipt of Letter of Award/Work Orders ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Likely Positive | 04 Jun 2026 - 13:24 |
+_No award announcements have been captured yet today._
 
-_Last updated: 04 Jun 2026 - 15:47 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-04.json)_
+_Last updated: 05 Jun 2026 - 09:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-05.json)_
 
 <!-- snapshot:end -->
 
