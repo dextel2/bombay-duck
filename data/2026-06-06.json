@@ -31,14 +31,36 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-06-06T13:05:08.413"
       }
+    ],
+    "2026-06-06T16": [
+      {
+        "newsId": "3a6fcac5-ba8b-478b-b0de-07c2ee390168",
+        "scripCode": 532942,
+        "shortName": "KNR Constructions Ltd",
+        "headline": "Intimation of receipt of order",
+        "announcedAt": "2026-06-06T16:01:36.060+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
+        "rawTime": "2026-06-06T16:01:36.06"
+      }
+    ],
+    "2026-06-06T15": [
+      {
+        "newsId": "e715d596-8ed0-47f3-9c0b-3bea6e54f960",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order",
+        "announcedAt": "2026-06-06T15:49:19.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-06-06T15:49:19.89"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-06T15:13:31.932+05:30",
-    "checksum": "e9b9b66698a83fbd4e6374a31586359ceb9dc29b406980c1def895d5ee405894",
-    "totalAnnouncements": 3,
-    "requestCount": 5,
+    "lastUpdated": "2026-06-06T16:07:10.834+05:30",
+    "checksum": "c8c536410622b1a0f717243ea3d195402ae6b7105944450c1d3ad8eb22c7bd13",
+    "totalAnnouncements": 5,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-06/awards-151331.json"
+    "rawPayloadPath": "data/raw/2026-06-06/awards-160710.json"
   }
 }
