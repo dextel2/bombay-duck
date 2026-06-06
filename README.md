@@ -26,7 +26,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-06 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 06 Jun 2026 - 13:05 |
 | 2026-06-06 11:00 | Hindustan Tin Works Ltd-$ | 530315 | Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Proper Officer (GST) cum ETO, Ward - 5 (Sonipat). ([Link](https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/)) | Likely Positive | 06 Jun 2026 - 11:27 |
 
-_Last updated: 06 Jun 2026 - 14:26 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
+_Last updated: 06 Jun 2026 - 15:13 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
 
 <!-- snapshot:end -->
 
