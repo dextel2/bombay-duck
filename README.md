@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-06 13:00 | Innovision Ltd | 544732 | Intimation under Regulation 30 of LODR for receiving of work order as user fee collection agency for Belon Fees plaza, Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 06 Jun 2026 - 13:13 |
+| 2026-06-06 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 06 Jun 2026 - 13:05 |
 | 2026-06-06 11:00 | Hindustan Tin Works Ltd-$ | 530315 | Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Proper Officer (GST) cum ETO, Ward - 5 (Sonipat). ([Link](https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/)) | Likely Positive | 06 Jun 2026 - 11:27 |
 
-_Last updated: 06 Jun 2026 - 11:40 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
+_Last updated: 06 Jun 2026 - 13:26 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
 
 <!-- snapshot:end -->
 

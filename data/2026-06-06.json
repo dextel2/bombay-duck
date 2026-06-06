@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/",
         "rawTime": "2026-06-06T11:27:22.7"
       }
+    ],
+    "2026-06-06T13": [
+      {
+        "newsId": "4df13938-4e54-48aa-a2cb-95693837811f",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation under Regulation 30 of LODR for receiving of work order as user fee collection agency for Belon Fees plaza, Uttar Pradesh",
+        "announcedAt": "2026-06-06T13:13:12.100+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-06-06T13:13:12.1"
+      },
+      {
+        "newsId": "0fd3873a-d253-45dc-884d-3a39580f7c69",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-06-06T13:05:08.413+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-06-06T13:05:08.413"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-06T11:40:57.936+05:30",
-    "checksum": "18dd98c4750c4c7c89181f6e5c21a47531961f8ea63867dfc19e4628a22d7b82",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-06T13:26:17.598+05:30",
+    "checksum": "e9b9b66698a83fbd4e6374a31586359ceb9dc29b406980c1def895d5ee405894",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-06/awards-114057.json"
+    "rawPayloadPath": "data/raw/2026-06-06/awards-132617.json"
   }
 }
