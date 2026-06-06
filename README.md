@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-06 11:00 | Hindustan Tin Works Ltd-$ | 530315 | Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Proper Officer (GST) cum ETO, Ward - 5 (Sonipat). ([Link](https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/)) | Likely Positive | 06 Jun 2026 - 11:27 |
 
-_Last updated: 06 Jun 2026 - 09:52 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
+_Last updated: 06 Jun 2026 - 11:40 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
 
 <!-- snapshot:end -->
 

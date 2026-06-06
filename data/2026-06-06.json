@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-06",
-  "buckets": {},
+  "buckets": {
+    "2026-06-06T11": [
+      {
+        "newsId": "b33cea1f-19ec-404e-a7dc-551848a12fd1",
+        "scripCode": 530315,
+        "shortName": "Hindustan Tin Works Ltd-$",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Proper Officer (GST) cum ETO, Ward - 5 (Sonipat).",
+        "announcedAt": "2026-06-06T11:27:22.700+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/",
+        "rawTime": "2026-06-06T11:27:22.7"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-06T09:52:39.770+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-06T11:40:57.936+05:30",
+    "checksum": "18dd98c4750c4c7c89181f6e5c21a47531961f8ea63867dfc19e4628a22d7b82",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-06/awards-095239.json"
+    "rawPayloadPath": "data/raw/2026-06-06/awards-114057.json"
   }
 }
