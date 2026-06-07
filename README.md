@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-06 IST)
+### Today's Awarded Orders (2026-06-07 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-06 16:00 | KNR Constructions Ltd | 532942 | Intimation of receipt of order ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 06 Jun 2026 - 16:01 |
-| 2026-06-06 15:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 06 Jun 2026 - 15:49 |
-| 2026-06-06 13:00 | Innovision Ltd | 544732 | Intimation under Regulation 30 of LODR for receiving of work order as user fee collection agency for Belon Fees plaza, Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 06 Jun 2026 - 13:13 |
-| 2026-06-06 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 06 Jun 2026 - 13:05 |
-| 2026-06-06 11:00 | Hindustan Tin Works Ltd-$ | 530315 | Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Proper Officer (GST) cum ETO, Ward - 5 (Sonipat). ([Link](https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/)) | Likely Positive | 06 Jun 2026 - 11:27 |
+_No award announcements have been captured yet today._
 
-_Last updated: 06 Jun 2026 - 16:07 | Entries: 5 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-06-06.json)_
+_Last updated: 07 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-07.json)_
 
 <!-- snapshot:end -->
 
