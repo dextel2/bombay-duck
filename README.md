@@ -20,9 +20,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-08 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-08 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 Jun 2026 - 13:42 |
+| 2026-06-08 13:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation for securing project from Central Bank of India worth Rs 125.88 crores (excluding GST) for expansion of Private cloud, establishment of Containerization .... ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Neutral | 08 Jun 2026 - 13:29 |
+| 2026-06-08 13:00 | Waaree Renewable Technologies Ltd | 534618 | Please find attached herewith Letter of Award received from Wholly Owned Subsidiary Company ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 08 Jun 2026 - 13:00 |
 
-_Last updated: 08 Jun 2026 - 12:01 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-08.json)_
+_Last updated: 08 Jun 2026 - 14:04 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-08.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,42 @@
 {
   "tradingDate": "2026-06-08",
-  "buckets": {},
+  "buckets": {
+    "2026-06-08T13": [
+      {
+        "newsId": "31ca5e65-e2fa-41d7-9e8a-f64254a3206e",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-06-08T13:42:49.397+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-06-08T13:42:49.397"
+      },
+      {
+        "newsId": "39551fb8-07ae-4997-b944-e40dc963e1b3",
+        "scripCode": 532365,
+        "shortName": "Dynacons Systems & Solutions Ltd",
+        "headline": "Please find enclosed intimation for securing project from Central Bank of India worth Rs 125.88 crores (excluding GST) for expansion of Private cloud, establishment of Containerization ....",
+        "announcedAt": "2026-06-08T13:29:24.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/",
+        "rawTime": "2026-06-08T13:29:24.823"
+      },
+      {
+        "newsId": "1fd036cf-416d-43c4-a1ea-52dad91441eb",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "Please find attached herewith Letter of Award received from Wholly Owned Subsidiary Company",
+        "announcedAt": "2026-06-08T13:00:46.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2026-06-08T13:00:46.64"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-08T12:01:41.650+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-08T14:04:02.180+05:30",
+    "checksum": "dc62ff890db0b271a42cf4a7e43cd81ef64b2750d1a5c8820b19873079e02281",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-08/awards-120140.json"
+    "rawPayloadPath": "data/raw/2026-06-08/awards-140401.json"
   }
 }
