@@ -18,11 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-07 IST)
+### Today's Awarded Orders (2026-06-08 IST)
 
 _No award announcements have been captured yet today._
 
-_Last updated: 07 Jun 2026 - 15:30 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-07.json)_
+_Last updated: 08 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-08.json)_
 
 <!-- snapshot:end -->
 
