@@ -29,14 +29,36 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
         "rawTime": "2026-06-08T13:00:46.64"
       }
+    ],
+    "2026-06-08T16": [
+      {
+        "newsId": "6c7b68d0-eb25-4ea5-854d-01a033ad1dce",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Contract from DRDO worth of Rs.9.94 Cr",
+        "announcedAt": "2026-06-08T16:00:10.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-06-08T16:00:10.093"
+      }
+    ],
+    "2026-06-08T14": [
+      {
+        "newsId": "51f09a2b-4349-491d-8efe-08cc163d3a3f",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "The Company has received a Purchased Order from OTTRIVE LIFESTYLE PRIVATE LIMITED for 1334 NOS Solar PV Module. The Total Value is around 1.07 Crores (exclusive of GST).",
+        "announcedAt": "2026-06-08T14:10:30.357+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-06-08T14:10:30.357"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-08T14:04:02.180+05:30",
-    "checksum": "dc62ff890db0b271a42cf4a7e43cd81ef64b2750d1a5c8820b19873079e02281",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-08T16:03:52.021+05:30",
+    "checksum": "f6b1ac8f33d9dc172605bbb7980acb73ac603e16d3e85555eddfc357a143e7d9",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-08/awards-140401.json"
+    "rawPayloadPath": "data/raw/2026-06-08/awards-160351.json"
   }
 }
