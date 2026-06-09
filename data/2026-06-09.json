@@ -53,14 +53,56 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-06-09T12:43:39.69"
       }
+    ],
+    "2026-06-09T15": [
+      {
+        "newsId": "f745ab62-1cc5-4bab-b428-6a0cee802de4",
+        "scripCode": 531173,
+        "shortName": "Syschem India Ltd",
+        "headline": "Announcement under regulation 30(LODR): Updating in regards to earlier disclosure made dated 15-04-2026, regarding Fraudulent Transfer of funds and receive of recovery order.",
+        "announcedAt": "2026-06-09T15:40:15.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/syschem-india-ltd/syschem/531173/",
+        "rawTime": "2026-06-09T15:40:15.23"
+      },
+      {
+        "newsId": "999fab60-8b8a-4fa9-9e62-0d5d3ce8498b",
+        "scripCode": 544406,
+        "shortName": "Unified Data Tech Solutions Ltd",
+        "headline": "Announcement under Regulation 30 of the SEBI (LODR) Regulations, 2015 for receipt of Purchase Order from one of the largest private sector bank.",
+        "announcedAt": "2026-06-09T15:31:33.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/unified-data-tech-solutions-ltd/unified/544406/",
+        "rawTime": "2026-06-09T15:31:33.84"
+      }
+    ],
+    "2026-06-09T14": [
+      {
+        "newsId": "88578d0b-b74b-429d-b0c4-4caec67f6212",
+        "scripCode": 543994,
+        "shortName": "JSW Infrastructure Ltd",
+        "headline": "Disclosure attached herewith",
+        "announcedAt": "2026-06-09T14:50:53.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jsw-infrastructure-ltd/jswinfra/543994/",
+        "rawTime": "2026-06-09T14:50:53.823"
+      }
+    ],
+    "2026-06-09T13": [
+      {
+        "newsId": "79db1adb-ae01-4101-926e-6c5d817a510a",
+        "scripCode": 532942,
+        "shortName": "KNR Constructions Ltd",
+        "headline": "Intimation of receipt of order",
+        "announcedAt": "2026-06-09T13:56:34.957+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
+        "rawTime": "2026-06-09T13:56:34.957"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-09T13:42:31.370+05:30",
-    "checksum": "51f5ddcd143fd92293df5cc624141fa2db2a161bb3b54fc1580dda1cd2fd6a9f",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-09T15:43:29.875+05:30",
+    "checksum": "8da5315a479659329e421464d368e5d0fcb101d73985ba51a1274d31fca44e08",
+    "totalAnnouncements": 9,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-09/awards-134230.json"
+    "rawPayloadPath": "data/raw/2026-06-09/awards-154329.json"
   }
 }
