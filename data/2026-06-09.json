@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-09",
+  "buckets": {
+    "2026-06-09T08": [
+      {
+        "newsId": "74708055-c475-43e6-81de-d4641cc8c3b6",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG Consortium secures a \"Large\" Order towards Ajman Sewage Biorefinery Plant, Strengthening GCC Presence.",
+        "announcedAt": "2026-06-09T08:28:27.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-06-09T08:28:27.183"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-09T09:55:00.702+05:30",
+    "checksum": "ecd3b1acaa6fc5cb4bf36d9d6f80789cb10aacf64e809fee552681caf7260994",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-09/awards-095500.json"
+  }
+}

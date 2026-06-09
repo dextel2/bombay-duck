@@ -18,17 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-08 IST)
+### Today's Awarded Orders (2026-06-09 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-08 16:00 | Avantel Ltd | 532406 | Receipt of Contract from DRDO worth of Rs.9.94 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 08 Jun 2026 - 16:00 |
-| 2026-06-08 14:00 | Gujarat Inject Kerala Ltd | 524238 | The Company has received a Purchased Order from OTTRIVE LIFESTYLE PRIVATE LIMITED for 1334 NOS Solar PV Module. The Total Value is around 1.07 Crores (exclusive of GST). ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 08 Jun 2026 - 14:10 |
-| 2026-06-08 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 Jun 2026 - 13:42 |
-| 2026-06-08 13:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation for securing project from Central Bank of India worth Rs 125.88 crores (excluding GST) for expansion of Private cloud, establishment of Containerization .... ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Neutral | 08 Jun 2026 - 13:29 |
-| 2026-06-08 13:00 | Waaree Renewable Technologies Ltd | 534618 | Please find attached herewith Letter of Award received from Wholly Owned Subsidiary Company ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 08 Jun 2026 - 13:00 |
+| 2026-06-09 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Consortium secures a "Large" Order towards Ajman Sewage Biorefinery Plant, Strengthening GCC Presence. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 09 Jun 2026 - 08:28 |
 
-_Last updated: 08 Jun 2026 - 16:03 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-08.json)_
+_Last updated: 09 Jun 2026 - 09:55 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-09.json)_
 
 <!-- snapshot:end -->
 
