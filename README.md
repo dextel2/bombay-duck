@@ -22,12 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-09 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,12,69,000 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 09 Jun 2026 - 12:43 |
 | 2026-06-09 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 regarding receipt of an order ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 09 Jun 2026 - 11:11 |
 | 2026-06-09 10:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Sanskriti University Chhata Kosi Mathura - 281401, Uttar Pradesh, India for amount Rs. 3.11 Cr ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 09 Jun 2026 - 10:49 |
 | 2026-06-09 10:00 | Marsons Ltd | 517467 | We would like to inform you that our company has received an order from West Bengal State Electricity Transmission Company Limited. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 09 Jun 2026 - 10:06 |
 | 2026-06-09 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Consortium secures a "Large" Order towards Ajman Sewage Biorefinery Plant, Strengthening GCC Presence. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 09 Jun 2026 - 08:28 |
 
-_Last updated: 09 Jun 2026 - 11:52 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-09.json)_
+_Last updated: 09 Jun 2026 - 13:42 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-09.json)_
 
 <!-- snapshot:end -->
 

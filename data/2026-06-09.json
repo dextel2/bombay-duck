@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
         "rawTime": "2026-06-09T10:06:54.057"
       }
+    ],
+    "2026-06-09T12": [
+      {
+        "newsId": "a0ddcbfb-caa1-412d-bb95-d8313782a627",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 1,12,69,000 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-06-09T12:43:39.690+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-06-09T12:43:39.69"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-09T11:52:17.194+05:30",
-    "checksum": "386910d8866586558993a790a1ff07f4e1b9b505231631f2b1b1bf77283f3b39",
-    "totalAnnouncements": 4,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-09T13:42:31.370+05:30",
+    "checksum": "51f5ddcd143fd92293df5cc624141fa2db2a161bb3b54fc1580dda1cd2fd6a9f",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-09/awards-115216.json"
+    "rawPayloadPath": "data/raw/2026-06-09/awards-134230.json"
   }
 }
