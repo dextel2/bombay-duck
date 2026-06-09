@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2026-06-09T08:28:27.183"
       }
+    ],
+    "2026-06-09T11": [
+      {
+        "newsId": "dd40ad21-fd62-4385-8087-ae2e814f0f33",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 regarding receipt of an order",
+        "announcedAt": "2026-06-09T11:11:39.800+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2026-06-09T11:11:39.8"
+      }
+    ],
+    "2026-06-09T10": [
+      {
+        "newsId": "6c368ef4-d16b-477e-8bb1-18383248e1c2",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order from Sanskriti University Chhata Kosi Mathura - 281401, Uttar Pradesh, India for amount Rs. 3.11 Cr",
+        "announcedAt": "2026-06-09T10:49:54.323+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-06-09T10:49:54.323"
+      },
+      {
+        "newsId": "d11b7aa5-719c-4c5c-9529-d9d7c9e9a207",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We would like to inform you that our company has received an order from West Bengal State Electricity Transmission Company Limited.",
+        "announcedAt": "2026-06-09T10:06:54.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-06-09T10:06:54.057"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-09T09:55:00.702+05:30",
-    "checksum": "ecd3b1acaa6fc5cb4bf36d9d6f80789cb10aacf64e809fee552681caf7260994",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-09T11:52:17.194+05:30",
+    "checksum": "386910d8866586558993a790a1ff07f4e1b9b505231631f2b1b1bf77283f3b39",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-09/awards-095500.json"
+    "rawPayloadPath": "data/raw/2026-06-09/awards-115216.json"
   }
 }
