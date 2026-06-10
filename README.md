@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-10 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-10 11:00 | Marsons Ltd | 517467 | We would like to inform you that our company has received an order from Vikran Engineering Limited for NTPC Renewable Energy Project. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 10 Jun 2026 - 11:33 |
 
-_Last updated: 10 Jun 2026 - 09:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-10.json)_
+_Last updated: 10 Jun 2026 - 12:00 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-10.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-10",
-  "buckets": {},
+  "buckets": {
+    "2026-06-10T11": [
+      {
+        "newsId": "f89fbfcb-1148-4078-85cd-a1d86d0416fc",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We would like to inform you that our company has received an order from Vikran Engineering Limited for NTPC Renewable Energy Project.",
+        "announcedAt": "2026-06-10T11:33:19.357+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-06-10T11:33:19.357"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-10T09:59:44.507+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-10T12:00:05.555+05:30",
+    "checksum": "25d190b66172dce06ce0fd9fb22604aa5a0b5acfad50866aee9b3be3a088c0ac",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-10/awards-095944.json"
+    "rawPayloadPath": "data/raw/2026-06-10/awards-120005.json"
   }
 }
