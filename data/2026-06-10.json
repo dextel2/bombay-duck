@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
         "rawTime": "2026-06-10T11:33:19.357"
       }
+    ],
+    "2026-06-10T12": [
+      {
+        "newsId": "7f1f2e90-81ac-4c9d-9cd1-f3fd76e2f183",
+        "scripCode": 534600,
+        "shortName": "JTL Industries Ltd",
+        "headline": "Receipt of Order from Himachal Pradesh State Civil Supplies Corporation Limited",
+        "announcedAt": "2026-06-10T12:51:47.833+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/",
+        "rawTime": "2026-06-10T12:51:47.833"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-10T12:00:05.555+05:30",
-    "checksum": "25d190b66172dce06ce0fd9fb22604aa5a0b5acfad50866aee9b3be3a088c0ac",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-10T13:51:53.186+05:30",
+    "checksum": "17fe4220dde668f12ae1f2ec56efb12679813e53762a7a0c8edcee5c1354deda",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-10/awards-120005.json"
+    "rawPayloadPath": "data/raw/2026-06-10/awards-135152.json"
   }
 }

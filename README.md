@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-10 12:00 | JTL Industries Ltd | 534600 | Receipt of Order from Himachal Pradesh State Civil Supplies Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/)) | Likely Positive | 10 Jun 2026 - 12:51 |
 | 2026-06-10 11:00 | Marsons Ltd | 517467 | We would like to inform you that our company has received an order from Vikran Engineering Limited for NTPC Renewable Energy Project. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 10 Jun 2026 - 11:33 |
 
-_Last updated: 10 Jun 2026 - 12:00 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-10.json)_
+_Last updated: 10 Jun 2026 - 13:51 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-10.json)_
 
 <!-- snapshot:end -->
 
