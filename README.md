@@ -18,21 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-09 IST)
+### Today's Awarded Orders (2026-06-10 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-09 15:00 | Syschem India Ltd | 531173 | Announcement under regulation 30(LODR): Updating in regards to earlier disclosure made dated 15-04-2026, regarding Fraudulent Transfer of funds and receive of recovery order. ([Link](https://www.bseindia.com/stock-share-price/syschem-india-ltd/syschem/531173/)) | Likely Positive | 09 Jun 2026 - 15:40 |
-| 2026-06-09 15:00 | Unified Data Tech Solutions Ltd | 544406 | Announcement under Regulation 30 of the SEBI (LODR) Regulations, 2015 for receipt of Purchase Order from one of the largest private sector bank. ([Link](https://www.bseindia.com/stock-share-price/unified-data-tech-solutions-ltd/unified/544406/)) | Likely Positive | 09 Jun 2026 - 15:31 |
-| 2026-06-09 14:00 | JSW Infrastructure Ltd | 543994 | Disclosure attached herewith ([Link](https://www.bseindia.com/stock-share-price/jsw-infrastructure-ltd/jswinfra/543994/)) | Neutral | 09 Jun 2026 - 14:50 |
-| 2026-06-09 13:00 | KNR Constructions Ltd | 532942 | Intimation of receipt of order ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 09 Jun 2026 - 13:56 |
-| 2026-06-09 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,12,69,000 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 09 Jun 2026 - 12:43 |
-| 2026-06-09 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 regarding receipt of an order ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 09 Jun 2026 - 11:11 |
-| 2026-06-09 10:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Sanskriti University Chhata Kosi Mathura - 281401, Uttar Pradesh, India for amount Rs. 3.11 Cr ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 09 Jun 2026 - 10:49 |
-| 2026-06-09 10:00 | Marsons Ltd | 517467 | We would like to inform you that our company has received an order from West Bengal State Electricity Transmission Company Limited. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 09 Jun 2026 - 10:06 |
-| 2026-06-09 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Consortium secures a "Large" Order towards Ajman Sewage Biorefinery Plant, Strengthening GCC Presence. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 09 Jun 2026 - 08:28 |
+_No award announcements have been captured yet today._
 
-_Last updated: 09 Jun 2026 - 15:43 | Entries: 9 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-09.json)_
+_Last updated: 10 Jun 2026 - 09:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-10.json)_
 
 <!-- snapshot:end -->
 
