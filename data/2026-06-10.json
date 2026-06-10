@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/",
         "rawTime": "2026-06-10T12:51:47.833"
       }
+    ],
+    "2026-06-10T14": [
+      {
+        "newsId": "f4752d6b-4661-46c4-95bb-93a517e6913e",
+        "scripCode": 544202,
+        "shortName": "Stanley Lifestyles Ltd",
+        "headline": "Stanley Lifestyles Limited - Intimation of Award of Order.",
+        "announcedAt": "2026-06-10T14:41:25.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
+        "rawTime": "2026-06-10T14:41:25.47"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-10T13:51:53.186+05:30",
-    "checksum": "17fe4220dde668f12ae1f2ec56efb12679813e53762a7a0c8edcee5c1354deda",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-10T15:55:02.861+05:30",
+    "checksum": "9a1f5ffbf37f100f8e90bb9b2028a8d3cff93b2afeafb590c7560c627e6e7ad4",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-10/awards-135152.json"
+    "rawPayloadPath": "data/raw/2026-06-10/awards-155502.json"
   }
 }
