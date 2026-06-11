@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-11 15:00 | Orchid Pharma Ltd | 524372 | Disclosure regarding the order passed by Goods and Service Department. ([Link](https://www.bseindia.com/stock-share-price/orchid-pharma-ltd/orchpharma/524372/)) | Likely Positive | 11 Jun 2026 - 15:46 |
 | 2026-06-11 13:00 | Bharat Heavy Electricals Ltd | 500103 | BHEL receives Limited Notice to Proceed (LNTP) from DVC 1x800 MW Durgapur (Main plant package) ([Link](https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/)) | Neutral | 11 Jun 2026 - 13:33 |
 | 2026-06-11 12:00 | Hiliks Technologies Ltd | 539697 | The Company has received sub contract order dated 10.06.2026 towards Signaling and Telecommunication works. Please find attached the requisite details of the order. ([Link](https://www.bseindia.com/stock-share-price/hiliks-technologies-ltd/hiliks/539697/)) | Likely Positive | 11 Jun 2026 - 12:13 |
 | 2026-06-11 11:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Crompton Greaves Consumer .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 11 Jun 2026 - 11:13 |
@@ -30,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-11 10:00 | Mahindra EPC Irrigation Ltd | 523754 | Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations .... ([Link](https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/)) | Neutral | 11 Jun 2026 - 10:53 |
 | 2026-06-11 09:00 | Capitalnumbers Infotech Ltd | 544343 | CapitalNumbers Infotech Limited Secures Rupees 2.46 Crore New Order - AI Project in Healthcare domain. ([Link](https://www.bseindia.com/stock-share-price/capitalnumbers-infotech-ltd/cninfotech/544343/)) | Likely Positive | 11 Jun 2026 - 09:14 |
 
-_Last updated: 11 Jun 2026 - 14:01 | Entries: 7 | Requests: 3 | Retries: 1 | [Raw JSON](data/2026-06-11.json)_
+_Last updated: 11 Jun 2026 - 16:01 | Entries: 8 | Requests: 4 | Retries: 1 | [Raw JSON](data/2026-06-11.json)_
 
 <!-- snapshot:end -->
 
