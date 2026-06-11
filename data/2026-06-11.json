@@ -11,14 +11,54 @@
         "url": "https://www.bseindia.com/stock-share-price/capitalnumbers-infotech-ltd/cninfotech/544343/",
         "rawTime": "2026-06-11T09:14:52.477"
       }
+    ],
+    "2026-06-11T11": [
+      {
+        "newsId": "283dc258-e8a6-4929-a03b-0283e8ca3360",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Crompton Greaves Consumer ....",
+        "announcedAt": "2026-06-11T11:13:14.460+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-06-11T11:13:14.46"
+      },
+      {
+        "newsId": "69495b35-510c-4270-a376-5f71c16587c7",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to USD 213,000 pursuant to Regualtion 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-06-11T11:03:32.623+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-06-11T11:03:32.623"
+      }
+    ],
+    "2026-06-11T10": [
+      {
+        "newsId": "9bc64db1-e734-468b-b1f2-942c220cf351",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra ....",
+        "announcedAt": "2026-06-11T10:56:50.403+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-06-11T10:56:50.403"
+      },
+      {
+        "newsId": "cd5f9281-1dd8-40e8-b1c5-715deb32d9d5",
+        "scripCode": 523754,
+        "shortName": "Mahindra EPC Irrigation Ltd",
+        "headline": "Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations ....",
+        "announcedAt": "2026-06-11T10:53:51.417+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/",
+        "rawTime": "2026-06-11T10:53:51.417"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-11T10:00:42.579+05:30",
-    "checksum": "0bcb957eed3940f58aa277c466244ac5b1151db2e32d1aa749a7e3434b4f8d5d",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
-    "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-11/awards-100041.json"
+    "lastUpdated": "2026-06-11T12:03:11.476+05:30",
+    "checksum": "ad4b307e652a027a478d2bf577e6a0890f5a11f6495e1d753d4dc8ff681993c8",
+    "totalAnnouncements": 5,
+    "requestCount": 2,
+    "retryCount": 1,
+    "rawPayloadPath": "data/raw/2026-06-11/awards-120254.json"
   }
 }

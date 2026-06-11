@@ -22,9 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-11 11:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Crompton Greaves Consumer .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 11 Jun 2026 - 11:13 |
+| 2026-06-11 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to USD 213,000 pursuant to Regualtion 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 11 Jun 2026 - 11:03 |
+| 2026-06-11 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 11 Jun 2026 - 10:56 |
+| 2026-06-11 10:00 | Mahindra EPC Irrigation Ltd | 523754 | Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations .... ([Link](https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/)) | Neutral | 11 Jun 2026 - 10:53 |
 | 2026-06-11 09:00 | Capitalnumbers Infotech Ltd | 544343 | CapitalNumbers Infotech Limited Secures Rupees 2.46 Crore New Order - AI Project in Healthcare domain. ([Link](https://www.bseindia.com/stock-share-price/capitalnumbers-infotech-ltd/cninfotech/544343/)) | Likely Positive | 11 Jun 2026 - 09:14 |
 
-_Last updated: 11 Jun 2026 - 10:00 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-11.json)_
+_Last updated: 11 Jun 2026 - 12:03 | Entries: 5 | Requests: 2 | Retries: 1 | [Raw JSON](data/2026-06-11.json)_
 
 <!-- snapshot:end -->
 
