@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-11",
+  "buckets": {
+    "2026-06-11T09": [
+      {
+        "newsId": "57a417a3-7264-48cf-953e-8d1759581de1",
+        "scripCode": 544343,
+        "shortName": "Capitalnumbers Infotech Ltd",
+        "headline": "CapitalNumbers Infotech Limited Secures Rupees 2.46 Crore New Order - AI Project in Healthcare domain.",
+        "announcedAt": "2026-06-11T09:14:52.477+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/capitalnumbers-infotech-ltd/cninfotech/544343/",
+        "rawTime": "2026-06-11T09:14:52.477"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-11T10:00:42.579+05:30",
+    "checksum": "0bcb957eed3940f58aa277c466244ac5b1151db2e32d1aa749a7e3434b4f8d5d",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-11/awards-100041.json"
+  }
+}

@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-10 IST)
+### Today's Awarded Orders (2026-06-11 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-10 14:00 | Stanley Lifestyles Ltd | 544202 | Stanley Lifestyles Limited - Intimation of Award of Order. ([Link](https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/)) | Likely Positive | 10 Jun 2026 - 14:41 |
-| 2026-06-10 12:00 | JTL Industries Ltd | 534600 | Receipt of Order from Himachal Pradesh State Civil Supplies Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/jtl-industries-ltd/jtlind/534600/)) | Likely Positive | 10 Jun 2026 - 12:51 |
-| 2026-06-10 11:00 | Marsons Ltd | 517467 | We would like to inform you that our company has received an order from Vikran Engineering Limited for NTPC Renewable Energy Project. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 10 Jun 2026 - 11:33 |
+| 2026-06-11 09:00 | Capitalnumbers Infotech Ltd | 544343 | CapitalNumbers Infotech Limited Secures Rupees 2.46 Crore New Order - AI Project in Healthcare domain. ([Link](https://www.bseindia.com/stock-share-price/capitalnumbers-infotech-ltd/cninfotech/544343/)) | Likely Positive | 11 Jun 2026 - 09:14 |
 
-_Last updated: 10 Jun 2026 - 15:55 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-10.json)_
+_Last updated: 11 Jun 2026 - 10:00 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-11.json)_
 
 <!-- snapshot:end -->
 
