@@ -51,14 +51,36 @@
         "url": "https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/",
         "rawTime": "2026-06-11T10:53:51.417"
       }
+    ],
+    "2026-06-11T13": [
+      {
+        "newsId": "85152eaf-2e61-4a73-819a-9a57d3727878",
+        "scripCode": 500103,
+        "shortName": "Bharat Heavy Electricals Ltd",
+        "headline": "BHEL receives Limited Notice to Proceed (LNTP) from DVC 1x800 MW Durgapur (Main plant package)",
+        "announcedAt": "2026-06-11T13:33:07.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+        "rawTime": "2026-06-11T13:33:07.4"
+      }
+    ],
+    "2026-06-11T12": [
+      {
+        "newsId": "9b7e40a2-a51d-44c1-8a60-fd9e16347aee",
+        "scripCode": 539697,
+        "shortName": "Hiliks Technologies Ltd",
+        "headline": "The Company has received sub contract order dated 10.06.2026 towards Signaling and Telecommunication works. Please find attached the requisite details of the order.",
+        "announcedAt": "2026-06-11T12:13:23.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hiliks-technologies-ltd/hiliks/539697/",
+        "rawTime": "2026-06-11T12:13:23.143"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-11T12:03:11.476+05:30",
-    "checksum": "ad4b307e652a027a478d2bf577e6a0890f5a11f6495e1d753d4dc8ff681993c8",
-    "totalAnnouncements": 5,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-11T14:01:55.056+05:30",
+    "checksum": "210bfae934b9625db86bad61f3f8565a1bd78879e06698d017d2025114a949e6",
+    "totalAnnouncements": 7,
+    "requestCount": 3,
     "retryCount": 1,
-    "rawPayloadPath": "data/raw/2026-06-11/awards-120254.json"
+    "rawPayloadPath": "data/raw/2026-06-11/awards-140154.json"
   }
 }
