@@ -22,14 +22,45 @@
         "url": "https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/",
         "rawTime": "2026-06-12T13:05:54.8"
       }
+    ],
+    "2026-06-12T15": [
+      {
+        "newsId": "bfdea43f-b74a-45d3-9792-7d969895c66b",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from City and ....",
+        "announcedAt": "2026-06-12T15:08:35.700+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-06-12T15:08:35.7"
+      }
+    ],
+    "2026-06-12T14": [
+      {
+        "newsId": "4f708aa5-7031-46ca-8915-f31b7914f2c7",
+        "scripCode": 543544,
+        "shortName": "Jayant Infratech Ltd",
+        "headline": "Pursuant to the regulation 30 of SEBI(LODR) Regulations, 2015, we hereby inform you that company received a letter of acceptance from SECR, Bilaspur for execution of Railway Overhead Electrification ....",
+        "announcedAt": "2026-06-12T14:57:43.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jayant-infratech-ltd/jayant/543544/",
+        "rawTime": "2026-06-12T14:57:43.57"
+      },
+      {
+        "newsId": "47d97ba7-d3c7-46d5-ba37-72792e813dfb",
+        "scripCode": 522134,
+        "shortName": "Artson Ltd",
+        "headline": "Receipt of Purchase Order from Deepak Chem Tech Limited for an amont of Rs. 5.39 Crores (excluding taxes) - details enclosed.",
+        "announcedAt": "2026-06-12T14:08:27.390+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/",
+        "rawTime": "2026-06-12T14:08:27.39"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-12T14:00:06.171+05:30",
-    "checksum": "2c20bbaeae1582eaf832e86dca23a41477622eb43eb05e3db78e43b5b2439c50",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-12T15:59:54.082+05:30",
+    "checksum": "bcc34d4fa64351391a98a629791ac4dcbd309bd1ca9fc4c44fe85118e3724f86",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-12/awards-140005.json"
+    "rawPayloadPath": "data/raw/2026-06-12/awards-155953.json"
   }
 }

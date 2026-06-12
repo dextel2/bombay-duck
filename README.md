@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-12 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from City and .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 12 Jun 2026 - 15:08 |
+| 2026-06-12 14:00 | Jayant Infratech Ltd | 543544 | Pursuant to the regulation 30 of SEBI(LODR) Regulations, 2015, we hereby inform you that company received a letter of acceptance from SECR, Bilaspur for execution of Railway Overhead Electrification .... ([Link](https://www.bseindia.com/stock-share-price/jayant-infratech-ltd/jayant/543544/)) | Neutral | 12 Jun 2026 - 14:57 |
+| 2026-06-12 14:00 | Artson Ltd | 522134 | Receipt of Purchase Order from Deepak Chem Tech Limited for an amont of Rs. 5.39 Crores (excluding taxes) - details enclosed. ([Link](https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/)) | Likely Positive | 12 Jun 2026 - 14:08 |
 | 2026-06-12 13:00 | A-1 Ltd | 542012 | Receipt of significant supply order from a distinguished group of marquee industrial customers for supply of acids and industrial chemicals ([Link](https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/)) | Likely Positive | 12 Jun 2026 - 13:05 |
 | 2026-06-12 11:00 | AVG Logistics Ltd | 543910 | Company Bagged Long Term Contract from Haldiram-Nagpur ([Link](https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/)) | Likely Positive | 12 Jun 2026 - 11:13 |
 
-_Last updated: 12 Jun 2026 - 14:00 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-12.json)_
+_Last updated: 12 Jun 2026 - 15:59 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-12.json)_
 
 <!-- snapshot:end -->
 
