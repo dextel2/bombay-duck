@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/",
         "rawTime": "2026-06-12T11:13:05.963"
       }
+    ],
+    "2026-06-12T13": [
+      {
+        "newsId": "551bd686-94c3-4fb2-a7f0-3848f4e57670",
+        "scripCode": 542012,
+        "shortName": "A-1 Ltd",
+        "headline": "Receipt of significant supply order from a distinguished group of marquee industrial customers for supply of acids and industrial chemicals",
+        "announcedAt": "2026-06-12T13:05:54.800+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/",
+        "rawTime": "2026-06-12T13:05:54.8"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-12T12:01:38.221+05:30",
-    "checksum": "a91af94e7fbe68987ab1589d20bfc39638db19434d18d60de4f3aaafedba91d0",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-12T14:00:06.171+05:30",
+    "checksum": "2c20bbaeae1582eaf832e86dca23a41477622eb43eb05e3db78e43b5b2439c50",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-12/awards-120137.json"
+    "rawPayloadPath": "data/raw/2026-06-12/awards-140005.json"
   }
 }

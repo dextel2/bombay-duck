@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-12 13:00 | A-1 Ltd | 542012 | Receipt of significant supply order from a distinguished group of marquee industrial customers for supply of acids and industrial chemicals ([Link](https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/)) | Likely Positive | 12 Jun 2026 - 13:05 |
 | 2026-06-12 11:00 | AVG Logistics Ltd | 543910 | Company Bagged Long Term Contract from Haldiram-Nagpur ([Link](https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/)) | Likely Positive | 12 Jun 2026 - 11:13 |
 
-_Last updated: 12 Jun 2026 - 12:01 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-12.json)_
+_Last updated: 12 Jun 2026 - 14:00 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-12.json)_
 
 <!-- snapshot:end -->
 
