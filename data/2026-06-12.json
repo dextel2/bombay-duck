@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-12",
-  "buckets": {},
+  "buckets": {
+    "2026-06-12T11": [
+      {
+        "newsId": "f797faa5-4d9a-4cdb-9ffc-a74c9c27d269",
+        "scripCode": 543910,
+        "shortName": "AVG Logistics Ltd",
+        "headline": "Company Bagged Long Term Contract from Haldiram-Nagpur",
+        "announcedAt": "2026-06-12T11:13:05.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/",
+        "rawTime": "2026-06-12T11:13:05.963"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-12T10:00:04.030+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-12T12:01:38.221+05:30",
+    "checksum": "a91af94e7fbe68987ab1589d20bfc39638db19434d18d60de4f3aaafedba91d0",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-12/awards-100003.json"
+    "rawPayloadPath": "data/raw/2026-06-12/awards-120137.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-12 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-12 11:00 | AVG Logistics Ltd | 543910 | Company Bagged Long Term Contract from Haldiram-Nagpur ([Link](https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/)) | Likely Positive | 12 Jun 2026 - 11:13 |
 
-_Last updated: 12 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-12.json)_
+_Last updated: 12 Jun 2026 - 12:01 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-12.json)_
 
 <!-- snapshot:end -->
 
