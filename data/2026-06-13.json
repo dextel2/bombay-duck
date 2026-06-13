@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
         "rawTime": "2026-06-13T12:39:09.963"
       }
+    ],
+    "2026-06-13T15": [
+      {
+        "newsId": "faa22cf0-067b-4742-9730-b9b37c98c3e7",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has been awarded Work Order related to the Printing and delivery of AB PM -JAY Cards and AB VAY Vandana Cards for eight (8) districts in the state of West Bengal, by the Government ....",
+        "announcedAt": "2026-06-13T15:53:58.317+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-06-13T15:53:58.317"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-13T15:29:36.602+05:30",
-    "checksum": "9459076b4e3672783ecb5397f7cffde0b0f04d5c84aa9cf338cd015735eb1521",
-    "totalAnnouncements": 2,
-    "requestCount": 4,
+    "lastUpdated": "2026-06-13T16:25:06.093+05:30",
+    "checksum": "1f056bee28c4604cedd78765aa12e1c95dc6386a86bba6df0b45e0f3ffa6f1ce",
+    "totalAnnouncements": 3,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-13/awards-152936.json"
+    "rawPayloadPath": "data/raw/2026-06-13/awards-162505.json"
   }
 }
