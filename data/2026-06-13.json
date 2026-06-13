@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-13",
-  "buckets": {},
+  "buckets": {
+    "2026-06-13T11": [
+      {
+        "newsId": "8866b705-7e43-4ccf-b5a0-51711f13ea33",
+        "scripCode": 500144,
+        "shortName": "Finolex Cables Ltd",
+        "headline": "Intimation of order received from Additional Commissioner, Grade-II Appeal, Lucknow, Uttar Pradesh",
+        "announcedAt": "2026-06-13T11:52:24.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/",
+        "rawTime": "2026-06-13T11:52:24.97"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-13T09:59:58.037+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-13T11:56:44.233+05:30",
+    "checksum": "22747804d32b0bf248fa0bcccc2fdfcaf60e68744ac4263481eb99eefe49236d",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-13/awards-095957.json"
+    "rawPayloadPath": "data/raw/2026-06-13/awards-115643.json"
   }
 }

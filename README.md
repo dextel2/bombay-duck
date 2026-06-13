@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-13 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-13 11:00 | Finolex Cables Ltd | 500144 | Intimation of order received from Additional Commissioner, Grade-II Appeal, Lucknow, Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 13 Jun 2026 - 11:52 |
 
-_Last updated: 13 Jun 2026 - 09:59 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-13.json)_
+_Last updated: 13 Jun 2026 - 11:56 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-13.json)_
 
 <!-- snapshot:end -->
 
