@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-13 12:00 | Ashoka Buildcon Ltd | 533271 | Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid in Joint Venture, where the Company is Lead member, with 51% stake, for the following Project to Chattishgarh .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 13 Jun 2026 - 12:39 |
 | 2026-06-13 11:00 | Finolex Cables Ltd | 500144 | Intimation of order received from Additional Commissioner, Grade-II Appeal, Lucknow, Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 13 Jun 2026 - 11:52 |
 
-_Last updated: 13 Jun 2026 - 11:56 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-13.json)_
+_Last updated: 13 Jun 2026 - 13:37 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-13.json)_
 
 <!-- snapshot:end -->
 

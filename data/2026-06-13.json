@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/",
         "rawTime": "2026-06-13T11:52:24.97"
       }
+    ],
+    "2026-06-13T12": [
+      {
+        "newsId": "8d74ea50-c2e6-46ca-98f3-39cb8cedb31b",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid in Joint Venture, where the Company is Lead member, with 51% stake, for the following Project to Chattishgarh ....",
+        "announcedAt": "2026-06-13T12:39:09.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-06-13T12:39:09.963"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-13T11:56:44.233+05:30",
-    "checksum": "22747804d32b0bf248fa0bcccc2fdfcaf60e68744ac4263481eb99eefe49236d",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-13T13:37:25.265+05:30",
+    "checksum": "9459076b4e3672783ecb5397f7cffde0b0f04d5c84aa9cf338cd015735eb1521",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-13/awards-115643.json"
+    "rawPayloadPath": "data/raw/2026-06-13/awards-133724.json"
   }
 }
