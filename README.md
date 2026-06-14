@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-13 IST)
+### Today's Awarded Orders (2026-06-14 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-13 15:00 | Atishay Ltd | 538713 | The Company has been awarded Work Order related to the Printing and delivery of AB PM -JAY Cards and AB VAY Vandana Cards for eight (8) districts in the state of West Bengal, by the Government .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 13 Jun 2026 - 15:53 |
-| 2026-06-13 12:00 | Ashoka Buildcon Ltd | 533271 | Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid in Joint Venture, where the Company is Lead member, with 51% stake, for the following Project to Chattishgarh .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 13 Jun 2026 - 12:39 |
-| 2026-06-13 11:00 | Finolex Cables Ltd | 500144 | Intimation of order received from Additional Commissioner, Grade-II Appeal, Lucknow, Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/finolex-cables-ltd/fincables/500144/)) | Likely Positive | 13 Jun 2026 - 11:52 |
+_No award announcements have been captured yet today._
 
-_Last updated: 13 Jun 2026 - 16:25 | Entries: 3 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-06-13.json)_
+_Last updated: 14 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-14.json)_
 
 <!-- snapshot:end -->
 
