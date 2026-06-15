@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-15 12:00 | United Drilling Tools Ltd | 522014 | Export order from Trident East Limited, Russia ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 15 Jun 2026 - 12:09 |
 | 2026-06-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Significant Domestic Order for Cut and Polished Lab Grown Diamonds amouting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Jun 2026 - 08:53 |
 
-_Last updated: 15 Jun 2026 - 10:01 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-15.json)_
+_Last updated: 15 Jun 2026 - 12:16 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-15.json)_
 
 <!-- snapshot:end -->
 

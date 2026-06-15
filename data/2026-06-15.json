@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-06-15T08:53:25.667"
       }
+    ],
+    "2026-06-15T12": [
+      {
+        "newsId": "048e6d9b-6cd8-4f93-b1da-008424e0a064",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Export order from Trident East Limited, Russia",
+        "announcedAt": "2026-06-15T12:09:06.377+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-06-15T12:09:06.377"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-15T10:01:39.087+05:30",
-    "checksum": "c0e8a20e38a3ff295cff3280dd3587fb56e9894583d6fb0535f4b91f4d856360",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-15T12:16:57.954+05:30",
+    "checksum": "c347a5961a0040371ce5c3406b24ad0ddfcfe539d64268c75775b85b671e4b3a",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-15/awards-100138.json"
+    "rawPayloadPath": "data/raw/2026-06-15/awards-121656.json"
   }
 }
