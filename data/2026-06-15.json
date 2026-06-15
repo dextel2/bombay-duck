@@ -22,14 +22,45 @@
         "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
         "rawTime": "2026-06-15T12:09:06.377"
       }
+    ],
+    "2026-06-15T14": [
+      {
+        "newsId": "0efa0765-fd04-48a8-8f38-3d9962da2f9e",
+        "scripCode": 544675,
+        "shortName": "Gabion Technologies India Ltd",
+        "headline": "Workorders during the period May 31 2026 to June 13 2026",
+        "announcedAt": "2026-06-15T14:24:49.243+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/",
+        "rawTime": "2026-06-15T14:24:49.243"
+      }
+    ],
+    "2026-06-15T13": [
+      {
+        "newsId": "f4d38be4-a01f-4153-ae5f-026093d14451",
+        "scripCode": 523754,
+        "shortName": "Mahindra EPC Irrigation Ltd",
+        "headline": "Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations ....",
+        "announcedAt": "2026-06-15T13:59:02.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/",
+        "rawTime": "2026-06-15T13:59:02.82"
+      },
+      {
+        "newsId": "b2b4885c-5847-47da-960c-518c10daec29",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-06-15T13:07:08.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2026-06-15T13:07:08.827"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-15T12:16:57.954+05:30",
-    "checksum": "c347a5961a0040371ce5c3406b24ad0ddfcfe539d64268c75775b85b671e4b3a",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-15T14:34:17.612+05:30",
+    "checksum": "ff7eba08329c5b713d1a7eba8d281ec8b61d5136e00724ef7e32bef99a213711",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-15/awards-121656.json"
+    "rawPayloadPath": "data/raw/2026-06-15/awards-143416.json"
   }
 }
