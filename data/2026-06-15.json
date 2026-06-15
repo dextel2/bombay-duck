@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
         "rawTime": "2026-06-15T13:07:08.827"
       }
+    ],
+    "2026-06-15T16": [
+      {
+        "newsId": "ae4fb6b5-0482-4d2b-8f1a-c7818df12d1e",
+        "scripCode": 544558,
+        "shortName": "Fabtech Technologies Ltd",
+        "headline": "Intimation of Order/ Contract",
+        "announcedAt": "2026-06-15T16:58:30.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/fabtech-technologies-ltd/fabtech/544558/",
+        "rawTime": "2026-06-15T16:58:30.033"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-15T14:34:17.612+05:30",
-    "checksum": "ff7eba08329c5b713d1a7eba8d281ec8b61d5136e00724ef7e32bef99a213711",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-15T17:31:32.685+05:30",
+    "checksum": "7ef3319d07fd591d29cb2fddc1a8d57dd66207ce1858a3f7eb65918e5462a46e",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-15/awards-143416.json"
+    "rawPayloadPath": "data/raw/2026-06-15/awards-173132.json"
   }
 }

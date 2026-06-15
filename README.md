@@ -22,13 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-15 16:00 | Fabtech Technologies Ltd | 544558 | Intimation of Order/ Contract ([Link](https://www.bseindia.com/stock-share-price/fabtech-technologies-ltd/fabtech/544558/)) | Likely Positive | 15 Jun 2026 - 16:58 |
 | 2026-06-15 14:00 | Gabion Technologies India Ltd | 544675 | Workorders during the period May 31 2026 to June 13 2026 ([Link](https://www.bseindia.com/stock-share-price/gabion-technologies-india-ltd/gtil/544675/)) | Likely Positive | 15 Jun 2026 - 14:24 |
 | 2026-06-15 13:00 | Mahindra EPC Irrigation Ltd | 523754 | Mahindra EPC Irrigation Limited has informed the Exchange about award received in terms of Regulations 30(3), 30(4) read with Para B, Part A of Schedule III of SEBI (Listing Obligations .... ([Link](https://www.bseindia.com/stock-share-price/mahindra-epc-irrigation-ltd/mahepc/523754/)) | Neutral | 15 Jun 2026 - 13:59 |
 | 2026-06-15 13:00 | Waaree Energies Ltd | 544277 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 15 Jun 2026 - 13:07 |
 | 2026-06-15 12:00 | United Drilling Tools Ltd | 522014 | Export order from Trident East Limited, Russia ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 15 Jun 2026 - 12:09 |
 | 2026-06-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Significant Domestic Order for Cut and Polished Lab Grown Diamonds amouting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Jun 2026 - 08:53 |
 
-_Last updated: 15 Jun 2026 - 14:34 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-15.json)_
+_Last updated: 15 Jun 2026 - 17:31 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-15.json)_
 
 <!-- snapshot:end -->
 
