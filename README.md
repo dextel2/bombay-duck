@@ -18,11 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-14 IST)
+### Today's Awarded Orders (2026-06-15 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-15 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Significant Domestic Order for Cut and Polished Lab Grown Diamonds amouting to INR 14.00 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 15 Jun 2026 - 08:53 |
 
-_Last updated: 14 Jun 2026 - 15:39 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-14.json)_
+_Last updated: 15 Jun 2026 - 10:01 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-15.json)_
 
 <!-- snapshot:end -->
 
