@@ -44,14 +44,36 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-06-16T12:53:50.93"
       }
+    ],
+    "2026-06-16T16": [
+      {
+        "newsId": "37b538e6-7d9c-4f90-b084-04120f967d13",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that Company has received renewal order amounting to Rs. 2.28 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-06-16T16:02:56.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-06-16T16:02:56.81"
+      }
+    ],
+    "2026-06-16T15": [
+      {
+        "newsId": "ea45d457-c81e-42f1-a039-f862beeb0903",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that Company has received renewal order amounting to Rs. 2.88 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-06-16T15:38:19.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-06-16T15:38:19.973"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-16T14:25:16.540+05:30",
-    "checksum": "5f777766cb49bda4fc7f76e9d2014199e4ea8d0d814655408de481687482ecff",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-16T16:05:46.457+05:30",
+    "checksum": "9b2b35f0f6f5dff44bf2d9eede144cbb08647aec0b658ae4a787df84f5f862f3",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-16/awards-142516.json"
+    "rawPayloadPath": "data/raw/2026-06-16/awards-160545.json"
   }
 }
