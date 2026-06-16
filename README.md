@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-06-16 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Signiificant Domestic Order for Cut and Polished Natural Diamonds amouting too INR 16.25 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 16 Jun 2026 - 08:48 |
 
-_Last updated: 16 Jun 2026 - 10:01 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-16.json)_
+_Last updated: 16 Jun 2026 - 12:17 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-16.json)_
 
 <!-- snapshot:end -->
 
