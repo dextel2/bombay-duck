@@ -22,9 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-16 14:00 | Marsons Ltd | 517467 | We are pleased to announce that our company has received a letter of award / purchase order from US based Solar Energy Developer. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 16 Jun 2026 - 14:19 |
+| 2026-06-16 13:00 | Kilburn Engineering Ltd | 522101 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Company has secured its first orders from Casale SA, .... ([Link](https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/)) | Likely Positive | 16 Jun 2026 - 13:55 |
+| 2026-06-16 12:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Notification of Award for development of 250MW Solar Project at Sitapur, UP ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 16 Jun 2026 - 12:53 |
 | 2026-06-16 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of Signiificant Domestic Order for Cut and Polished Natural Diamonds amouting too INR 16.25 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 16 Jun 2026 - 08:48 |
 
-_Last updated: 16 Jun 2026 - 12:17 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-16.json)_
+_Last updated: 16 Jun 2026 - 14:25 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-16.json)_
 
 <!-- snapshot:end -->
 

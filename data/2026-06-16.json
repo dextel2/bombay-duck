@@ -11,14 +11,47 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-06-16T08:48:49.557"
       }
+    ],
+    "2026-06-16T14": [
+      {
+        "newsId": "bcf2a76d-1aa3-48f9-9398-a6e874515550",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We are pleased to announce that our company has received a letter of award / purchase order from US based Solar Energy Developer.",
+        "announcedAt": "2026-06-16T14:19:24.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-06-16T14:19:24.21"
+      }
+    ],
+    "2026-06-16T13": [
+      {
+        "newsId": "6efb7d70-868f-42b8-963d-2286edcabae8",
+        "scripCode": 522101,
+        "shortName": "Kilburn Engineering Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Company has secured its first orders from Casale SA, ....",
+        "announcedAt": "2026-06-16T13:55:42.703+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/",
+        "rawTime": "2026-06-16T13:55:42.703"
+      }
+    ],
+    "2026-06-16T12": [
+      {
+        "newsId": "9a289bfb-baa1-4ad4-939b-616188bd2e57",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of Notification of Award for development of 250MW Solar Project at Sitapur, UP",
+        "announcedAt": "2026-06-16T12:53:50.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-06-16T12:53:50.93"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-16T12:17:39.623+05:30",
-    "checksum": "f9eec1f08937a1d1cfc3716f21b4a2e3a4df5b5562ab5c4a79443035ef0968f0",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-16T14:25:16.540+05:30",
+    "checksum": "5f777766cb49bda4fc7f76e9d2014199e4ea8d0d814655408de481687482ecff",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-16/awards-121738.json"
+    "rawPayloadPath": "data/raw/2026-06-16/awards-142516.json"
   }
 }
