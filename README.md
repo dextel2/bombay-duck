@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-17 10:00 | Stanley Lifestyles Ltd | 544202 | Stanley Lifestyles Limited has informed the Exchange about Bagging/Receiving of orders ([Link](https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/)) | Likely Positive | 17 Jun 2026 - 10:56 |
 | 2026-06-17 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to USD 426,000 pursuant to Regulation 30 of SEBI (Listing Obligaion and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Jun 2026 - 10:43 |
 
-_Last updated: 17 Jun 2026 - 12:12 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-17.json)_
+_Last updated: 17 Jun 2026 - 14:13 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-17.json)_
 
 <!-- snapshot:end -->
 
