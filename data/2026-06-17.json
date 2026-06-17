@@ -1,12 +1,53 @@
 {
   "tradingDate": "2026-06-17",
-  "buckets": {},
+  "buckets": {
+    "2026-06-17T11": [
+      {
+        "newsId": "8d2076a0-7d6b-405c-9c53-a5447ec0ee35",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Order received from Odisha Power Transmission Corporation Limited.",
+        "announcedAt": "2026-06-17T11:08:41.150+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-06-17T11:08:41.15"
+      },
+      {
+        "newsId": "46e13499-6fa5-4b81-b44a-9652c3680bac",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (LODR) Regulations,2015 regarding receipt of an order.",
+        "announcedAt": "2026-06-17T11:04:09.327+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2026-06-17T11:04:09.327"
+      }
+    ],
+    "2026-06-17T10": [
+      {
+        "newsId": "03e20938-d1d5-48d1-80c2-7cb1f2ec25f7",
+        "scripCode": 544202,
+        "shortName": "Stanley Lifestyles Ltd",
+        "headline": "Stanley Lifestyles Limited has informed the Exchange about Bagging/Receiving of orders",
+        "announcedAt": "2026-06-17T10:56:14.410+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
+        "rawTime": "2026-06-17T10:56:14.41"
+      },
+      {
+        "newsId": "da35a807-dbd5-43a4-83d1-a22c315e2674",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to USD 426,000 pursuant to Regulation 30 of SEBI (Listing Obligaion and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-06-17T10:43:47.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-06-17T10:43:47.24"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-17T10:00:54.065+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-17T12:12:56.348+05:30",
+    "checksum": "78d54d256378b7a8a3d076b5ea099db37cf51639241a5d65a03895722fa0f162",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-17/awards-100053.json"
+    "rawPayloadPath": "data/raw/2026-06-17/awards-121255.json"
   }
 }

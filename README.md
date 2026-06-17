@@ -20,9 +20,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-17 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-17 11:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Odisha Power Transmission Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Jun 2026 - 11:08 |
+| 2026-06-17 11:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI (LODR) Regulations,2015 regarding receipt of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 17 Jun 2026 - 11:04 |
+| 2026-06-17 10:00 | Stanley Lifestyles Ltd | 544202 | Stanley Lifestyles Limited has informed the Exchange about Bagging/Receiving of orders ([Link](https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/)) | Likely Positive | 17 Jun 2026 - 10:56 |
+| 2026-06-17 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to USD 426,000 pursuant to Regulation 30 of SEBI (Listing Obligaion and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Jun 2026 - 10:43 |
 
-_Last updated: 17 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-17.json)_
+_Last updated: 17 Jun 2026 - 12:12 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-17.json)_
 
 <!-- snapshot:end -->
 
