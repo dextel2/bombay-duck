@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/",
         "rawTime": "2026-06-18T08:43:58.853"
       }
+    ],
+    "2026-06-18T11": [
+      {
+        "newsId": "9e204799-6cbc-428e-9b73-0e64d03eb0c1",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 3,20,59,066 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-06-18T11:33:23.997+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-06-18T11:33:23.997"
+      },
+      {
+        "newsId": "fcf7a2b2-4487-48b1-a8b0-7cf3eed378a2",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Public ....",
+        "announcedAt": "2026-06-18T11:25:22.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-06-18T11:25:22.823"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-18T10:00:17.538+05:30",
-    "checksum": "2d0703ae44633aa8f3b210283ce17bb7d1547c3591b7ecfca88acdb474cfc1e0",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-18T12:04:33.585+05:30",
+    "checksum": "eea86b856e87cce44ea22c65020f76d62e50ec00ded0a9d14920bdadac62b429",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-18/awards-100016.json"
+    "rawPayloadPath": "data/raw/2026-06-18/awards-120432.json"
   }
 }
