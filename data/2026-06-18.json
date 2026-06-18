@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-18",
+  "buckets": {
+    "2026-06-18T08": [
+      {
+        "newsId": "b2bab317-da91-4893-abc1-6e057893ced7",
+        "scripCode": 513269,
+        "shortName": "Man Industries (India) Ltd-$",
+        "headline": "As per the attachment.",
+        "announcedAt": "2026-06-18T08:43:58.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/",
+        "rawTime": "2026-06-18T08:43:58.853"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-18T10:00:17.538+05:30",
+    "checksum": "2d0703ae44633aa8f3b210283ce17bb7d1547c3591b7ecfca88acdb474cfc1e0",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-18/awards-100016.json"
+  }
+}
