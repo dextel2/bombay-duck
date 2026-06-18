@@ -27,7 +27,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-18 11:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Public .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 18 Jun 2026 - 11:25 |
 | 2026-06-18 08:00 | Man Industries (India) Ltd-$ | 513269 | As per the attachment. ([Link](https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/)) | Neutral | 18 Jun 2026 - 08:43 |
 
-_Last updated: 18 Jun 2026 - 14:02 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-18.json)_
+_Last updated: 18 Jun 2026 - 16:00 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-18.json)_
 
 <!-- snapshot:end -->
 
