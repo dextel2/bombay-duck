@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
         "rawTime": "2026-06-18T11:25:22.823"
       }
+    ],
+    "2026-06-18T12": [
+      {
+        "newsId": "eeb12669-3827-4882-b0dc-515c651f5d8d",
+        "scripCode": 544434,
+        "shortName": "Neetu Yoshi Ltd",
+        "headline": "Receipt of Order/Contract",
+        "announcedAt": "2026-06-18T12:32:22.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/neetu-yoshi-ltd/neetuyoshi/544434/",
+        "rawTime": "2026-06-18T12:32:22.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-18T12:04:33.585+05:30",
-    "checksum": "eea86b856e87cce44ea22c65020f76d62e50ec00ded0a9d14920bdadac62b429",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-18T14:02:23.036+05:30",
+    "checksum": "51ff8a49fa8e16c9d412a396ba5cbcd2f22f3f60fe1d7e4777afaf62b5116881",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-18/awards-120432.json"
+    "rawPayloadPath": "data/raw/2026-06-18/awards-140222.json"
   }
 }
