@@ -34,6 +34,15 @@
     ],
     "2026-06-19T14": [
       {
+        "newsId": "85f13c0d-0a58-4e06-9585-9f3ec14a876e",
+        "scripCode": 539151,
+        "shortName": "Arfin India Ltd",
+        "headline": "Intimation regarding receiving the Supply order",
+        "announcedAt": "2026-06-19T14:52:58.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/arfin-india-ltd/arfin/539151/",
+        "rawTime": "2026-06-19T14:52:58.987"
+      },
+      {
         "newsId": "7d644435-a6b1-4d28-9ef7-6d0bff69f3c8",
         "scripCode": 539843,
         "shortName": "NINtec Systems Ltd",
@@ -42,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/nintec-systems-ltd/ninsys/539843/",
         "rawTime": "2026-06-19T14:11:54.82"
       }
+    ],
+    "2026-06-19T15": [
+      {
+        "newsId": "7234f303-bced-46df-9985-af9cf0c98804",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other applicable SEBI ....",
+        "announcedAt": "2026-06-19T15:04:57.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-06-19T15:04:57.883"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-19T14:16:25.294+05:30",
-    "checksum": "3e4b5db18b7dad35186fd4e4dcd66704e383fff04c832f81c11f894c0d33b777",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-19T16:00:28.352+05:30",
+    "checksum": "71b07f44a212954c44b0329bfef8e345dd13eb1adf9b09106f9eef2f755305bb",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-19/awards-141624.json"
+    "rawPayloadPath": "data/raw/2026-06-19/awards-160027.json"
   }
 }
