@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2026-06-19T08:29:57.36"
       }
+    ],
+    "2026-06-19T10": [
+      {
+        "newsId": "567e3724-7ca1-48f9-ab40-df0d90a1741f",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding receipt of LOI from Sabarmati Gas Limited amounting to Rs. 150.64 Million",
+        "announcedAt": "2026-06-19T10:45:57.243+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-06-19T10:45:57.243"
+      },
+      {
+        "newsId": "feb513a1-d7b6-413b-b276-246ff516d9c3",
+        "scripCode": 500400,
+        "shortName": "Tata Power Company Ltd",
+        "headline": "Bagging of Contract",
+        "announcedAt": "2026-06-19T10:44:22.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/",
+        "rawTime": "2026-06-19T10:44:22.973"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-19T10:01:12.238+05:30",
-    "checksum": "898d72d4b7c6d828e00dd957ed0020cf61e7d0b831a572d801bb08033a5cfd7b",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-19T12:14:23.542+05:30",
+    "checksum": "130951434013b4c405323c78a123a2a88ccc3a8b8add989890fc810165e38325",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-19/awards-100111.json"
+    "rawPayloadPath": "data/raw/2026-06-19/awards-121421.json"
   }
 }

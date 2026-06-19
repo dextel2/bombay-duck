@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-19 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of LOI from Sabarmati Gas Limited amounting to Rs. 150.64 Million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 19 Jun 2026 - 10:45 |
+| 2026-06-19 10:00 | Tata Power Company Ltd | 500400 | Bagging of Contract ([Link](https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/)) | Likely Positive | 19 Jun 2026 - 10:44 |
 | 2026-06-19 08:00 | VA Tech Wabag Ltd | 533269 | WABAG breaks new ground in Kuwait, with a ''Mega'' SWRO Project ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Neutral | 19 Jun 2026 - 08:29 |
 
-_Last updated: 19 Jun 2026 - 10:01 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-19.json)_
+_Last updated: 19 Jun 2026 - 12:14 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-19.json)_
 
 <!-- snapshot:end -->
 
