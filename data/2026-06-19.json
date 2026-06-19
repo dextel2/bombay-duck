@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/",
         "rawTime": "2026-06-19T10:44:22.973"
       }
+    ],
+    "2026-06-19T14": [
+      {
+        "newsId": "7d644435-a6b1-4d28-9ef7-6d0bff69f3c8",
+        "scripCode": 539843,
+        "shortName": "NINtec Systems Ltd",
+        "headline": "Intimation of Receipt of Contract under Regulation 30 of the SEBI LODR Regulations, 2015",
+        "announcedAt": "2026-06-19T14:11:54.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nintec-systems-ltd/ninsys/539843/",
+        "rawTime": "2026-06-19T14:11:54.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-19T12:14:23.542+05:30",
-    "checksum": "130951434013b4c405323c78a123a2a88ccc3a8b8add989890fc810165e38325",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-19T14:16:25.294+05:30",
+    "checksum": "3e4b5db18b7dad35186fd4e4dcd66704e383fff04c832f81c11f894c0d33b777",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-19/awards-121421.json"
+    "rawPayloadPath": "data/raw/2026-06-19/awards-141624.json"
   }
 }
