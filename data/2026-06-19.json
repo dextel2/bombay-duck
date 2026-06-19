@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-19",
+  "buckets": {
+    "2026-06-19T08": [
+      {
+        "newsId": "1cda4856-2aba-47a8-9bbc-100a91b91ac3",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG breaks new ground in Kuwait, with a ''Mega'' SWRO Project",
+        "announcedAt": "2026-06-19T08:29:57.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-06-19T08:29:57.36"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-19T10:01:12.238+05:30",
+    "checksum": "898d72d4b7c6d828e00dd957ed0020cf61e7d0b831a572d801bb08033a5cfd7b",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-19/awards-100111.json"
+  }
+}
