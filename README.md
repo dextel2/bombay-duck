@@ -18,18 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-19 IST)
+### Today's Awarded Orders (2026-06-20 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-19 15:00 | Shayona Engineering Ltd | 544686 | Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other applicable SEBI .... ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Neutral | 19 Jun 2026 - 15:04 |
-| 2026-06-19 14:00 | Arfin India Ltd | 539151 | Intimation regarding receiving the Supply order ([Link](https://www.bseindia.com/stock-share-price/arfin-india-ltd/arfin/539151/)) | Likely Positive | 19 Jun 2026 - 14:52 |
-| 2026-06-19 14:00 | NINtec Systems Ltd | 539843 | Intimation of Receipt of Contract under Regulation 30 of the SEBI LODR Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/nintec-systems-ltd/ninsys/539843/)) | Likely Positive | 19 Jun 2026 - 14:11 |
-| 2026-06-19 10:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of LOI from Sabarmati Gas Limited amounting to Rs. 150.64 Million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 19 Jun 2026 - 10:45 |
-| 2026-06-19 10:00 | Tata Power Company Ltd | 500400 | Bagging of Contract ([Link](https://www.bseindia.com/stock-share-price/tata-power-company-ltd/tatapower/500400/)) | Likely Positive | 19 Jun 2026 - 10:44 |
-| 2026-06-19 08:00 | VA Tech Wabag Ltd | 533269 | WABAG breaks new ground in Kuwait, with a ''Mega'' SWRO Project ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Neutral | 19 Jun 2026 - 08:29 |
+_No award announcements have been captured yet today._
 
-_Last updated: 19 Jun 2026 - 16:00 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-19.json)_
+_Last updated: 20 Jun 2026 - 09:58 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-20.json)_
 
 <!-- snapshot:end -->
 
