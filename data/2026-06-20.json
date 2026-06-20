@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
         "rawTime": "2026-06-20T12:10:43.66"
       }
+    ],
+    "2026-06-20T15": [
+      {
+        "newsId": "21519f56-8fef-4a93-a0c1-624a00e6564b",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (Listing Obligations and Disclosure Requirement) Regulations, 2015 and the relevant amendment from time to time, we wish ....",
+        "announcedAt": "2026-06-20T15:17:30.600+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-06-20T15:17:30.6"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-20T13:38:25.409+05:30",
-    "checksum": "5403670acca6b93f8f308b0773bf0f0ef5b3c378cd162c3640973b8583c5a9a5",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-20T15:31:38.195+05:30",
+    "checksum": "4cbedc0e7ba39792e0a80157f5e930eba3fd65c22475b845457812a9b4c40917",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-20/awards-133825.json"
+    "rawPayloadPath": "data/raw/2026-06-20/awards-153137.json"
   }
 }
