@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-20 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-20 13:00 | Deep Industries Ltd | 543288 | Announcement in respect of Letter of Award received from oil and Natural Gas Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/)) | Neutral | 20 Jun 2026 - 13:14 |
+| 2026-06-20 12:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Letter of Award of Contract from NMDC Limited. ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 20 Jun 2026 - 12:10 |
 
-_Last updated: 20 Jun 2026 - 11:59 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-20.json)_
+_Last updated: 20 Jun 2026 - 13:38 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-20.json)_
 
 <!-- snapshot:end -->
 

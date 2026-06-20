@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-06-20",
-  "buckets": {},
+  "buckets": {
+    "2026-06-20T13": [
+      {
+        "newsId": "3dff77f5-f9af-4605-a8e3-258fb970ec3e",
+        "scripCode": 543288,
+        "shortName": "Deep Industries Ltd",
+        "headline": "Announcement in respect of Letter of Award received from oil and Natural Gas Corporation Limited",
+        "announcedAt": "2026-06-20T13:14:10.517+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/",
+        "rawTime": "2026-06-20T13:14:10.517"
+      }
+    ],
+    "2026-06-20T12": [
+      {
+        "newsId": "958be8c1-c4aa-49ae-b9d6-bbc2769cfd5d",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Letter of Award of Contract from NMDC Limited.",
+        "announcedAt": "2026-06-20T12:10:43.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-06-20T12:10:43.66"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-20T11:59:41.577+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-20T13:38:25.409+05:30",
+    "checksum": "5403670acca6b93f8f308b0773bf0f0ef5b3c378cd162c3640973b8583c5a9a5",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-20/awards-115940.json"
+    "rawPayloadPath": "data/raw/2026-06-20/awards-133825.json"
   }
 }
