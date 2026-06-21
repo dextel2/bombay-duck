@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-21",
-  "buckets": {},
+  "buckets": {
+    "2026-06-21T14": [
+      {
+        "newsId": "448d77ec-dd01-4e8a-8b60-e5ce36f88492",
+        "scripCode": 532628,
+        "shortName": "3i Infotech Ltd",
+        "headline": "Please find attached Intimation letter that Company has received an Order from a leading UAE-based technology Company Under SEBI Regulation, 2015.",
+        "announcedAt": "2026-06-21T14:18:52.793+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/",
+        "rawTime": "2026-06-21T14:18:52.793"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-21T14:00:46.026+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-21T15:44:12.473+05:30",
+    "checksum": "077e5fdbb7624f516477d3a31d7aefcb966d89a554799490543975825fc08bd7",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-21/awards-140045.json"
+    "rawPayloadPath": "data/raw/2026-06-21/awards-154412.json"
   }
 }
