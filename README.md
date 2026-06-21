@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-20 IST)
+### Today's Awarded Orders (2026-06-21 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-20 15:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (Listing Obligations and Disclosure Requirement) Regulations, 2015 and the relevant amendment from time to time, we wish .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Jun 2026 - 15:17 |
-| 2026-06-20 13:00 | Deep Industries Ltd | 543288 | Announcement in respect of Letter of Award received from oil and Natural Gas Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/)) | Neutral | 20 Jun 2026 - 13:14 |
-| 2026-06-20 12:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Letter of Award of Contract from NMDC Limited. ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Likely Positive | 20 Jun 2026 - 12:10 |
+_No award announcements have been captured yet today._
 
-_Last updated: 20 Jun 2026 - 15:31 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-20.json)_
+_Last updated: 21 Jun 2026 - 10:00 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-21.json)_
 
 <!-- snapshot:end -->
 
