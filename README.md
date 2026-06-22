@@ -18,13 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-21 IST)
+### Today's Awarded Orders (2026-06-22 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-21 14:00 | 3i Infotech Ltd | 532628 | Please find attached Intimation letter that Company has received an Order from a leading UAE-based technology Company Under SEBI Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/)) | Likely Positive | 21 Jun 2026 - 14:18 |
+_No award announcements have been captured yet today._
 
-_Last updated: 21 Jun 2026 - 15:44 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-21.json)_
+_Last updated: 22 Jun 2026 - 10:01 | Entries: 0 | Requests: 1 | Retries: 1 | [Raw JSON](data/2026-06-22.json)_
 
 <!-- snapshot:end -->
 
