@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-22 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-22 10:00 | Lehar Footwears Ltd | 532829 | Lehar Footwears bags OEM Order worth Rs. 39.70 Crores ([Link](https://www.bseindia.com/stock-share-price/lehar-footwears-ltd/lehar/532829/)) | Likely Positive | 22 Jun 2026 - 10:26 |
 
-_Last updated: 22 Jun 2026 - 10:01 | Entries: 0 | Requests: 1 | Retries: 1 | [Raw JSON](data/2026-06-22.json)_
+_Last updated: 22 Jun 2026 - 12:17 | Entries: 1 | Requests: 2 | Retries: 1 | [Raw JSON](data/2026-06-22.json)_
 
 <!-- snapshot:end -->
 

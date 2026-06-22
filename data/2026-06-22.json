@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-22",
-  "buckets": {},
+  "buckets": {
+    "2026-06-22T10": [
+      {
+        "newsId": "9cd9d684-3df3-4553-aead-002c4d8e6f28",
+        "scripCode": 532829,
+        "shortName": "Lehar Footwears Ltd",
+        "headline": "Lehar Footwears bags OEM Order worth Rs. 39.70 Crores",
+        "announcedAt": "2026-06-22T10:26:12.757+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lehar-footwears-ltd/lehar/532829/",
+        "rawTime": "2026-06-22T10:26:12.757"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-22T10:01:57.586+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-22T12:17:26.359+05:30",
+    "checksum": "4fd60f877e2e2c1ef38876082cc458580e9ca5615b8dc7a8336e7856e440e3ba",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 1,
-    "rawPayloadPath": "data/raw/2026-06-22/awards-100140.json"
+    "rawPayloadPath": "data/raw/2026-06-22/awards-121725.json"
   }
 }
