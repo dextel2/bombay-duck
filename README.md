@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-22 15:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Emerged as L-1 Bidder of an total amount Rs. 70.18 Crores by Ministry of Road and Transport , PWD Highway, Aizawl -796001 , Mizoram ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 22 Jun 2026 - 15:00 |
 | 2026-06-22 10:00 | Lehar Footwears Ltd | 532829 | Lehar Footwears bags OEM Order worth Rs. 39.70 Crores ([Link](https://www.bseindia.com/stock-share-price/lehar-footwears-ltd/lehar/532829/)) | Likely Positive | 22 Jun 2026 - 10:26 |
 
-_Last updated: 22 Jun 2026 - 14:31 | Entries: 1 | Requests: 3 | Retries: 1 | [Raw JSON](data/2026-06-22.json)_
+_Last updated: 22 Jun 2026 - 17:31 | Entries: 2 | Requests: 4 | Retries: 1 | [Raw JSON](data/2026-06-22.json)_
 
 <!-- snapshot:end -->
 

@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/lehar-footwears-ltd/lehar/532829/",
         "rawTime": "2026-06-22T10:26:12.757"
       }
+    ],
+    "2026-06-22T15": [
+      {
+        "newsId": "9feb44a8-e50a-40a1-9b64-c51a65aa722a",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Emerged as L-1 Bidder of an total amount Rs. 70.18 Crores by Ministry of Road and Transport , PWD Highway, Aizawl -796001 , Mizoram",
+        "announcedAt": "2026-06-22T15:00:25.153+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-06-22T15:00:25.153"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-22T14:31:17.849+05:30",
-    "checksum": "4fd60f877e2e2c1ef38876082cc458580e9ca5615b8dc7a8336e7856e440e3ba",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-22T17:31:14.678+05:30",
+    "checksum": "346e253ea30ee53d6aa1c18ba74f2fe58e8b2e83022e5f89ba08171b500c74b5",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 1,
-    "rawPayloadPath": "data/raw/2026-06-22/awards-143117.json"
+    "rawPayloadPath": "data/raw/2026-06-22/awards-173114.json"
   }
 }
