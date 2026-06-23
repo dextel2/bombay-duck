@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-23",
+  "buckets": {
+    "2026-06-23T07": [
+      {
+        "newsId": "8726b3a7-4a2d-4d7c-8ae3-0d342d86c329",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "DEE Development Engineers Limited has informed that its Wholly Owned Subsidiary Company M/s DEE Fabricom India Private Limited has received an Order for supply of Windmill Towers of Rs. ....",
+        "announcedAt": "2026-06-23T07:01:14.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-06-23T07:01:14.57"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-23T09:53:19.637+05:30",
+    "checksum": "cae4e36dac4a9516b9e7f6512d2d05492b69de80cde8be746dc79406f8de6c1a",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-23/awards-095318.json"
+  }
+}
