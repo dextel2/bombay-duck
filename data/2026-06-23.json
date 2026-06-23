@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/",
         "rawTime": "2026-06-23T10:28:13.047"
       }
+    ],
+    "2026-06-23T12": [
+      {
+        "newsId": "0bb26e16-d69e-4e9f-9a2a-0a76d634fe41",
+        "scripCode": 543535,
+        "shortName": "We Win Ltd",
+        "headline": "Regarding Award of work order for selection of implementation agency for enhancing capabilities of exisiting accident response system and traffic management centre under MPRDC",
+        "announcedAt": "2026-06-23T12:56:29.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/",
+        "rawTime": "2026-06-23T12:56:29.867"
+      },
+      {
+        "newsId": "9e34e7a9-e4e0-41cd-b76b-88d37da171dc",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-06-23T12:39:24.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-06-23T12:39:24.017"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-23T11:52:27.834+05:30",
-    "checksum": "a649a721c0e153b294bb1196062e93b278582b1944287b7c12cb8fce171439d5",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-23T13:41:22.173+05:30",
+    "checksum": "0f3b5d332f232f480f961cdfca60171479bec3b024c11fe7f0ba46d43f6a84c4",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-23/awards-115227.json"
+    "rawPayloadPath": "data/raw/2026-06-23/awards-134116.json"
   }
 }

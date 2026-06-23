@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-23 12:00 | We Win Ltd | 543535 | Regarding Award of work order for selection of implementation agency for enhancing capabilities of exisiting accident response system and traffic management centre under MPRDC ([Link](https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/)) | Likely Positive | 23 Jun 2026 - 12:56 |
+| 2026-06-23 12:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 23 Jun 2026 - 12:39 |
 | 2026-06-23 10:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of the SEBI(LODR) Regulations,2015 ,regarding receipt of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 23 Jun 2026 - 10:42 |
 | 2026-06-23 10:00 | Sattrix Information Security Ltd | 544189 | The company has received an purchase order from one of the leading information technology hardware, Electronics Manufacturing and solutions company in India. ([Link](https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/)) | Likely Positive | 23 Jun 2026 - 10:28 |
 | 2026-06-23 07:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has informed that its Wholly Owned Subsidiary Company M/s DEE Fabricom India Private Limited has received an Order for supply of Windmill Towers of Rs. .... ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 23 Jun 2026 - 07:01 |
 
-_Last updated: 23 Jun 2026 - 11:52 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-23.json)_
+_Last updated: 23 Jun 2026 - 13:41 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-23.json)_
 
 <!-- snapshot:end -->
 
