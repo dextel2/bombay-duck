@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-06-23T12:39:24.017"
       }
+    ],
+    "2026-06-23T14": [
+      {
+        "newsId": "5a30fd20-5456-4186-abcb-ad757d9f06c8",
+        "scripCode": 541956,
+        "shortName": "IRCON International Ltd",
+        "headline": "Receipt of Letter of Award (LOA) from Tripura State Electricity Corporation Limited (TSECL)",
+        "announcedAt": "2026-06-23T14:49:09.333+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ircon-international-ltd/ircon/541956/",
+        "rawTime": "2026-06-23T14:49:09.333"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-23T13:41:22.173+05:30",
-    "checksum": "0f3b5d332f232f480f961cdfca60171479bec3b024c11fe7f0ba46d43f6a84c4",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-23T15:44:54.314+05:30",
+    "checksum": "baf3f4b2c21dae5136b183f8c0c27a8ea42c59688621ee105d5be52c4acd2835",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-23/awards-134116.json"
+    "rawPayloadPath": "data/raw/2026-06-23/awards-154453.json"
   }
 }
