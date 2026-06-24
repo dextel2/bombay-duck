@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-24 11:00 | Prostarm Info Systems Ltd | 544410 | Company has been declared as L1 by Karnataka state Fire and Emergency Service ([Link](https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/)) | Neutral | 24 Jun 2026 - 11:40 |
 | 2026-06-24 09:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 24 Jun 2026 - 09:41 |
 
-_Last updated: 24 Jun 2026 - 09:55 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-24.json)_
+_Last updated: 24 Jun 2026 - 11:49 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-24.json)_
 
 <!-- snapshot:end -->
 
