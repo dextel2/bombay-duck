@@ -22,14 +22,45 @@
         "url": "https://www.bseindia.com/stock-share-price/prostarm-info-systems-ltd/prostarm/544410/",
         "rawTime": "2026-06-24T11:40:06.073"
       }
+    ],
+    "2026-06-24T13": [
+      {
+        "newsId": "82a17a72-135a-43dd-8f9a-299d18324e06",
+        "scripCode": 541143,
+        "shortName": "Bharat Dynamics Ltd",
+        "headline": "Receipt of order from M/s Hindustan Aeronautics Limited",
+        "announcedAt": "2026-06-24T13:20:33.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-dynamics-ltd/bdl/541143/",
+        "rawTime": "2026-06-24T13:20:33.91"
+      }
+    ],
+    "2026-06-24T12": [
+      {
+        "newsId": "186f8f55-66e3-492a-a8b4-316240d7b0ba",
+        "scripCode": 544684,
+        "shortName": "Digilogic Systems Ltd",
+        "headline": "The Company has received a purchase order from Defence PSU",
+        "announcedAt": "2026-06-24T12:19:27.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/digilogic-systems-ltd/digilogic/544684/",
+        "rawTime": "2026-06-24T12:19:27.597"
+      },
+      {
+        "newsId": "7468c5d3-9394-40a1-a884-51971ceb65ca",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Receipt of order from M/s Argentera Oil and Gas, Brazil for supply of Casing Pipe with Multi Start Connector(s). The Ultimate supply of these products to M/s Petrobra, Brazil.",
+        "announcedAt": "2026-06-24T12:02:21.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-06-24T12:02:21.183"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-24T11:49:40.691+05:30",
-    "checksum": "bb3112a47671d2c41e066421e5d38e9df277cd05f13b61ba7465d9e37fbc31af",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-24T13:38:28.115+05:30",
+    "checksum": "760480183957fae6c01f0e2268b9420da3939c998cd838201c8aa8604c63cfea",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-24/awards-114940.json"
+    "rawPayloadPath": "data/raw/2026-06-24/awards-133827.json"
   }
 }
