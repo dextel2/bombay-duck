@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-06-24",
+  "buckets": {
+    "2026-06-24T09": [
+      {
+        "newsId": "ca00e854-f9f5-4e34-bca6-1164edfb919c",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order",
+        "announcedAt": "2026-06-24T09:41:24.293+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-06-24T09:41:24.293"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-24T09:55:19.649+05:30",
+    "checksum": "7f9497cefd20d9b7b68d30326affb74489209276bbe6af1c09ee0da196b9f2f5",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-24/awards-095519.json"
+  }
+}
