@@ -28,7 +28,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-25 10:00 | Duncan Engineering Ltd-$ | 504908 | we wish to inform that the Company has received order from Bharat Petroleum Corporation Limited (a Government of India undertaking) on Wednesday, June 24, 2026. ([Link](https://www.bseindia.com/stock-share-price/duncan-engineering-ltd/duncaneng/504908/)) | Likely Positive | 25 Jun 2026 - 10:58 |
 | 2026-06-25 10:00 | Onward Technologies Ltd | 517536 | Intimation of receipt of engineering services contract under Regulation 30 of SEBI(LODR) Regulations ,2015 ([Link](https://www.bseindia.com/stock-share-price/onward-technologies-ltd/onwardtec/517536/)) | Likely Positive | 25 Jun 2026 - 10:03 |
 
-_Last updated: 25 Jun 2026 - 13:37 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-25.json)_
+_Last updated: 25 Jun 2026 - 15:33 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-25.json)_
 
 <!-- snapshot:end -->
 
