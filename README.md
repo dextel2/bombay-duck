@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-25 13:00 | Sheetal Cool Products Ltd | 540757 | Disclosure under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 is attached here with ([Link](https://www.bseindia.com/stock-share-price/sheetal-cool-products-ltd/scpl/540757/)) | Neutral | 25 Jun 2026 - 13:36 |
+| 2026-06-25 13:00 | Magnus Steel and Infra Ltd | 517320 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Commission Income from Brokerage and Transaction Facilitation Services ([Link](https://www.bseindia.com/stock-share-price/magnus-steel-and-infra-ltd/magnus/517320/)) | Neutral | 25 Jun 2026 - 13:32 |
+| 2026-06-25 12:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 25 Jun 2026 - 12:59 |
 | 2026-06-25 10:00 | Duncan Engineering Ltd-$ | 504908 | we wish to inform that the Company has received order from Bharat Petroleum Corporation Limited (a Government of India undertaking) on Wednesday, June 24, 2026. ([Link](https://www.bseindia.com/stock-share-price/duncan-engineering-ltd/duncaneng/504908/)) | Likely Positive | 25 Jun 2026 - 10:58 |
 | 2026-06-25 10:00 | Onward Technologies Ltd | 517536 | Intimation of receipt of engineering services contract under Regulation 30 of SEBI(LODR) Regulations ,2015 ([Link](https://www.bseindia.com/stock-share-price/onward-technologies-ltd/onwardtec/517536/)) | Likely Positive | 25 Jun 2026 - 10:03 |
 
-_Last updated: 25 Jun 2026 - 11:52 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-25.json)_
+_Last updated: 25 Jun 2026 - 13:37 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-25.json)_
 
 <!-- snapshot:end -->
 

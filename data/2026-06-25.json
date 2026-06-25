@@ -20,14 +20,45 @@
         "url": "https://www.bseindia.com/stock-share-price/onward-technologies-ltd/onwardtec/517536/",
         "rawTime": "2026-06-25T10:03:47.113"
       }
+    ],
+    "2026-06-25T13": [
+      {
+        "newsId": "c3204ee6-720f-45e1-aa98-f380dca16233",
+        "scripCode": 540757,
+        "shortName": "Sheetal Cool Products Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 is attached here with",
+        "announcedAt": "2026-06-25T13:36:48.733+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sheetal-cool-products-ltd/scpl/540757/",
+        "rawTime": "2026-06-25T13:36:48.733"
+      },
+      {
+        "newsId": "a98ae6b8-2a39-4f2d-81cb-2a3e6339f7f7",
+        "scripCode": 517320,
+        "shortName": "Magnus Steel and Infra Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Commission Income from Brokerage and Transaction Facilitation Services",
+        "announcedAt": "2026-06-25T13:32:54.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magnus-steel-and-infra-ltd/magnus/517320/",
+        "rawTime": "2026-06-25T13:32:54.33"
+      }
+    ],
+    "2026-06-25T12": [
+      {
+        "newsId": "cf4f0df5-0119-4734-b699-3fbbd5b87bbc",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-06-25T12:59:15.873+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-06-25T12:59:15.873"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-25T11:52:25.495+05:30",
-    "checksum": "d399d45ab3869d641680926b5ce9e06eb1de5e306c6be73db354964a6ed0070b",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-25T13:37:34.839+05:30",
+    "checksum": "adaba42c7cdde38ec874e41bdcfe8808a139cfb3823af75b719805b870b004b8",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-25/awards-115223.json"
+    "rawPayloadPath": "data/raw/2026-06-25/awards-133734.json"
   }
 }
