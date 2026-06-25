@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-06-25",
-  "buckets": {},
+  "buckets": {
+    "2026-06-25T10": [
+      {
+        "newsId": "ff2afce8-57b8-4e71-8b2d-d0208750dffc",
+        "scripCode": 504908,
+        "shortName": "Duncan Engineering Ltd-$",
+        "headline": "we wish to inform that the Company has received order from Bharat Petroleum Corporation Limited (a Government of India undertaking) on Wednesday, June 24, 2026.",
+        "announcedAt": "2026-06-25T10:58:28.467+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/duncan-engineering-ltd/duncaneng/504908/",
+        "rawTime": "2026-06-25T10:58:28.467"
+      },
+      {
+        "newsId": "23d6eb5f-514a-4a6c-87f3-a8e02f839b02",
+        "scripCode": 517536,
+        "shortName": "Onward Technologies Ltd",
+        "headline": "Intimation of receipt of engineering services contract under Regulation 30 of SEBI(LODR) Regulations ,2015",
+        "announcedAt": "2026-06-25T10:03:47.113+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/onward-technologies-ltd/onwardtec/517536/",
+        "rawTime": "2026-06-25T10:03:47.113"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-25T09:54:48.433+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-25T11:52:25.495+05:30",
+    "checksum": "d399d45ab3869d641680926b5ce9e06eb1de5e306c6be73db354964a6ed0070b",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-25/awards-095448.json"
+    "rawPayloadPath": "data/raw/2026-06-25/awards-115223.json"
   }
 }
