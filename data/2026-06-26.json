@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
         "rawTime": "2026-06-26T12:27:08.047"
       }
+    ],
+    "2026-06-26T14": [
+      {
+        "newsId": "f7424b27-c090-4d2d-aacf-34b23718ace6",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Dear Sir/Madam, Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other ....",
+        "announcedAt": "2026-06-26T14:19:17.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-06-26T14:19:17.33"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-26T13:41:58.065+05:30",
-    "checksum": "a8ac4d952eacf2d6c0b5de37ac003fbdeec12ee2446ab44001e7236a3ee5e1bf",
-    "totalAnnouncements": 4,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-26T15:34:42.632+05:30",
+    "checksum": "7e233c2583b6ce334be8435130a258188214c18f866dafb0805b63a80428142f",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-26/awards-134157.json"
+    "rawPayloadPath": "data/raw/2026-06-26/awards-153441.json"
   }
 }
