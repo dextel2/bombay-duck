@@ -1,12 +1,44 @@
 {
   "tradingDate": "2026-06-26",
-  "buckets": {},
+  "buckets": {
+    "2026-06-26T11": [
+      {
+        "newsId": "568c7bb5-f6ac-4aee-beb6-a42bd0ea77a3",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that Company has recieved fresh and renewal orders amounting to Rs. 5.42 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-06-26T11:34:36.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-06-26T11:34:36.797"
+      }
+    ],
+    "2026-06-26T10": [
+      {
+        "newsId": "e2368c6a-c54c-4499-8e6d-7e6c2e6bf2b1",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of Order for transportation of ash to construction site of road projects ....",
+        "announcedAt": "2026-06-26T10:58:12.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-06-26T10:58:12.543"
+      },
+      {
+        "newsId": "408976d0-1cce-49bc-a637-7ef1d32b60e8",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "BEML Limited has received an additional export order valued at approximately USD 5.25 Million from the Middle East Region",
+        "announcedAt": "2026-06-26T10:45:42.150+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2026-06-26T10:45:42.15"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-26T09:58:09.415+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-26T11:53:27.560+05:30",
+    "checksum": "af79235ae06423f0c9a0cea808bcd9b2cbc8744d15e3f5c7c2ae67a1bca0abd9",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-26/awards-095808.json"
+    "rawPayloadPath": "data/raw/2026-06-26/awards-115327.json"
   }
 }

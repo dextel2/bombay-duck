@@ -20,9 +20,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-26 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-26 11:00 | Meta Infotech Ltd | 544441 | We wish to inform that Company has recieved fresh and renewal orders amounting to Rs. 5.42 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 26 Jun 2026 - 11:34 |
+| 2026-06-26 10:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of Order for transportation of ash to construction site of road projects .... ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 26 Jun 2026 - 10:58 |
+| 2026-06-26 10:00 | BEML Ltd | 500048 | BEML Limited has received an additional export order valued at approximately USD 5.25 Million from the Middle East Region ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 26 Jun 2026 - 10:45 |
 
-_Last updated: 26 Jun 2026 - 09:58 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-26.json)_
+_Last updated: 26 Jun 2026 - 11:53 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-26.json)_
 
 <!-- snapshot:end -->
 
