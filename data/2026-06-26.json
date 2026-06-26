@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
         "rawTime": "2026-06-26T10:45:42.15"
       }
+    ],
+    "2026-06-26T12": [
+      {
+        "newsId": "c571de8e-a627-4c35-a75c-e96c412dc9d7",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to Central Housing and Planning Authority, Guyana. Construction of Four (4) ....",
+        "announcedAt": "2026-06-26T12:27:08.047+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-06-26T12:27:08.047"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-26T11:53:27.560+05:30",
-    "checksum": "af79235ae06423f0c9a0cea808bcd9b2cbc8744d15e3f5c7c2ae67a1bca0abd9",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-26T13:41:58.065+05:30",
+    "checksum": "a8ac4d952eacf2d6c0b5de37ac003fbdeec12ee2446ab44001e7236a3ee5e1bf",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-26/awards-115327.json"
+    "rawPayloadPath": "data/raw/2026-06-26/awards-134157.json"
   }
 }
