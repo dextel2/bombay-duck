@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/",
         "rawTime": "2026-06-27T10:06:12.303"
       }
+    ],
+    "2026-06-27T12": [
+      {
+        "newsId": "c8d40c9a-f248-4a04-83b6-d323d0fa0ee9",
+        "scripCode": 509732,
+        "shortName": "Kothari Industrial Corporation Ltd",
+        "headline": "Received LOA",
+        "announcedAt": "2026-06-27T12:54:09.917+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/",
+        "rawTime": "2026-06-27T12:54:09.917"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-27T11:41:31.099+05:30",
-    "checksum": "c20ff3f85d3e79a2ae4c20f786ecbce1093159fb6c5a26c8b83ff96e889f6927",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-27T13:27:02.324+05:30",
+    "checksum": "71cecd2238b2a9aa33d066e8a874c8ccd58f3f12da75ed0225fcc8abfbfdd44c",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-27/awards-114130.json"
+    "rawPayloadPath": "data/raw/2026-06-27/awards-132701.json"
   }
 }
