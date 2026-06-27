@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-27",
-  "buckets": {},
+  "buckets": {
+    "2026-06-27T10": [
+      {
+        "newsId": "2a78713f-279a-4eed-93e6-4267e139955b",
+        "scripCode": 544496,
+        "shortName": "Vikran Engineering Ltd",
+        "headline": "Intimation of receipt of work order from NOPL Solar Project Private Limited (WOS) of INR3517.98 Crores for Solar Plant development of 969 MW",
+        "announcedAt": "2026-06-27T10:06:12.303+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/",
+        "rawTime": "2026-06-27T10:06:12.303"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-27T09:51:14.527+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-27T11:41:31.099+05:30",
+    "checksum": "c20ff3f85d3e79a2ae4c20f786ecbce1093159fb6c5a26c8b83ff96e889f6927",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-27/awards-095113.json"
+    "rawPayloadPath": "data/raw/2026-06-27/awards-114130.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-06-27 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-06-27 10:00 | Vikran Engineering Ltd | 544496 | Intimation of receipt of work order from NOPL Solar Project Private Limited (WOS) of INR3517.98 Crores for Solar Plant development of 969 MW ([Link](https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/)) | Likely Positive | 27 Jun 2026 - 10:06 |
 
-_Last updated: 27 Jun 2026 - 09:51 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-27.json)_
+_Last updated: 27 Jun 2026 - 11:41 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-27.json)_
 
 <!-- snapshot:end -->
 
