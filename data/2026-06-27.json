@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/",
         "rawTime": "2026-06-27T12:54:09.917"
       }
+    ],
+    "2026-06-27T14": [
+      {
+        "newsId": "0a8cbbce-4826-46e4-890b-23f9149e8997",
+        "scripCode": 544496,
+        "shortName": "Vikran Engineering Ltd",
+        "headline": "Intimation regarding cancellation of Order received from Ellume Energy MH Solar One Private Limited",
+        "announcedAt": "2026-06-27T14:16:11.687+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/",
+        "rawTime": "2026-06-27T14:16:11.687"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-27T13:27:02.324+05:30",
-    "checksum": "71cecd2238b2a9aa33d066e8a874c8ccd58f3f12da75ed0225fcc8abfbfdd44c",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-27T14:30:58.600+05:30",
+    "checksum": "0f5008b9283e274ba39261d07b58e6a3ec98f42bc9e359ca50737276827e91cc",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-27/awards-132701.json"
+    "rawPayloadPath": "data/raw/2026-06-27/awards-143057.json"
   }
 }
