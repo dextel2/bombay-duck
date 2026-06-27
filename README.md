@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-26 IST)
+### Today's Awarded Orders (2026-06-27 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-06-26 14:00 | Shayona Engineering Ltd | 544686 | Dear Sir/Madam, Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other .... ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Neutral | 26 Jun 2026 - 14:19 |
-| 2026-06-26 12:00 | Ashoka Buildcon Ltd | 533271 | Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to Central Housing and Planning Authority, Guyana. Construction of Four (4) .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 26 Jun 2026 - 12:27 |
-| 2026-06-26 11:00 | Meta Infotech Ltd | 544441 | We wish to inform that Company has recieved fresh and renewal orders amounting to Rs. 5.42 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 26 Jun 2026 - 11:34 |
-| 2026-06-26 10:00 | Refex Industries Ltd | 532884 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Bagging of Order for transportation of ash to construction site of road projects .... ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 26 Jun 2026 - 10:58 |
-| 2026-06-26 10:00 | BEML Ltd | 500048 | BEML Limited has received an additional export order valued at approximately USD 5.25 Million from the Middle East Region ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 26 Jun 2026 - 10:45 |
+_No award announcements have been captured yet today._
 
-_Last updated: 26 Jun 2026 - 15:34 | Entries: 5 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-26.json)_
+_Last updated: 27 Jun 2026 - 09:51 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-27.json)_
 
 <!-- snapshot:end -->
 
