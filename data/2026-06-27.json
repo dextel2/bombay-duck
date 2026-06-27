@@ -33,14 +33,36 @@
         "url": "https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/",
         "rawTime": "2026-06-27T14:16:11.687"
       }
+    ],
+    "2026-06-27T16": [
+      {
+        "newsId": "b5f27f4e-0d46-4039-aeb2-aa567b893671",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Regulation 30 - Receipt of Purchase Order",
+        "announcedAt": "2026-06-27T16:00:13.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-06-27T16:00:13.44"
+      }
+    ],
+    "2026-06-27T15": [
+      {
+        "newsId": "a45f9473-343d-4953-842f-01702ea70bcb",
+        "scripCode": 540797,
+        "shortName": "Shalby Ltd",
+        "headline": "Receipt of an order of the Sole Arbitrator disposing the arbitration proceedings pursuant to withdrawal/settlement filed by the parties",
+        "announcedAt": "2026-06-27T15:57:39.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shalby-ltd/shalby/540797/",
+        "rawTime": "2026-06-27T15:57:39.71"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-27T14:30:58.600+05:30",
-    "checksum": "0f5008b9283e274ba39261d07b58e6a3ec98f42bc9e359ca50737276827e91cc",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-06-27T16:08:48.004+05:30",
+    "checksum": "19657bd6a8bb65c6218c44870a1471c5cb5d87bf6f793369d85d52f2d4b4e9e6",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-27/awards-143057.json"
+    "rawPayloadPath": "data/raw/2026-06-27/awards-160847.json"
   }
 }

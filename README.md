@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-27 16:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 27 Jun 2026 - 16:00 |
+| 2026-06-27 15:00 | Shalby Ltd | 540797 | Receipt of an order of the Sole Arbitrator disposing the arbitration proceedings pursuant to withdrawal/settlement filed by the parties ([Link](https://www.bseindia.com/stock-share-price/shalby-ltd/shalby/540797/)) | Likely Positive | 27 Jun 2026 - 15:57 |
 | 2026-06-27 14:00 | Vikran Engineering Ltd | 544496 | Intimation regarding cancellation of Order received from Ellume Energy MH Solar One Private Limited ([Link](https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/)) | Likely Positive | 27 Jun 2026 - 14:16 |
 | 2026-06-27 12:00 | Kothari Industrial Corporation Ltd | 509732 | Received LOA ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 27 Jun 2026 - 12:54 |
 | 2026-06-27 10:00 | Vikran Engineering Ltd | 544496 | Intimation of receipt of work order from NOPL Solar Project Private Limited (WOS) of INR3517.98 Crores for Solar Plant development of 969 MW ([Link](https://www.bseindia.com/stock-share-price/vikran-engineering-ltd/vikran/544496/)) | Likely Positive | 27 Jun 2026 - 10:06 |
 
-_Last updated: 27 Jun 2026 - 14:30 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-27.json)_
+_Last updated: 27 Jun 2026 - 16:08 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-06-27.json)_
 
 <!-- snapshot:end -->
 
