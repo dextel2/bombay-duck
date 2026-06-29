@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-29 14:00 | Diffusion Engineers Ltd | 544264 | Intimation for Receipt of an order of about INR 26.31 Crore (approx) ([Link](https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/)) | Likely Positive | 29 Jun 2026 - 14:37 |
 | 2026-06-29 11:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of Purchase Order under Reg 30 of SEBI LODR amounting to Rs. 67.42 million from ADANI TOTAL GAS LIMITED (ATGL) ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 29 Jun 2026 - 11:00 |
 
-_Last updated: 29 Jun 2026 - 14:07 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-29.json)_
+_Last updated: 29 Jun 2026 - 16:04 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-29.json)_
 
 <!-- snapshot:end -->
 

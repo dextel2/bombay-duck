@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2026-06-29T11:00:09.97"
       }
+    ],
+    "2026-06-29T14": [
+      {
+        "newsId": "f0fb0364-f26c-4cc9-a640-c8ee053e2cf5",
+        "scripCode": 544264,
+        "shortName": "Diffusion Engineers Ltd",
+        "headline": "Intimation for Receipt of an order of about INR 26.31 Crore (approx)",
+        "announcedAt": "2026-06-29T14:37:14.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/",
+        "rawTime": "2026-06-29T14:37:14.85"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-29T14:07:48.661+05:30",
-    "checksum": "b838b86810a839a309578e56759619913b7a2e7ae6093315ca48095f786c3616",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-29T16:04:24.184+05:30",
+    "checksum": "b38f9dbf6df53daae5a883039a23d8f79d9d066b35eaea89959237326d368434",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-29/awards-140748.json"
+    "rawPayloadPath": "data/raw/2026-06-29/awards-160423.json"
   }
 }
