@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-06-29",
-  "buckets": {},
+  "buckets": {
+    "2026-06-29T11": [
+      {
+        "newsId": "de9fcd15-5a5b-4bd8-b41d-329fdcf41973",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding receipt of Purchase Order under Reg 30 of SEBI LODR amounting to Rs. 67.42 million from ADANI TOTAL GAS LIMITED (ATGL)",
+        "announcedAt": "2026-06-29T11:00:09.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-06-29T11:00:09.97"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-06-29T10:00:55.656+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-29T12:02:28.875+05:30",
+    "checksum": "b838b86810a839a309578e56759619913b7a2e7ae6093315ca48095f786c3616",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-29/awards-100054.json"
+    "rawPayloadPath": "data/raw/2026-06-29/awards-120227.json"
   }
 }
