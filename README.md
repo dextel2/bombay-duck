@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-06-29 11:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of Purchase Order under Reg 30 of SEBI LODR amounting to Rs. 67.42 million from ADANI TOTAL GAS LIMITED (ATGL) ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 29 Jun 2026 - 11:00 |
 
-_Last updated: 29 Jun 2026 - 12:02 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-29.json)_
+_Last updated: 29 Jun 2026 - 14:07 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-29.json)_
 
 <!-- snapshot:end -->
 
