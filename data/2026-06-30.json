@@ -53,14 +53,54 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-06-30T10:33:57.723"
       }
+    ],
+    "2026-06-30T13": [
+      {
+        "newsId": "75df57c1-9d79-42fb-b4cb-6e367854a451",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order",
+        "announcedAt": "2026-06-30T13:30:46.807+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-06-30T13:30:46.807"
+      }
+    ],
+    "2026-06-30T12": [
+      {
+        "newsId": "0198eba1-db17-4cd5-8f93-0d29883cc105",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited (\"CIL\") has emerged as ....",
+        "announcedAt": "2026-06-30T12:54:36.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-06-30T12:54:36.84"
+      },
+      {
+        "newsId": "93587669-5a16-4591-80cc-910f2dbdc8e0",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that we have received a new contract from Ministry of Defence of value Rs. 5518664.48. For further details, plaese refer attached file",
+        "announcedAt": "2026-06-30T12:51:24.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-06-30T12:51:24.617"
+      },
+      {
+        "newsId": "afc2a4cf-efe1-4501-a42c-9912ef49ea9c",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with APAC Financial Services Private Limited",
+        "announcedAt": "2026-06-30T12:34:33.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-06-30T12:34:33.507"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-30T11:55:33.915+05:30",
-    "checksum": "4e48695ef921fde19730f1ba5eedbc8b46ca208427ceab446ff747a8b48fe443",
-    "totalAnnouncements": 5,
-    "requestCount": 2,
+    "lastUpdated": "2026-06-30T13:41:08.117+05:30",
+    "checksum": "f8cf4d468260e42c497f3dbfe55da28aa8850958d31ffccf80c9d7d1ff85c862",
+    "totalAnnouncements": 9,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-30/awards-115533.json"
+    "rawPayloadPath": "data/raw/2026-06-30/awards-134107.json"
   }
 }
