@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-06-30",
+  "buckets": {
+    "2026-06-30T08": [
+      {
+        "newsId": "968d7306-fd59-412c-b2ba-9077a90ffb8d",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "Press Release - KPIL AWARDED NEW ORDERS OF RS. 2957 CRORES",
+        "announcedAt": "2026-06-30T08:45:31.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2026-06-30T08:45:31.92"
+      }
+    ],
+    "2026-06-30T07": [
+      {
+        "newsId": "9501f846-efc4-4c60-92e4-6aa73d1eb81a",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Receipt of Order.",
+        "announcedAt": "2026-06-30T07:56:38.850+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2026-06-30T07:56:38.85"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-06-30T09:55:06.836+05:30",
+    "checksum": "42257bcd2d718b88fd4ac238371a876155456fb6f80d8ec1b7cf72458f51b9dc",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-06-30/awards-095506.json"
+  }
+}

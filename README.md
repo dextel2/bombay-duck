@@ -18,14 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-29 IST)
+### Today's Awarded Orders (2026-06-30 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-29 14:00 | Diffusion Engineers Ltd | 544264 | Intimation for Receipt of an order of about INR 26.31 Crore (approx) ([Link](https://www.bseindia.com/stock-share-price/diffusion-engineers-ltd/diffnkg/544264/)) | Likely Positive | 29 Jun 2026 - 14:37 |
-| 2026-06-29 11:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of Purchase Order under Reg 30 of SEBI LODR amounting to Rs. 67.42 million from ADANI TOTAL GAS LIMITED (ATGL) ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 29 Jun 2026 - 11:00 |
+| 2026-06-30 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2957 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 30 Jun 2026 - 08:45 |
+| 2026-06-30 07:00 | Waaree Energies Ltd | 544277 | Receipt of Order. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 30 Jun 2026 - 07:56 |
 
-_Last updated: 29 Jun 2026 - 16:04 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-29.json)_
+_Last updated: 30 Jun 2026 - 09:55 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-30.json)_
 
 <!-- snapshot:end -->
 
