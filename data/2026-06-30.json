@@ -22,14 +22,45 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
         "rawTime": "2026-06-30T07:56:38.85"
       }
+    ],
+    "2026-06-30T11": [
+      {
+        "newsId": "01d511d8-06fb-4190-920c-792d0c902024",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-06-30T11:21:43.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-06-30T11:21:43.463"
+      },
+      {
+        "newsId": "630d8df8-c968-4b31-a7af-026d3fe16015",
+        "scripCode": 544158,
+        "shortName": "SRM Contractors Ltd",
+        "headline": "Bagging of Contracts",
+        "announcedAt": "2026-06-30T11:08:39.740+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/",
+        "rawTime": "2026-06-30T11:08:39.74"
+      }
+    ],
+    "2026-06-30T10": [
+      {
+        "newsId": "d84827b0-ae50-489c-833d-d2775c60abd8",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "Ceigall Morena Solar BESS Park Limited, Wholly Owned Subsidiary of Ceigall India Limited have executed Power Purchase Agreement (PPA) with Rewa Ultra Mega Solar Limited on June 29, 2026, ....",
+        "announcedAt": "2026-06-30T10:33:57.723+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-06-30T10:33:57.723"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-30T09:55:06.836+05:30",
-    "checksum": "42257bcd2d718b88fd4ac238371a876155456fb6f80d8ec1b7cf72458f51b9dc",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-06-30T11:55:33.915+05:30",
+    "checksum": "4e48695ef921fde19730f1ba5eedbc8b46ca208427ceab446ff747a8b48fe443",
+    "totalAnnouncements": 5,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-30/awards-095506.json"
+    "rawPayloadPath": "data/raw/2026-06-30/awards-115533.json"
   }
 }

@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-30 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 30 Jun 2026 - 11:21 |
+| 2026-06-30 11:00 | SRM Contractors Ltd | 544158 | Bagging of Contracts ([Link](https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/)) | Likely Positive | 30 Jun 2026 - 11:08 |
+| 2026-06-30 10:00 | Ceigall India Ltd | 544223 | Ceigall Morena Solar BESS Park Limited, Wholly Owned Subsidiary of Ceigall India Limited have executed Power Purchase Agreement (PPA) with Rewa Ultra Mega Solar Limited on June 29, 2026, .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Jun 2026 - 10:33 |
 | 2026-06-30 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2957 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 30 Jun 2026 - 08:45 |
 | 2026-06-30 07:00 | Waaree Energies Ltd | 544277 | Receipt of Order. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 30 Jun 2026 - 07:56 |
 
-_Last updated: 30 Jun 2026 - 09:55 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-06-30.json)_
+_Last updated: 30 Jun 2026 - 11:55 | Entries: 5 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-06-30.json)_
 
 <!-- snapshot:end -->
 
