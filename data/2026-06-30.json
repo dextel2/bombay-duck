@@ -93,14 +93,34 @@
         "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
         "rawTime": "2026-06-30T12:34:33.507"
       }
+    ],
+    "2026-06-30T14": [
+      {
+        "newsId": "f7afc581-aa4e-49cd-8750-aeeec3eddf97",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "Intimation of Order - PGCIL",
+        "announcedAt": "2026-06-30T14:27:37.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-06-30T14:27:37.47"
+      },
+      {
+        "newsId": "5f056079-0c3d-4730-9c93-ba98ccc16f55",
+        "scripCode": 544682,
+        "shortName": "GRE Renew Enertech Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulation, 2015 - Receipt of Letter of Award from Solarium Green Energy Limited",
+        "announcedAt": "2026-06-30T14:00:16.227+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/",
+        "rawTime": "2026-06-30T14:00:16.227"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-06-30T13:41:08.117+05:30",
-    "checksum": "f8cf4d468260e42c497f3dbfe55da28aa8850958d31ffccf80c9d7d1ff85c862",
-    "totalAnnouncements": 9,
-    "requestCount": 3,
+    "lastUpdated": "2026-06-30T15:42:38.828+05:30",
+    "checksum": "970ec79561c7d23caa2c1e675aa2fb2c290ce94925152977650d6fc74df99fd8",
+    "totalAnnouncements": 11,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-06-30/awards-134107.json"
+    "rawPayloadPath": "data/raw/2026-06-30/awards-154238.json"
   }
 }

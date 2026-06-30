@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06-30 14:00 | Transformers and Rectifiers (India) Ltd | 532928 | Intimation of Order - PGCIL ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 30 Jun 2026 - 14:27 |
+| 2026-06-30 14:00 | GRE Renew Enertech Ltd | 544682 | Intimation under Regulation 30 of SEBI (LODR) Regulation, 2015 - Receipt of Letter of Award from Solarium Green Energy Limited ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 30 Jun 2026 - 14:00 |
 | 2026-06-30 13:00 | Avantel Ltd | 532406 | Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 30 Jun 2026 - 13:30 |
 | 2026-06-30 12:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ("CIL") has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Jun 2026 - 12:54 |
 | 2026-06-30 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that we have received a new contract from Ministry of Defence of value Rs. 5518664.48. For further details, plaese refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 30 Jun 2026 - 12:51 |
@@ -32,7 +34,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-06-30 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2957 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 30 Jun 2026 - 08:45 |
 | 2026-06-30 07:00 | Waaree Energies Ltd | 544277 | Receipt of Order. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 30 Jun 2026 - 07:56 |
 
-_Last updated: 30 Jun 2026 - 13:41 | Entries: 9 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-06-30.json)_
+_Last updated: 30 Jun 2026 - 15:42 | Entries: 11 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-30.json)_
 
 <!-- snapshot:end -->
 
