@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-07-01T11:11:20.53"
       }
+    ],
+    "2026-07-01T13": [
+      {
+        "newsId": "8c9cfe95-9a53-4844-bee2-a39d5eacff99",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services has entered into an agreement with Hindustan Petroleum Corporation Limited.",
+        "announcedAt": "2026-07-01T13:25:58.527+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-07-01T13:25:58.527"
+      },
+      {
+        "newsId": "1cf00f54-24e6-4cc2-9b43-6f65054a61b5",
+        "scripCode": 544313,
+        "shortName": "NACDAC Infrastructure Ltd",
+        "headline": "Order received for an amount 6.22 Crore",
+        "announcedAt": "2026-07-01T13:10:39.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nacdac-infrastructure-ltd/nacdac/544313/",
+        "rawTime": "2026-07-01T13:10:39.98"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-01T12:00:09.921+05:30",
-    "checksum": "fb87f543287096f0176681446661e991221a3a0077837790e7ab34d7362cd5d5",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-01T13:54:08.186+05:30",
+    "checksum": "f16c2feaa7b65ec15047770c2824217da1bf49c432197b351953c1deeedc2ea5",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-01/awards-120009.json"
+    "rawPayloadPath": "data/raw/2026-07-01/awards-135407.json"
   }
 }
