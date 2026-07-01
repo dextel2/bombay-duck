@@ -53,14 +53,25 @@
         "url": "https://www.bseindia.com/stock-share-price/nacdac-infrastructure-ltd/nacdac/544313/",
         "rawTime": "2026-07-01T13:10:39.98"
       }
+    ],
+    "2026-07-01T15": [
+      {
+        "newsId": "29c0cca9-7998-4fb7-b0f9-c4321d440adc",
+        "scripCode": 523449,
+        "shortName": "Sharp India Ltd",
+        "headline": "Intimation under Reg 30 of SEBI Listing regulation, 2015 for receiving of order.",
+        "announcedAt": "2026-07-01T15:47:33.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharp-india-ltd/sharp/523449/",
+        "rawTime": "2026-07-01T15:47:33.713"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-01T13:54:08.186+05:30",
-    "checksum": "f16c2feaa7b65ec15047770c2824217da1bf49c432197b351953c1deeedc2ea5",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-07-01T15:50:45.023+05:30",
+    "checksum": "ff10d05a0f6965078d7431edf1e204f1df047759a2cb3221c7ac012b14aedfa5",
+    "totalAnnouncements": 6,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-01/awards-135407.json"
+    "rawPayloadPath": "data/raw/2026-07-01/awards-155044.json"
   }
 }
