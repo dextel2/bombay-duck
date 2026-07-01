@@ -18,23 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-06-30 IST)
+### Today's Awarded Orders (2026-07-01 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-30 14:00 | Transformers and Rectifiers (India) Ltd | 532928 | Intimation of Order - PGCIL ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 30 Jun 2026 - 14:27 |
-| 2026-06-30 14:00 | GRE Renew Enertech Ltd | 544682 | Intimation under Regulation 30 of SEBI (LODR) Regulation, 2015 - Receipt of Letter of Award from Solarium Green Energy Limited ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 30 Jun 2026 - 14:00 |
-| 2026-06-30 13:00 | Avantel Ltd | 532406 | Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 30 Jun 2026 - 13:30 |
-| 2026-06-30 12:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Ceigall India Limited ("CIL") has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Jun 2026 - 12:54 |
-| 2026-06-30 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that we have received a new contract from Ministry of Defence of value Rs. 5518664.48. For further details, plaese refer attached file ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 30 Jun 2026 - 12:51 |
-| 2026-06-30 12:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with APAC Financial Services Private Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 30 Jun 2026 - 12:34 |
-| 2026-06-30 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 30 Jun 2026 - 11:21 |
-| 2026-06-30 11:00 | SRM Contractors Ltd | 544158 | Bagging of Contracts ([Link](https://www.bseindia.com/stock-share-price/srm-contractors-ltd/srm/544158/)) | Likely Positive | 30 Jun 2026 - 11:08 |
-| 2026-06-30 10:00 | Ceigall India Ltd | 544223 | Ceigall Morena Solar BESS Park Limited, Wholly Owned Subsidiary of Ceigall India Limited have executed Power Purchase Agreement (PPA) with Rewa Ultra Mega Solar Limited on June 29, 2026, .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Jun 2026 - 10:33 |
-| 2026-06-30 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL AWARDED NEW ORDERS OF RS. 2957 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 30 Jun 2026 - 08:45 |
-| 2026-06-30 07:00 | Waaree Energies Ltd | 544277 | Receipt of Order. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 30 Jun 2026 - 07:56 |
+| 2026-07-01 08:00 | VA Tech Wabag Ltd | 533269 | WABAG wins ''Large'' Order towards expansion of the Donauinsel Water Works in Veinna, Austria. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 01 Jul 2026 - 08:29 |
+| 2026-07-01 00:00 | RITES Ltd | 541556 | Intimation regarding Major Order secured ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 01 Jul 2026 - 00:02 |
 
-_Last updated: 30 Jun 2026 - 15:42 | Entries: 11 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-06-30.json)_
+_Last updated: 01 Jul 2026 - 10:00 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-01.json)_
 
 <!-- snapshot:end -->
 

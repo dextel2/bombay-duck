@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-07-01",
+  "buckets": {
+    "2026-07-01T08": [
+      {
+        "newsId": "199efa3c-a70c-45b3-b787-0c35e3481cf2",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG wins ''Large'' Order towards expansion of the Donauinsel Water Works in Veinna, Austria.",
+        "announcedAt": "2026-07-01T08:29:42.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-07-01T08:29:42.66"
+      }
+    ],
+    "2026-07-01T00": [
+      {
+        "newsId": "516ee0bc-44c7-486c-a277-f969a01c4e1f",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Intimation regarding Major Order secured",
+        "announcedAt": "2026-07-01T00:02:54.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2026-07-01T00:02:54.54"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-01T10:00:39.676+05:30",
+    "checksum": "eaf366296797ccab63a080a2cd1fb5c6ee763b9f5170517519cfefadc6e2bcc3",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-01/awards-100038.json"
+  }
+}
