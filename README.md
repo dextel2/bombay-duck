@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-01 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 81,65,600 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 01 Jul 2026 - 11:11 |
 | 2026-07-01 08:00 | VA Tech Wabag Ltd | 533269 | WABAG wins ''Large'' Order towards expansion of the Donauinsel Water Works in Veinna, Austria. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 01 Jul 2026 - 08:29 |
 | 2026-07-01 00:00 | RITES Ltd | 541556 | Intimation regarding Major Order secured ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 01 Jul 2026 - 00:02 |
 
-_Last updated: 01 Jul 2026 - 10:00 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-01.json)_
+_Last updated: 01 Jul 2026 - 12:00 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-01.json)_
 
 <!-- snapshot:end -->
 

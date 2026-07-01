@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
         "rawTime": "2026-07-01T00:02:54.54"
       }
+    ],
+    "2026-07-01T11": [
+      {
+        "newsId": "3d07e122-bd9a-4337-8ff6-344a7164fde4",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 81,65,600 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-07-01T11:11:20.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-01T11:11:20.53"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-01T10:00:39.676+05:30",
-    "checksum": "eaf366296797ccab63a080a2cd1fb5c6ee763b9f5170517519cfefadc6e2bcc3",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-01T12:00:09.921+05:30",
+    "checksum": "fb87f543287096f0176681446661e991221a3a0077837790e7ab34d7362cd5d5",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-01/awards-100038.json"
+    "rawPayloadPath": "data/raw/2026-07-01/awards-120009.json"
   }
 }
