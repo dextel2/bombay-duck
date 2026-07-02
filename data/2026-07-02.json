@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-02",
+  "buckets": {
+    "2026-07-02T09": [
+      {
+        "newsId": "a6de1076-4b07-4380-a7f0-0c395209bceb",
+        "scripCode": 544525,
+        "shortName": "GK Energy Ltd",
+        "headline": "GK Energy Limited has informed the Exchange that Company has received an allotment of 10 MW of Rooftop Solar Projects.",
+        "announcedAt": "2026-07-02T09:32:00.787+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
+        "rawTime": "2026-07-02T09:32:00.787"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-02T09:53:38.967+05:30",
+    "checksum": "128974878f09a4ccac97067d0b8395998015f796edf39c56a1462db04b13071e",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-02/awards-095338.json"
+  }
+}

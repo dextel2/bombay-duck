@@ -18,18 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-01 IST)
+### Today's Awarded Orders (2026-07-02 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-01 15:00 | Sharp India Ltd | 523449 | Intimation under Reg 30 of SEBI Listing regulation, 2015 for receiving of order. ([Link](https://www.bseindia.com/stock-share-price/sharp-india-ltd/sharp/523449/)) | Likely Positive | 01 Jul 2026 - 15:47 |
-| 2026-07-01 13:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of the SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services has entered into an agreement with Hindustan Petroleum Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 01 Jul 2026 - 13:25 |
-| 2026-07-01 13:00 | NACDAC Infrastructure Ltd | 544313 | Order received for an amount 6.22 Crore ([Link](https://www.bseindia.com/stock-share-price/nacdac-infrastructure-ltd/nacdac/544313/)) | Likely Positive | 01 Jul 2026 - 13:10 |
-| 2026-07-01 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 81,65,600 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 01 Jul 2026 - 11:11 |
-| 2026-07-01 08:00 | VA Tech Wabag Ltd | 533269 | WABAG wins ''Large'' Order towards expansion of the Donauinsel Water Works in Veinna, Austria. ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 01 Jul 2026 - 08:29 |
-| 2026-07-01 00:00 | RITES Ltd | 541556 | Intimation regarding Major Order secured ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 01 Jul 2026 - 00:02 |
+| 2026-07-02 09:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the Exchange that Company has received an allotment of 10 MW of Rooftop Solar Projects. ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 02 Jul 2026 - 09:32 |
 
-_Last updated: 01 Jul 2026 - 15:50 | Entries: 6 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-01.json)_
+_Last updated: 02 Jul 2026 - 09:53 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-02.json)_
 
 <!-- snapshot:end -->
 
