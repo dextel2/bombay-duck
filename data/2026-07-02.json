@@ -11,14 +11,72 @@
         "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
         "rawTime": "2026-07-02T09:32:00.787"
       }
+    ],
+    "2026-07-02T13": [
+      {
+        "newsId": "9a111f2e-77d8-498c-a902-934ebd1594a1",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 92,11,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-02T13:30:16.497+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-02T13:30:16.497"
+      },
+      {
+        "newsId": "610a5353-d210-4cac-9065-a75a873f3dea",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 2,29,68,700 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-02T13:25:38.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-02T13:25:38.217"
+      },
+      {
+        "newsId": "166c50ce-a381-4f2b-a226-70cef70c422a",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 97,70,400 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-02T13:19:00.687+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-02T13:19:00.687"
+      },
+      {
+        "newsId": "bef2bb33-bd75-4623-ad31-c1362e548daa",
+        "scripCode": 539876,
+        "shortName": "Crompton Greaves Consumer Electricals Ltd",
+        "headline": "Intimation of receipt of award",
+        "announcedAt": "2026-07-02T13:07:43.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/",
+        "rawTime": "2026-07-02T13:07:43.71"
+      }
+    ],
+    "2026-07-02T11": [
+      {
+        "newsId": "3849a023-5b2a-494d-b897-f416e3994888",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of order from vedanta",
+        "announcedAt": "2026-07-02T11:32:52.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-07-02T11:32:52.797"
+      },
+      {
+        "newsId": "e4ffe704-273b-42db-830b-52c585ca0000",
+        "scripCode": 540519,
+        "shortName": "Meera Industries Ltd",
+        "headline": "MEERA Industries Limited Secures Domestic Order Worth Rs 7.95 Crore from DNB Textiles, Surat, for High speed BSY Yarn Twisting & Cop Winding Line.",
+        "announcedAt": "2026-07-02T11:20:47.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/",
+        "rawTime": "2026-07-02T11:20:47.797"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-02T09:53:38.967+05:30",
-    "checksum": "128974878f09a4ccac97067d0b8395998015f796edf39c56a1462db04b13071e",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-02T13:38:43.859+05:30",
+    "checksum": "15185e3849bd1373c4102dd7dba2a5734ed45bf526f663018c0d6d6271afb57d",
+    "totalAnnouncements": 7,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-02/awards-095338.json"
+    "rawPayloadPath": "data/raw/2026-07-02/awards-133843.json"
   }
 }

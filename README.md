@@ -22,9 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-02 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 92,11,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 02 Jul 2026 - 13:30 |
+| 2026-07-02 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,29,68,700 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 02 Jul 2026 - 13:25 |
+| 2026-07-02 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 97,70,400 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 02 Jul 2026 - 13:19 |
+| 2026-07-02 13:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Intimation of receipt of award ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 02 Jul 2026 - 13:07 |
+| 2026-07-02 11:00 | United Drilling Tools Ltd | 522014 | Award of order from vedanta ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 02 Jul 2026 - 11:32 |
+| 2026-07-02 11:00 | Meera Industries Ltd | 540519 | MEERA Industries Limited Secures Domestic Order Worth Rs 7.95 Crore from DNB Textiles, Surat, for High speed BSY Yarn Twisting & Cop Winding Line. ([Link](https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/)) | Likely Positive | 02 Jul 2026 - 11:20 |
 | 2026-07-02 09:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the Exchange that Company has received an allotment of 10 MW of Rooftop Solar Projects. ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 02 Jul 2026 - 09:32 |
 
-_Last updated: 02 Jul 2026 - 09:53 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-02.json)_
+_Last updated: 02 Jul 2026 - 13:38 | Entries: 7 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-02.json)_
 
 <!-- snapshot:end -->
 
