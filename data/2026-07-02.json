@@ -69,14 +69,45 @@
         "url": "https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/",
         "rawTime": "2026-07-02T11:20:47.797"
       }
+    ],
+    "2026-07-02T16": [
+      {
+        "newsId": "871522c3-9f23-425f-b879-ca417510a5a7",
+        "scripCode": 542725,
+        "shortName": "SBC Exports Ltd",
+        "headline": "Extension of Existing order recieved from (MPMMC)(BHU) amounting aprox 32 crores.",
+        "announcedAt": "2026-07-02T16:01:42.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/",
+        "rawTime": "2026-07-02T16:01:42.963"
+      }
+    ],
+    "2026-07-02T15": [
+      {
+        "newsId": "8d80f221-9f9a-4126-bc16-9d4d886f9bf1",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Receiving of Order of Value Rs.1.21 Crores",
+        "announcedAt": "2026-07-02T15:44:45.177+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-07-02T15:44:45.177"
+      },
+      {
+        "newsId": "8b2d406e-8ba4-4835-bea7-76925379aa8b",
+        "scripCode": 531297,
+        "shortName": "Artefact Projects Ltd",
+        "headline": "LETTER OF AWARD",
+        "announcedAt": "2026-07-02T15:22:36.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
+        "rawTime": "2026-07-02T15:22:36.173"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-02T13:38:43.859+05:30",
-    "checksum": "15185e3849bd1373c4102dd7dba2a5734ed45bf526f663018c0d6d6271afb57d",
-    "totalAnnouncements": 7,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-02T16:57:35.018+05:30",
+    "checksum": "ceffc5c93e6590d2231b30a8f4c49af7860ac91152e63c667d4b3c0ae70c68a5",
+    "totalAnnouncements": 10,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-02/awards-133843.json"
+    "rawPayloadPath": "data/raw/2026-07-02/awards-165734.json"
   }
 }
