@@ -18,22 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-02 IST)
+### Today's Awarded Orders (2026-07-03 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-02 16:00 | SBC Exports Ltd | 542725 | Extension of Existing order recieved from (MPMMC)(BHU) amounting aprox 32 crores. ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 02 Jul 2026 - 16:01 |
-| 2026-07-02 15:00 | Airfloa Rail Technology Ltd | 544516 | Receiving of Order of Value Rs.1.21 Crores ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 02 Jul 2026 - 15:44 |
-| 2026-07-02 15:00 | Artefact Projects Ltd | 531297 | LETTER OF AWARD ([Link](https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/)) | Neutral | 02 Jul 2026 - 15:22 |
-| 2026-07-02 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 92,11,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 02 Jul 2026 - 13:30 |
-| 2026-07-02 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,29,68,700 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 02 Jul 2026 - 13:25 |
-| 2026-07-02 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 97,70,400 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 02 Jul 2026 - 13:19 |
-| 2026-07-02 13:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Intimation of receipt of award ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 02 Jul 2026 - 13:07 |
-| 2026-07-02 11:00 | United Drilling Tools Ltd | 522014 | Award of order from vedanta ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 02 Jul 2026 - 11:32 |
-| 2026-07-02 11:00 | Meera Industries Ltd | 540519 | MEERA Industries Limited Secures Domestic Order Worth Rs 7.95 Crore from DNB Textiles, Surat, for High speed BSY Yarn Twisting & Cop Winding Line. ([Link](https://www.bseindia.com/stock-share-price/meera-industries-ltd/meera/540519/)) | Likely Positive | 02 Jul 2026 - 11:20 |
-| 2026-07-02 09:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the Exchange that Company has received an allotment of 10 MW of Rooftop Solar Projects. ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 02 Jul 2026 - 09:32 |
+| 2026-07-03 11:00 | Quality Power Electrical Equipments Ltd | 544367 | Intimation of Receipt of Significant Order by Material subsidiary for FACTS Equipment Supply in Japan ([Link](https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/)) | Likely Positive | 03 Jul 2026 - 11:42 |
+| 2026-07-03 11:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 03 Jul 2026 - 11:15 |
+| 2026-07-03 09:00 | Bluspring Enterprises Ltd | 544414 | Intimation of Bagging/ Receiving of order/ Contracts ([Link](https://www.bseindia.com/stock-share-price/bluspring-enterprises-ltd/bluspring/544414/)) | Likely Positive | 03 Jul 2026 - 09:36 |
+| 2026-07-03 07:00 | HCL Technologies Ltd | 532281 | Enclosed please find an intimation by the Company under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281/)) | Neutral | 03 Jul 2026 - 07:36 |
 
-_Last updated: 02 Jul 2026 - 16:57 | Entries: 10 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-02.json)_
+_Last updated: 03 Jul 2026 - 11:54 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-03.json)_
 
 <!-- snapshot:end -->
 

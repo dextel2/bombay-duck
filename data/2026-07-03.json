@@ -1,0 +1,55 @@
+{
+  "tradingDate": "2026-07-03",
+  "buckets": {
+    "2026-07-03T11": [
+      {
+        "newsId": "760baca4-8286-4212-be9a-d5d0413fd896",
+        "scripCode": 544367,
+        "shortName": "Quality Power Electrical Equipments Ltd",
+        "headline": "Intimation of Receipt of Significant Order by Material subsidiary for FACTS Equipment Supply in Japan",
+        "announcedAt": "2026-07-03T11:42:42.477+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/",
+        "rawTime": "2026-07-03T11:42:42.477"
+      },
+      {
+        "newsId": "91d63909-4978-4983-acff-3ce621f991d9",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+        "announcedAt": "2026-07-03T11:15:35.547+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-07-03T11:15:35.547"
+      }
+    ],
+    "2026-07-03T09": [
+      {
+        "newsId": "3dcc0dfe-0465-40e8-b3b9-e199e63d9ca2",
+        "scripCode": 544414,
+        "shortName": "Bluspring Enterprises Ltd",
+        "headline": "Intimation of Bagging/ Receiving of order/ Contracts",
+        "announcedAt": "2026-07-03T09:36:32.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bluspring-enterprises-ltd/bluspring/544414/",
+        "rawTime": "2026-07-03T09:36:32.92"
+      }
+    ],
+    "2026-07-03T07": [
+      {
+        "newsId": "69b7f5be-2d70-4aaf-b3f4-ef856404d62e",
+        "scripCode": 532281,
+        "shortName": "HCL Technologies Ltd",
+        "headline": "Enclosed please find an intimation by the Company under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+        "announcedAt": "2026-07-03T07:36:15.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281/",
+        "rawTime": "2026-07-03T07:36:15.71"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-03T11:54:25.472+05:30",
+    "checksum": "b90cc07a745f22dfb7d298a6d47c2753f5ae86f4c14387ace74da4c8696f4dfe",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-03/awards-115424.json"
+  }
+}
