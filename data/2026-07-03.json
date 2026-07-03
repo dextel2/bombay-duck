@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281/",
         "rawTime": "2026-07-03T07:36:15.71"
       }
+    ],
+    "2026-07-03T12": [
+      {
+        "newsId": "34c773eb-5ec8-4e25-90f1-a24d9edcbd0b",
+        "scripCode": 517467,
+        "shortName": "Marsons Ltd",
+        "headline": "We would like to inform you that our company has received a purchase order from S. T. Electricals Pvt. Ltd. for supply of 10 MVA Power Transformers.",
+        "announcedAt": "2026-07-03T12:45:34.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+        "rawTime": "2026-07-03T12:45:34.18"
+      },
+      {
+        "newsId": "92a29bf3-a6fd-4b85-ba6d-a865f9f0caad",
+        "scripCode": 504741,
+        "shortName": "Indian Hume Pipe Company Ltd",
+        "headline": "The Company has received letter of Acceptance (LOA) with order value of Rs.738.61 Crores as per attached letter.",
+        "announcedAt": "2026-07-03T12:43:21.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indian-hume-pipe-company-ltd/indianhume/504741/",
+        "rawTime": "2026-07-03T12:43:21.583"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-03T11:54:25.472+05:30",
-    "checksum": "b90cc07a745f22dfb7d298a6d47c2753f5ae86f4c14387ace74da4c8696f4dfe",
-    "totalAnnouncements": 4,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-03T15:21:44.945+05:30",
+    "checksum": "ecd436dd26f147b48567f5dffbcdb3595bfd8093a47cbd93c487fed5de7e452f",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-03/awards-115424.json"
+    "rawPayloadPath": "data/raw/2026-07-03/awards-152144.json"
   }
 }
