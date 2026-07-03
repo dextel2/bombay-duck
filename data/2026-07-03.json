@@ -62,14 +62,54 @@
         "url": "https://www.bseindia.com/stock-share-price/indian-hume-pipe-company-ltd/indianhume/504741/",
         "rawTime": "2026-07-03T12:43:21.583"
       }
+    ],
+    "2026-07-03T16": [
+      {
+        "newsId": "c233c6f1-047d-4445-9a16-bd7c0db283c0",
+        "scripCode": 544290,
+        "shortName": "Enviro Infra Engineers Ltd",
+        "headline": "Receipt of Order worth Rs. 126.78 Crores.",
+        "announcedAt": "2026-07-03T16:59:52.113+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/",
+        "rawTime": "2026-07-03T16:59:52.113"
+      },
+      {
+        "newsId": "12d661a2-b3dc-47db-ac3f-4a6000c5a4d6",
+        "scripCode": 544290,
+        "shortName": "Enviro Infra Engineers Ltd",
+        "headline": "Receipt of Order worth Rs. 130.14 Crores",
+        "announcedAt": "2026-07-03T16:50:06.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/",
+        "rawTime": "2026-07-03T16:50:06.767"
+      },
+      {
+        "newsId": "da9b5133-70a8-4934-bd5a-3d7032c4109c",
+        "scripCode": 530929,
+        "shortName": "RRP Defense Ltd",
+        "headline": "Please find attached intimation regarding purchase order received from Bharat Electronics Limited (BEL), Machilipatnam Unit.",
+        "announcedAt": "2026-07-03T16:15:27.837+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rrp-defense-ltd/rrpdefense/530929/",
+        "rawTime": "2026-07-03T16:15:27.837"
+      }
+    ],
+    "2026-07-03T15": [
+      {
+        "newsId": "205b116a-143e-4963-b363-f22b2ec5aa9b",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-07-03T15:49:58.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-07-03T15:49:58.367"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-03T15:21:44.945+05:30",
-    "checksum": "ecd436dd26f147b48567f5dffbcdb3595bfd8093a47cbd93c487fed5de7e452f",
-    "totalAnnouncements": 6,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-03T17:33:04.593+05:30",
+    "checksum": "6ef34dbb7458a024697311d128d624d0c011f3567c5510f78871b51486e3c2ce",
+    "totalAnnouncements": 10,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-03/awards-152144.json"
+    "rawPayloadPath": "data/raw/2026-07-03/awards-173303.json"
   }
 }

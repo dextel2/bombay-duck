@@ -22,6 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-03 16:00 | Enviro Infra Engineers Ltd | 544290 | Receipt of Order worth Rs. 126.78 Crores. ([Link](https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/)) | Likely Positive | 03 Jul 2026 - 16:59 |
+| 2026-07-03 16:00 | Enviro Infra Engineers Ltd | 544290 | Receipt of Order worth Rs. 130.14 Crores ([Link](https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/)) | Likely Positive | 03 Jul 2026 - 16:50 |
+| 2026-07-03 16:00 | RRP Defense Ltd | 530929 | Please find attached intimation regarding purchase order received from Bharat Electronics Limited (BEL), Machilipatnam Unit. ([Link](https://www.bseindia.com/stock-share-price/rrp-defense-ltd/rrpdefense/530929/)) | Likely Positive | 03 Jul 2026 - 16:15 |
+| 2026-07-03 15:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 03 Jul 2026 - 15:49 |
 | 2026-07-03 12:00 | Marsons Ltd | 517467 | We would like to inform you that our company has received a purchase order from S. T. Electricals Pvt. Ltd. for supply of 10 MVA Power Transformers. ([Link](https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/)) | Likely Positive | 03 Jul 2026 - 12:45 |
 | 2026-07-03 12:00 | Indian Hume Pipe Company Ltd | 504741 | The Company has received letter of Acceptance (LOA) with order value of Rs.738.61 Crores as per attached letter. ([Link](https://www.bseindia.com/stock-share-price/indian-hume-pipe-company-ltd/indianhume/504741/)) | Likely Positive | 03 Jul 2026 - 12:43 |
 | 2026-07-03 11:00 | Quality Power Electrical Equipments Ltd | 544367 | Intimation of Receipt of Significant Order by Material subsidiary for FACTS Equipment Supply in Japan ([Link](https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/)) | Likely Positive | 03 Jul 2026 - 11:42 |
@@ -29,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-03 09:00 | Bluspring Enterprises Ltd | 544414 | Intimation of Bagging/ Receiving of order/ Contracts ([Link](https://www.bseindia.com/stock-share-price/bluspring-enterprises-ltd/bluspring/544414/)) | Likely Positive | 03 Jul 2026 - 09:36 |
 | 2026-07-03 07:00 | HCL Technologies Ltd | 532281 | Enclosed please find an intimation by the Company under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281/)) | Neutral | 03 Jul 2026 - 07:36 |
 
-_Last updated: 03 Jul 2026 - 15:21 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-03.json)_
+_Last updated: 03 Jul 2026 - 17:33 | Entries: 10 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-03.json)_
 
 <!-- snapshot:end -->
 
