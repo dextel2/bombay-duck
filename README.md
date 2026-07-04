@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-04 14:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Company has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 15,000 Off-Grid Solar Photovoltaic Water Pumping .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 04 Jul 2026 - 14:51 |
 | 2026-07-04 11:00 | Hindustan Tin Works Ltd-$ | 530315 | Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Excise & Taxation Officer-cum-Assessing Authority, (W-05) Sonipat. ([Link](https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/)) | Likely Positive | 04 Jul 2026 - 11:45 |
 | 2026-07-04 10:00 | Globe Civil Projects Ltd | 544424 | The Company has received a Letter of Acceptance from the Central University of Punjab for providing and fixing FRP Screens in the University. ([Link](https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/)) | Neutral | 04 Jul 2026 - 10:56 |
 
-_Last updated: 04 Jul 2026 - 14:45 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-04.json)_
+_Last updated: 04 Jul 2026 - 16:50 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-04.json)_
 
 <!-- snapshot:end -->
 

@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/",
         "rawTime": "2026-07-04T11:45:09.257"
       }
+    ],
+    "2026-07-04T14": [
+      {
+        "newsId": "4b1b29ce-5552-40de-96c0-fb6d2204f980",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We are glad to inform that Company has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 15,000 Off-Grid Solar Photovoltaic Water Pumping ....",
+        "announcedAt": "2026-07-04T14:51:26.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-07-04T14:51:26.16"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-04T14:45:49.387+05:30",
-    "checksum": "18a9a1538ad08e75c6e1da705ddc2e7d57cb96d8525d1dbeec389d2a33e3e914",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-04T16:50:21.187+05:30",
+    "checksum": "b390160f27a58a2fa0864a6174512c53585e740fc111e40d984ad7108032330b",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-04/awards-144548.json"
+    "rawPayloadPath": "data/raw/2026-07-04/awards-165020.json"
   }
 }
