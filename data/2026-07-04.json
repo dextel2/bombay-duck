@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-04",
+  "buckets": {
+    "2026-07-04T10": [
+      {
+        "newsId": "40746a86-6746-470c-b257-fe67d861c9bc",
+        "scripCode": 544424,
+        "shortName": "Globe Civil Projects Ltd",
+        "headline": "The Company has received a Letter of Acceptance from the Central University of Punjab for providing and fixing FRP Screens in the University.",
+        "announcedAt": "2026-07-04T10:56:52.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/",
+        "rawTime": "2026-07-04T10:56:52.037"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-04T11:43:08.806+05:30",
+    "checksum": "cd9289fcaa00f32b319d3afc7ca3f9b2e0f2055e43b24fecfa07865ce510c7fa",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-04/awards-114308.json"
+  }
+}
