@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/",
         "rawTime": "2026-07-04T10:56:52.037"
       }
+    ],
+    "2026-07-04T11": [
+      {
+        "newsId": "6a077eff-81c7-4e52-b5df-110d73ac6d8c",
+        "scripCode": 530315,
+        "shortName": "Hindustan Tin Works Ltd-$",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Excise & Taxation Officer-cum-Assessing Authority, (W-05) Sonipat.",
+        "announcedAt": "2026-07-04T11:45:09.257+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hindustan-tin-works-ltd/hindtin/530315/",
+        "rawTime": "2026-07-04T11:45:09.257"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-04T11:43:08.806+05:30",
-    "checksum": "cd9289fcaa00f32b319d3afc7ca3f9b2e0f2055e43b24fecfa07865ce510c7fa",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-04T14:45:49.387+05:30",
+    "checksum": "18a9a1538ad08e75c6e1da705ddc2e7d57cb96d8525d1dbeec389d2a33e3e914",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-04/awards-114308.json"
+    "rawPayloadPath": "data/raw/2026-07-04/awards-144548.json"
   }
 }
