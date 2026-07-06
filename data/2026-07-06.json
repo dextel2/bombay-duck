@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-07-06",
+  "buckets": {
+    "2026-07-06T12": [
+      {
+        "newsId": "fc213f2f-c9fe-4b58-8904-93bb2b9d2131",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order amount worth Rs. 101.92 crore for site at Commercial Building, Splendor ONYX, Sector - 142, Noida - 201305, Uttar Pradesh, India.",
+        "announcedAt": "2026-07-06T12:27:04.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-07-06T12:27:04.18"
+      }
+    ],
+    "2026-07-06T09": [
+      {
+        "newsId": "d0d20850-bb0c-43aa-a185-69b7504df881",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Receipt of Letter of Acceptance by Provigil Surveillance Limited",
+        "announcedAt": "2026-07-06T09:43:42.710+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-07-06T09:43:42.71"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-06T12:34:28.374+05:30",
+    "checksum": "3e8716165b4baadabfd8381ef12b18cd9f3c178b4d1ff043f8216bb6c3ceda00",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-06/awards-123427.json"
+  }
+}

@@ -18,11 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-05 IST)
+### Today's Awarded Orders (2026-07-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-07-06 12:00 | Faalcon Concepts Ltd | 544164 | Received new work order amount worth Rs. 101.92 crore for site at Commercial Building, Splendor ONYX, Sector - 142, Noida - 201305, Uttar Pradesh, India. ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 06 Jul 2026 - 12:27 |
+| 2026-07-06 09:00 | Magellanic Cloud Ltd | 538891 | Receipt of Letter of Acceptance by Provigil Surveillance Limited ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 06 Jul 2026 - 09:43 |
 
-_Last updated: 05 Jul 2026 - 16:54 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-05.json)_
+_Last updated: 06 Jul 2026 - 12:34 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-06.json)_
 
 <!-- snapshot:end -->
 
