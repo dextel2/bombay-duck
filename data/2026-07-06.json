@@ -3,6 +3,15 @@
   "buckets": {
     "2026-07-06T12": [
       {
+        "newsId": "cf245d49-7dc7-43bd-8cbe-e5aca09c6d3c",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Announcement Related to Receipt of Order",
+        "announcedAt": "2026-07-06T12:35:56.127+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-07-06T12:35:56.127"
+      },
+      {
         "newsId": "fc213f2f-c9fe-4b58-8904-93bb2b9d2131",
         "scripCode": 544164,
         "shortName": "Faalcon Concepts Ltd",
@@ -22,14 +31,65 @@
         "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
         "rawTime": "2026-07-06T09:43:42.71"
       }
+    ],
+    "2026-07-06T17": [
+      {
+        "newsId": "f34f4a9d-71d4-4e87-969a-757ad08a2c2f",
+        "scripCode": 524727,
+        "shortName": "Span Divergent Ltd-$",
+        "headline": "Announcement under Regulation 30 (LODR) Intimation of receipt of Arbitration Award",
+        "announcedAt": "2026-07-06T17:17:52.467+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/span-divergent-ltd/sdl/524727/",
+        "rawTime": "2026-07-06T17:17:52.467"
+      },
+      {
+        "newsId": "de1f4712-7869-42de-8de3-a94f6394b547",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has been awarded a new Work Order from The Central Cooperative Bank Ltd. Bikaner, for Supply of Micro ATMs for Primary Agricultural Credit Societies (PACS), Order Value Rs. 47.38 Lakhs .",
+        "announcedAt": "2026-07-06T17:05:35.593+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-07-06T17:05:35.593"
+      }
+    ],
+    "2026-07-06T16": [
+      {
+        "newsId": "ebb9a2a4-2e20-43fb-9e7d-56a904ac0228",
+        "scripCode": 544677,
+        "shortName": "Defrail Technologies Ltd",
+        "headline": "As per letter Attached.",
+        "announcedAt": "2026-07-06T16:21:36.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/defrail-technologies-ltd/defrail/544677/",
+        "rawTime": "2026-07-06T16:21:36.43"
+      }
+    ],
+    "2026-07-06T14": [
+      {
+        "newsId": "f18c393a-bbef-4f1d-981b-9f2bb047a13a",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order",
+        "announcedAt": "2026-07-06T14:55:54.307+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-07-06T14:55:54.307"
+      },
+      {
+        "newsId": "25965dbf-13dc-4960-b681-c55673c07306",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 98,41,200 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-06T14:32:21.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-06T14:32:21.88"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-06T12:34:28.374+05:30",
-    "checksum": "3e8716165b4baadabfd8381ef12b18cd9f3c178b4d1ff043f8216bb6c3ceda00",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-06T17:27:18.256+05:30",
+    "checksum": "68ddf21c3288367ce14e53f043fd764d13e8dae0eb79cc4146f1cac54b4ad0d7",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-06/awards-123427.json"
+    "rawPayloadPath": "data/raw/2026-07-06/awards-172717.json"
   }
 }

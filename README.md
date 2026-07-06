@@ -22,10 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-06 17:00 | Span Divergent Ltd-$ | 524727 | Announcement under Regulation 30 (LODR) Intimation of receipt of Arbitration Award ([Link](https://www.bseindia.com/stock-share-price/span-divergent-ltd/sdl/524727/)) | Likely Positive | 06 Jul 2026 - 17:17 |
+| 2026-07-06 17:00 | Atishay Ltd | 538713 | The Company has been awarded a new Work Order from The Central Cooperative Bank Ltd. Bikaner, for Supply of Micro ATMs for Primary Agricultural Credit Societies (PACS), Order Value Rs. 47.38 Lakhs . ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 06 Jul 2026 - 17:05 |
+| 2026-07-06 16:00 | Defrail Technologies Ltd | 544677 | As per letter Attached. ([Link](https://www.bseindia.com/stock-share-price/defrail-technologies-ltd/defrail/544677/)) | Neutral | 06 Jul 2026 - 16:21 |
+| 2026-07-06 14:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 06 Jul 2026 - 14:55 |
+| 2026-07-06 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 98,41,200 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 06 Jul 2026 - 14:32 |
+| 2026-07-06 12:00 | Dev Information Technology Ltd | 543462 | Announcement Related to Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 06 Jul 2026 - 12:35 |
 | 2026-07-06 12:00 | Faalcon Concepts Ltd | 544164 | Received new work order amount worth Rs. 101.92 crore for site at Commercial Building, Splendor ONYX, Sector - 142, Noida - 201305, Uttar Pradesh, India. ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 06 Jul 2026 - 12:27 |
 | 2026-07-06 09:00 | Magellanic Cloud Ltd | 538891 | Receipt of Letter of Acceptance by Provigil Surveillance Limited ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 06 Jul 2026 - 09:43 |
 
-_Last updated: 06 Jul 2026 - 12:34 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-06.json)_
+_Last updated: 06 Jul 2026 - 17:27 | Entries: 8 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-06.json)_
 
 <!-- snapshot:end -->
 
