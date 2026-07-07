@@ -1,0 +1,53 @@
+{
+  "tradingDate": "2026-07-07",
+  "buckets": {
+    "2026-07-07T11": [
+      {
+        "newsId": "d715abed-93c5-4953-b1cf-b440c7710bd7",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of receipt of Letter of Award worth Rs. 70.72 Crores (incl. taxes) from Central Warehousing Corporation",
+        "announcedAt": "2026-07-07T11:52:54.643+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-07-07T11:52:54.643"
+      },
+      {
+        "newsId": "a47b59eb-f25a-4129-92f0-25cca2622bdd",
+        "scripCode": 544189,
+        "shortName": "Sattrix Information Security Ltd",
+        "headline": "Sattrix information security limited has received an significant order from one of the India''s leading public sector banking institution.",
+        "announcedAt": "2026-07-07T11:20:55.317+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/",
+        "rawTime": "2026-07-07T11:20:55.317"
+      },
+      {
+        "newsId": "6f743cb8-7164-4042-8152-28bddf9b3f29",
+        "scripCode": 543288,
+        "shortName": "Deep Industries Ltd",
+        "headline": "Receipt of award",
+        "announcedAt": "2026-07-07T11:18:45.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/",
+        "rawTime": "2026-07-07T11:18:45.53"
+      }
+    ],
+    "2026-07-07T09": [
+      {
+        "newsId": "d88625fa-b164-4422-8f14-55a4655dc03e",
+        "scripCode": 543986,
+        "shortName": "South West Pinnacle Exploration Ltd",
+        "headline": "Announcement for the Extension of CBM contract by Reliance Industries Ltd",
+        "announcedAt": "2026-07-07T09:13:37.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
+        "rawTime": "2026-07-07T09:13:37.683"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-07T12:08:38.094+05:30",
+    "checksum": "38e0f13305593589bdad0e4985e68c30e5e21599f81d076433247f91cd230bab",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-07/awards-120837.json"
+  }
+}
