@@ -22,12 +22,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-07 15:00 | Raunaq International Ltd | 537840 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("the Regulations") we are pleased to inform you that the Company is in Receipt .... ([Link](https://www.bseindia.com/stock-share-price/raunaq-international-ltd/raunaq/537840/)) | Likely Positive | 07 Jul 2026 - 15:01 |
+| 2026-07-07 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 36,95,760 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 07 Jul 2026 - 14:50 |
+| 2026-07-07 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 46,19,700 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 07 Jul 2026 - 14:08 |
+| 2026-07-07 13:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,33,32,466 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 07 Jul 2026 - 13:59 |
+| 2026-07-07 13:00 | Austere Systems Ltd | 544505 | We are pleased to inform you that the company has received a work order from the HDFC Bank Limited for Management Information System (MIS). ([Link](https://www.bseindia.com/stock-share-price/austere-systems-ltd/austere/544505/)) | Likely Positive | 07 Jul 2026 - 13:00 |
 | 2026-07-07 11:00 | Texmaco Rail & Engineering Ltd | 533326 | Intimation of receipt of Letter of Award worth Rs. 70.72 Crores (incl. taxes) from Central Warehousing Corporation ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 07 Jul 2026 - 11:52 |
 | 2026-07-07 11:00 | Sattrix Information Security Ltd | 544189 | Sattrix information security limited has received an significant order from one of the India''s leading public sector banking institution. ([Link](https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/)) | Likely Positive | 07 Jul 2026 - 11:20 |
 | 2026-07-07 11:00 | Deep Industries Ltd | 543288 | Receipt of award ([Link](https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/)) | Likely Positive | 07 Jul 2026 - 11:18 |
 | 2026-07-07 09:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for the Extension of CBM contract by Reliance Industries Ltd ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Likely Positive | 07 Jul 2026 - 09:13 |
 
-_Last updated: 07 Jul 2026 - 12:08 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-07.json)_
+_Last updated: 07 Jul 2026 - 15:49 | Entries: 9 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-07.json)_
 
 <!-- snapshot:end -->
 

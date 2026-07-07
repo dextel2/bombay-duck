@@ -40,14 +40,65 @@
         "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
         "rawTime": "2026-07-07T09:13:37.683"
       }
+    ],
+    "2026-07-07T15": [
+      {
+        "newsId": "c55b0b79-e771-446e-95ca-6125966392a1",
+        "scripCode": 537840,
+        "shortName": "Raunaq International Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"the Regulations\") we are pleased to inform you that the Company is in Receipt ....",
+        "announcedAt": "2026-07-07T15:01:37.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/raunaq-international-ltd/raunaq/537840/",
+        "rawTime": "2026-07-07T15:01:37.677"
+      }
+    ],
+    "2026-07-07T14": [
+      {
+        "newsId": "a763ead6-bd14-4f58-b325-c80025a86df1",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 36,95,760 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-07T14:50:13.923+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-07T14:50:13.923"
+      },
+      {
+        "newsId": "aba9c406-9892-4799-8f36-f9f91c201f39",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 46,19,700 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-07T14:08:06.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-07T14:08:06.84"
+      }
+    ],
+    "2026-07-07T13": [
+      {
+        "newsId": "c0824bf0-ba7b-4d61-a8e9-6413908a2501",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 1,33,32,466 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-07T13:59:41.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-07T13:59:41.887"
+      },
+      {
+        "newsId": "94bd2689-632b-48e9-8c87-878ba17d632e",
+        "scripCode": 544505,
+        "shortName": "Austere Systems Ltd",
+        "headline": "We are pleased to inform you that the company has received a work order from the HDFC Bank Limited for Management Information System (MIS).",
+        "announcedAt": "2026-07-07T13:00:53.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/austere-systems-ltd/austere/544505/",
+        "rawTime": "2026-07-07T13:00:53.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-07T12:08:38.094+05:30",
-    "checksum": "38e0f13305593589bdad0e4985e68c30e5e21599f81d076433247f91cd230bab",
-    "totalAnnouncements": 4,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-07T15:49:27.307+05:30",
+    "checksum": "a3cdc31ba3362a58a3ed13f365e090f79af4cdf45f3b8c41194bf5f60fcca252",
+    "totalAnnouncements": 9,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-07/awards-120837.json"
+    "rawPayloadPath": "data/raw/2026-07-07/awards-154926.json"
   }
 }
