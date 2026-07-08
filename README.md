@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-08 15:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Award of order ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 08 Jul 2026 - 15:15 |
+| 2026-07-08 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 98,41,200 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 08 Jul 2026 - 14:40 |
 | 2026-07-08 13:00 | RMC Switchgears Ltd | 540358 | Recipt oF letter of Award ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Neutral | 08 Jul 2026 - 13:35 |
 | 2026-07-08 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Sushee .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 08 Jul 2026 - 13:05 |
 
-_Last updated: 08 Jul 2026 - 13:42 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-08.json)_
+_Last updated: 08 Jul 2026 - 16:26 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-08.json)_
 
 <!-- snapshot:end -->
 

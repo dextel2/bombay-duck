@@ -20,14 +20,36 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-07-08T13:05:49.36"
       }
+    ],
+    "2026-07-08T15": [
+      {
+        "newsId": "e994ee4b-a6af-405b-9cab-8a568dcbe97b",
+        "scripCode": 539876,
+        "shortName": "Crompton Greaves Consumer Electricals Ltd",
+        "headline": "Award of order",
+        "announcedAt": "2026-07-08T15:15:54.863+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/",
+        "rawTime": "2026-07-08T15:15:54.863"
+      }
+    ],
+    "2026-07-08T14": [
+      {
+        "newsId": "391a5b87-62ed-4f0e-956a-bf92601fb964",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 98,41,200 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-07-08T14:40:27.593+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-08T14:40:27.593"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-08T13:42:47.542+05:30",
-    "checksum": "6f41f0cb2f7304b8df9b13af497fe8df980cbdcf41207791a7b15aa002ea41bd",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-08T16:26:33.335+05:30",
+    "checksum": "a752926b63e127f373c03f856ecc5226b6132bf22f3f0d8a15e7038d4f860e23",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-08/awards-134246.json"
+    "rawPayloadPath": "data/raw/2026-07-08/awards-162632.json"
   }
 }
