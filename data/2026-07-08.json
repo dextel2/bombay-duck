@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-07-08",
-  "buckets": {},
+  "buckets": {
+    "2026-07-08T13": [
+      {
+        "newsId": "0fd7130c-4ab2-4ea0-ae76-5b972d99f4ff",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Recipt oF letter of Award",
+        "announcedAt": "2026-07-08T13:35:18.873+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-07-08T13:35:18.873"
+      },
+      {
+        "newsId": "6e2059e0-46db-4d61-9890-48a73f024d92",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Sushee ....",
+        "announcedAt": "2026-07-08T13:05:49.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-07-08T13:05:49.36"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-07-08T11:13:08.055+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-08T13:42:47.542+05:30",
+    "checksum": "6f41f0cb2f7304b8df9b13af497fe8df980cbdcf41207791a7b15aa002ea41bd",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-08/awards-111307.json"
+    "rawPayloadPath": "data/raw/2026-07-08/awards-134246.json"
   }
 }

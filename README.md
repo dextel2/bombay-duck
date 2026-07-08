@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-07-08 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-07-08 13:00 | RMC Switchgears Ltd | 540358 | Recipt oF letter of Award ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Neutral | 08 Jul 2026 - 13:35 |
+| 2026-07-08 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Sushee .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 08 Jul 2026 - 13:05 |
 
-_Last updated: 08 Jul 2026 - 11:13 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-08.json)_
+_Last updated: 08 Jul 2026 - 13:42 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-08.json)_
 
 <!-- snapshot:end -->
 
