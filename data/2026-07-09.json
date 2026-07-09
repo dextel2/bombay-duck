@@ -31,14 +31,47 @@
         "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
         "rawTime": "2026-07-09T10:27:45.067"
       }
+    ],
+    "2026-07-09T15": [
+      {
+        "newsId": "a64eea6e-e9a4-41f6-9aad-76aa35870d38",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited along with its JV Partner HBMCPL declare as lowest Bidder of an total amount Rs. 137.60 Crores by North east Frontier Railway Construction.",
+        "announcedAt": "2026-07-09T15:00:03.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-07-09T15:00:03.653"
+      }
+    ],
+    "2026-07-09T14": [
+      {
+        "newsId": "d839a04f-fce9-4190-b81e-f5e71f9aabe8",
+        "scripCode": 500074,
+        "shortName": "BPL Ltd",
+        "headline": "Award of Order by NCLT,Kochi",
+        "announcedAt": "2026-07-09T14:37:14.197+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bpl-ltd/bpl/500074/",
+        "rawTime": "2026-07-09T14:37:14.197"
+      }
+    ],
+    "2026-07-09T12": [
+      {
+        "newsId": "9d76272d-0880-4c71-a258-75aaefb73210",
+        "scripCode": 543620,
+        "shortName": "Insolation Energy Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are thrilled to announce that Insolation Green Energy Private Limited, a wholly ....",
+        "announcedAt": "2026-07-09T12:13:21.960+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/",
+        "rawTime": "2026-07-09T12:13:21.96"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-09T12:06:20.651+05:30",
-    "checksum": "a284db8b14c0b6c1f00030cab0109ade0d65ad0ade16899aa09bc7078248eee9",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-09T15:48:56.201+05:30",
+    "checksum": "92fa2c57dee4acf1e8c5344ec469bdb5e7beecc9ea89ca6def84c78e853949b0",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-09/awards-120620.json"
+    "rawPayloadPath": "data/raw/2026-07-09/awards-154855.json"
   }
 }

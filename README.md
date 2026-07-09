@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-09 15:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited along with its JV Partner HBMCPL declare as lowest Bidder of an total amount Rs. 137.60 Crores by North east Frontier Railway Construction. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Jul 2026 - 15:00 |
+| 2026-07-09 14:00 | BPL Ltd | 500074 | Award of Order by NCLT,Kochi ([Link](https://www.bseindia.com/stock-share-price/bpl-ltd/bpl/500074/)) | Likely Positive | 09 Jul 2026 - 14:37 |
+| 2026-07-09 12:00 | Insolation Energy Ltd | 543620 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are thrilled to announce that Insolation Green Energy Private Limited, a wholly .... ([Link](https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/)) | Neutral | 09 Jul 2026 - 12:13 |
 | 2026-07-09 11:00 | United Drilling Tools Ltd | 522014 | Award of repeat order from Trident East ltd, Russia for supply of PUMA connector ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 09 Jul 2026 - 11:59 |
 | 2026-07-09 11:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Acceptance from Paschim Gujarat Vij Company Limited ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 09 Jul 2026 - 11:14 |
 | 2026-07-09 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL) ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 09 Jul 2026 - 10:27 |
 
-_Last updated: 09 Jul 2026 - 12:06 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-09.json)_
+_Last updated: 09 Jul 2026 - 15:48 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-09.json)_
 
 <!-- snapshot:end -->
 
