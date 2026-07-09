@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-07-09",
+  "buckets": {
+    "2026-07-09T11": [
+      {
+        "newsId": "b5301fdf-1638-4742-a9c7-3077a28634b7",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of repeat order from Trident East ltd, Russia for supply of PUMA connector",
+        "announcedAt": "2026-07-09T11:59:15.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-07-09T11:59:15.72"
+      },
+      {
+        "newsId": "1e9225e7-da17-461d-ab8c-7377a676e4fd",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of Letter of Acceptance from Paschim Gujarat Vij Company Limited",
+        "announcedAt": "2026-07-09T11:14:33.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-07-09T11:14:33.057"
+      }
+    ],
+    "2026-07-09T10": [
+      {
+        "newsId": "8144a6c4-92a2-4303-a802-0415c6d821fb",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL)",
+        "announcedAt": "2026-07-09T10:27:45.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-07-09T10:27:45.067"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-09T12:06:20.651+05:30",
+    "checksum": "a284db8b14c0b6c1f00030cab0109ade0d65ad0ade16899aa09bc7078248eee9",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-09/awards-120620.json"
+  }
+}

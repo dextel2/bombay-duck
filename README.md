@@ -18,16 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-08 IST)
+### Today's Awarded Orders (2026-07-09 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-08 15:00 | Crompton Greaves Consumer Electricals Ltd | 539876 | Award of order ([Link](https://www.bseindia.com/stock-share-price/crompton-greaves-consumer-electricals-ltd/crompton/539876/)) | Likely Positive | 08 Jul 2026 - 15:15 |
-| 2026-07-08 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 98,41,200 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 08 Jul 2026 - 14:40 |
-| 2026-07-08 13:00 | RMC Switchgears Ltd | 540358 | Recipt oF letter of Award ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Neutral | 08 Jul 2026 - 13:35 |
-| 2026-07-08 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') jointly with Sushee .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 08 Jul 2026 - 13:05 |
+| 2026-07-09 11:00 | United Drilling Tools Ltd | 522014 | Award of repeat order from Trident East ltd, Russia for supply of PUMA connector ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 09 Jul 2026 - 11:59 |
+| 2026-07-09 11:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Acceptance from Paschim Gujarat Vij Company Limited ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 09 Jul 2026 - 11:14 |
+| 2026-07-09 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL) ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 09 Jul 2026 - 10:27 |
 
-_Last updated: 08 Jul 2026 - 16:26 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-08.json)_
+_Last updated: 09 Jul 2026 - 12:06 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-09.json)_
 
 <!-- snapshot:end -->
 
