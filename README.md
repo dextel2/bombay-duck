@@ -18,18 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-09 IST)
+### Today's Awarded Orders (2026-07-10 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09 15:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited along with its JV Partner HBMCPL declare as lowest Bidder of an total amount Rs. 137.60 Crores by North east Frontier Railway Construction. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 09 Jul 2026 - 15:00 |
-| 2026-07-09 14:00 | BPL Ltd | 500074 | Award of Order by NCLT,Kochi ([Link](https://www.bseindia.com/stock-share-price/bpl-ltd/bpl/500074/)) | Likely Positive | 09 Jul 2026 - 14:37 |
-| 2026-07-09 12:00 | Insolation Energy Ltd | 543620 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are thrilled to announce that Insolation Green Energy Private Limited, a wholly .... ([Link](https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/)) | Neutral | 09 Jul 2026 - 12:13 |
-| 2026-07-09 11:00 | United Drilling Tools Ltd | 522014 | Award of repeat order from Trident East ltd, Russia for supply of PUMA connector ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 09 Jul 2026 - 11:59 |
-| 2026-07-09 11:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Acceptance from Paschim Gujarat Vij Company Limited ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 09 Jul 2026 - 11:14 |
-| 2026-07-09 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL) ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 09 Jul 2026 - 10:27 |
+| 2026-07-10 11:00 | Delhivery Ltd | 543529 | The Company has received an order under GST Act. ([Link](https://www.bseindia.com/stock-share-price/delhivery-ltd/delhivery/543529/)) | Likely Positive | 10 Jul 2026 - 11:49 |
+| 2026-07-10 11:00 | Surya Roshni Ltd | 500336 | Received Export Order from North America amounted to US$2.96 million (INR 28.21 crores) ([Link](https://www.bseindia.com/stock-share-price/surya-roshni-ltd/suryarosni/500336/)) | Likely Positive | 10 Jul 2026 - 11:18 |
+| 2026-07-10 10:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 10 Jul 2026 - 10:28 |
+| 2026-07-10 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 10 Jul 2026 - 09:39 |
+| 2026-07-10 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export order worth ~USD 51.98 million (equivalent to ~INR 495.80 crore), for the supply of optical fiber cable based .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 10 Jul 2026 - 08:34 |
 
-_Last updated: 09 Jul 2026 - 15:48 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-09.json)_
+_Last updated: 10 Jul 2026 - 12:06 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-10.json)_
 
 <!-- snapshot:end -->
 

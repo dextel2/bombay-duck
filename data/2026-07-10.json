@@ -1,0 +1,66 @@
+{
+  "tradingDate": "2026-07-10",
+  "buckets": {
+    "2026-07-10T11": [
+      {
+        "newsId": "87a49901-429e-407f-86d4-d379393a6a46",
+        "scripCode": 543529,
+        "shortName": "Delhivery Ltd",
+        "headline": "The Company has received an order under GST Act.",
+        "announcedAt": "2026-07-10T11:49:56.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/delhivery-ltd/delhivery/543529/",
+        "rawTime": "2026-07-10T11:49:56.26"
+      },
+      {
+        "newsId": "0149c225-7bf1-4b9e-8dcb-966a0677311b",
+        "scripCode": 500336,
+        "shortName": "Surya Roshni Ltd",
+        "headline": "Received Export Order from North America amounted to US$2.96 million (INR 28.21 crores)",
+        "announcedAt": "2026-07-10T11:18:19.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/surya-roshni-ltd/suryarosni/500336/",
+        "rawTime": "2026-07-10T11:18:19.93"
+      }
+    ],
+    "2026-07-10T10": [
+      {
+        "newsId": "61acbb52-9357-4ce7-876d-317f1879b813",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Regulation 30 - Receipt of Purchase Order",
+        "announcedAt": "2026-07-10T10:28:28.620+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-07-10T10:28:28.62"
+      }
+    ],
+    "2026-07-10T09": [
+      {
+        "newsId": "fc0bf4ee-571d-4e65-bcdc-122b45f80447",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-07-10T09:39:53.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-07-10T09:39:53.68"
+      }
+    ],
+    "2026-07-10T08": [
+      {
+        "newsId": "861da757-b06a-47f1-82c3-371809a0a2e5",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "We are pleased to inform all stakeholders that the Company has secured export order worth ~USD 51.98 million (equivalent to ~INR 495.80 crore), for the supply of optical fiber cable based ....",
+        "announcedAt": "2026-07-10T08:34:22.527+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2026-07-10T08:34:22.527"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-10T12:06:32.701+05:30",
+    "checksum": "0e71803e32a0023e8add004eb71b33ccd74c57dd89952492d80da056434e0fc4",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-10/awards-120632.json"
+  }
+}
