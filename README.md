@@ -22,13 +22,21 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-10 13:00 | Advait Energy Transitions Ltd | 543230 | Turnkey contract for conversion of existing 11 kV HT & LT Line network into underground cable network at Adhewada (Akwada)- Bhavnagar Circle under PGVCL(Package-18) ([Link](https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/)) | Likely Positive | 10 Jul 2026 - 13:43 |
+| 2026-07-10 13:00 | Advait Energy Transitions Ltd | 543230 | Turnkey contract for conversion of 11 kV HT & LT Line network into underground cable network at Ranavav - Porbandar Circle under PGVCL (Package -58) ([Link](https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/)) | Likely Positive | 10 Jul 2026 - 13:39 |
+| 2026-07-10 13:00 | Advait Energy Transitions Ltd | 543230 | Turnkey contract for conversion of 11kV HT & LT Line network into underground cable network at Mandvi city - Bhuj Circle under PGVCL(Package-43) ([Link](https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/)) | Likely Positive | 10 Jul 2026 - 13:36 |
+| 2026-07-10 13:00 | Advait Energy Transitions Ltd | 543230 | Turnkey Contract for conversion of existing 11kV HT & LT Line network into underground cable network at udyognagar-porbandar circle under PGVCL(Package 61). ([Link](https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/)) | Likely Positive | 10 Jul 2026 - 13:33 |
+| 2026-07-10 13:00 | 3i Infotech Ltd | 532628 | Please find attached letter that Company''s Subsidiary has received a contract from Krung Thai Bank Public Company Limited, Thailand under Regulation 30 of SEBI Listing Regulations. ([Link](https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/)) | Likely Positive | 10 Jul 2026 - 13:20 |
+| 2026-07-10 12:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulation 2015- Receipt of Significant International Purchase Orders. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 10 Jul 2026 - 12:53 |
+| 2026-07-10 12:00 | Ion Exchange India Ltd-$ | 500214 | ION Exchange (India) Limited has informed the Exchange that the Company has been awarded an international contract by Hyundai Engineering & Construction Co. Ltd. ([Link](https://www.bseindia.com/stock-share-price/ion-exchange-india-ltd/ionexchang/500214/)) | Likely Positive | 10 Jul 2026 - 12:23 |
+| 2026-07-10 12:00 | United Drilling Tools Ltd | 522014 | Award of order from Baker Hughes Singapore ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 10 Jul 2026 - 12:15 |
 | 2026-07-10 11:00 | Delhivery Ltd | 543529 | The Company has received an order under GST Act. ([Link](https://www.bseindia.com/stock-share-price/delhivery-ltd/delhivery/543529/)) | Likely Positive | 10 Jul 2026 - 11:49 |
 | 2026-07-10 11:00 | Surya Roshni Ltd | 500336 | Received Export Order from North America amounted to US$2.96 million (INR 28.21 crores) ([Link](https://www.bseindia.com/stock-share-price/surya-roshni-ltd/suryarosni/500336/)) | Likely Positive | 10 Jul 2026 - 11:18 |
 | 2026-07-10 10:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 10 Jul 2026 - 10:28 |
 | 2026-07-10 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 10 Jul 2026 - 09:39 |
 | 2026-07-10 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export order worth ~USD 51.98 million (equivalent to ~INR 495.80 crore), for the supply of optical fiber cable based .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 10 Jul 2026 - 08:34 |
 
-_Last updated: 10 Jul 2026 - 12:06 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-10.json)_
+_Last updated: 10 Jul 2026 - 15:47 | Entries: 13 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-10.json)_
 
 <!-- snapshot:end -->
 

@@ -53,14 +53,90 @@
         "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
         "rawTime": "2026-07-10T08:34:22.527"
       }
+    ],
+    "2026-07-10T13": [
+      {
+        "newsId": "1dc04fa9-f389-4dd4-be53-daf0f32d46eb",
+        "scripCode": 543230,
+        "shortName": "Advait Energy Transitions Ltd",
+        "headline": "Turnkey contract for conversion of existing 11 kV HT & LT Line network into underground cable network at Adhewada (Akwada)- Bhavnagar Circle under PGVCL(Package-18)",
+        "announcedAt": "2026-07-10T13:43:11.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/",
+        "rawTime": "2026-07-10T13:43:11.68"
+      },
+      {
+        "newsId": "92a6f56b-1f1a-49b1-82d4-302101d39cf3",
+        "scripCode": 543230,
+        "shortName": "Advait Energy Transitions Ltd",
+        "headline": "Turnkey contract for conversion of 11 kV HT & LT Line network into underground cable network at Ranavav - Porbandar Circle under PGVCL (Package -58)",
+        "announcedAt": "2026-07-10T13:39:47.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/",
+        "rawTime": "2026-07-10T13:39:47.73"
+      },
+      {
+        "newsId": "54482261-7192-4a88-9632-62b5250db366",
+        "scripCode": 543230,
+        "shortName": "Advait Energy Transitions Ltd",
+        "headline": "Turnkey contract for conversion of 11kV HT & LT Line network into underground cable network at Mandvi city - Bhuj Circle under PGVCL(Package-43)",
+        "announcedAt": "2026-07-10T13:36:50.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/",
+        "rawTime": "2026-07-10T13:36:50.42"
+      },
+      {
+        "newsId": "de80913c-62ae-49d3-8adb-b26e3898c07b",
+        "scripCode": 543230,
+        "shortName": "Advait Energy Transitions Ltd",
+        "headline": "Turnkey Contract for conversion of existing 11kV HT & LT Line network into underground cable network at udyognagar-porbandar circle under PGVCL(Package 61).",
+        "announcedAt": "2026-07-10T13:33:26.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/",
+        "rawTime": "2026-07-10T13:33:26.26"
+      },
+      {
+        "newsId": "80e2f3ce-f198-49f9-8f8f-b4673b86d822",
+        "scripCode": 532628,
+        "shortName": "3i Infotech Ltd",
+        "headline": "Please find attached letter that Company''s Subsidiary has received a contract from Krung Thai Bank Public Company Limited, Thailand under Regulation 30 of SEBI Listing Regulations.",
+        "announcedAt": "2026-07-10T13:20:21.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/",
+        "rawTime": "2026-07-10T13:20:21.49"
+      }
+    ],
+    "2026-07-10T12": [
+      {
+        "newsId": "06a4371e-09f3-49c3-a5ca-704eda63245c",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulation 2015- Receipt of Significant International Purchase Orders.",
+        "announcedAt": "2026-07-10T12:53:32.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-07-10T12:53:32.88"
+      },
+      {
+        "newsId": "71e55023-8eea-43b0-847d-93f58000958d",
+        "scripCode": 500214,
+        "shortName": "Ion Exchange India Ltd-$",
+        "headline": "ION Exchange (India) Limited has informed the Exchange that the Company has been awarded an international contract by Hyundai Engineering & Construction Co. Ltd.",
+        "announcedAt": "2026-07-10T12:23:13.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ion-exchange-india-ltd/ionexchang/500214/",
+        "rawTime": "2026-07-10T12:23:13.29"
+      },
+      {
+        "newsId": "83f15ed6-22c4-496e-a655-7391b15aaaa8",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of order from Baker Hughes Singapore",
+        "announcedAt": "2026-07-10T12:15:40.707+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-07-10T12:15:40.707"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-10T12:06:32.701+05:30",
-    "checksum": "0e71803e32a0023e8add004eb71b33ccd74c57dd89952492d80da056434e0fc4",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-10T15:47:15.735+05:30",
+    "checksum": "097b14ef688ce62f7b2da9fe132af26f04af65ce74c9a6649e34cb54cb8abd37",
+    "totalAnnouncements": 13,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-10/awards-120632.json"
+    "rawPayloadPath": "data/raw/2026-07-10/awards-154715.json"
   }
 }
