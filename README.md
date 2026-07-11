@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-07-11 12:00 | RITES Ltd | 541556 | Intimation regarding Major Order Secured from Patna Metro Rail Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 11 Jul 2026 - 12:32 |
 
-_Last updated: 11 Jul 2026 - 14:50 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-11.json)_
+_Last updated: 11 Jul 2026 - 16:27 | Entries: 1 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-11.json)_
 
 <!-- snapshot:end -->
 
