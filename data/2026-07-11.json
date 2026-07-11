@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-07-11",
-  "buckets": {},
+  "buckets": {
+    "2026-07-11T12": [
+      {
+        "newsId": "6bfd6ac9-3cf1-4d48-97d9-ea3f76a2d868",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Intimation regarding Major Order Secured from Patna Metro Rail Corporation Limited",
+        "announcedAt": "2026-07-11T12:32:48.967+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2026-07-11T12:32:48.967"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-07-11T11:03:15.342+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-11T13:13:32.574+05:30",
+    "checksum": "e334efb2adb69f566d4e245abe39350631a1217a896ed2f99ecbf27b9d363a00",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-11/awards-110314.json"
+    "rawPayloadPath": "data/raw/2026-07-11/awards-131332.json"
   }
 }
