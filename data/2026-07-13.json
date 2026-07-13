@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-13",
+  "buckets": {
+    "2026-07-13T09": [
+      {
+        "newsId": "cfb0e035-e1aa-4718-a89e-b08727d7fe11",
+        "scripCode": 538891,
+        "shortName": "Magellanic Cloud Ltd",
+        "headline": "Receipt of Letter of Acceptance by Provigil Surveillance Limited, wholly owned subsidiary",
+        "announcedAt": "2026-07-13T09:15:24.000+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+        "rawTime": "2026-07-13T09:15:24"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-13T11:37:13.852+05:30",
+    "checksum": "f8a670e9fce0399ff5018563fb17a5df23c2e5bb13007829f91c6152263e5cb6",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-13/awards-113713.json"
+  }
+}

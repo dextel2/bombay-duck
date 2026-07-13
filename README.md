@@ -18,11 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-12 IST)
+### Today's Awarded Orders (2026-07-13 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-07-13 09:00 | Magellanic Cloud Ltd | 538891 | Receipt of Letter of Acceptance by Provigil Surveillance Limited, wholly owned subsidiary ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 13 Jul 2026 - 09:15 |
 
-_Last updated: 12 Jul 2026 - 15:50 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-12.json)_
+_Last updated: 13 Jul 2026 - 11:37 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-13.json)_
 
 <!-- snapshot:end -->
 
