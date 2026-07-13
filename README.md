@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-13 14:00 | H.G. Infra Engineering Ltd | 541019 | H.G. Infra Engineering Limited has been declared as L-1 bidder by the Department of Skill, Employment & Entrepreneurship Government of Rajasthan ([Link](https://www.bseindia.com/stock-share-price/hg-infra-engineering-ltd/hginfra/541019/)) | Neutral | 13 Jul 2026 - 14:38 |
 | 2026-07-13 09:00 | Magellanic Cloud Ltd | 538891 | Receipt of Letter of Acceptance by Provigil Surveillance Limited, wholly owned subsidiary ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 13 Jul 2026 - 09:15 |
 
-_Last updated: 13 Jul 2026 - 11:37 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-13.json)_
+_Last updated: 13 Jul 2026 - 15:47 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-13.json)_
 
 <!-- snapshot:end -->
 

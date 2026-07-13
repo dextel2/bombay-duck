@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
         "rawTime": "2026-07-13T09:15:24"
       }
+    ],
+    "2026-07-13T14": [
+      {
+        "newsId": "960983ed-48a3-424d-9b77-5a405c0ea063",
+        "scripCode": 541019,
+        "shortName": "H.G. Infra Engineering Ltd",
+        "headline": "H.G. Infra Engineering Limited has been declared as L-1 bidder by the Department of Skill, Employment & Entrepreneurship Government of Rajasthan",
+        "announcedAt": "2026-07-13T14:38:47.760+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hg-infra-engineering-ltd/hginfra/541019/",
+        "rawTime": "2026-07-13T14:38:47.76"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-13T11:37:13.852+05:30",
-    "checksum": "f8a670e9fce0399ff5018563fb17a5df23c2e5bb13007829f91c6152263e5cb6",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-13T15:47:24.387+05:30",
+    "checksum": "e6c5cd683d77f9e675d9476d9beb129a4866cc95bcfbb65252fd29b2646435c1",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-13/awards-113713.json"
+    "rawPayloadPath": "data/raw/2026-07-13/awards-154723.json"
   }
 }
