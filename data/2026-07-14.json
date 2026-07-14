@@ -53,14 +53,34 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-07-14T14:30:06.483"
       }
+    ],
+    "2026-07-14T15": [
+      {
+        "newsId": "ee81f40d-2003-4994-8da7-5431c0354635",
+        "scripCode": 500241,
+        "shortName": "Kirloskar Brothers Ltd-$",
+        "headline": "Please find enclosed intimation under Regulation 30 of the SEBI Listing Regulations, 2015, pertaining to receipt of order by a wholly owned subsidiary of the Company.",
+        "announcedAt": "2026-07-14T15:56:38.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/",
+        "rawTime": "2026-07-14T15:56:38.673"
+      },
+      {
+        "newsId": "8cd2465d-e92a-409a-b2f7-2f29b84e0e69",
+        "scripCode": 532628,
+        "shortName": "3i Infotech Ltd",
+        "headline": "Please find attached Intimation letter that the Company''s subsidiary has executed a statement of work on July 13, 2026 from a leading federal credit union in the USA under Regulation 30 ....",
+        "announcedAt": "2026-07-14T15:29:39.287+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/",
+        "rawTime": "2026-07-14T15:29:39.287"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-14T15:19:38.758+05:30",
-    "checksum": "93bf8fd566b5f776080f51197cbf34ebe7ff7d681085e0af29048fb500187a84",
-    "totalAnnouncements": 5,
-    "requestCount": 3,
+    "lastUpdated": "2026-07-14T16:49:56.535+05:30",
+    "checksum": "269eceffcb65297c75e913560886bac3634102edc3be82acb586cec26a81862b",
+    "totalAnnouncements": 7,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-14/awards-151938.json"
+    "rawPayloadPath": "data/raw/2026-07-14/awards-164955.json"
   }
 }

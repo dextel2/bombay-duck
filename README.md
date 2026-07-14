@@ -22,13 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-14 15:00 | Kirloskar Brothers Ltd-$ | 500241 | Please find enclosed intimation under Regulation 30 of the SEBI Listing Regulations, 2015, pertaining to receipt of order by a wholly owned subsidiary of the Company. ([Link](https://www.bseindia.com/stock-share-price/kirloskar-brothers-ltd/kirlosbros/500241/)) | Likely Positive | 14 Jul 2026 - 15:56 |
+| 2026-07-14 15:00 | 3i Infotech Ltd | 532628 | Please find attached Intimation letter that the Company''s subsidiary has executed a statement of work on July 13, 2026 from a leading federal credit union in the USA under Regulation 30 .... ([Link](https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/)) | Neutral | 14 Jul 2026 - 15:29 |
 | 2026-07-14 14:00 | Indobell Insulations Ltd | 544334 | Export Order for $47922 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 14 Jul 2026 - 14:35 |
 | 2026-07-14 14:00 | Indobell Insulations Ltd | 544334 | Export Order for $47400 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 14 Jul 2026 - 14:30 |
 | 2026-07-14 11:00 | Kernex Microsystems India Ltd | 532686 | We wish to inform you that the Company has received LOA from Integral Coach Factory for an amount of Rs. 100.53 crores (incl. GST) for Supply, Installation, Interfacing with Electrics of .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Neutral | 14 Jul 2026 - 11:34 |
 | 2026-07-14 10:00 | Natco Pharma Ltd | 524816 | Order passed by Assistant Commissioner (ST)(FAC), Tenali Circle, Tenali, Andhra Pradesh ([Link](https://www.bseindia.com/stock-share-price/natco-pharma-ltd/natcopharm/524816/)) | Likely Positive | 14 Jul 2026 - 10:06 |
 | 2026-07-14 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 14 Jul 2026 - 08:38 |
 
-_Last updated: 14 Jul 2026 - 15:19 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-14.json)_
+_Last updated: 14 Jul 2026 - 16:49 | Entries: 7 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-14.json)_
 
 <!-- snapshot:end -->
 
