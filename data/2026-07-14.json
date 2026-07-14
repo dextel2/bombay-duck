@@ -33,14 +33,34 @@
         "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
         "rawTime": "2026-07-14T11:34:19.033"
       }
+    ],
+    "2026-07-14T14": [
+      {
+        "newsId": "d09305d7-394f-4691-8217-70f3a65480ae",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "Export Order for $47922",
+        "announcedAt": "2026-07-14T14:35:14.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-14T14:35:14.63"
+      },
+      {
+        "newsId": "d9d79582-1f84-42e9-841f-bedb9e63f07f",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "Export Order for $47400",
+        "announcedAt": "2026-07-14T14:30:06.483+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-14T14:30:06.483"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-14T13:20:31.224+05:30",
-    "checksum": "adbbf113cb52237be10196d7de72df33422915425ebeebf85d66d4a7dfbdadbc",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-14T15:19:38.758+05:30",
+    "checksum": "93bf8fd566b5f776080f51197cbf34ebe7ff7d681085e0af29048fb500187a84",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-14/awards-132030.json"
+    "rawPayloadPath": "data/raw/2026-07-14/awards-151938.json"
   }
 }

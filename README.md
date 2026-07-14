@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-14 14:00 | Indobell Insulations Ltd | 544334 | Export Order for $47922 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 14 Jul 2026 - 14:35 |
+| 2026-07-14 14:00 | Indobell Insulations Ltd | 544334 | Export Order for $47400 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 14 Jul 2026 - 14:30 |
 | 2026-07-14 11:00 | Kernex Microsystems India Ltd | 532686 | We wish to inform you that the Company has received LOA from Integral Coach Factory for an amount of Rs. 100.53 crores (incl. GST) for Supply, Installation, Interfacing with Electrics of .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Neutral | 14 Jul 2026 - 11:34 |
 | 2026-07-14 10:00 | Natco Pharma Ltd | 524816 | Order passed by Assistant Commissioner (ST)(FAC), Tenali Circle, Tenali, Andhra Pradesh ([Link](https://www.bseindia.com/stock-share-price/natco-pharma-ltd/natcopharm/524816/)) | Likely Positive | 14 Jul 2026 - 10:06 |
 | 2026-07-14 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 14 Jul 2026 - 08:38 |
 
-_Last updated: 14 Jul 2026 - 13:20 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-14.json)_
+_Last updated: 14 Jul 2026 - 15:19 | Entries: 5 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-14.json)_
 
 <!-- snapshot:end -->
 
