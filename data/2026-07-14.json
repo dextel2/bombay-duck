@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-07-14",
+  "buckets": {
+    "2026-07-14T10": [
+      {
+        "newsId": "4d1e2884-93db-4787-8049-f62f485cc6ef",
+        "scripCode": 524816,
+        "shortName": "Natco Pharma Ltd",
+        "headline": "Order passed by Assistant Commissioner (ST)(FAC), Tenali Circle, Tenali, Andhra Pradesh",
+        "announcedAt": "2026-07-14T10:06:37.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/natco-pharma-ltd/natcopharm/524816/",
+        "rawTime": "2026-07-14T10:06:37.207"
+      }
+    ],
+    "2026-07-14T08": [
+      {
+        "newsId": "262749aa-d498-461d-b919-e5e7c10796ce",
+        "scripCode": 532144,
+        "shortName": "Welspun Corp Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-07-14T08:38:24.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
+        "rawTime": "2026-07-14T08:38:24.82"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-14T10:52:29.809+05:30",
+    "checksum": "0e2830da90e1cc469f19a157f263f2a082868d6471603dd09d8699ec500cea47",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-14/awards-105229.json"
+  }
+}

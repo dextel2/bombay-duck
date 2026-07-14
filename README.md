@@ -18,14 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-13 IST)
+### Today's Awarded Orders (2026-07-14 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-13 14:00 | H.G. Infra Engineering Ltd | 541019 | H.G. Infra Engineering Limited has been declared as L-1 bidder by the Department of Skill, Employment & Entrepreneurship Government of Rajasthan ([Link](https://www.bseindia.com/stock-share-price/hg-infra-engineering-ltd/hginfra/541019/)) | Neutral | 13 Jul 2026 - 14:38 |
-| 2026-07-13 09:00 | Magellanic Cloud Ltd | 538891 | Receipt of Letter of Acceptance by Provigil Surveillance Limited, wholly owned subsidiary ([Link](https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/)) | Likely Positive | 13 Jul 2026 - 09:15 |
+| 2026-07-14 10:00 | Natco Pharma Ltd | 524816 | Order passed by Assistant Commissioner (ST)(FAC), Tenali Circle, Tenali, Andhra Pradesh ([Link](https://www.bseindia.com/stock-share-price/natco-pharma-ltd/natcopharm/524816/)) | Likely Positive | 14 Jul 2026 - 10:06 |
+| 2026-07-14 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 14 Jul 2026 - 08:38 |
 
-_Last updated: 13 Jul 2026 - 15:47 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-13.json)_
+_Last updated: 14 Jul 2026 - 10:52 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-14.json)_
 
 <!-- snapshot:end -->
 
