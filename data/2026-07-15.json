@@ -69,14 +69,25 @@
         "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
         "rawTime": "2026-07-15T11:31:19.58"
       }
+    ],
+    "2026-07-15T14": [
+      {
+        "newsId": "4a5394ad-de69-4915-be8c-60008ae2e4a3",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "In continuation to our intimation dated June 06, 2026, regarding Receipt of L 1 Status, we wish to inform about Receipt of Letter of Acceptance (LOA) from UP Jal Nigam (urban), Varanasi",
+        "announcedAt": "2026-07-15T14:39:11.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-07-15T14:39:11.65"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-15T13:24:05.191+05:30",
-    "checksum": "8380a7f844b368318901f8ec6a6cfdab40821bb522a4d39028c39979aa48d990",
-    "totalAnnouncements": 7,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-15T15:24:01.511+05:30",
+    "checksum": "f526e48720508837921883e1e047961451ab08d8ed59cfcc44d21204eb583cbe",
+    "totalAnnouncements": 8,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-15/awards-132404.json"
+    "rawPayloadPath": "data/raw/2026-07-15/awards-152400.json"
   }
 }

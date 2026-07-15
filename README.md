@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-15 14:00 | EMS Ltd | 543983 | In continuation to our intimation dated June 06, 2026, regarding Receipt of L 1 Status, we wish to inform about Receipt of Letter of Acceptance (LOA) from UP Jal Nigam (urban), Varanasi ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 15 Jul 2026 - 14:39 |
 | 2026-07-15 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 38,23,200 pursuant to Regulation 30 of SEBI (Listing Obligationn and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 15 Jul 2026 - 12:51 |
 | 2026-07-15 12:00 | Goldiam International Ltd | 526729 | Intimation with regard to new Export Orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 15 Jul 2026 - 12:25 |
 | 2026-07-15 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 97,94,000 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 15 Jul 2026 - 12:05 |
@@ -30,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-15 11:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 15 Jul 2026 - 11:31 |
 | 2026-07-15 10:00 | HBL Engineering Ltd-$ | 517271 | The Company has accepted an order worth Rs.24 Crores (Excluding 18% GST) from Integral Coach Factory (ICF), Chennai, for supply, installation, testing and commissioning of On-Board Kavach .... ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 15 Jul 2026 - 10:42 |
 
-_Last updated: 15 Jul 2026 - 13:24 | Entries: 7 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-15.json)_
+_Last updated: 15 Jul 2026 - 15:24 | Entries: 8 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-15.json)_
 
 <!-- snapshot:end -->
 
