@@ -80,14 +80,43 @@
         "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
         "rawTime": "2026-07-15T14:39:11.65"
       }
+    ],
+    "2026-07-15T15": [
+      {
+        "newsId": "8d6df32a-88dc-4f1e-82f1-9aca123da97e",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase order of Rs. 292.76 Lakhs from a Railway Wagon Manufacturing Company, Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-07-15T15:53:13.813+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-07-15T15:53:13.813"
+      },
+      {
+        "newsId": "7e3f9097-0d0e-4b44-8d98-dbb667092c5d",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Office ....",
+        "announcedAt": "2026-07-15T15:53:11.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-07-15T15:53:11.59"
+      },
+      {
+        "newsId": "0a4897d1-7c0a-4d06-89e8-ef1cb6aa4fbc",
+        "scripCode": 544561,
+        "shortName": "Chiraharit Ltd",
+        "headline": "We wish to inform your esteemed organization that the Company has received a purchase order from Tata Power Renewable Energy Limited for Supply and Services for Borewell",
+        "announcedAt": "2026-07-15T15:44:28.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/",
+        "rawTime": "2026-07-15T15:44:28.133"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-15T15:24:01.511+05:30",
-    "checksum": "f526e48720508837921883e1e047961451ab08d8ed59cfcc44d21204eb583cbe",
-    "totalAnnouncements": 8,
-    "requestCount": 3,
+    "lastUpdated": "2026-07-15T16:54:09.083+05:30",
+    "checksum": "7a3658fcd509bbe7d4427f1e65f7ca729e22e5f0b56c81588e0d12fd7ef4caa9",
+    "totalAnnouncements": 11,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-15/awards-152400.json"
+    "rawPayloadPath": "data/raw/2026-07-15/awards-165408.json"
   }
 }
