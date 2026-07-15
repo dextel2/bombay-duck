@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-15",
+  "buckets": {
+    "2026-07-15T10": [
+      {
+        "newsId": "fb778048-23d1-4de2-9ac3-5946a6a9b3bf",
+        "scripCode": 517271,
+        "shortName": "HBL Engineering Ltd-$",
+        "headline": "The Company has accepted an order worth Rs.24 Crores (Excluding 18% GST) from Integral Coach Factory (ICF), Chennai, for supply, installation, testing and commissioning of On-Board Kavach ....",
+        "announcedAt": "2026-07-15T10:42:45.753+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
+        "rawTime": "2026-07-15T10:42:45.753"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-15T10:53:44.585+05:30",
+    "checksum": "86fbe549852572bc5871f5ee228c08d6c1168a2572156e3d72e3f1cada7b12bf",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-15/awards-105344.json"
+  }
+}
