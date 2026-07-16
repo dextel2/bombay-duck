@@ -33,14 +33,25 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-07-16T11:14:00.42"
       }
+    ],
+    "2026-07-16T13": [
+      {
+        "newsId": "10260ff6-9e10-48fa-a20c-9cbe29463ac1",
+        "scripCode": 531297,
+        "shortName": "Artefact Projects Ltd",
+        "headline": "letter of Award",
+        "announcedAt": "2026-07-16T13:48:25.633+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
+        "rawTime": "2026-07-16T13:48:25.633"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-16T13:29:43.579+05:30",
-    "checksum": "d858f39eaccaebd6c2d87ff6d83d0367691b5028d1e5aaafdd16ee6c92aebf68",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-16T15:44:47.425+05:30",
+    "checksum": "3cf71cc3f16f67b8ef24cf87e6bedbc3e7e5a264f83b087c01c4d8fac844b548",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-16/awards-132942.json"
+    "rawPayloadPath": "data/raw/2026-07-16/awards-154446.json"
   }
 }
