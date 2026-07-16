@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-16 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 4,13,70,317.23 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Jul 2026 - 12:32 |
+| 2026-07-16 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,89,76,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Jul 2026 - 11:14 |
 | 2026-07-16 10:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 16 Jul 2026 - 10:38 |
 
-_Last updated: 16 Jul 2026 - 11:02 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-16.json)_
+_Last updated: 16 Jul 2026 - 13:29 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-16.json)_
 
 <!-- snapshot:end -->
 

@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
         "rawTime": "2026-07-16T10:38:17.617"
       }
+    ],
+    "2026-07-16T12": [
+      {
+        "newsId": "3da9cef7-80eb-4d89-a058-aa3d8b746e6e",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 4,13,70,317.23 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-07-16T12:32:36.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-16T12:32:36.847"
+      }
+    ],
+    "2026-07-16T11": [
+      {
+        "newsId": "dd89e33e-d97c-4dd5-b538-f5241d4441aa",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 2,89,76,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-07-16T11:14:00.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-16T11:14:00.42"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-16T11:02:29.861+05:30",
-    "checksum": "13483d13f835aede429b8d06fa29a97e8b277f3c8638d863941d19f1824cff2d",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-16T13:29:43.579+05:30",
+    "checksum": "d858f39eaccaebd6c2d87ff6d83d0367691b5028d1e5aaafdd16ee6c92aebf68",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-16/awards-110229.json"
+    "rawPayloadPath": "data/raw/2026-07-16/awards-132942.json"
   }
 }
