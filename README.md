@@ -18,23 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-15 IST)
+### Today's Awarded Orders (2026-07-16 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-15 15:00 | Cosmic CRF Ltd | 543928 | Receipt of Purchase order of Rs. 292.76 Lakhs from a Railway Wagon Manufacturing Company, Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 15 Jul 2026 - 15:53 |
-| 2026-07-15 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Office .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 15 Jul 2026 - 15:53 |
-| 2026-07-15 15:00 | Chiraharit Ltd | 544561 | We wish to inform your esteemed organization that the Company has received a purchase order from Tata Power Renewable Energy Limited for Supply and Services for Borewell ([Link](https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/)) | Likely Positive | 15 Jul 2026 - 15:44 |
-| 2026-07-15 14:00 | EMS Ltd | 543983 | In continuation to our intimation dated June 06, 2026, regarding Receipt of L 1 Status, we wish to inform about Receipt of Letter of Acceptance (LOA) from UP Jal Nigam (urban), Varanasi ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 15 Jul 2026 - 14:39 |
-| 2026-07-15 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 38,23,200 pursuant to Regulation 30 of SEBI (Listing Obligationn and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 15 Jul 2026 - 12:51 |
-| 2026-07-15 12:00 | Goldiam International Ltd | 526729 | Intimation with regard to new Export Orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 15 Jul 2026 - 12:25 |
-| 2026-07-15 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 97,94,000 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 15 Jul 2026 - 12:05 |
-| 2026-07-15 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 49,85,500 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulaion, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 15 Jul 2026 - 12:00 |
-| 2026-07-15 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured Two order amounting to Rs. 67,37,800 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 15 Jul 2026 - 11:56 |
-| 2026-07-15 11:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 15 Jul 2026 - 11:31 |
-| 2026-07-15 10:00 | HBL Engineering Ltd-$ | 517271 | The Company has accepted an order worth Rs.24 Crores (Excluding 18% GST) from Integral Coach Factory (ICF), Chennai, for supply, installation, testing and commissioning of On-Board Kavach .... ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 15 Jul 2026 - 10:42 |
+| 2026-07-16 10:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 16 Jul 2026 - 10:38 |
 
-_Last updated: 15 Jul 2026 - 16:54 | Entries: 11 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-15.json)_
+_Last updated: 16 Jul 2026 - 11:02 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-16.json)_
 
 <!-- snapshot:end -->
 

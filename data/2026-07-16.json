@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-16",
+  "buckets": {
+    "2026-07-16T10": [
+      {
+        "newsId": "09788352-cfec-4fd0-8ce7-e48ff12b90d7",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of Receipt of Order Received.",
+        "announcedAt": "2026-07-16T10:38:17.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-07-16T10:38:17.617"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-16T11:02:29.861+05:30",
+    "checksum": "13483d13f835aede429b8d06fa29a97e8b277f3c8638d863941d19f1824cff2d",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-16/awards-110229.json"
+  }
+}
