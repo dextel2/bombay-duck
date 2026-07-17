@@ -18,16 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-16 IST)
+### Today's Awarded Orders (2026-07-17 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-16 13:00 | Artefact Projects Ltd | 531297 | letter of Award ([Link](https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/)) | Neutral | 16 Jul 2026 - 13:48 |
-| 2026-07-16 12:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 4,13,70,317.23 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Jul 2026 - 12:32 |
-| 2026-07-16 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,89,76,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Jul 2026 - 11:14 |
-| 2026-07-16 10:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 16 Jul 2026 - 10:38 |
+| 2026-07-17 10:00 | Time Technoplast Ltd | 532856 | Company has received a GeM contract from Hindustan Petroleum Corporation Limited for the supply of 1,40,000 numbers of 10 kg Composite LPG Cylinders, valued at approximately Rs. 38.14 crore. ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 17 Jul 2026 - 10:59 |
+| 2026-07-17 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 99,23,800 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Jul 2026 - 10:54 |
+| 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 4,53,51,530.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:53 |
+| 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 2,19,40,477.50 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:33 |
+| 2026-07-17 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Orders received from Paschim Gujarat Vij Company Limited (PGVCL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Jul 2026 - 10:20 |
 
-_Last updated: 16 Jul 2026 - 15:44 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-16.json)_
+_Last updated: 17 Jul 2026 - 11:04 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
 
 <!-- snapshot:end -->
 

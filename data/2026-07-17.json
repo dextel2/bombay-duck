@@ -1,0 +1,60 @@
+{
+  "tradingDate": "2026-07-17",
+  "buckets": {
+    "2026-07-17T10": [
+      {
+        "newsId": "8b594211-e618-48ae-ae7a-c91c987d6adc",
+        "scripCode": 532856,
+        "shortName": "Time Technoplast Ltd",
+        "headline": "Company has received a GeM contract from Hindustan Petroleum Corporation Limited for the supply of 1,40,000 numbers of 10 kg Composite LPG Cylinders, valued at approximately Rs. 38.14 crore.",
+        "announcedAt": "2026-07-17T10:59:31.437+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/",
+        "rawTime": "2026-07-17T10:59:31.437"
+      },
+      {
+        "newsId": "d1439a28-5ed4-4465-805d-89a6a41b12f9",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 99,23,800 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-07-17T10:54:07.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-17T10:54:07.143"
+      },
+      {
+        "newsId": "63134146-b528-4829-958d-d3932ee75aeb",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order valuing Rs 4,53,51,530.00",
+        "announcedAt": "2026-07-17T10:53:32.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-17T10:53:32.543"
+      },
+      {
+        "newsId": "8446165a-486b-48ff-9311-7f863a1dd1c6",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order valuing Rs 2,19,40,477.50",
+        "announcedAt": "2026-07-17T10:33:14.007+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-17T10:33:14.007"
+      },
+      {
+        "newsId": "6e89ed98-ad00-4092-95d1-09fd6b275461",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Orders received from Paschim Gujarat Vij Company Limited (PGVCL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL).",
+        "announcedAt": "2026-07-17T10:20:24.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-07-17T10:20:24.83"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-17T11:04:03.352+05:30",
+    "checksum": "2afc6fe9e0e87aea9fa9fdd9c5069e3474954b1abb6b2a3eeaf5e71f6867282f",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-17/awards-110402.json"
+  }
+}
