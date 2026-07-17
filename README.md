@@ -22,6 +22,9 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-17 14:00 | Waaree Energies Ltd | 544277 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 17 Jul 2026 - 14:33 |
+| 2026-07-17 14:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 17 Jul 2026 - 14:11 |
+| 2026-07-17 13:00 | Laser Power & Infra Ltd | 544822 | Intimation of receipt of first Letter of Intent for the supply and installation of High Temperature Low Sag (HTLS) conductors from Himachal Pradesh State Electricity Board Limited. ([Link](https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/)) | Likely Positive | 17 Jul 2026 - 13:28 |
 | 2026-07-17 12:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 17 Jul 2026 - 12:29 |
 | 2026-07-17 12:00 | Indobell Insulations Ltd | 544334 | New Domestic Order Valuing Rs 15,660,960.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 12:02 |
 | 2026-07-17 11:00 | Indobell Insulations Ltd | 544334 | New Domestic Order Valuing Rs 48,739,015.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 11:40 |
@@ -32,7 +35,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 2,19,40,477.50 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:33 |
 | 2026-07-17 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Orders received from Paschim Gujarat Vij Company Limited (PGVCL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Jul 2026 - 10:20 |
 
-_Last updated: 17 Jul 2026 - 13:26 | Entries: 9 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
+_Last updated: 17 Jul 2026 - 15:23 | Entries: 12 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
 
 <!-- snapshot:end -->
 

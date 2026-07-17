@@ -87,14 +87,45 @@
         "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
         "rawTime": "2026-07-17T11:16:14.08"
       }
+    ],
+    "2026-07-17T14": [
+      {
+        "newsId": "ed4fdee1-8d67-419a-a4cf-116539c205f7",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-07-17T14:33:25.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2026-07-17T14:33:25.33"
+      },
+      {
+        "newsId": "dbd80116-7dab-4054-9455-03eb394ba1d6",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of work order.",
+        "announcedAt": "2026-07-17T14:11:38.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-07-17T14:11:38.677"
+      }
+    ],
+    "2026-07-17T13": [
+      {
+        "newsId": "dc084a1d-69e7-487f-9e5e-85fa043aee9a",
+        "scripCode": 544822,
+        "shortName": "Laser Power & Infra Ltd",
+        "headline": "Intimation of receipt of first Letter of Intent for the supply and installation of High Temperature Low Sag (HTLS) conductors from Himachal Pradesh State Electricity Board Limited.",
+        "announcedAt": "2026-07-17T13:28:34.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/",
+        "rawTime": "2026-07-17T13:28:34.123"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-17T13:26:43.761+05:30",
-    "checksum": "08b4b91679969de054dc120808cb3186cf0a53d967b5359175476c06bd2ca91d",
-    "totalAnnouncements": 9,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-17T15:23:27.502+05:30",
+    "checksum": "71a1344476bc039a636f7ef2b8d313ffa04bedac5da32791cab51eb72f671cc2",
+    "totalAnnouncements": 12,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-17/awards-132642.json"
+    "rawPayloadPath": "data/raw/2026-07-17/awards-152320.json"
   }
 }
