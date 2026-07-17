@@ -22,13 +22,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-17 12:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 17 Jul 2026 - 12:29 |
+| 2026-07-17 12:00 | Indobell Insulations Ltd | 544334 | New Domestic Order Valuing Rs 15,660,960.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 12:02 |
+| 2026-07-17 11:00 | Indobell Insulations Ltd | 544334 | New Domestic Order Valuing Rs 48,739,015.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 11:40 |
+| 2026-07-17 11:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 31,504,000.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 11:16 |
 | 2026-07-17 10:00 | Time Technoplast Ltd | 532856 | Company has received a GeM contract from Hindustan Petroleum Corporation Limited for the supply of 1,40,000 numbers of 10 kg Composite LPG Cylinders, valued at approximately Rs. 38.14 crore. ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 17 Jul 2026 - 10:59 |
 | 2026-07-17 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 99,23,800 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Jul 2026 - 10:54 |
 | 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 4,53,51,530.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:53 |
 | 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 2,19,40,477.50 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:33 |
 | 2026-07-17 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Orders received from Paschim Gujarat Vij Company Limited (PGVCL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Jul 2026 - 10:20 |
 
-_Last updated: 17 Jul 2026 - 11:04 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
+_Last updated: 17 Jul 2026 - 13:26 | Entries: 9 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
 
 <!-- snapshot:end -->
 

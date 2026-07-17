@@ -47,14 +47,54 @@
         "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
         "rawTime": "2026-07-17T10:20:24.83"
       }
+    ],
+    "2026-07-17T12": [
+      {
+        "newsId": "6ebfd1bf-f4e2-412b-9ebb-ea0745bcb452",
+        "scripCode": 539006,
+        "shortName": "PTC Industries Ltd",
+        "headline": "As enclosed.",
+        "announcedAt": "2026-07-17T12:29:36.943+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
+        "rawTime": "2026-07-17T12:29:36.943"
+      },
+      {
+        "newsId": "94654cd5-7aea-4f78-9693-d4073b5345d3",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order Valuing Rs 15,660,960.00",
+        "announcedAt": "2026-07-17T12:02:02.967+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-17T12:02:02.967"
+      }
+    ],
+    "2026-07-17T11": [
+      {
+        "newsId": "69ca9e9e-2c7a-4caf-a867-3adde7d0165f",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order Valuing Rs 48,739,015.00",
+        "announcedAt": "2026-07-17T11:40:40.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-17T11:40:40.043"
+      },
+      {
+        "newsId": "1422ef18-8d65-4263-b752-4b71e8e1bc2a",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic Order valuing Rs 31,504,000.00",
+        "announcedAt": "2026-07-17T11:16:14.080+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-07-17T11:16:14.08"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-17T11:04:03.352+05:30",
-    "checksum": "2afc6fe9e0e87aea9fa9fdd9c5069e3474954b1abb6b2a3eeaf5e71f6867282f",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-17T13:26:43.761+05:30",
+    "checksum": "08b4b91679969de054dc120808cb3186cf0a53d967b5359175476c06bd2ca91d",
+    "totalAnnouncements": 9,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-17/awards-110402.json"
+    "rawPayloadPath": "data/raw/2026-07-17/awards-132642.json"
   }
 }
