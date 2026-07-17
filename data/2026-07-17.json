@@ -118,14 +118,36 @@
         "url": "https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/",
         "rawTime": "2026-07-17T13:28:34.123"
       }
+    ],
+    "2026-07-17T16": [
+      {
+        "newsId": "c689d6f6-1d34-4494-aae4-8714ab729777",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of Receipt of Work Order Received.",
+        "announcedAt": "2026-07-17T16:27:11.417+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-07-17T16:27:11.417"
+      }
+    ],
+    "2026-07-17T15": [
+      {
+        "newsId": "1e06c6d9-d5c0-42ff-ad5e-601ddd22ad79",
+        "scripCode": 522134,
+        "shortName": "Artson Ltd",
+        "headline": "Receipt of Letter of Intent for an Award - details enclosed.",
+        "announcedAt": "2026-07-17T15:51:42.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/",
+        "rawTime": "2026-07-17T15:51:42.823"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-17T15:23:27.502+05:30",
-    "checksum": "71a1344476bc039a636f7ef2b8d313ffa04bedac5da32791cab51eb72f671cc2",
-    "totalAnnouncements": 12,
-    "requestCount": 3,
+    "lastUpdated": "2026-07-17T16:46:42.613+05:30",
+    "checksum": "96de64c0b1978c78e7f4b41d619791f731a03f90a6708d8b6cf1253a3a199522",
+    "totalAnnouncements": 14,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-17/awards-152320.json"
+    "rawPayloadPath": "data/raw/2026-07-17/awards-164641.json"
   }
 }

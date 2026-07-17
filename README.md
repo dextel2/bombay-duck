@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-17 16:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Work Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 17 Jul 2026 - 16:27 |
+| 2026-07-17 15:00 | Artson Ltd | 522134 | Receipt of Letter of Intent for an Award - details enclosed. ([Link](https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/)) | Likely Positive | 17 Jul 2026 - 15:51 |
 | 2026-07-17 14:00 | Waaree Energies Ltd | 544277 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 17 Jul 2026 - 14:33 |
 | 2026-07-17 14:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 17 Jul 2026 - 14:11 |
 | 2026-07-17 13:00 | Laser Power & Infra Ltd | 544822 | Intimation of receipt of first Letter of Intent for the supply and installation of High Temperature Low Sag (HTLS) conductors from Himachal Pradesh State Electricity Board Limited. ([Link](https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/)) | Likely Positive | 17 Jul 2026 - 13:28 |
@@ -35,7 +37,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 2,19,40,477.50 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:33 |
 | 2026-07-17 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Orders received from Paschim Gujarat Vij Company Limited (PGVCL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Jul 2026 - 10:20 |
 
-_Last updated: 17 Jul 2026 - 15:23 | Entries: 12 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
+_Last updated: 17 Jul 2026 - 16:46 | Entries: 14 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
 
 <!-- snapshot:end -->
 
