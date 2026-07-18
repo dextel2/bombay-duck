@@ -18,26 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-17 IST)
+### Today's Awarded Orders (2026-07-18 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-07-17 16:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Work Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 17 Jul 2026 - 16:27 |
-| 2026-07-17 15:00 | Artson Ltd | 522134 | Receipt of Letter of Intent for an Award - details enclosed. ([Link](https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/)) | Likely Positive | 17 Jul 2026 - 15:51 |
-| 2026-07-17 14:00 | Waaree Energies Ltd | 544277 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Likely Positive | 17 Jul 2026 - 14:33 |
-| 2026-07-17 14:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 17 Jul 2026 - 14:11 |
-| 2026-07-17 13:00 | Laser Power & Infra Ltd | 544822 | Intimation of receipt of first Letter of Intent for the supply and installation of High Temperature Low Sag (HTLS) conductors from Himachal Pradesh State Electricity Board Limited. ([Link](https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/)) | Likely Positive | 17 Jul 2026 - 13:28 |
-| 2026-07-17 12:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 17 Jul 2026 - 12:29 |
-| 2026-07-17 12:00 | Indobell Insulations Ltd | 544334 | New Domestic Order Valuing Rs 15,660,960.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 12:02 |
-| 2026-07-17 11:00 | Indobell Insulations Ltd | 544334 | New Domestic Order Valuing Rs 48,739,015.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 11:40 |
-| 2026-07-17 11:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 31,504,000.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 11:16 |
-| 2026-07-17 10:00 | Time Technoplast Ltd | 532856 | Company has received a GeM contract from Hindustan Petroleum Corporation Limited for the supply of 1,40,000 numbers of 10 kg Composite LPG Cylinders, valued at approximately Rs. 38.14 crore. ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 17 Jul 2026 - 10:59 |
-| 2026-07-17 10:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 99,23,800 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 17 Jul 2026 - 10:54 |
-| 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 4,53,51,530.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:53 |
-| 2026-07-17 10:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 2,19,40,477.50 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 17 Jul 2026 - 10:33 |
-| 2026-07-17 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Orders received from Paschim Gujarat Vij Company Limited (PGVCL) and Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 17 Jul 2026 - 10:20 |
+_No award announcements have been captured yet today._
 
-_Last updated: 17 Jul 2026 - 16:46 | Entries: 14 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-17.json)_
+_Last updated: 18 Jul 2026 - 10:47 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-18.json)_
 
 <!-- snapshot:end -->
 
