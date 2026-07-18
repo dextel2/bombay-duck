@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-07-18",
-  "buckets": {},
+  "buckets": {
+    "2026-07-18T16": [
+      {
+        "newsId": "8bcba7bc-b87e-4907-b0d3-d2ac44f35c47",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation under regulation 30 of SEBI LODR in relation to receipt of Work order at Turup Fee Plaza, for the use of Ranchi Bypass section of NH-33 in the state of jharkhand",
+        "announcedAt": "2026-07-18T16:00:14.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-07-18T16:00:14.4"
+      }
+    ],
+    "2026-07-18T15": [
+      {
+        "newsId": "ec7a8f9b-4aa1-4262-9f0c-6fdeec04115f",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order worth of Rs.20.81 Cr",
+        "announcedAt": "2026-07-18T15:03:13.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-07-18T15:03:13.373"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-07-18T14:47:16.486+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-07-18T16:26:27.580+05:30",
+    "checksum": "279dced201a5fda9463c2b3a0570e59786add6ff5d9c23fbd0e6221b46ca81e7",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-18/awards-144716.json"
+    "rawPayloadPath": "data/raw/2026-07-18/awards-162627.json"
   }
 }
