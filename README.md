@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-18 IST)
+### Today's Awarded Orders (2026-07-19 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-07-18 16:00 | Innovision Ltd | 544732 | Intimation under regulation 30 of SEBI LODR in relation to receipt of Work order at Turup Fee Plaza, for the use of Ranchi Bypass section of NH-33 in the state of jharkhand ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 18 Jul 2026 - 16:00 |
-| 2026-07-18 15:00 | Avantel Ltd | 532406 | Receipt of Purchase Order worth of Rs.20.81 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 18 Jul 2026 - 15:03 |
+_No award announcements have been captured yet today._
 
-_Last updated: 18 Jul 2026 - 16:26 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-18.json)_
+_Last updated: 19 Jul 2026 - 11:13 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-19.json)_
 
 <!-- snapshot:end -->
 
