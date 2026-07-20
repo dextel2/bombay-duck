@@ -22,11 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-20 15:00 | Atishay Ltd | 538713 | The Company has been awarded a new Work Order from The Alwar Central Co Operative Bank Limited, Alwar for Supply of Micro ATMs, Order Value Rs. 47.71 Lakhs ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 20 Jul 2026 - 15:07 |
+| 2026-07-20 14:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 20 Jul 2026 - 14:23 |
+| 2026-07-20 13:00 | Atishay Ltd | 538713 | The company has executed a Software Development Agreement with Global Top Link Technologies Company Limited, Myanmar for the design, development, and deployment of an AI-Powered Centralized .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Neutral | 20 Jul 2026 - 13:42 |
+| 2026-07-20 12:00 | Bondada Engineering Ltd | 543971 | Announcement under Regulation 30 (LODR)_ Intimation of receipt of Notification of Award from NTPC Renewable Energy Limited ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 20 Jul 2026 - 12:00 |
 | 2026-07-20 10:00 | Lords Mark Industries Ltd | 501261 | Corporate announcement for work order ([Link](https://www.bseindia.com/stock-share-price/lords-mark-industries-ltd/lordsmark/501261/)) | Likely Positive | 20 Jul 2026 - 10:14 |
 | 2026-07-20 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Mega*) for Metals & Minerals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Jul 2026 - 09:08 |
 | 2026-07-20 06:00 | VA Tech Wabag Ltd | 533269 | WABAG secures "Large'' Order inflow from BWSSB for Two Energy-Efficient Wastewater Treatment Facilities ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 20 Jul 2026 - 06:45 |
 
-_Last updated: 20 Jul 2026 - 11:38 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-20.json)_
+_Last updated: 20 Jul 2026 - 15:22 | Entries: 7 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-20.json)_
 
 <!-- snapshot:end -->
 

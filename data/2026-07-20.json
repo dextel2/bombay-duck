@@ -33,14 +33,58 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2026-07-20T06:45:53.373"
       }
+    ],
+    "2026-07-20T15": [
+      {
+        "newsId": "bef9a075-908d-453d-b533-0c3154bb7a33",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has been awarded a new Work Order from The Alwar Central Co Operative Bank Limited, Alwar for Supply of Micro ATMs, Order Value Rs. 47.71 Lakhs",
+        "announcedAt": "2026-07-20T15:07:00.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-07-20T15:07:00.853"
+      }
+    ],
+    "2026-07-20T14": [
+      {
+        "newsId": "adfdd725-8abd-47c4-b56d-69fe1914b2a5",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of receipt of work order.",
+        "announcedAt": "2026-07-20T14:23:54.233+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-07-20T14:23:54.233"
+      }
+    ],
+    "2026-07-20T13": [
+      {
+        "newsId": "5c1b7f76-9cc6-4ada-9328-2cda6ea352ac",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The company has executed a Software Development Agreement with Global Top Link Technologies Company Limited, Myanmar for the design, development, and deployment of an AI-Powered Centralized ....",
+        "announcedAt": "2026-07-20T13:42:16.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-07-20T13:42:16.61"
+      }
+    ],
+    "2026-07-20T12": [
+      {
+        "newsId": "481ec620-9e32-4855-bb92-32139137c6b9",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Announcement under Regulation 30 (LODR)_ Intimation of receipt of Notification of Award from NTPC Renewable Energy Limited",
+        "announcedAt": "2026-07-20T12:00:58.017+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-07-20T12:00:58.017"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-20T11:38:53.470+05:30",
-    "checksum": "e4046e8b719a4f4c9e57d07126aa94fa127f75458224c72cc023dfc9c210c44f",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-20T15:22:08.721+05:30",
+    "checksum": "6b8f82fd3ccc55ed4ef4ff1b2800502b8731ca807fceb76c0e26cfff91fb89e1",
+    "totalAnnouncements": 7,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-20/awards-113852.json"
+    "rawPayloadPath": "data/raw/2026-07-20/awards-152207.json"
   }
 }
