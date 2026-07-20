@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-07-20",
+  "buckets": {
+    "2026-07-20T10": [
+      {
+        "newsId": "73cdc57d-91d5-4237-a82f-67d29d32706c",
+        "scripCode": 501261,
+        "shortName": "Lords Mark Industries Ltd",
+        "headline": "Corporate announcement for work order",
+        "announcedAt": "2026-07-20T10:14:20.947+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lords-mark-industries-ltd/lordsmark/501261/",
+        "rawTime": "2026-07-20T10:14:20.947"
+      }
+    ],
+    "2026-07-20T09": [
+      {
+        "newsId": "d0d7bdee-d923-4945-8172-906a61470bc9",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Orders (Mega*) for Metals & Minerals Business",
+        "announcedAt": "2026-07-20T09:08:22.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-07-20T09:08:22.543"
+      }
+    ],
+    "2026-07-20T06": [
+      {
+        "newsId": "d17d3242-ee31-4d27-83f5-79a898d19e30",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG secures \"Large'' Order inflow from BWSSB for Two Energy-Efficient Wastewater Treatment Facilities",
+        "announcedAt": "2026-07-20T06:45:53.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-07-20T06:45:53.373"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-20T11:38:53.470+05:30",
+    "checksum": "e4046e8b719a4f4c9e57d07126aa94fa127f75458224c72cc023dfc9c210c44f",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-20/awards-113852.json"
+  }
+}

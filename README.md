@@ -18,11 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-19 IST)
+### Today's Awarded Orders (2026-07-20 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-07-20 10:00 | Lords Mark Industries Ltd | 501261 | Corporate announcement for work order ([Link](https://www.bseindia.com/stock-share-price/lords-mark-industries-ltd/lordsmark/501261/)) | Likely Positive | 20 Jul 2026 - 10:14 |
+| 2026-07-20 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Mega*) for Metals & Minerals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Jul 2026 - 09:08 |
+| 2026-07-20 06:00 | VA Tech Wabag Ltd | 533269 | WABAG secures "Large'' Order inflow from BWSSB for Two Energy-Efficient Wastewater Treatment Facilities ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 20 Jul 2026 - 06:45 |
 
-_Last updated: 19 Jul 2026 - 15:50 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-19.json)_
+_Last updated: 20 Jul 2026 - 11:38 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-20.json)_
 
 <!-- snapshot:end -->
 
