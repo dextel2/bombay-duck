@@ -36,6 +36,15 @@
     ],
     "2026-07-20T15": [
       {
+        "newsId": "8f227603-ca31-4478-b5a3-cb22316f389e",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company ....",
+        "announcedAt": "2026-07-20T15:59:51.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-07-20T15:59:51.193"
+      },
+      {
         "newsId": "bef9a075-908d-453d-b533-0c3154bb7a33",
         "scripCode": 538713,
         "shortName": "Atishay Ltd",
@@ -77,14 +86,34 @@
         "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
         "rawTime": "2026-07-20T12:00:58.017"
       }
+    ],
+    "2026-07-20T16": [
+      {
+        "newsId": "61e4e490-810c-4ca4-a772-c55d7e6c9fc0",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Government ....",
+        "announcedAt": "2026-07-20T16:48:03.960+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-07-20T16:48:03.96"
+      },
+      {
+        "newsId": "4d41c312-e505-4114-82e2-e5a2d6505317",
+        "scripCode": 543991,
+        "shortName": "Techknowgreen Solutions Ltd",
+        "headline": "Receipt of work order from Remal Alcast Private Limited",
+        "announcedAt": "2026-07-20T16:18:34.170+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
+        "rawTime": "2026-07-20T16:18:34.17"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-20T15:22:08.721+05:30",
-    "checksum": "6b8f82fd3ccc55ed4ef4ff1b2800502b8731ca807fceb76c0e26cfff91fb89e1",
-    "totalAnnouncements": 7,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-20T17:40:40.292+05:30",
+    "checksum": "6c87f4601f3fae4da56d6f3a866119e18bffdb1a55c17caafcf8cd234f41c77f",
+    "totalAnnouncements": 10,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-20/awards-152207.json"
+    "rawPayloadPath": "data/raw/2026-07-20/awards-174039.json"
   }
 }
