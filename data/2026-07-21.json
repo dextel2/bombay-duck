@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
         "rawTime": "2026-07-21T08:37:39.273"
       }
+    ],
+    "2026-07-21T11": [
+      {
+        "newsId": "fbc32383-cf36-42d8-8796-f711d0e3736b",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 2,34,03,750 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requireemnts) Regulation, 2015.",
+        "announcedAt": "2026-07-21T11:54:46.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-07-21T11:54:46.57"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-21T11:12:11.483+05:30",
-    "checksum": "fb71106128af1309f519b36817ccaa7eabd816ec46e885a944be7b008212f2a9",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-21T13:42:18.306+05:30",
+    "checksum": "858606c569ef9632f35e3562f6b35e2fd82007da163fe678d3d9467e66e58085",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-21/awards-111210.json"
+    "rawPayloadPath": "data/raw/2026-07-21/awards-134217.json"
   }
 }
