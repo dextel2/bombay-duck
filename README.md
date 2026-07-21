@@ -18,22 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-20 IST)
+### Today's Awarded Orders (2026-07-21 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-20 16:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Government .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 20 Jul 2026 - 16:48 |
-| 2026-07-20 16:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order from Remal Alcast Private Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 20 Jul 2026 - 16:18 |
-| 2026-07-20 15:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 20 Jul 2026 - 15:59 |
-| 2026-07-20 15:00 | Atishay Ltd | 538713 | The Company has been awarded a new Work Order from The Alwar Central Co Operative Bank Limited, Alwar for Supply of Micro ATMs, Order Value Rs. 47.71 Lakhs ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 20 Jul 2026 - 15:07 |
-| 2026-07-20 14:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 20 Jul 2026 - 14:23 |
-| 2026-07-20 13:00 | Atishay Ltd | 538713 | The company has executed a Software Development Agreement with Global Top Link Technologies Company Limited, Myanmar for the design, development, and deployment of an AI-Powered Centralized .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Neutral | 20 Jul 2026 - 13:42 |
-| 2026-07-20 12:00 | Bondada Engineering Ltd | 543971 | Announcement under Regulation 30 (LODR)_ Intimation of receipt of Notification of Award from NTPC Renewable Energy Limited ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 20 Jul 2026 - 12:00 |
-| 2026-07-20 10:00 | Lords Mark Industries Ltd | 501261 | Corporate announcement for work order ([Link](https://www.bseindia.com/stock-share-price/lords-mark-industries-ltd/lordsmark/501261/)) | Likely Positive | 20 Jul 2026 - 10:14 |
-| 2026-07-20 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Mega*) for Metals & Minerals Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Jul 2026 - 09:08 |
-| 2026-07-20 06:00 | VA Tech Wabag Ltd | 533269 | WABAG secures "Large'' Order inflow from BWSSB for Two Energy-Efficient Wastewater Treatment Facilities ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 20 Jul 2026 - 06:45 |
+| 2026-07-21 10:00 | Denta Water and Infra Solutions Ltd | 544345 | Update about two new orders received by Company 1. Intimation of receipt of letter of Acceptance (LOA) from KNNL amounting to Rs. 20,88,92,101 and 2. New order received by Company as a .... ([Link](https://www.bseindia.com/stock-share-price/denta-water-and-infra-solutions-ltd/denta/544345/)) | Likely Positive | 21 Jul 2026 - 10:57 |
+| 2026-07-21 10:00 | Batliboi Ltd-$ | 522004 | Receipt of work order with SAEL Industries Limited ([Link](https://www.bseindia.com/stock-share-price/batliboi-ltd/batliboi/522004/)) | Likely Positive | 21 Jul 2026 - 10:46 |
+| 2026-07-21 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 21 Jul 2026 - 08:37 |
 
-_Last updated: 20 Jul 2026 - 17:40 | Entries: 10 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-20.json)_
+_Last updated: 21 Jul 2026 - 11:12 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-21.json)_
 
 <!-- snapshot:end -->
 

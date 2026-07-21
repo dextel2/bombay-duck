@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-07-21",
+  "buckets": {
+    "2026-07-21T10": [
+      {
+        "newsId": "ae80c014-a2ed-4313-9daf-24bdfcac8f77",
+        "scripCode": 544345,
+        "shortName": "Denta Water and Infra Solutions Ltd",
+        "headline": "Update about two new orders received by Company 1. Intimation of receipt of letter of Acceptance (LOA) from KNNL amounting to Rs. 20,88,92,101 and 2. New order received by Company as a ....",
+        "announcedAt": "2026-07-21T10:57:47.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/denta-water-and-infra-solutions-ltd/denta/544345/",
+        "rawTime": "2026-07-21T10:57:47.883"
+      },
+      {
+        "newsId": "06fa7795-1f7d-44a7-95f7-fd9f4d9dbe65",
+        "scripCode": 522004,
+        "shortName": "Batliboi Ltd-$",
+        "headline": "Receipt of work order with SAEL Industries Limited",
+        "announcedAt": "2026-07-21T10:46:02.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/batliboi-ltd/batliboi/522004/",
+        "rawTime": "2026-07-21T10:46:02.173"
+      }
+    ],
+    "2026-07-21T08": [
+      {
+        "newsId": "8ff98b21-2672-4c3a-b6f8-a5a80e1cede0",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Execution of Power Purchase Agreement",
+        "announcedAt": "2026-07-21T08:37:39.273+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-07-21T08:37:39.273"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-21T11:12:11.483+05:30",
+    "checksum": "fb71106128af1309f519b36817ccaa7eabd816ec46e885a944be7b008212f2a9",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-21/awards-111210.json"
+  }
+}
