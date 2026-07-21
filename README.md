@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-21 15:00 | Takyon Networks Ltd | 544471 | This is to inform that company has received the order worth INR 261.86 lakhs from Indian Institute of Information Technology, Allahabad. ([Link](https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/)) | Likely Positive | 21 Jul 2026 - 15:31 |
+| 2026-07-21 14:00 | ZEN Technologies Ltd | 533339 | Intimation of receipt of order from Ministry of Defence, Government of India ([Link](https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/)) | Likely Positive | 21 Jul 2026 - 14:33 |
 | 2026-07-21 11:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,34,03,750 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requireemnts) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 21 Jul 2026 - 11:54 |
 | 2026-07-21 10:00 | Denta Water and Infra Solutions Ltd | 544345 | Update about two new orders received by Company 1. Intimation of receipt of letter of Acceptance (LOA) from KNNL amounting to Rs. 20,88,92,101 and 2. New order received by Company as a .... ([Link](https://www.bseindia.com/stock-share-price/denta-water-and-infra-solutions-ltd/denta/544345/)) | Likely Positive | 21 Jul 2026 - 10:57 |
 | 2026-07-21 10:00 | Batliboi Ltd-$ | 522004 | Receipt of work order with SAEL Industries Limited ([Link](https://www.bseindia.com/stock-share-price/batliboi-ltd/batliboi/522004/)) | Likely Positive | 21 Jul 2026 - 10:46 |
 | 2026-07-21 08:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 21 Jul 2026 - 08:37 |
 
-_Last updated: 21 Jul 2026 - 13:42 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-21.json)_
+_Last updated: 21 Jul 2026 - 16:29 | Entries: 6 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-21.json)_
 
 <!-- snapshot:end -->
 
