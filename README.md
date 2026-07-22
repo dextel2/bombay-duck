@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-22 13:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 (LODR) - Receipt of Purchase Order from Southern Railway ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Likely Positive | 22 Jul 2026 - 13:08 |
 | 2026-07-22 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 22 Jul 2026 - 10:14 |
 
-_Last updated: 22 Jul 2026 - 11:11 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-22.json)_
+_Last updated: 22 Jul 2026 - 13:42 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-22.json)_
 
 <!-- snapshot:end -->
 

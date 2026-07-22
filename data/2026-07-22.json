@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
         "rawTime": "2026-07-22T10:14:52.32"
       }
+    ],
+    "2026-07-22T13": [
+      {
+        "newsId": "2e8adf02-9dc7-4280-a705-cf4cd339abdd",
+        "scripCode": 544555,
+        "shortName": "Ameenji Rubber Ltd",
+        "headline": "Disclosure under Regulation 30 (LODR) - Receipt of Purchase Order from Southern Railway",
+        "announcedAt": "2026-07-22T13:08:59.427+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/",
+        "rawTime": "2026-07-22T13:08:59.427"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-22T11:11:07.272+05:30",
-    "checksum": "3de8249b7a36548ec72c2d44be5a377c9bcd6c652914cb0252d805e620bd78b2",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-22T13:42:48.875+05:30",
+    "checksum": "1f720eb3d74ae06db8d4cbf5f610362709969df19581c8dda15ad3270b83ebf9",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-22/awards-111106.json"
+    "rawPayloadPath": "data/raw/2026-07-22/awards-134248.json"
   }
 }
