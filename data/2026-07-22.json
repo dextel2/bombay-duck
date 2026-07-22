@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-22",
+  "buckets": {
+    "2026-07-22T10": [
+      {
+        "newsId": "b73d45b4-7294-4bdc-acec-ed211ac91edb",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL).",
+        "announcedAt": "2026-07-22T10:14:52.320+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-07-22T10:14:52.32"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-22T11:11:07.272+05:30",
+    "checksum": "3de8249b7a36548ec72c2d44be5a377c9bcd6c652914cb0252d805e620bd78b2",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-22/awards-111106.json"
+  }
+}
