@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-23",
+  "buckets": {
+    "2026-07-23T11": [
+      {
+        "newsId": "c692aa1c-4c35-4b1f-9a1c-b2f1d5dbb063",
+        "scripCode": 539006,
+        "shortName": "PTC Industries Ltd",
+        "headline": "As enclosed.",
+        "announcedAt": "2026-07-23T11:12:47.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
+        "rawTime": "2026-07-23T11:12:47.61"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-23T11:16:31.845+05:30",
+    "checksum": "9827b6fb6ab1e79c3e3ed52e8e59f93ff88eb9bdc5161c87a6355442eb5c1202",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-23/awards-111631.json"
+  }
+}

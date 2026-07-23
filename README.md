@@ -18,16 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-22 IST)
+### Today's Awarded Orders (2026-07-23 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-22 16:00 | Speciality Restaurants Ltd | 534425 | Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/speciality-restaurants-ltd/speciality/534425/)) | Neutral | 22 Jul 2026 - 16:05 |
-| 2026-07-22 13:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 22 Jul 2026 - 13:44 |
-| 2026-07-22 13:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 (LODR) - Receipt of Purchase Order from Southern Railway ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Likely Positive | 22 Jul 2026 - 13:08 |
-| 2026-07-22 10:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Paschim Gujarat Vij Company Limited (PGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 22 Jul 2026 - 10:14 |
+| 2026-07-23 11:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 23 Jul 2026 - 11:12 |
 
-_Last updated: 22 Jul 2026 - 16:30 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-22.json)_
+_Last updated: 23 Jul 2026 - 11:16 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-23.json)_
 
 <!-- snapshot:end -->
 
