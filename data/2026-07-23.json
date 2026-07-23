@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
         "rawTime": "2026-07-23T11:12:47.61"
       }
+    ],
+    "2026-07-23T16": [
+      {
+        "newsId": "7cd277af-88ed-4dfe-9b7a-b366fb655db1",
+        "scripCode": 544555,
+        "shortName": "Ameenji Rubber Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 with respect to the receipt of Letter of Acceptance",
+        "announcedAt": "2026-07-23T16:00:36.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/",
+        "rawTime": "2026-07-23T16:00:36.887"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-23T11:16:31.845+05:30",
-    "checksum": "9827b6fb6ab1e79c3e3ed52e8e59f93ff88eb9bdc5161c87a6355442eb5c1202",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-23T16:32:53.998+05:30",
+    "checksum": "5f2353245bb6eb2d95ebaa56db65a7b5fe2ab22f2d460eff864253e35317299a",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-23/awards-111631.json"
+    "rawPayloadPath": "data/raw/2026-07-23/awards-163253.json"
   }
 }

@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-23 16:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 with respect to the receipt of Letter of Acceptance ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Likely Positive | 23 Jul 2026 - 16:00 |
 | 2026-07-23 11:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 23 Jul 2026 - 11:12 |
 
-_Last updated: 23 Jul 2026 - 11:16 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-23.json)_
+_Last updated: 23 Jul 2026 - 16:32 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-23.json)_
 
 <!-- snapshot:end -->
 
