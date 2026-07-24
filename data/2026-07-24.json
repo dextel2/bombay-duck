@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-24",
+  "buckets": {
+    "2026-07-24T09": [
+      {
+        "newsId": "8cb7f76c-bac9-4cfc-9c7a-b896ce1f3b9f",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Heavy Engineering Wins Orders (Large*) in International Markets",
+        "announcedAt": "2026-07-24T09:25:11.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-07-24T09:25:11.86"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-24T11:12:37.411+05:30",
+    "checksum": "e31b68e12d533fa34b5fef443cde991da877ff037a384a74013eeff907adc0b9",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-24/awards-111236.json"
+  }
+}

@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-23 IST)
+### Today's Awarded Orders (2026-07-24 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-23 16:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 with respect to the receipt of Letter of Acceptance ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Likely Positive | 23 Jul 2026 - 16:00 |
-| 2026-07-23 11:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 23 Jul 2026 - 11:12 |
+| 2026-07-24 09:00 | Larsen & Toubro Ltd | 500510 | L&T Heavy Engineering Wins Orders (Large*) in International Markets ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Jul 2026 - 09:25 |
 
-_Last updated: 23 Jul 2026 - 16:32 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-23.json)_
+_Last updated: 24 Jul 2026 - 11:12 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-24.json)_
 
 <!-- snapshot:end -->
 
