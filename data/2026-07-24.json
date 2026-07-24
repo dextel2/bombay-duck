@@ -11,14 +11,63 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-07-24T09:25:11.86"
       }
+    ],
+    "2026-07-24T12": [
+      {
+        "newsId": "3dd65269-6be7-4b4c-9252-7ec8eb24d8be",
+        "scripCode": 517273,
+        "shortName": "S&S Power Switchgear Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Receipt of Order",
+        "announcedAt": "2026-07-24T12:00:50.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
+        "rawTime": "2026-07-24T12:00:50.36"
+      }
+    ],
+    "2026-07-24T11": [
+      {
+        "newsId": "af20c096-cecb-402a-91ef-b850342e30ee",
+        "scripCode": 539006,
+        "shortName": "PTC Industries Ltd",
+        "headline": "As enclosed.",
+        "announcedAt": "2026-07-24T11:57:15.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
+        "rawTime": "2026-07-24T11:57:15.21"
+      },
+      {
+        "newsId": "19956931-3946-4394-947e-1cf46e26a09c",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015-Receipt Order from Verka Dairy Ludhiana.",
+        "announcedAt": "2026-07-24T11:38:18.027+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-07-24T11:38:18.027"
+      },
+      {
+        "newsId": "d8105141-de65-4f53-a105-1b0fe71c6840",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "RMC SWITCHGEARS LIMITED RECEIVES ORDER WORTH RS. 28,447,125/-",
+        "announcedAt": "2026-07-24T11:32:57.377+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-07-24T11:32:57.377"
+      },
+      {
+        "newsId": "2aa22f17-849c-4a3a-880b-5d9d02b3addd",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "RMC SWITCHGEARS LIMITED recieves order worth Rs. 50,172,500/-",
+        "announcedAt": "2026-07-24T11:30:23.723+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-07-24T11:30:23.723"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-24T11:12:37.411+05:30",
-    "checksum": "e31b68e12d533fa34b5fef443cde991da877ff037a384a74013eeff907adc0b9",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-24T13:42:27.556+05:30",
+    "checksum": "7242249919fac73cebde62191e7ba5b4eb23f22ebb80bc267077cebb5d9525d5",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-24/awards-111236.json"
+    "rawPayloadPath": "data/raw/2026-07-24/awards-134225.json"
   }
 }

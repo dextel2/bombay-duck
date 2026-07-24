@@ -22,9 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-24 12:00 | S&S Power Switchgear Ltd | 517273 | Announcement under Regulation 30 (LODR) - Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/)) | Likely Positive | 24 Jul 2026 - 12:00 |
+| 2026-07-24 11:00 | PTC Industries Ltd | 539006 | As enclosed. ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 24 Jul 2026 - 11:57 |
+| 2026-07-24 11:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015-Receipt Order from Verka Dairy Ludhiana. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 24 Jul 2026 - 11:38 |
+| 2026-07-24 11:00 | RMC Switchgears Ltd | 540358 | RMC SWITCHGEARS LIMITED RECEIVES ORDER WORTH RS. 28,447,125/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 24 Jul 2026 - 11:32 |
+| 2026-07-24 11:00 | RMC Switchgears Ltd | 540358 | RMC SWITCHGEARS LIMITED recieves order worth Rs. 50,172,500/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 24 Jul 2026 - 11:30 |
 | 2026-07-24 09:00 | Larsen & Toubro Ltd | 500510 | L&T Heavy Engineering Wins Orders (Large*) in International Markets ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Jul 2026 - 09:25 |
 
-_Last updated: 24 Jul 2026 - 11:12 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-24.json)_
+_Last updated: 24 Jul 2026 - 13:42 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-24.json)_
 
 <!-- snapshot:end -->
 
