@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-24 11:00 | RMC Switchgears Ltd | 540358 | RMC SWITCHGEARS LIMITED recieves order worth Rs. 50,172,500/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 24 Jul 2026 - 11:30 |
 | 2026-07-24 09:00 | Larsen & Toubro Ltd | 500510 | L&T Heavy Engineering Wins Orders (Large*) in International Markets ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Jul 2026 - 09:25 |
 
-_Last updated: 24 Jul 2026 - 13:42 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-24.json)_
+_Last updated: 24 Jul 2026 - 16:27 | Entries: 6 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-24.json)_
 
 <!-- snapshot:end -->
 
