@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-25 14:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 25 Jul 2026 - 14:22 |
 | 2026-07-25 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Urban Development .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 25 Jul 2026 - 13:04 |
 
-_Last updated: 25 Jul 2026 - 15:09 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-25.json)_
+_Last updated: 25 Jul 2026 - 16:33 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-25.json)_
 
 <!-- snapshot:end -->
 
