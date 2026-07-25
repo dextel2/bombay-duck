@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
         "rawTime": "2026-07-25T13:04:13.9"
       }
+    ],
+    "2026-07-25T14": [
+      {
+        "newsId": "3652b76d-63e8-4a63-88c8-9261ae86b5f5",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Regulation 30 - Receipt of Purchase Order",
+        "announcedAt": "2026-07-25T14:22:00.163+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-07-25T14:22:00.163"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-25T13:24:01.054+05:30",
-    "checksum": "428ac50c4b68457599336a9a25b2ebcc2c2673c34304d9b1a37e11be0a1109d2",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-25T15:09:07.469+05:30",
+    "checksum": "d07675c3760d8d7d52df142be7df16824b45e983ff8655aa2c8565647d0e08c4",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-25/awards-132400.json"
+    "rawPayloadPath": "data/raw/2026-07-25/awards-150906.json"
   }
 }
