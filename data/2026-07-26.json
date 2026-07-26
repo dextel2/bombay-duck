@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/hind-rectifiers-ltd/hirect/504036/",
         "rawTime": "2026-07-26T09:55:26.207"
       }
+    ],
+    "2026-07-26T11": [
+      {
+        "newsId": "349caac8-2250-4b95-8e8a-5c417f898ce7",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "Two ground mounted Solar PV plants with aggregating capacity of 800 MWac/1082 MWp",
+        "announcedAt": "2026-07-26T11:41:57.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2026-07-26T11:41:57.05"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-26T11:22:41.019+05:30",
-    "checksum": "239976c23a38e70e79cf6f2e50064533bc94c1d3d313b919b20493621ce21d57",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-26T13:42:30.395+05:30",
+    "checksum": "512a5e52aef0e4673159bafb50b1d4836ae2819032691ae9803aaa6c10a1ad29",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-26/awards-112240.json"
+    "rawPayloadPath": "data/raw/2026-07-26/awards-134229.json"
   }
 }
