@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-25 IST)
+### Today's Awarded Orders (2026-07-26 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-25 14:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 25 Jul 2026 - 14:22 |
-| 2026-07-25 13:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Urban Development .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 25 Jul 2026 - 13:04 |
+| 2026-07-26 09:00 | Hind Rectifiers Ltd | 504036 | The Company has secured its maiden order for Mainline Electric Multiple Unit (MEMU) trainsets from Modern Coach Factory ([Link](https://www.bseindia.com/stock-share-price/hind-rectifiers-ltd/hirect/504036/)) | Likely Positive | 26 Jul 2026 - 09:55 |
 
-_Last updated: 25 Jul 2026 - 16:33 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-07-25.json)_
+_Last updated: 26 Jul 2026 - 11:22 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-26.json)_
 
 <!-- snapshot:end -->
 

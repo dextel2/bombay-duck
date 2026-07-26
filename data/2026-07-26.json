@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-26",
+  "buckets": {
+    "2026-07-26T09": [
+      {
+        "newsId": "a31d8ce6-a6f3-4f24-8eba-649ea437ce91",
+        "scripCode": 504036,
+        "shortName": "Hind Rectifiers Ltd",
+        "headline": "The Company has secured its maiden order for Mainline Electric Multiple Unit (MEMU) trainsets from Modern Coach Factory",
+        "announcedAt": "2026-07-26T09:55:26.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hind-rectifiers-ltd/hirect/504036/",
+        "rawTime": "2026-07-26T09:55:26.207"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-26T11:22:41.019+05:30",
+    "checksum": "239976c23a38e70e79cf6f2e50064533bc94c1d3d313b919b20493621ce21d57",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-26/awards-112240.json"
+  }
+}
