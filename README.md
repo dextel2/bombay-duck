@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-26 11:00 | Waaree Renewable Technologies Ltd | 534618 | Two ground mounted Solar PV plants with aggregating capacity of 800 MWac/1082 MWp ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 26 Jul 2026 - 11:41 |
 | 2026-07-26 09:00 | Hind Rectifiers Ltd | 504036 | The Company has secured its maiden order for Mainline Electric Multiple Unit (MEMU) trainsets from Modern Coach Factory ([Link](https://www.bseindia.com/stock-share-price/hind-rectifiers-ltd/hirect/504036/)) | Likely Positive | 26 Jul 2026 - 09:55 |
 
-_Last updated: 26 Jul 2026 - 13:42 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-26.json)_
+_Last updated: 26 Jul 2026 - 16:07 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-26.json)_
 
 <!-- snapshot:end -->
 
