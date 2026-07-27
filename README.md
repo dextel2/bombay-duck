@@ -18,14 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-26 IST)
+### Today's Awarded Orders (2026-07-27 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-26 11:00 | Waaree Renewable Technologies Ltd | 534618 | Two ground mounted Solar PV plants with aggregating capacity of 800 MWac/1082 MWp ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 26 Jul 2026 - 11:41 |
-| 2026-07-26 09:00 | Hind Rectifiers Ltd | 504036 | The Company has secured its maiden order for Mainline Electric Multiple Unit (MEMU) trainsets from Modern Coach Factory ([Link](https://www.bseindia.com/stock-share-price/hind-rectifiers-ltd/hirect/504036/)) | Likely Positive | 26 Jul 2026 - 09:55 |
+| 2026-07-27 11:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015-Receipt of Significant International Purchase Orders. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 27 Jul 2026 - 11:33 |
+| 2026-07-27 11:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 27 Jul 2026 - 11:30 |
+| 2026-07-27 10:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Board of Revenue Government of Uttar Pradesh of contract value of Rs. 8132756.4. For further details, kindly refer .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 27 Jul 2026 - 10:26 |
+| 2026-07-27 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 27 Jul 2026 - 08:27 |
 
-_Last updated: 26 Jul 2026 - 16:07 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-26.json)_
+_Last updated: 27 Jul 2026 - 11:50 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-27.json)_
 
 <!-- snapshot:end -->
 

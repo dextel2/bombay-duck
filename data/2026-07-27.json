@@ -1,0 +1,55 @@
+{
+  "tradingDate": "2026-07-27",
+  "buckets": {
+    "2026-07-27T11": [
+      {
+        "newsId": "bd1f0bdc-e76d-4d7b-9e69-fe3a00cfc02d",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015-Receipt of Significant International Purchase Orders.",
+        "announcedAt": "2026-07-27T11:33:04.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-07-27T11:33:04.47"
+      },
+      {
+        "newsId": "fa97b94c-9099-4cbb-bf97-70673159edbc",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Order received from Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL).",
+        "announcedAt": "2026-07-27T11:30:48.287+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-07-27T11:30:48.287"
+      }
+    ],
+    "2026-07-27T10": [
+      {
+        "newsId": "80afa2cc-5055-4fe8-b638-a6704d4d41dd",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from Board of Revenue Government of Uttar Pradesh of contract value of Rs. 8132756.4. For further details, kindly refer ....",
+        "announcedAt": "2026-07-27T10:26:10.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-07-27T10:26:10.42"
+      }
+    ],
+    "2026-07-27T08": [
+      {
+        "newsId": "d28dedd9-2eb7-4f81-ae5f-b6d2a9e21ad3",
+        "scripCode": 532144,
+        "shortName": "Welspun Corp Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-07-27T08:27:04.333+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
+        "rawTime": "2026-07-27T08:27:04.333"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-27T11:50:27.393+05:30",
+    "checksum": "221a8c16a0f10b58f4cbebd0ba4c91fc69cd7a219baa4b864ba47f4a09afe571",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-27/awards-115026.json"
+  }
+}
