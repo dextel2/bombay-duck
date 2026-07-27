@@ -22,12 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-27 15:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI(LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Daimler India Commercial .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 27 Jul 2026 - 15:45 |
+| 2026-07-27 14:00 | Larsen & Toubro Ltd | 500510 | L&T wins (Major*) Order for Residential, commercial Buildings & Factories Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 27 Jul 2026 - 14:45 |
+| 2026-07-27 14:00 | SBC Exports Ltd | 542725 | Work Order received from NICSI for an amount of Rs. 52,19,862/-. ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 27 Jul 2026 - 14:39 |
 | 2026-07-27 11:00 | Shelter Pharma Ltd | 543963 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015-Receipt of Significant International Purchase Orders. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 27 Jul 2026 - 11:33 |
 | 2026-07-27 11:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order received from Rajasthan Rajya Vidyut Prasaran Nigam Limited (RVPNL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 27 Jul 2026 - 11:30 |
 | 2026-07-27 10:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Board of Revenue Government of Uttar Pradesh of contract value of Rs. 8132756.4. For further details, kindly refer .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 27 Jul 2026 - 10:26 |
 | 2026-07-27 08:00 | Welspun Corp Ltd | 532144 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 27 Jul 2026 - 08:27 |
 
-_Last updated: 27 Jul 2026 - 11:50 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-27.json)_
+_Last updated: 27 Jul 2026 - 16:04 | Entries: 7 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-27.json)_
 
 <!-- snapshot:end -->
 
