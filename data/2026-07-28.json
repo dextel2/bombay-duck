@@ -64,14 +64,34 @@
         "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
         "rawTime": "2026-07-28T11:29:24.257"
       }
+    ],
+    "2026-07-28T15": [
+      {
+        "newsId": "afebce17-2ff2-4123-8a1c-9241485ab35d",
+        "scripCode": 532365,
+        "shortName": "Dynacons Systems & Solutions Ltd",
+        "headline": "Please find enclosed intimation under Regulation 30 of SEBI(LODR) Regulation for receipt of order worth Rs. 267.58 crores (excluding GST) from NPCI",
+        "announcedAt": "2026-07-28T15:31:14.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/",
+        "rawTime": "2026-07-28T15:31:14.133"
+      },
+      {
+        "newsId": "08c10072-a8be-406f-92bf-e555aa93503e",
+        "scripCode": 544561,
+        "shortName": "Chiraharit Ltd",
+        "headline": "We wish to inform your esteemed organization that the Company has received a Purchase Order from Eagle Agrotech Tanzania Limited for Supply and installation of Center Pivot Irrigation System.",
+        "announcedAt": "2026-07-28T15:10:49.807+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/",
+        "rawTime": "2026-07-28T15:10:49.807"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-28T13:50:56.637+05:30",
-    "checksum": "9053f786a29969970575a0f2e830d399c967794073e4e571a6b3911699fec833",
-    "totalAnnouncements": 6,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-28T16:40:06.255+05:30",
+    "checksum": "e5382044fe991dd9183f74923da0a03c8b8191a3242be748e11b583492a9183d",
+    "totalAnnouncements": 8,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-28/awards-135054.json"
+    "rawPayloadPath": "data/raw/2026-07-28/awards-164005.json"
   }
 }
