@@ -22,14 +22,56 @@
         "url": "https://www.bseindia.com/stock-share-price/om-infra-ltd/ominfral/531092/",
         "rawTime": "2026-07-28T07:55:36.01"
       }
+    ],
+    "2026-07-28T13": [
+      {
+        "newsId": "4f391b4f-2751-43b7-b51e-806a56c9e9bb",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Receiving Orders toatal value of Rs.107.42 lakhs",
+        "announcedAt": "2026-07-28T13:27:05.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-07-28T13:27:05.27"
+      }
+    ],
+    "2026-07-28T12": [
+      {
+        "newsId": "39813d25-ac04-472b-87a4-44da545e0569",
+        "scripCode": 544796,
+        "shortName": "Liotech Industries Ltd",
+        "headline": "Pursuant to Reg. 30 read with schedule III of SEBI(LODR)Regulation, 2015, we wish to inform you that the company has received purchase orders aggregating to Rs. 6.46 cr for the supply of ....",
+        "announcedAt": "2026-07-28T12:30:48.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/liotech-industries-ltd/liotech/544796/",
+        "rawTime": "2026-07-28T12:30:48.867"
+      }
+    ],
+    "2026-07-28T11": [
+      {
+        "newsId": "b738035a-2b46-42b5-837d-a14d83100224",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited has been declared as L-1 bidder for the project 'Construction of Sikasar to Kodar Reservoir Link Canal (Pipeline) on Lump-sum mode order worth Rs. 2524.32 Crores.",
+        "announcedAt": "2026-07-28T11:49:10.243+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-07-28T11:49:10.243"
+      },
+      {
+        "newsId": "4511a339-5540-48c8-9286-98fdfc1a2fda",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of receipt of order for Technical Services",
+        "announcedAt": "2026-07-28T11:29:24.257+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-07-28T11:29:24.257"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-28T11:09:47.254+05:30",
-    "checksum": "b7b6adbf5c47d5fa1a2129b37e8a01ac7736b77305a3410a2bdb9d6baa8bd599",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-28T13:50:56.637+05:30",
+    "checksum": "9053f786a29969970575a0f2e830d399c967794073e4e571a6b3911699fec833",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-28/awards-110946.json"
+    "rawPayloadPath": "data/raw/2026-07-28/awards-135054.json"
   }
 }
