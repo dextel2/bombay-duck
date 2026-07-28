@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-07-28",
+  "buckets": {
+    "2026-07-28T09": [
+      {
+        "newsId": "69228a1a-f075-4230-95a9-cb4ab7d46ce3",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Secures Framework Agreement (Ultra-Mega*) with TenneT for 2 GW Offshore Wind Programme",
+        "announcedAt": "2026-07-28T09:14:34.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-07-28T09:14:34.43"
+      }
+    ],
+    "2026-07-28T07": [
+      {
+        "newsId": "8af5c59d-f656-4b27-89b3-df5730206d01",
+        "scripCode": 531092,
+        "shortName": "OM Infra Ltd",
+        "headline": "Om Infra hereby informs that the Company is lowest bidder for Water Resource Project in Chhattisgarh valued at Rs. 568.98 crores",
+        "announcedAt": "2026-07-28T07:55:36.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-infra-ltd/ominfral/531092/",
+        "rawTime": "2026-07-28T07:55:36.01"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-28T11:09:47.254+05:30",
+    "checksum": "b7b6adbf5c47d5fa1a2129b37e8a01ac7736b77305a3410a2bdb9d6baa8bd599",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-28/awards-110946.json"
+  }
+}
