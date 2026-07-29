@@ -1,4 +1,4 @@
-﻿# Contributing
+# Contributing
 
 Thanks for your interest in improving Bombay Duck! Follow these steps to make sure changes land smoothly.
 
@@ -14,6 +14,20 @@ Thanks for your interest in improving Bombay Duck! Follow these steps to make su
   ```
 - Create an `.env.local` if you want to define overrides (e.g. `FORCE_RUN=true`).
 - Run `npm run guard`, `npm run fetch`, `npm run merge`, and `npm run render` to verify the full pipeline.
+
+### Resilience / rate-limit environment variables
+
+These are optional; defaults are shown in parentheses.
+
+| Variable | Default | Purpose |
+| -------- | ------- | ------- |
+| `MAX_ATTEMPTS` | `4` | Maximum HTTP attempts per fetch |
+| `BASE_RETRY_DELAY_MS` | `2000` | Initial backoff delay (ms) |
+| `RETRY_FACTOR` | `2` | Multiplier applied after each failed attempt |
+| `FAILURE_THRESHOLD` | `3` | Consecutive failures before cool-off starts |
+| `COOL_OFF_MS` | `1800000` (30 min) | Duration of the cool-off window |
+
+When cool-off is active the fetch step exits successfully and records the reason in the GitHub Step Summary so the workflow does not appear red.
 
 ## 3. Coding Guidelines
 - Stick to TypeScript in `src/`; compiled artifacts in `dist/` are generated automatically.
