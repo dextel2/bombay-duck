@@ -1,9 +1,16 @@
-﻿# ⚠️ Known Issues
+# ⚠️ Known Issues
 
 ## ⏱️ Rate Limiting & API Availability
 
-- The BSE endpoint is unauthenticated and may throttle heavy usage. Although the workflow enforces a 60-second delay between fetches, repeated failures might require a longer cool-off period or manual retry.
-- BSE occasionally deploys changes without notice. If the JSON contract changes, the fetch script may break. Refer to the **Step Summary** output for the `rawPayloadPath`, and inspect the corresponding files under `data/raw/<date>/` to debug differences.
+**Partially mitigated** (see #30).
+
+- The BSE endpoint remains unauthenticated. The fetcher now supports:
+  - Configurable retries via `MAX_ATTEMPTS`, `BASE_RETRY_DELAY_MS`, and `RETRY_FACTOR`.
+  - A cool-off window (`COOL_OFF_MS`, default 30 min) after `FAILURE_THRESHOLD` (default 3) consecutive failures.
+  - Honouring a `Retry-After` response header when present.
+  - Minimal schema validation so a changed JSON contract fails loudly instead of producing silent empty data.
+- Residual risk: prolonged BSE outages or aggressive throttling can still exhaust retries. When cool-off is active the workflow skips the fetch and records the reason in the Step Summary.
+- If the JSON contract changes, inspect the raw payload under `data/raw/<date>/` and the Step Summary for the validation error message.
 
 ## 📅 Trading Calendar Assumptions
 
@@ -21,5 +28,5 @@
 
 ## 🧪 Local Development Footprint
 
-- Local fetches still hit the live BSE endpoint and are subject to the same rate limits. During development, prefer using **mocked responses** to avoid unnecessary API calls.
+- Local fetches still hit the live BSE endpoint and are subject to the same rate limits and cool-off logic. During development, prefer using **mocked responses** to avoid unnecessary API calls.
 - The `data/` directory is partially `.gitignore`-d. Ensure only the relevant **daily JSON state file** and **README updates** are committed.
