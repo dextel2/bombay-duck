@@ -1,8 +1,14 @@
 /**
  * Fetch the latest BSE "Award of Order / Receipt of Order" announcements,
  * persist raw payloads, and expose structured outputs for downstream steps.
+ *
+ * Resilience (see #30):
+ * - Configurable retry / backoff via env vars
+ * - Cross-run cool-off after consecutive hard failures
+ * - Honour Retry-After response header when present
+ * - Lightweight response-shape validation
  */
-import axios from "axios";
+import axios, { AxiosError } from "axios";
 import { writeFile } from "fs/promises";
 import path from "path";
 import { setTimeout as delay } from "timers/promises";
@@ -10,6 +16,9 @@ import {
   ensureDir,
   writeJsonFile,
   enforceRateLimit,
+  isCoolOffActive,
+  recordFetchSuccess,
+  recordFetchFailure,
   createChecksum,
   currentTradingDate,
   formatQueryDate,
@@ -22,9 +31,17 @@ import { Announcement, BseApiResponse, FetchSnapshot } from "@/types";
 const API_ENDPOINT = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w";
 const RAW_DIR = path.join("data", "raw");
 const SNAPSHOT_FILE = path.join("data", "latest-fetch.json");
-const MAX_ATTEMPTS = 4;
-const BASE_RETRY_DELAY_MS = 2_000;
-const RETRY_FACTOR = 2;
+
+function parseEnvInt(key: string, defaultValue: number): number {
+  const raw = process.env[key];
+  if (!raw) return defaultValue;
+  const value = Number.parseInt(raw, 10);
+  return Number.isFinite(value) && value > 0 ? value : defaultValue;
+}
+
+const MAX_ATTEMPTS = parseEnvInt("MAX_ATTEMPTS", 5);
+const BASE_RETRY_DELAY_MS = parseEnvInt("BASE_RETRY_DELAY_MS", 2_000);
+const RETRY_FACTOR = parseEnvInt("RETRY_FACTOR", 2);
 
 /** Build the query URL used to poll the BSE API for a specific trading day. */
 function buildRequestUrl(dateString: string): string {
@@ -69,6 +86,36 @@ function normaliseAnnouncements(payload: BseApiResponse): Announcement[] {
 }
 
 /**
+ * Lightweight structural check so a silent API contract change fails loudly.
+ */
+function assertPayloadShape(payload: unknown): asserts payload is BseApiResponse {
+  if (payload === null || typeof payload !== "object") {
+    throw new Error("BSE API response is not an object — possible contract change.");
+  }
+
+  const candidate = payload as BseApiResponse;
+
+  // Table may be missing or empty on quiet days; when present it must be an array.
+  if (candidate.Table !== undefined && !Array.isArray(candidate.Table)) {
+    throw new Error(
+      "BSE API response.Table is present but not an array — possible contract change."
+    );
+  }
+
+  if (Array.isArray(candidate.Table) && candidate.Table.length > 0) {
+    const sample = candidate.Table[0] as Record<string, unknown>;
+    const required = ["NEWSID", "SCRIP_CD"];
+    for (const key of required) {
+      if (!(key in sample)) {
+        throw new Error(
+          `BSE API announcement is missing required field "${key}" — possible contract change.`
+        );
+      }
+    }
+  }
+}
+
+/**
  * Publish structured announcement data as GitHub Actions outputs for optional
  * downstream jobs.
  */
@@ -90,37 +137,63 @@ async function writeGithubOutputs(tradingDate: string, announcements: Announceme
 /**
  * Append a rich summary of the fetch results to the GitHub Step Summary panel.
  */
-async function writeRunSummary(snapshot: FetchSnapshot): Promise<void> {
+async function writeRunSummary(
+  snapshot: FetchSnapshot | null,
+  extraLines: string[] = []
+): Promise<void> {
   const summaryFile = process.env.GITHUB_STEP_SUMMARY;
   if (!summaryFile) return;
 
   const lines: string[] = [];
-  lines.push(`### BSE Award of Order - ${snapshot.meta.tradingDate}`);
-  lines.push("");
 
-  if (snapshot.announcements.length === 0) {
-    lines.push("No announcements recorded in this poll.");
-  } else {
-    lines.push("| # | Company | Code | Time (IST) | Headline | Link |");
-    lines.push("| - | ------- | ---- | ---------- | -------- | ---- |");
+  if (snapshot) {
+    lines.push(`### BSE Award of Order - ${snapshot.meta.tradingDate}`);
+    lines.push("");
 
-    snapshot.announcements.forEach((announcement, index) => {
-      const safeHeadline = announcement.headline.replace(/\|/g, "\\|");
-      const safeCompany = announcement.shortName.replace(/\|/g, "\\|");
-      const link = announcement.url ? `[Open](${announcement.url})` : "-";
-      lines.push(
-        `| ${index + 1} | ${safeCompany} | ${announcement.scripCode} | ${announcement.announcedAt} | ${safeHeadline} | ${link} |`
-      );
-    });
+    if (snapshot.announcements.length === 0) {
+      lines.push("No announcements recorded in this poll.");
+    } else {
+      lines.push("| # | Company | Code | Time (IST) | Headline | Link |");
+      lines.push("| - | ------- | ---- | ---------- | -------- | ---- |");
+
+      snapshot.announcements.forEach((announcement, index) => {
+        const safeHeadline = announcement.headline.replace(/\|/g, "\\|");
+        const safeCompany = announcement.shortName.replace(/\|/g, "\\|");
+        const link = announcement.url ? `[Open](${announcement.url})` : "-";
+        lines.push(
+          `| ${index + 1} | ${safeCompany} | ${announcement.scripCode} | ${announcement.announcedAt} | ${safeHeadline} | ${link} |`
+        );
+      });
+    }
+
+    lines.push("");
+    lines.push(
+      `Meta: fetched at ${snapshot.meta.fetchedAt} (IST) | Retries: ${snapshot.meta.retryCount} | Waited: ${snapshot.meta.throttleWaitMs}ms`
+    );
+    lines.push(`Raw payload: ${snapshot.rawPayloadPath}`);
   }
 
-  lines.push("");
-  lines.push(
-    `Meta: fetched at ${snapshot.meta.fetchedAt} (IST) | Retries: ${snapshot.meta.retryCount} | Waited: ${snapshot.meta.throttleWaitMs}ms`
-  );
-  lines.push(`Raw payload: ${snapshot.rawPayloadPath}`);
+  for (const line of extraLines) {
+    lines.push(line);
+  }
 
   await writeFile(summaryFile, `${lines.join("\n")}\n`, { flag: "a" });
+}
+
+/** Extract Retry-After delay in milliseconds from an Axios error, if present. */
+function getRetryAfterMs(error: unknown): number | null {
+  if (!axios.isAxiosError(error)) return null;
+  const header = error.response?.headers?.["retry-after"];
+  if (!header) return null;
+
+  const asNumber = Number.parseInt(String(header), 10);
+  if (Number.isFinite(asNumber) && asNumber > 0) {
+    // Header value is seconds
+    return asNumber * 1_000;
+  }
+
+  // HTTP-date form is uncommon here; ignore for now
+  return null;
 }
 
 /** Perform a single HTTP GET against the BSE API. */
@@ -131,18 +204,23 @@ export async function fetchPayload(url: string): Promise<BseApiResponse> {
       origin: "https://www.bseindia.com",
       referer: "https://www.bseindia.com/",
       "user-agent": "@dextel2/bombay-duck/1.0",
-      "x-requested-with": "XMLHttpRequest",
+      "x-requested-with": "XMLHttpRequest"
     },
-    timeout: 15_000, // 15 seconds
+    timeout: 15_000 // 15 seconds
   });
 
-  return response.data ?? { Table: [], Table1: [] };
+  const data = response.data ?? { Table: [], Table1: [] };
+  assertPayloadShape(data);
+  return data;
 }
 
 /**
- * Retry wrapper around {@link fetchPayload} using exponential backoff.
+ * Retry wrapper around {@link fetchPayload} using exponential backoff and
+ * optional Retry-After header.
  */
-async function fetchWithRetry(url: string): Promise<{ payload: BseApiResponse; retries: number }> {
+async function fetchWithRetry(
+  url: string
+): Promise<{ payload: BseApiResponse; retries: number }> {
   let attempt = 0;
   let waitMs = BASE_RETRY_DELAY_MS;
 
@@ -155,11 +233,22 @@ async function fetchWithRetry(url: string): Promise<{ payload: BseApiResponse; r
       if (attempt >= MAX_ATTEMPTS) {
         throw error;
       }
+
+      const retryAfterMs = getRetryAfterMs(error);
+      const actualWait = retryAfterMs ?? waitMs;
+
+      const reason =
+        axios.isAxiosError(error) && error.response
+          ? `HTTP ${error.response.status}`
+          : (error as Error).message;
+
       console.warn(
-        `Fetch attempt ${attempt} failed (will retry after ${waitMs}ms): ${(error as Error).message}`
+        `Fetch attempt ${attempt}/${MAX_ATTEMPTS} failed (${reason}); retrying after ${actualWait}ms` +
+          (retryAfterMs ? " (Retry-After)" : "")
       );
-      await delay(waitMs);
-      waitMs *= RETRY_FACTOR;
+
+      await delay(actualWait);
+      waitMs = Math.min(waitMs * RETRY_FACTOR, 120_000); // cap at 2 minutes
     }
   }
 
@@ -170,6 +259,24 @@ async function fetchWithRetry(url: string): Promise<{ payload: BseApiResponse; r
  * Entry point executed by the GitHub Action step.
  */
 async function main(): Promise<void> {
+  // --- Cool-off gate ---
+  const coolOff = await isCoolOffActive();
+  if (coolOff.active) {
+    const remainingMin = Math.ceil(coolOff.remainingMs / 60_000);
+    const msg = `Cool-off active until ${coolOff.until} (~${remainingMin} min remaining). Skipping fetch to avoid further throttling.`;
+    console.log(`[fetch] ${msg}`);
+    await writeRunSummary(null, [
+      "### Cool-off active",
+      "",
+      msg,
+      "",
+      "Consecutive failures exceeded the threshold. The next successful run will clear cool-off automatically."
+    ]);
+    // Exit 0 so the workflow does not look red during intentional cool-off
+    process.exitCode = 0;
+    return;
+  }
+
   const istNow = nowInIST();
   const queryDate = formatQueryDate(istNow);
   const tradingDate = currentTradingDate();
@@ -177,39 +284,67 @@ async function main(): Promise<void> {
 
   const throttleWaitMs = await enforceRateLimit();
 
-  const { payload, retries } = await fetchWithRetry(requestUrl);
+  try {
+    const { payload, retries } = await fetchWithRetry(requestUrl);
 
-  const announcements = normaliseAnnouncements(payload);
-  const fetchedAt = toIsoString(nowInIST());
+    const announcements = normaliseAnnouncements(payload);
+    const fetchedAt = toIsoString(nowInIST());
 
-  const tradingDateDir = path.join(RAW_DIR, tradingDate);
-  await ensureDir(tradingDateDir);
-  const rawFileName = `awards-${istNow.toFormat("HHmmss")}.json`;
-  const rawPayloadPath = path.join("data", "raw", tradingDate, rawFileName);
-  await writeJsonFile(path.join(tradingDateDir, rawFileName), payload);
+    const tradingDateDir = path.join(RAW_DIR, tradingDate);
+    await ensureDir(tradingDateDir);
+    const rawFileName = `awards-${istNow.toFormat("HHmmss")}.json`;
+    const rawPayloadPath = path.join("data", "raw", tradingDate, rawFileName);
+    await writeJsonFile(path.join(tradingDateDir, rawFileName), payload);
 
-  const snapshot: FetchSnapshot = {
-    meta: {
-      requestUrl,
-      tradingDate,
-      fetchedAt,
-      retryCount: retries,
-      throttleWaitMs,
-      totalAnnouncements: announcements.length
-    },
-    announcements,
-    rawPayloadPath
-  };
+    const snapshot: FetchSnapshot = {
+      meta: {
+        requestUrl,
+        tradingDate,
+        fetchedAt,
+        retryCount: retries,
+        throttleWaitMs,
+        totalAnnouncements: announcements.length
+      },
+      announcements,
+      rawPayloadPath
+    };
 
-  await writeJsonFile(SNAPSHOT_FILE, snapshot);
+    await writeJsonFile(SNAPSHOT_FILE, snapshot);
 
-  const checksum = createChecksum(announcements.map((item) => item.newsId));
-  console.log(`Fetched ${announcements.length} announcements for ${tradingDate}. checksum=${checksum}`);
-  await writeGithubOutputs(tradingDate, announcements);
-  await writeRunSummary(snapshot);
+    await recordFetchSuccess();
+
+    const checksum = createChecksum(announcements.map((item) => item.newsId));
+    console.log(
+      `Fetched ${announcements.length} announcements for ${tradingDate}. checksum=${checksum} retries=${retries}`
+    );
+    await writeGithubOutputs(tradingDate, announcements);
+    await writeRunSummary(snapshot);
+  } catch (error) {
+    const failure = await recordFetchFailure();
+    const errMsg = (error as Error).message;
+
+    console.error("Failed to fetch BSE award announcements:", errMsg);
+
+    const summaryLines = [
+      "### Fetch failure",
+      "",
+      `Error: ${errMsg}`,
+      `Consecutive failures: ${failure.consecutiveFailures}`,
+      ""
+    ];
+
+    if (failure.coolOffStarted) {
+      summaryLines.push(
+        `**Cool-off started** until ${failure.coolOffUntil}. Subsequent runs will skip the network call until that time.`
+      );
+    }
+
+    await writeRunSummary(null, summaryLines);
+    process.exitCode = 1;
+  }
 }
 
 main().catch((error) => {
-  console.error("Failed to fetch BSE award announcements:", error);
+  console.error("Unexpected failure in fetch-bse-awards:", error);
   process.exitCode = 1;
 });
