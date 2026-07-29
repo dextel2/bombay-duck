@@ -18,20 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-28 IST)
+### Today's Awarded Orders (2026-07-29 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-28 15:00 | Dynacons Systems & Solutions Ltd | 532365 | Please find enclosed intimation under Regulation 30 of SEBI(LODR) Regulation for receipt of order worth Rs. 267.58 crores (excluding GST) from NPCI ([Link](https://www.bseindia.com/stock-share-price/dynacons-systems--solutions-ltd/dssl/532365/)) | Likely Positive | 28 Jul 2026 - 15:31 |
-| 2026-07-28 15:00 | Chiraharit Ltd | 544561 | We wish to inform your esteemed organization that the Company has received a Purchase Order from Eagle Agrotech Tanzania Limited for Supply and installation of Center Pivot Irrigation System. ([Link](https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/)) | Likely Positive | 28 Jul 2026 - 15:10 |
-| 2026-07-28 13:00 | Airfloa Rail Technology Ltd | 544516 | Receiving Orders toatal value of Rs.107.42 lakhs ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 28 Jul 2026 - 13:27 |
-| 2026-07-28 12:00 | Liotech Industries Ltd | 544796 | Pursuant to Reg. 30 read with schedule III of SEBI(LODR)Regulation, 2015, we wish to inform you that the company has received purchase orders aggregating to Rs. 6.46 cr for the supply of .... ([Link](https://www.bseindia.com/stock-share-price/liotech-industries-ltd/liotech/544796/)) | Likely Positive | 28 Jul 2026 - 12:30 |
-| 2026-07-28 11:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has been declared as L-1 bidder for the project 'Construction of Sikasar to Kodar Reservoir Link Canal (Pipeline) on Lump-sum mode order worth Rs. 2524.32 Crores. ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Likely Positive | 28 Jul 2026 - 11:49 |
-| 2026-07-28 11:00 | Icon Facilitators Ltd | 544426 | Intimation of receipt of order for Technical Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 28 Jul 2026 - 11:29 |
-| 2026-07-28 09:00 | Larsen & Toubro Ltd | 500510 | L&T Secures Framework Agreement (Ultra-Mega*) with TenneT for 2 GW Offshore Wind Programme ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Neutral | 28 Jul 2026 - 09:14 |
-| 2026-07-28 07:00 | OM Infra Ltd | 531092 | Om Infra hereby informs that the Company is lowest bidder for Water Resource Project in Chhattisgarh valued at Rs. 568.98 crores ([Link](https://www.bseindia.com/stock-share-price/om-infra-ltd/ominfral/531092/)) | Neutral | 28 Jul 2026 - 07:55 |
+| 2026-07-29 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from South East .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 29 Jul 2026 - 10:52 |
+| 2026-07-29 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Major* Order from Kuwait Oil Company for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 29 Jul 2026 - 09:38 |
 
-_Last updated: 28 Jul 2026 - 16:40 | Entries: 8 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-28.json)_
+_Last updated: 29 Jul 2026 - 11:14 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-29.json)_
 
 <!-- snapshot:end -->
 

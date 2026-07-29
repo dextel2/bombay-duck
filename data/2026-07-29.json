@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-07-29",
+  "buckets": {
+    "2026-07-29T10": [
+      {
+        "newsId": "fba6ce99-cded-4ace-9493-2fde51e3a31c",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from South East ....",
+        "announcedAt": "2026-07-29T10:52:17.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-07-29T10:52:17.31"
+      }
+    ],
+    "2026-07-29T09": [
+      {
+        "newsId": "2dd40bd2-da57-4456-9839-3801037c1ad5",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Major* Order from Kuwait Oil Company for Hydrocarbon Onshore Business",
+        "announcedAt": "2026-07-29T09:38:04.470+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-07-29T09:38:04.47"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-29T11:14:00.129+05:30",
+    "checksum": "75c6c979acb990d091a219676488283723e41388a1d1f25a507290e9d850c8a6",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-29/awards-111359.json"
+  }
+}
