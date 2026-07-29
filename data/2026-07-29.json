@@ -60,14 +60,34 @@
         "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
         "rawTime": "2026-07-29T12:03:10.853"
       }
+    ],
+    "2026-07-29T15": [
+      {
+        "newsId": "8ccf451c-53d7-434d-b1cb-5a35ef23bb83",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new work order of Rs. 91.57 Crores",
+        "announcedAt": "2026-07-29T15:37:16.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2026-07-29T15:37:16.677"
+      },
+      {
+        "newsId": "df6aa8ed-7c76-40ed-b548-6703baf23a56",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of order from Modern Coach Factory (\"MCF\")",
+        "announcedAt": "2026-07-29T15:29:15.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-07-29T15:29:15.97"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-29T13:56:31.246+05:30",
-    "checksum": "48acfc36e625d55ff4eb929766a284caad034d747c02064accb2ad1ff051ec7d",
-    "totalAnnouncements": 6,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-29T16:46:34.327+05:30",
+    "checksum": "93a3698c9c4be68182dffaeab3a415fdab08cb45de20b80e61f1f9e6e11fece2",
+    "totalAnnouncements": 8,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-29/awards-135628.json"
+    "rawPayloadPath": "data/raw/2026-07-29/awards-164633.json"
   }
 }

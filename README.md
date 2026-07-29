@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-29 15:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new work order of Rs. 91.57 Crores ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 29 Jul 2026 - 15:37 |
+| 2026-07-29 15:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of order from Modern Coach Factory ("MCF") ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 29 Jul 2026 - 15:29 |
 | 2026-07-29 12:00 | Radaan Mediaworks India Ltd | 590070 | Receipt of TDS Demand Notice ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 29 Jul 2026 - 12:38 |
 | 2026-07-29 12:00 | Schneider Electric President Systems Ltd | 544786 | Receipt of Form ASMT-12 Order from Superintendent of Central Tax for dropping of proceedings as per details enclosed herewith. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/)) | Likely Positive | 29 Jul 2026 - 12:27 |
 | 2026-07-29 12:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Jul 2026 - 12:21 |
@@ -29,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-07-29 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from South East .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 29 Jul 2026 - 10:52 |
 | 2026-07-29 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Major* Order from Kuwait Oil Company for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 29 Jul 2026 - 09:38 |
 
-_Last updated: 29 Jul 2026 - 13:56 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-29.json)_
+_Last updated: 29 Jul 2026 - 16:46 | Entries: 8 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-29.json)_
 
 <!-- snapshot:end -->
 
