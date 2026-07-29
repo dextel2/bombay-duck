@@ -1,4 +1,4 @@
-﻿name: BSE Award Watch
+name: BSE Award Watch
 
 on:
   workflow_dispatch:
@@ -19,13 +19,18 @@ jobs:
       TZ: Asia/Kolkata
       MINUTES_FROM_OPEN: 0
       MINUTES_TO_CLOSE: 0
+      # Resilience knobs (see CONTRIBUTING.md / #30)
+      MAX_ATTEMPTS: 5
+      BASE_RETRY_DELAY_MS: 2000
+      RETRY_FACTOR: 2
+      FAILURE_THRESHOLD: 3
+      COOL_OFF_MINUTES: 45
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           persist-credentials: false
-
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -84,11 +89,8 @@ jobs:
           git commit -m "chore: refresh BSE award snapshot"
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
 
-
       - name: Upload data artefacts
         uses: actions/upload-artifact@v4
         with:
           name: bse-awards-${{ github.run_id }}
           path: data
-
-

@@ -1,4 +1,4 @@
-﻿# Contributing
+# Contributing
 
 Thanks for your interest in improving Bombay Duck! Follow these steps to make sure changes land smoothly.
 
@@ -15,6 +15,20 @@ Thanks for your interest in improving Bombay Duck! Follow these steps to make su
 - Create an `.env.local` if you want to define overrides (e.g. `FORCE_RUN=true`).
 - Run `npm run guard`, `npm run fetch`, `npm run merge`, and `npm run render` to verify the full pipeline.
 
+### Resilience / rate-limit environment variables
+
+These are read by the fetch step (and the on-disk rate-limit helper):
+
+| Variable | Default | Purpose |
+| --- | --- | --- |
+| `MAX_ATTEMPTS` | `5` | Max HTTP attempts per run |
+| `BASE_RETRY_DELAY_MS` | `2000` | Initial backoff delay (ms) |
+| `RETRY_FACTOR` | `2` | Exponential backoff multiplier |
+| `FAILURE_THRESHOLD` | `3` | Consecutive hard failures before cool-off |
+| `COOL_OFF_MINUTES` | `45` | How long to skip network calls after threshold |
+
+Cool-off and last-request timestamps live in `data/.rate-limit.json`.
+
 ## 3. Coding Guidelines
 - Stick to TypeScript in `src/`; compiled artifacts in `dist/` are generated automatically.
 - Keep changes ASCII unless the file already uses another charset.
@@ -27,6 +41,7 @@ Thanks for your interest in improving Bombay Duck! Follow these steps to make su
 - `npm run merge`
 - `npm run render`
 - `npm run guard` (ensure `should_run` output is correct)
+- When testing failure paths, you can temporarily set `MAX_ATTEMPTS=1` and point at an invalid URL (or block network) to exercise cool-off.
 
 ## 5. Documentation
 - Update `README.md` or other docs if behaviour or configuration changes.
