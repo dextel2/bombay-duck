@@ -116,6 +116,7 @@ export async function recordFetchSuccess(): Promise<void> {
 /**
  * Record a hard failure. After `threshold` consecutive failures, enter a cool-off
  * window of `coolOffMinutes` (default from env COOL_OFF_MINUTES or 45).
+ * Existing cool-off windows are preserved so repeated failures do not reset expiry.
  */
 export async function recordFetchFailure(options?: {
   threshold?: number;
@@ -132,7 +133,9 @@ export async function recordFetchFailure(options?: {
   let coolOffUntil: string | undefined = state.coolOffUntil;
   let coolOffStarted = false;
 
-  if (consecutiveFailures >= threshold) {
+  // Only start a cool-off when threshold is reached and none is already active.
+  // Preserving an existing window prevents expiry from being pushed forever.
+  if (consecutiveFailures >= threshold && !state.coolOffUntil) {
     const until = DateTime.now().setZone(IST_ZONE).plus({ minutes: coolOffMinutes });
     coolOffUntil = toIsoString(until);
     coolOffStarted = true;
