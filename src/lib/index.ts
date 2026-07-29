@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Main entry point for all library utilities.
  * Re-exports functions from individual modules for convenient imports.
  */
@@ -10,7 +10,12 @@ export { createChecksum } from "./checksum";
 export { ensureDir, readJsonFile, writeJsonFile, appendFile } from "./io";
 
 // Export all functions from the rate-limit module
-export { enforceRateLimit } from "./rate-limit";
+export {
+  enforceRateLimit,
+  getCoolOffRemainingMs,
+  recordSuccess,
+  recordFailure
+} from "./rate-limit";
 
 // Export all functions from the time module
 export {
