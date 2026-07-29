@@ -22,10 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-29 12:00 | Radaan Mediaworks India Ltd | 590070 | Receipt of TDS Demand Notice ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 29 Jul 2026 - 12:38 |
+| 2026-07-29 12:00 | Schneider Electric President Systems Ltd | 544786 | Receipt of Form ASMT-12 Order from Superintendent of Central Tax for dropping of proceedings as per details enclosed herewith. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/)) | Likely Positive | 29 Jul 2026 - 12:27 |
+| 2026-07-29 12:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Jul 2026 - 12:21 |
+| 2026-07-29 12:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Jul 2026 - 12:03 |
 | 2026-07-29 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from South East .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 29 Jul 2026 - 10:52 |
 | 2026-07-29 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Major* Order from Kuwait Oil Company for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 29 Jul 2026 - 09:38 |
 
-_Last updated: 29 Jul 2026 - 11:14 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-29.json)_
+_Last updated: 29 Jul 2026 - 13:56 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-29.json)_
 
 <!-- snapshot:end -->
 

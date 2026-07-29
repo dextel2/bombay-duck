@@ -22,14 +22,52 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-07-29T09:38:04.47"
       }
+    ],
+    "2026-07-29T12": [
+      {
+        "newsId": "ebd9b537-80da-4dd1-80d2-53900677ec03",
+        "scripCode": 590070,
+        "shortName": "Radaan Mediaworks India Ltd",
+        "headline": "Receipt of TDS Demand Notice",
+        "announcedAt": "2026-07-29T12:38:49.567+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/",
+        "rawTime": "2026-07-29T12:38:49.567"
+      },
+      {
+        "newsId": "49e87241-39de-44f5-b1ce-1da5509fadc9",
+        "scripCode": 544786,
+        "shortName": "Schneider Electric President Systems Ltd",
+        "headline": "Receipt of Form ASMT-12 Order from Superintendent of Central Tax for dropping of proceedings as per details enclosed herewith.",
+        "announcedAt": "2026-07-29T12:27:06.557+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/",
+        "rawTime": "2026-07-29T12:27:06.557"
+      },
+      {
+        "newsId": "0d368eb4-2413-4437-8686-a74ebe10afae",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders",
+        "announcedAt": "2026-07-29T12:21:52.757+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-07-29T12:21:52.757"
+      },
+      {
+        "newsId": "f7d30b9a-41ed-41a3-ad1c-9b0771e30414",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders",
+        "announcedAt": "2026-07-29T12:03:10.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-07-29T12:03:10.853"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-29T11:14:00.129+05:30",
-    "checksum": "75c6c979acb990d091a219676488283723e41388a1d1f25a507290e9d850c8a6",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-29T13:56:31.246+05:30",
+    "checksum": "48acfc36e625d55ff4eb929766a284caad034d747c02064accb2ad1ff051ec7d",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-29/awards-111359.json"
+    "rawPayloadPath": "data/raw/2026-07-29/awards-135628.json"
   }
 }
