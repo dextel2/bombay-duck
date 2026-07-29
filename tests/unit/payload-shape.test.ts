@@ -33,7 +33,7 @@ function assertPayloadShape(payload: unknown): asserts payload is BseApiResponse
   }
 
   if (Array.isArray(candidate.Table) && candidate.Table.length > 0) {
-    const sample = candidate.Table[0] as Record<string, unknown>;
+    const sample = candidate.Table[0] as unknown as Record<string, unknown>;
     for (const key of ["NEWSID", "SCRIP_CD"]) {
       if (!(key in sample)) {
         throw new Error(

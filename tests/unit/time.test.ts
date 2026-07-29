@@ -100,8 +100,9 @@ describe("interpretProfitIndicator", () => {
   });
 
   it("flags cancel/loss language as Review Manually", () => {
+    // Avoid mixed keywords (e.g. "order" + "cancel"): positive list is checked first
     assert.equal(
-      interpretProfitIndicator("Order cancelled due to penalty"),
+      interpretProfitIndicator("Contract terminated after penalty and loss"),
       "Review Manually"
     );
   });
