@@ -18,20 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-29 IST)
+### Today's Awarded Orders (2026-07-30 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-29 15:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new work order of Rs. 91.57 Crores ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 29 Jul 2026 - 15:37 |
-| 2026-07-29 15:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of order from Modern Coach Factory ("MCF") ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 29 Jul 2026 - 15:29 |
-| 2026-07-29 12:00 | Radaan Mediaworks India Ltd | 590070 | Receipt of TDS Demand Notice ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 29 Jul 2026 - 12:38 |
-| 2026-07-29 12:00 | Schneider Electric President Systems Ltd | 544786 | Receipt of Form ASMT-12 Order from Superintendent of Central Tax for dropping of proceedings as per details enclosed herewith. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/)) | Likely Positive | 29 Jul 2026 - 12:27 |
-| 2026-07-29 12:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Jul 2026 - 12:21 |
-| 2026-07-29 12:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Jul 2026 - 12:03 |
-| 2026-07-29 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from South East .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 29 Jul 2026 - 10:52 |
-| 2026-07-29 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Major* Order from Kuwait Oil Company for Hydrocarbon Onshore Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 29 Jul 2026 - 09:38 |
+| 2026-07-30 10:00 | Jindal Drilling & Industries Ltd | 511034 | Award received from Oil & Natural Gas Corporation Ltd (ONGC) ([Link](https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/)) | Neutral | 30 Jul 2026 - 10:53 |
+| 2026-07-30 09:00 | Larsen & Toubro Ltd | 500510 | L&T Energy CarbonLite Solutions Secures LNTP for Mega* Order of 1,600 MW Thermal Power Plant ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 30 Jul 2026 - 09:34 |
+| 2026-07-30 08:00 | MTAR Technologies Ltd | 543270 | Amendment in the order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 30 Jul 2026 - 08:56 |
+| 2026-07-30 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export order worth USD 46.13 million approx.(equivalent to INR 441.53 crore approx.), for the supply of optical fiber .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 30 Jul 2026 - 08:22 |
 
-_Last updated: 29 Jul 2026 - 16:46 | Entries: 8 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-29.json)_
+_Last updated: 30 Jul 2026 - 11:02 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-30.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,55 @@
+{
+  "tradingDate": "2026-07-30",
+  "buckets": {
+    "2026-07-30T10": [
+      {
+        "newsId": "7d642b0a-046c-4b7f-ad3d-97398afc8dce",
+        "scripCode": 511034,
+        "shortName": "Jindal Drilling & Industries Ltd",
+        "headline": "Award received from Oil & Natural Gas Corporation Ltd (ONGC)",
+        "announcedAt": "2026-07-30T10:53:08.757+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/",
+        "rawTime": "2026-07-30T10:53:08.757"
+      }
+    ],
+    "2026-07-30T09": [
+      {
+        "newsId": "1597661a-5854-4267-b876-9c51f7bc826e",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Energy CarbonLite Solutions Secures LNTP for Mega* Order of 1,600 MW Thermal Power Plant",
+        "announcedAt": "2026-07-30T09:34:52.450+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-07-30T09:34:52.45"
+      }
+    ],
+    "2026-07-30T08": [
+      {
+        "newsId": "c8070d7d-7d0d-4125-86fc-d947da8ac403",
+        "scripCode": 543270,
+        "shortName": "MTAR Technologies Ltd",
+        "headline": "Amendment in the order",
+        "announcedAt": "2026-07-30T08:56:46.397+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
+        "rawTime": "2026-07-30T08:56:46.397"
+      },
+      {
+        "newsId": "d71a38ab-aa13-4af5-aa12-363f414ea153",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "We are pleased to inform all stakeholders that the Company has secured export order worth USD 46.13 million approx.(equivalent to INR 441.53 crore approx.), for the supply of optical fiber ....",
+        "announcedAt": "2026-07-30T08:22:30.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2026-07-30T08:22:30.31"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-30T11:02:37.227+05:30",
+    "checksum": "060355e6c60880d1e3a3ce66b6beac7c210bf96dfb377105b72770a4304ac9e1",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-30/awards-110235.json"
+  }
+}
