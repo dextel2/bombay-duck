@@ -22,12 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-30 11:00 | Zuari Agro Chemicals Ltd | 534742 | Intimation of interim orders received from Regional Director, Western Region-I, Ministry of Corporate Affairs, Mumbai ([Link](https://www.bseindia.com/stock-share-price/zuari-agro-chemicals-ltd/zuari/534742/)) | Likely Positive | 30 Jul 2026 - 11:57 |
+| 2026-07-30 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of LOA from Uttar Pradesh Expressways Industrial Development Authority for collection of user fees and O & M of Toll Plazas along Bundelkhand Expressway. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 30 Jul 2026 - 11:28 |
 | 2026-07-30 10:00 | Jindal Drilling & Industries Ltd | 511034 | Award received from Oil & Natural Gas Corporation Ltd (ONGC) ([Link](https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/)) | Neutral | 30 Jul 2026 - 10:53 |
 | 2026-07-30 09:00 | Larsen & Toubro Ltd | 500510 | L&T Energy CarbonLite Solutions Secures LNTP for Mega* Order of 1,600 MW Thermal Power Plant ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 30 Jul 2026 - 09:34 |
 | 2026-07-30 08:00 | MTAR Technologies Ltd | 543270 | Amendment in the order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 30 Jul 2026 - 08:56 |
 | 2026-07-30 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export order worth USD 46.13 million approx.(equivalent to INR 441.53 crore approx.), for the supply of optical fiber .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 30 Jul 2026 - 08:22 |
 
-_Last updated: 30 Jul 2026 - 11:02 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-30.json)_
+_Last updated: 30 Jul 2026 - 13:41 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-30.json)_
 
 <!-- snapshot:end -->
 

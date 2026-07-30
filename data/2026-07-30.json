@@ -42,14 +42,34 @@
         "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
         "rawTime": "2026-07-30T08:22:30.31"
       }
+    ],
+    "2026-07-30T11": [
+      {
+        "newsId": "419a2e8d-eb8a-4e06-9c60-86c7933bac19",
+        "scripCode": 534742,
+        "shortName": "Zuari Agro Chemicals Ltd",
+        "headline": "Intimation of interim orders received from Regional Director, Western Region-I, Ministry of Corporate Affairs, Mumbai",
+        "announcedAt": "2026-07-30T11:57:49.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zuari-agro-chemicals-ltd/zuari/534742/",
+        "rawTime": "2026-07-30T11:57:49.53"
+      },
+      {
+        "newsId": "b11a1343-ac1e-4a35-ad77-daddfda5c228",
+        "scripCode": 544335,
+        "shortName": "B.R.Goyal Infrastructure Ltd",
+        "headline": "Receipt of LOA from Uttar Pradesh Expressways Industrial Development Authority for collection of user fees and O & M of Toll Plazas along Bundelkhand Expressway.",
+        "announcedAt": "2026-07-30T11:28:50.320+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
+        "rawTime": "2026-07-30T11:28:50.32"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-30T11:02:37.227+05:30",
-    "checksum": "060355e6c60880d1e3a3ce66b6beac7c210bf96dfb377105b72770a4304ac9e1",
-    "totalAnnouncements": 4,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-30T13:41:18.856+05:30",
+    "checksum": "c862661aac01b2e537be1f6343c83f5cc7e1385778fdd49f4d56840c6410406b",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-30/awards-110235.json"
+    "rawPayloadPath": "data/raw/2026-07-30/awards-134105.json"
   }
 }
