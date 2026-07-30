@@ -62,14 +62,36 @@
         "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
         "rawTime": "2026-07-30T11:28:50.32"
       }
+    ],
+    "2026-07-30T15": [
+      {
+        "newsId": "eecd2703-44bd-4317-b8be-076b18c412b3",
+        "scripCode": 542011,
+        "shortName": "Garden Reach Shipbuilders & Engineers Ltd",
+        "headline": "In terms of Regulation 30 and other applicable provisions of SEBI (LODR) Reg, 2015, we wish to inform you that the Company has received the Notification of Award (NOA) on 30 Jul 2026 for ....",
+        "announcedAt": "2026-07-30T15:35:40.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/garden-reach-shipbuilders--engineers-ltd/grse/542011/",
+        "rawTime": "2026-07-30T15:35:40.82"
+      }
+    ],
+    "2026-07-30T14": [
+      {
+        "newsId": "63f6b571-4cf4-4f0a-83a9-1c0fd1193348",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of receipt of Order worth Rs. 0.74 Crore (incl. taxes) from South Western Railway",
+        "announcedAt": "2026-07-30T14:04:30.807+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-07-30T14:04:30.807"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-30T13:41:18.856+05:30",
-    "checksum": "c862661aac01b2e537be1f6343c83f5cc7e1385778fdd49f4d56840c6410406b",
-    "totalAnnouncements": 6,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-30T16:30:09.509+05:30",
+    "checksum": "4b25551c5709b3d873bae63c7c84dbd7f0da7bbb8a2e93674f6ac4a99974be0d",
+    "totalAnnouncements": 8,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-30/awards-134105.json"
+    "rawPayloadPath": "data/raw/2026-07-30/awards-163007.json"
   }
 }
