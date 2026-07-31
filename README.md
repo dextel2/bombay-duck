@@ -18,20 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-30 IST)
+### Today's Awarded Orders (2026-07-31 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-30 15:00 | Garden Reach Shipbuilders & Engineers Ltd | 542011 | In terms of Regulation 30 and other applicable provisions of SEBI (LODR) Reg, 2015, we wish to inform you that the Company has received the Notification of Award (NOA) on 30 Jul 2026 for .... ([Link](https://www.bseindia.com/stock-share-price/garden-reach-shipbuilders--engineers-ltd/grse/542011/)) | Neutral | 30 Jul 2026 - 15:35 |
-| 2026-07-30 14:00 | Texmaco Rail & Engineering Ltd | 533326 | Intimation of receipt of Order worth Rs. 0.74 Crore (incl. taxes) from South Western Railway ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 30 Jul 2026 - 14:04 |
-| 2026-07-30 11:00 | Zuari Agro Chemicals Ltd | 534742 | Intimation of interim orders received from Regional Director, Western Region-I, Ministry of Corporate Affairs, Mumbai ([Link](https://www.bseindia.com/stock-share-price/zuari-agro-chemicals-ltd/zuari/534742/)) | Likely Positive | 30 Jul 2026 - 11:57 |
-| 2026-07-30 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of LOA from Uttar Pradesh Expressways Industrial Development Authority for collection of user fees and O & M of Toll Plazas along Bundelkhand Expressway. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 30 Jul 2026 - 11:28 |
-| 2026-07-30 10:00 | Jindal Drilling & Industries Ltd | 511034 | Award received from Oil & Natural Gas Corporation Ltd (ONGC) ([Link](https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/)) | Neutral | 30 Jul 2026 - 10:53 |
-| 2026-07-30 09:00 | Larsen & Toubro Ltd | 500510 | L&T Energy CarbonLite Solutions Secures LNTP for Mega* Order of 1,600 MW Thermal Power Plant ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 30 Jul 2026 - 09:34 |
-| 2026-07-30 08:00 | MTAR Technologies Ltd | 543270 | Amendment in the order ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 30 Jul 2026 - 08:56 |
-| 2026-07-30 08:00 | HFCL Ltd | 500183 | We are pleased to inform all stakeholders that the Company has secured export order worth USD 46.13 million approx.(equivalent to INR 441.53 crore approx.), for the supply of optical fiber .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Likely Positive | 30 Jul 2026 - 08:22 |
+| 2026-07-31 10:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Intent (LOI) from Delhi Jal Board for Sewerage Work ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 31 Jul 2026 - 10:34 |
 
-_Last updated: 30 Jul 2026 - 16:30 | Entries: 8 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-30.json)_
+_Last updated: 31 Jul 2026 - 11:28 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-31.json)_
 
 <!-- snapshot:end -->
 

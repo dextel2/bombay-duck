@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-07-31",
+  "buckets": {
+    "2026-07-31T10": [
+      {
+        "newsId": "25e2f0fb-d204-4c5b-9023-6f665b5fa804",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "Intimation of Receipt of Letter of Intent (LOI) from Delhi Jal Board for Sewerage Work",
+        "announcedAt": "2026-07-31T10:34:01.913+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-07-31T10:34:01.913"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-07-31T11:28:22.086+05:30",
+    "checksum": "54422900dd81eb9f11ea0b85e2e45e0add97c6e927421acf53a390fce94c850b",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-07-31/awards-112821.json"
+  }
+}
