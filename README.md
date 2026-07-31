@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-31 14:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 31 Jul 2026 - 14:16 |
 | 2026-07-31 10:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Intent (LOI) from Delhi Jal Board for Sewerage Work ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 31 Jul 2026 - 10:34 |
 
-_Last updated: 31 Jul 2026 - 11:28 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-07-31.json)_
+_Last updated: 31 Jul 2026 - 14:20 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-07-31.json)_
 
 <!-- snapshot:end -->
 

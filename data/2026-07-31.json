@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
         "rawTime": "2026-07-31T10:34:01.913"
       }
+    ],
+    "2026-07-31T14": [
+      {
+        "newsId": "8e69b009-332a-4086-a4ab-706f58ed6b43",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-07-31T14:16:40.703+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-07-31T14:16:40.703"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-31T11:28:22.086+05:30",
-    "checksum": "54422900dd81eb9f11ea0b85e2e45e0add97c6e927421acf53a390fce94c850b",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-07-31T14:20:38.454+05:30",
+    "checksum": "cb8e91ebd508a6fcfc8b1968dda45b04cadfbe377598973ef39284e676851208",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-31/awards-112821.json"
+    "rawPayloadPath": "data/raw/2026-07-31/awards-142036.json"
   }
 }
