@@ -14,6 +14,24 @@
     ],
     "2026-07-31T14": [
       {
+        "newsId": "83a31610-d04c-4e28-b907-bb18d90752fa",
+        "scripCode": 538546,
+        "shortName": "Bansal Roofing Products Ltd",
+        "headline": "Intimation under Regulation 30 SEBI (LODR)_Award_of Order_Receipt_of_Order.",
+        "announcedAt": "2026-07-31T14:43:13.170+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bansal-roofing-products-ltd/brpl/538546/",
+        "rawTime": "2026-07-31T14:43:13.17"
+      },
+      {
+        "newsId": "b8d905d9-9d02-402c-9d07-1962d915076a",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-07-31T14:31:32.977+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-07-31T14:31:32.977"
+      },
+      {
         "newsId": "8e69b009-332a-4086-a4ab-706f58ed6b43",
         "scripCode": 543265,
         "shortName": "RailTel Corporation of India Ltd",
@@ -25,11 +43,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-07-31T14:20:38.454+05:30",
-    "checksum": "cb8e91ebd508a6fcfc8b1968dda45b04cadfbe377598973ef39284e676851208",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-07-31T16:53:40.855+05:30",
+    "checksum": "83a34a388b66f5e5b23ca465c8dfa7305e2a3bf5066cb4c7f6e9a4484e276191",
+    "totalAnnouncements": 4,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-07-31/awards-142036.json"
+    "rawPayloadPath": "data/raw/2026-07-31/awards-165340.json"
   }
 }
