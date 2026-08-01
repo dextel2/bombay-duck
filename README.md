@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-07-31 IST)
+### Today's Awarded Orders (2026-08-01 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-07-31 14:00 | Bansal Roofing Products Ltd | 538546 | Intimation under Regulation 30 SEBI (LODR)_Award_of Order_Receipt_of_Order. ([Link](https://www.bseindia.com/stock-share-price/bansal-roofing-products-ltd/brpl/538546/)) | Likely Positive | 31 Jul 2026 - 14:43 |
-| 2026-07-31 14:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 31 Jul 2026 - 14:31 |
-| 2026-07-31 14:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 31 Jul 2026 - 14:16 |
-| 2026-07-31 10:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Intent (LOI) from Delhi Jal Board for Sewerage Work ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 31 Jul 2026 - 10:34 |
+_No award announcements have been captured yet today._
 
-_Last updated: 31 Jul 2026 - 16:53 | Entries: 4 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-07-31.json)_
+_Last updated: 01 Aug 2026 - 11:17 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-01.json)_
 
 <!-- snapshot:end -->
 
