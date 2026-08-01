@@ -22,14 +22,25 @@
         "url": "https://www.bseindia.com/stock-share-price/zodiac-energy-ltd/zodiac/543416/",
         "rawTime": "2026-08-01T11:49:19.523"
       }
+    ],
+    "2026-08-01T15": [
+      {
+        "newsId": "a982eed8-91de-4499-9d07-c0bfa6000a61",
+        "scripCode": 544561,
+        "shortName": "Chiraharit Ltd",
+        "headline": "We hereby inform you that Chiraharit Limited has received a purchase order from Mahindra Susten Private Limited for Supply, Installation, Testing and Commissioning of MCS System.",
+        "announcedAt": "2026-08-01T15:31:32.870+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/",
+        "rawTime": "2026-08-01T15:31:32.87"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-01T13:37:48.537+05:30",
-    "checksum": "341462f13bbeb92fdfd4b81e92e9d18799f57977c80ec2fd68eae59242a6da6d",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-01T15:58:21.755+05:30",
+    "checksum": "e492c49952e6f8317cef4763a380d0a5cda315e83ae4bb7c069891d38d99226e",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-01/awards-133747.json"
+    "rawPayloadPath": "data/raw/2026-08-01/awards-155821.json"
   }
 }
