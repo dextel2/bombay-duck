@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-08-01",
-  "buckets": {},
+  "buckets": {
+    "2026-08-01T12": [
+      {
+        "newsId": "53d1c3e8-97f7-46c3-9cdc-d942ea7375bd",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "Export Order for $170.000,00",
+        "announcedAt": "2026-08-01T12:28:54.383+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-08-01T12:28:54.383"
+      }
+    ],
+    "2026-08-01T11": [
+      {
+        "newsId": "f5fb4ef1-6dfe-478c-a70d-02d53ebe36dc",
+        "scripCode": 543416,
+        "shortName": "Zodiac Energy Ltd",
+        "headline": "Receipt of Purchase Order from Domestic Entity for Solar Power System",
+        "announcedAt": "2026-08-01T11:49:19.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zodiac-energy-ltd/zodiac/543416/",
+        "rawTime": "2026-08-01T11:49:19.523"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-01T11:17:57.038+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-01T13:37:48.537+05:30",
+    "checksum": "341462f13bbeb92fdfd4b81e92e9d18799f57977c80ec2fd68eae59242a6da6d",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-01/awards-111756.json"
+    "rawPayloadPath": "data/raw/2026-08-01/awards-133747.json"
   }
 }

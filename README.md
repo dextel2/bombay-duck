@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-01 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-01 12:00 | Indobell Insulations Ltd | 544334 | Export Order for $170.000,00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 01 Aug 2026 - 12:28 |
+| 2026-08-01 11:00 | Zodiac Energy Ltd | 543416 | Receipt of Purchase Order from Domestic Entity for Solar Power System ([Link](https://www.bseindia.com/stock-share-price/zodiac-energy-ltd/zodiac/543416/)) | Likely Positive | 01 Aug 2026 - 11:49 |
 
-_Last updated: 01 Aug 2026 - 11:17 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-01.json)_
+_Last updated: 01 Aug 2026 - 13:37 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-01.json)_
 
 <!-- snapshot:end -->
 
