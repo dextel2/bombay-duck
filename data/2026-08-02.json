@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-08-02",
+  "buckets": {
+    "2026-08-02T09": [
+      {
+        "newsId": "085e9cbf-04a7-44bd-b838-6238c9e517c9",
+        "scripCode": 532686,
+        "shortName": "Kernex Microsystems India Ltd",
+        "headline": "We wish to inform you that the Company has received counter offer from Integral Coach Factory for an amount of Rs. 66.62 Crores (Incl. GST) for Goods, Supply, Installation, Interfacing ....",
+        "announcedAt": "2026-08-02T09:01:34.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
+        "rawTime": "2026-08-02T09:01:34.217"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-02T11:18:29.825+05:30",
+    "checksum": "9fbb2af7854d208ccd11fd6a6666cd5844a547831a0e90802fbac0cfa8e9e7bb",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-02/awards-111829.json"
+  }
+}

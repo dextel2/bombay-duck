@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-01 IST)
+### Today's Awarded Orders (2026-08-02 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-01 15:00 | Chiraharit Ltd | 544561 | We hereby inform you that Chiraharit Limited has received a purchase order from Mahindra Susten Private Limited for Supply, Installation, Testing and Commissioning of MCS System. ([Link](https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/)) | Likely Positive | 01 Aug 2026 - 15:31 |
-| 2026-08-01 12:00 | Indobell Insulations Ltd | 544334 | Export Order for $170.000,00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 01 Aug 2026 - 12:28 |
-| 2026-08-01 11:00 | Zodiac Energy Ltd | 543416 | Receipt of Purchase Order from Domestic Entity for Solar Power System ([Link](https://www.bseindia.com/stock-share-price/zodiac-energy-ltd/zodiac/543416/)) | Likely Positive | 01 Aug 2026 - 11:49 |
+| 2026-08-02 09:00 | Kernex Microsystems India Ltd | 532686 | We wish to inform you that the Company has received counter offer from Integral Coach Factory for an amount of Rs. 66.62 Crores (Incl. GST) for Goods, Supply, Installation, Interfacing .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Neutral | 02 Aug 2026 - 09:01 |
 
-_Last updated: 01 Aug 2026 - 15:58 | Entries: 3 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-01.json)_
+_Last updated: 02 Aug 2026 - 11:18 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-02.json)_
 
 <!-- snapshot:end -->
 
