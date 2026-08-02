@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
         "rawTime": "2026-08-02T09:01:34.217"
       }
+    ],
+    "2026-08-02T15": [
+      {
+        "newsId": "c6a47e9a-0011-437c-a57e-7dbd6bc53415",
+        "scripCode": 532628,
+        "shortName": "3i Infotech Ltd",
+        "headline": "Please find enclosed letter.",
+        "announcedAt": "2026-08-02T15:50:08.560+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/",
+        "rawTime": "2026-08-02T15:50:08.56"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-02T13:39:52.563+05:30",
-    "checksum": "9fbb2af7854d208ccd11fd6a6666cd5844a547831a0e90802fbac0cfa8e9e7bb",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-02T15:57:40.060+05:30",
+    "checksum": "387495632fbde24c04e158022046dac9fa5a339403e658464872af9c2d5a22f6",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-02/awards-133951.json"
+    "rawPayloadPath": "data/raw/2026-08-02/awards-155739.json"
   }
 }
