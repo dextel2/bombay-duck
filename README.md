@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-02 09:00 | Kernex Microsystems India Ltd | 532686 | We wish to inform you that the Company has received counter offer from Integral Coach Factory for an amount of Rs. 66.62 Crores (Incl. GST) for Goods, Supply, Installation, Interfacing .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Neutral | 02 Aug 2026 - 09:01 |
 
-_Last updated: 02 Aug 2026 - 11:18 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-02.json)_
+_Last updated: 02 Aug 2026 - 13:39 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-02.json)_
 
 <!-- snapshot:end -->
 

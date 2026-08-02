@@ -14,11 +14,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-02T11:18:29.825+05:30",
+    "lastUpdated": "2026-08-02T13:39:52.563+05:30",
     "checksum": "9fbb2af7854d208ccd11fd6a6666cd5844a547831a0e90802fbac0cfa8e9e7bb",
     "totalAnnouncements": 1,
-    "requestCount": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-02/awards-111829.json"
+    "rawPayloadPath": "data/raw/2026-08-02/awards-133951.json"
   }
 }
