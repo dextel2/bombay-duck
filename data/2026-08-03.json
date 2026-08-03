@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-08-03",
+  "buckets": {
+    "2026-08-03T10": [
+      {
+        "newsId": "2df04b37-d560-4069-9d07-3456442e51c3",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to in form that our Company has bagged a new contract from Hindustan Aeronautics Limited (HAL), Department of Defence Production, Ministry of Defence of value of Rs. 2987844.86. ....",
+        "announcedAt": "2026-08-03T10:51:06.717+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-08-03T10:51:06.717"
+      }
+    ],
+    "2026-08-03T09": [
+      {
+        "newsId": "e2e68529-4712-4218-b83f-ff1e34e3e9eb",
+        "scripCode": 517271,
+        "shortName": "HBL Engineering Ltd-$",
+        "headline": "HBL has accepted an order worth Rs.31.49 crores (excluding 18% GST) from Intergal Coach Factory, Chennai for supply, installation, testing and commissioning of on-baord Kavach Loco equipment (ver 4.0)",
+        "announcedAt": "2026-08-03T09:24:34.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/",
+        "rawTime": "2026-08-03T09:24:34.18"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-03T11:42:27.977+05:30",
+    "checksum": "720174405bdd11279614223a64db962e139214c8652e276213992d3a648973e8",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-03/awards-114227.json"
+  }
+}

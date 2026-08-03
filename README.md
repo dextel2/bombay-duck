@@ -18,14 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-02 IST)
+### Today's Awarded Orders (2026-08-03 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-02 15:00 | 3i Infotech Ltd | 532628 | Please find enclosed letter. ([Link](https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/)) | Neutral | 02 Aug 2026 - 15:50 |
-| 2026-08-02 09:00 | Kernex Microsystems India Ltd | 532686 | We wish to inform you that the Company has received counter offer from Integral Coach Factory for an amount of Rs. 66.62 Crores (Incl. GST) for Goods, Supply, Installation, Interfacing .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Neutral | 02 Aug 2026 - 09:01 |
+| 2026-08-03 10:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to in form that our Company has bagged a new contract from Hindustan Aeronautics Limited (HAL), Department of Defence Production, Ministry of Defence of value of Rs. 2987844.86. .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 03 Aug 2026 - 10:51 |
+| 2026-08-03 09:00 | HBL Engineering Ltd-$ | 517271 | HBL has accepted an order worth Rs.31.49 crores (excluding 18% GST) from Intergal Coach Factory, Chennai for supply, installation, testing and commissioning of on-baord Kavach Loco equipment (ver 4.0) ([Link](https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/hblengine/517271/)) | Likely Positive | 03 Aug 2026 - 09:24 |
 
-_Last updated: 02 Aug 2026 - 15:57 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-02.json)_
+_Last updated: 03 Aug 2026 - 11:42 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-03.json)_
 
 <!-- snapshot:end -->
 
