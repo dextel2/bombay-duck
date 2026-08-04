@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-08-04",
+  "buckets": {
+    "2026-08-04T09": [
+      {
+        "newsId": "e64f9905-8c3e-4263-ae69-57a791fe96c6",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of order received from Paschim Gujarat Vij Company Limited (PGVCL).",
+        "announcedAt": "2026-08-04T09:39:34.927+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-08-04T09:39:34.927"
+      },
+      {
+        "newsId": "26f8d09b-05db-4919-b30a-f2b7509a7eea",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Ultra-Mega* Order from ADNOC Offshore",
+        "announcedAt": "2026-08-04T09:32:10.723+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-08-04T09:32:10.723"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-04T11:10:47.777+05:30",
+    "checksum": "74bf3ea620842363ad906954190fed0b998b8327f9318b68fa63c7ca08ec5250",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-04/awards-111047.json"
+  }
+}
