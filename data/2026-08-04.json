@@ -31,14 +31,36 @@
         "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
         "rawTime": "2026-08-04T11:49:27.083"
       }
+    ],
+    "2026-08-04T15": [
+      {
+        "newsId": "5a56086b-f78c-4d63-84d2-94eae50db3de",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Letter of Intent received from Southern POwer Distribution Company of Telangana Limited worth Rs. 24446650/-",
+        "announcedAt": "2026-08-04T15:00:20.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-08-04T15:00:20.963"
+      }
+    ],
+    "2026-08-04T14": [
+      {
+        "newsId": "7dd97e4c-99d7-40b7-9713-2cfb483ea75b",
+        "scripCode": 544735,
+        "shortName": "Novus Loyalty Ltd",
+        "headline": "Intimation for Execution of Agreement",
+        "announcedAt": "2026-08-04T14:12:59.137+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/",
+        "rawTime": "2026-08-04T14:12:59.137"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-04T13:55:21.586+05:30",
-    "checksum": "147d71040d229a5224a1a2c5c5e57956606a0a3d7ef84a21a662e30874df82d5",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-04T16:47:04.359+05:30",
+    "checksum": "fa393de5c7a2f8830ccbe55ab122d24c8fc68876e8d1e53058ab5b9064fbafd6",
+    "totalAnnouncements": 5,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-04/awards-135514.json"
+    "rawPayloadPath": "data/raw/2026-08-04/awards-164703.json"
   }
 }
