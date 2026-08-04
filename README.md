@@ -22,10 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-04 11:00 | RMC Switchgears Ltd | 540358 | Receipt of Letter of Award worth Rs. 333,79,70,307/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 04 Aug 2026 - 11:49 |
 | 2026-08-04 09:00 | Rajesh Power Services Ltd | 544291 | Intimation of order received from Paschim Gujarat Vij Company Limited (PGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 04 Aug 2026 - 09:39 |
 | 2026-08-04 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Ultra-Mega* Order from ADNOC Offshore ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 04 Aug 2026 - 09:32 |
 
-_Last updated: 04 Aug 2026 - 11:10 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-04.json)_
+_Last updated: 04 Aug 2026 - 13:55 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-04.json)_
 
 <!-- snapshot:end -->
 

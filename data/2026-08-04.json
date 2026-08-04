@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-08-04T09:32:10.723"
       }
+    ],
+    "2026-08-04T11": [
+      {
+        "newsId": "f64907fb-541c-4bef-ba8b-c8f4750b0904",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "Receipt of Letter of Award worth Rs. 333,79,70,307/-",
+        "announcedAt": "2026-08-04T11:49:27.083+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-08-04T11:49:27.083"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-04T11:10:47.777+05:30",
-    "checksum": "74bf3ea620842363ad906954190fed0b998b8327f9318b68fa63c7ca08ec5250",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-04T13:55:21.586+05:30",
+    "checksum": "147d71040d229a5224a1a2c5c5e57956606a0a3d7ef84a21a662e30874df82d5",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-04/awards-111047.json"
+    "rawPayloadPath": "data/raw/2026-08-04/awards-135514.json"
   }
 }
