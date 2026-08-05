@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-08-05",
+  "buckets": {
+    "2026-08-05T09": [
+      {
+        "newsId": "fc09e72a-5adf-47b2-af63-d05a0fce7017",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "Please find attached herewith the Press Release and the required disclosure under Regulation 30 of SEBI Listing Regulations, 2015",
+        "announcedAt": "2026-08-05T09:44:17.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2026-08-05T09:44:17.24"
+      },
+      {
+        "newsId": "97730696-ee74-4c72-99ea-5bba933013cb",
+        "scripCode": 531349,
+        "shortName": "Panacea Biotec Ltd",
+        "headline": "We are delighted to inform you that the Company has received Letter of Award for supply of bivalent Oral Polio Vaccine (bOPV) to UNICEF in 10 and 20 dose presentation worth ~US$8.205 million ....",
+        "announcedAt": "2026-08-05T09:39:07.737+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/",
+        "rawTime": "2026-08-05T09:39:07.737"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-05T11:09:25.205+05:30",
+    "checksum": "02a23060fa99ca7bd18d46a516965ea2d8fc8acc8de99bbdb62fdc977ef050c9",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 1,
+    "rawPayloadPath": "data/raw/2026-08-05/awards-110907.json"
+  }
+}
