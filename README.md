@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-05 09:00 | Valiant Communications Ltd-$ | 526775 | Please find attached herewith the Press Release and the required disclosure under Regulation 30 of SEBI Listing Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 05 Aug 2026 - 09:44 |
 | 2026-08-05 09:00 | Panacea Biotec Ltd | 531349 | We are delighted to inform you that the Company has received Letter of Award for supply of bivalent Oral Polio Vaccine (bOPV) to UNICEF in 10 and 20 dose presentation worth ~US$8.205 million .... ([Link](https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/)) | Neutral | 05 Aug 2026 - 09:39 |
 
-_Last updated: 05 Aug 2026 - 11:09 | Entries: 2 | Requests: 1 | Retries: 1 | [Raw JSON](data/2026-08-05.json)_
+_Last updated: 05 Aug 2026 - 13:53 | Entries: 2 | Requests: 2 | Retries: 1 | [Raw JSON](data/2026-08-05.json)_
 
 <!-- snapshot:end -->
 
