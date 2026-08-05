@@ -20,14 +20,94 @@
         "url": "https://www.bseindia.com/stock-share-price/panacea-biotec-ltd/panaceabio/531349/",
         "rawTime": "2026-08-05T09:39:07.737"
       }
+    ],
+    "2026-08-05T16": [
+      {
+        "newsId": "cf955757-9795-4936-9d97-9b41081a557a",
+        "scripCode": 544555,
+        "shortName": "Ameenji Rubber Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015 with respect to Purchase Order.",
+        "announcedAt": "2026-08-05T16:39:21.403+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/",
+        "rawTime": "2026-08-05T16:39:21.403"
+      },
+      {
+        "newsId": "e2d4899e-c472-4d91-a71c-81142e1aeb6a",
+        "scripCode": 540937,
+        "shortName": "Medico Remedies Ltd",
+        "headline": "Please find enclosed",
+        "announcedAt": "2026-08-05T16:22:49.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/medico-remedies-ltd/medico/540937/",
+        "rawTime": "2026-08-05T16:22:49.64"
+      }
+    ],
+    "2026-08-05T14": [
+      {
+        "newsId": "ad718738-007f-4cec-89ef-7017406b7ae6",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI(LODR) Regulations, 2015 ,regarding receipt of an Order.",
+        "announcedAt": "2026-08-05T14:42:00.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2026-08-05T14:42:00.4"
+      },
+      {
+        "newsId": "c215205a-48bb-454c-a7cd-ef03930770ec",
+        "scripCode": 544726,
+        "shortName": "Kotyark Industries Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR), 2015 on receipt of LOI from BPCL and HPCL for the supply of Bio Diesel.",
+        "announcedAt": "2026-08-05T14:12:49.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kotyark-industries-ltd/kotyark/544726/",
+        "rawTime": "2026-08-05T14:12:49.54"
+      }
+    ],
+    "2026-08-05T12": [
+      {
+        "newsId": "0b9938b8-5c89-45c3-accc-290f820e4e34",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders",
+        "announcedAt": "2026-08-05T12:18:29.117+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-08-05T12:18:29.117"
+      },
+      {
+        "newsId": "67aa4c0d-fa7f-4493-b7f5-1f06b664ed40",
+        "scripCode": 532945,
+        "shortName": "SEPC Ltd",
+        "headline": "Intimation under under Reg.30 SEBI (LODR) Regulations, 2015 - Receipt of LOA from SAIL - ISP Burnpur for Total Value of Rs.854.57 Crores (Net of ITC) - Detailed Letter Enclosed",
+        "announcedAt": "2026-08-05T12:18:25.197+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/",
+        "rawTime": "2026-08-05T12:18:25.197"
+      }
+    ],
+    "2026-08-05T11": [
+      {
+        "newsId": "6c72f7e9-da4e-463b-a09c-b9af807b6a39",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for receipt of Purchase Order from EKS InTec India Private Limited",
+        "announcedAt": "2026-08-05T11:42:28.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
+        "rawTime": "2026-08-05T11:42:28.24"
+      },
+      {
+        "newsId": "6a230376-e7da-403b-aded-d316ab77c1bc",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Central Railway.",
+        "announcedAt": "2026-08-05T11:32:10.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-08-05T11:32:10.983"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-05T13:53:10.551+05:30",
-    "checksum": "02a23060fa99ca7bd18d46a516965ea2d8fc8acc8de99bbdb62fdc977ef050c9",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-05T16:43:15.791+05:30",
+    "checksum": "9cd7f8f550fcefb77a4f9d7906a79d4a65ddb91d4bce3f9900bdd1e633010fe7",
+    "totalAnnouncements": 10,
+    "requestCount": 3,
     "retryCount": 1,
-    "rawPayloadPath": "data/raw/2026-08-05/awards-135310.json"
+    "rawPayloadPath": "data/raw/2026-08-05/awards-164314.json"
   }
 }
