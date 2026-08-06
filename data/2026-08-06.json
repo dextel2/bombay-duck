@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-08-06",
-  "buckets": {},
+  "buckets": {
+    "2026-08-06T13": [
+      {
+        "newsId": "efc1225f-75f1-4abc-994e-da4b4b3f06cb",
+        "scripCode": 544741,
+        "shortName": "Highness Microelectronics Ltd",
+        "headline": "Intimation of Receipt of Purchase Order under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+        "announcedAt": "2026-08-06T13:26:26.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/",
+        "rawTime": "2026-08-06T13:26:26.38"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-06T11:10:32.805+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-06T13:51:06.954+05:30",
+    "checksum": "bec0291e2ef269dd33f7d97a641f9ebaf153597a6004b0edc3cae424e867e7a0",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-06/awards-111032.json"
+    "rawPayloadPath": "data/raw/2026-08-06/awards-135056.json"
   }
 }

@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-06 13:00 | Highness Microelectronics Ltd | 544741 | Intimation of Receipt of Purchase Order under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/)) | Likely Positive | 06 Aug 2026 - 13:26 |
 
-_Last updated: 06 Aug 2026 - 11:10 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-06.json)_
+_Last updated: 06 Aug 2026 - 13:51 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-06.json)_
 
 <!-- snapshot:end -->
 
