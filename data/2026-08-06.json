@@ -3,6 +3,15 @@
   "buckets": {
     "2026-08-06T13": [
       {
+        "newsId": "5fc2f949-fe9b-4565-9ab4-ecda0e5281f2",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of work orders from various Defence PSU customers.",
+        "announcedAt": "2026-08-06T13:55:56.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-08-06T13:55:56.86"
+      },
+      {
         "newsId": "efc1225f-75f1-4abc-994e-da4b4b3f06cb",
         "scripCode": 544741,
         "shortName": "Highness Microelectronics Ltd",
@@ -11,14 +20,63 @@
         "url": "https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/",
         "rawTime": "2026-08-06T13:26:26.38"
       }
+    ],
+    "2026-08-06T15": [
+      {
+        "newsId": "5a0a1665-46de-466e-867e-cc5185571c65",
+        "scripCode": 544744,
+        "shortName": "Powerica Ltd",
+        "headline": "Receipt of Letter of Award for Wind Power Project",
+        "announcedAt": "2026-08-06T15:49:51.827+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/powerica-ltd/powerica/544744/",
+        "rawTime": "2026-08-06T15:49:51.827"
+      },
+      {
+        "newsId": "cc0edb12-7b49-4164-aab1-a22ea55dd3ec",
+        "scripCode": 500084,
+        "shortName": "CESC Ltd",
+        "headline": "Letter is attached.",
+        "announcedAt": "2026-08-06T15:40:39.183+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/",
+        "rawTime": "2026-08-06T15:40:39.183"
+      },
+      {
+        "newsId": "447bb3ce-357d-4b84-831e-eda6b0edb22b",
+        "scripCode": 543378,
+        "shortName": "CWD Ltd",
+        "headline": "Receipt of Purchase Order: Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-08-06T15:24:08.787+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cwd-ltd/cwd/543378/",
+        "rawTime": "2026-08-06T15:24:08.787"
+      }
+    ],
+    "2026-08-06T14": [
+      {
+        "newsId": "4c2ad320-ee80-4090-800a-6d5e4f77612c",
+        "scripCode": 506520,
+        "shortName": "Jayshree Chemicals Ltd",
+        "headline": "In continuation of our letter dated 05.08.2026- Receipt of Award or Order, please find enclosed herewith the updates in the matter of Arbitration (Arbitration (P) No. 61 of 2024)",
+        "announcedAt": "2026-08-06T14:58:53.303+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jayshree-chemicals-ltd/jaych/506520/",
+        "rawTime": "2026-08-06T14:58:53.303"
+      },
+      {
+        "newsId": "86ff4847-caee-4aa9-a34f-c1f7f6fa27d4",
+        "scripCode": 544280,
+        "shortName": "Afcons Infrastructure Ltd",
+        "headline": "Please find enclosed the Press Release titled \" Afcons receives LOA for Rs. 1,918 Cr desalinated water tunnel project in Mumbai\"",
+        "announcedAt": "2026-08-06T14:38:52.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/afcons-infrastructure-ltd/afcons/544280/",
+        "rawTime": "2026-08-06T14:38:52.75"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-06T13:51:06.954+05:30",
-    "checksum": "bec0291e2ef269dd33f7d97a641f9ebaf153597a6004b0edc3cae424e867e7a0",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-06T16:43:36.845+05:30",
+    "checksum": "60da513ce4c5b8042c5411ab6bc322f60f118620e53d9cd325a6c7f7e4820c64",
+    "totalAnnouncements": 7,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-06/awards-135056.json"
+    "rawPayloadPath": "data/raw/2026-08-06/awards-164334.json"
   }
 }

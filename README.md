@@ -22,9 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-06 15:00 | Powerica Ltd | 544744 | Receipt of Letter of Award for Wind Power Project ([Link](https://www.bseindia.com/stock-share-price/powerica-ltd/powerica/544744/)) | Likely Positive | 06 Aug 2026 - 15:49 |
+| 2026-08-06 15:00 | CESC Ltd | 500084 | Letter is attached. ([Link](https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/)) | Neutral | 06 Aug 2026 - 15:40 |
+| 2026-08-06 15:00 | CWD Ltd | 543378 | Receipt of Purchase Order: Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/cwd-ltd/cwd/543378/)) | Likely Positive | 06 Aug 2026 - 15:24 |
+| 2026-08-06 14:00 | Jayshree Chemicals Ltd | 506520 | In continuation of our letter dated 05.08.2026- Receipt of Award or Order, please find enclosed herewith the updates in the matter of Arbitration (Arbitration (P) No. 61 of 2024) ([Link](https://www.bseindia.com/stock-share-price/jayshree-chemicals-ltd/jaych/506520/)) | Likely Positive | 06 Aug 2026 - 14:58 |
+| 2026-08-06 14:00 | Afcons Infrastructure Ltd | 544280 | Please find enclosed the Press Release titled " Afcons receives LOA for Rs. 1,918 Cr desalinated water tunnel project in Mumbai" ([Link](https://www.bseindia.com/stock-share-price/afcons-infrastructure-ltd/afcons/544280/)) | Neutral | 06 Aug 2026 - 14:38 |
+| 2026-08-06 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work orders from various Defence PSU customers. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Aug 2026 - 13:55 |
 | 2026-08-06 13:00 | Highness Microelectronics Ltd | 544741 | Intimation of Receipt of Purchase Order under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/)) | Likely Positive | 06 Aug 2026 - 13:26 |
 
-_Last updated: 06 Aug 2026 - 13:51 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-06.json)_
+_Last updated: 06 Aug 2026 - 16:43 | Entries: 7 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-06.json)_
 
 <!-- snapshot:end -->
 
