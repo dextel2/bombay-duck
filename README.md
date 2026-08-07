@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-07 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-07 12:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Offshore Orders (Major*) from ONGC ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 Aug 2026 - 12:52 |
 
-_Last updated: 07 Aug 2026 - 11:35 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-07.json)_
+_Last updated: 07 Aug 2026 - 13:38 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-07.json)_
 
 <!-- snapshot:end -->
 

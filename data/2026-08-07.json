@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-08-07",
-  "buckets": {},
+  "buckets": {
+    "2026-08-07T12": [
+      {
+        "newsId": "04a4f5ac-2a90-48b9-b9c8-529b1bd7efc6",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Offshore Orders (Major*) from ONGC",
+        "announcedAt": "2026-08-07T12:52:25.227+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-08-07T12:52:25.227"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-07T11:35:40.168+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-07T13:38:35.208+05:30",
+    "checksum": "105570fda4380f7bc52514742217c3f6749fa3b15038d4384b7db67f7689b883",
+    "totalAnnouncements": 1,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-07/awards-113539.json"
+    "rawPayloadPath": "data/raw/2026-08-07/awards-133833.json"
   }
 }
