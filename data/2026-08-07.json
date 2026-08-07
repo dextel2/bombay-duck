@@ -14,6 +14,15 @@
     ],
     "2026-08-07T15": [
       {
+        "newsId": "59a16de4-956a-4c29-bdb2-97e0d639567a",
+        "scripCode": 538742,
+        "shortName": "Panabyte Technologies Ltd",
+        "headline": "We are pleased to inform that the Company has received a contract work order for Supply, Installation, Testing and Commissioning (SITC) of Access Control System at an establishment located ....",
+        "announcedAt": "2026-08-07T15:59:11.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/panabyte-technologies-ltd/panabyte/538742/",
+        "rawTime": "2026-08-07T15:59:11.933"
+      },
+      {
         "newsId": "11f30a4c-13f4-4ed6-9c92-fa9fd9faace1",
         "scripCode": 543991,
         "shortName": "Techknowgreen Solutions Ltd",
@@ -36,11 +45,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-07T15:23:29.442+05:30",
-    "checksum": "5d925aca105f033d71c427c1d93ffc9c5b231e449ed4374e0e3275ca46b56622",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-07T16:14:10.762+05:30",
+    "checksum": "a1f304cc4f272936455ec590845677666192c5d8dd3d6b17ff39c65812af265a",
+    "totalAnnouncements": 4,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-07/awards-152327.json"
+    "rawPayloadPath": "data/raw/2026-08-07/awards-161409.json"
   }
 }

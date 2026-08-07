@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-07 15:00 | Panabyte Technologies Ltd | 538742 | We are pleased to inform that the Company has received a contract work order for Supply, Installation, Testing and Commissioning (SITC) of Access Control System at an establishment located .... ([Link](https://www.bseindia.com/stock-share-price/panabyte-technologies-ltd/panabyte/538742/)) | Likely Positive | 07 Aug 2026 - 15:59 |
 | 2026-08-07 15:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of work order - Remal Alcast Private Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 07 Aug 2026 - 15:14 |
 | 2026-08-07 14:00 | KVS Castings Ltd | 544554 | The Company has secured an Export Order from M/s. SAMM Corporation, Delhi (Merchant Exports), an Indian entity, for Supply of Railway Parts to be used in Russian Railways. ([Link](https://www.bseindia.com/stock-share-price/kvs-castings-ltd/kvscasting/544554/)) | Likely Positive | 07 Aug 2026 - 14:32 |
 | 2026-08-07 12:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Offshore Orders (Major*) from ONGC ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 Aug 2026 - 12:52 |
 
-_Last updated: 07 Aug 2026 - 15:23 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-07.json)_
+_Last updated: 07 Aug 2026 - 16:14 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-07.json)_
 
 <!-- snapshot:end -->
 
