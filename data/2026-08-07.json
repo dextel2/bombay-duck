@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-08-07T12:52:25.227"
       }
+    ],
+    "2026-08-07T15": [
+      {
+        "newsId": "11f30a4c-13f4-4ed6-9c92-fa9fd9faace1",
+        "scripCode": 543991,
+        "shortName": "Techknowgreen Solutions Ltd",
+        "headline": "Receipt of work order - Remal Alcast Private Limited",
+        "announcedAt": "2026-08-07T15:14:18.137+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
+        "rawTime": "2026-08-07T15:14:18.137"
+      }
+    ],
+    "2026-08-07T14": [
+      {
+        "newsId": "352f23a6-cd8f-4a62-8b50-9302234ce26d",
+        "scripCode": 544554,
+        "shortName": "KVS Castings Ltd",
+        "headline": "The Company has secured an Export Order from M/s. SAMM Corporation, Delhi (Merchant Exports), an Indian entity, for Supply of Railway Parts to be used in Russian Railways.",
+        "announcedAt": "2026-08-07T14:32:28.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kvs-castings-ltd/kvscasting/544554/",
+        "rawTime": "2026-08-07T14:32:28.343"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-07T13:38:35.208+05:30",
-    "checksum": "105570fda4380f7bc52514742217c3f6749fa3b15038d4384b7db67f7689b883",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-07T15:23:29.442+05:30",
+    "checksum": "5d925aca105f033d71c427c1d93ffc9c5b231e449ed4374e0e3275ca46b56622",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-07/awards-133833.json"
+    "rawPayloadPath": "data/raw/2026-08-07/awards-152327.json"
   }
 }
