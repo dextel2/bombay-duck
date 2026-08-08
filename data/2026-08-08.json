@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-08-08",
-  "buckets": {},
+  "buckets": {
+    "2026-08-08T12": [
+      {
+        "newsId": "509d5542-0c3a-4ed4-ac08-de1e47e49ab1",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, this is to inform that Zaggle Prepaid Ocean Services Limited has entered into an Amendment Agreement to the Original Agreement ....",
+        "announcedAt": "2026-08-08T12:40:23.823+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-08-08T12:40:23.823"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-08T12:08:32.527+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-08T13:11:50.270+05:30",
+    "checksum": "59fc9aaed3a1ae44d8cc5b15cce4001df67194da00e6eaf22138d70a3c32a9e1",
+    "totalAnnouncements": 1,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-08/awards-120832.json"
+    "rawPayloadPath": "data/raw/2026-08-08/awards-131149.json"
   }
 }
