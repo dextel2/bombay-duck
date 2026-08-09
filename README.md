@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-08 IST)
+### Today's Awarded Orders (2026-08-09 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-08 13:00 | A.F. Enterprises Ltd | 538351 | Please find enclosed herewith Intimation under CIRP and receipt of order for your reference. ([Link](https://www.bseindia.com/stock-share-price/af-enterprises-ltd/afel/538351/)) | Likely Positive | 08 Aug 2026 - 13:53 |
-| 2026-08-08 12:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, this is to inform that Zaggle Prepaid Ocean Services Limited has entered into an Amendment Agreement to the Original Agreement .... ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 08 Aug 2026 - 12:40 |
+_No award announcements have been captured yet today._
 
-_Last updated: 08 Aug 2026 - 15:53 | Entries: 2 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-08-08.json)_
+_Last updated: 09 Aug 2026 - 09:41 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-09.json)_
 
 <!-- snapshot:end -->
 
