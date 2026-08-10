@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-10 12:00 | United Drilling Tools Ltd | 522014 | Award of Order from USA ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 10 Aug 2026 - 12:02 |
 | 2026-08-10 10:00 | Waaree Renewable Technologies Ltd | 534618 | Received LOA of EPC works of 124MWp. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 10 Aug 2026 - 10:58 |
 
-_Last updated: 10 Aug 2026 - 11:37 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-10.json)_
+_Last updated: 10 Aug 2026 - 13:51 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-10.json)_
 
 <!-- snapshot:end -->
 

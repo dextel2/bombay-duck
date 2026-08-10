@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
         "rawTime": "2026-08-10T10:58:51.55"
       }
+    ],
+    "2026-08-10T12": [
+      {
+        "newsId": "2807a382-e2d2-409c-868f-8043dba8f367",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of Order from USA",
+        "announcedAt": "2026-08-10T12:02:58.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-08-10T12:02:58.887"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-10T11:37:14.513+05:30",
-    "checksum": "5d582c5249b5a7adf2bcf699a011a1f729347078106e976f5c6a8ada50a3fb30",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-10T13:51:53.862+05:30",
+    "checksum": "0e92436099a4bb0c74fed138424691093ffa5b4d90a340ea9b7c539f9fca18fa",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-10/awards-113713.json"
+    "rawPayloadPath": "data/raw/2026-08-10/awards-135153.json"
   }
 }
