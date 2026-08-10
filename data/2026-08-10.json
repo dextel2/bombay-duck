@@ -22,14 +22,72 @@
         "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
         "rawTime": "2026-08-10T12:02:58.887"
       }
+    ],
+    "2026-08-10T15": [
+      {
+        "newsId": "50d6d143-a697-4a7a-9fbf-bc3aebbe5781",
+        "scripCode": 542012,
+        "shortName": "A-1 Ltd",
+        "headline": "Receipt of a supply order /contract from solar Group of Industries",
+        "announcedAt": "2026-08-10T15:18:20.687+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/",
+        "rawTime": "2026-08-10T15:18:20.687"
+      },
+      {
+        "newsId": "91dc34b6-5f0f-4d2d-b563-5488d75d950c",
+        "scripCode": 544555,
+        "shortName": "Ameenji Rubber Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 with respect to Receipt of Purchase Order",
+        "announcedAt": "2026-08-10T15:12:09.323+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/",
+        "rawTime": "2026-08-10T15:12:09.323"
+      }
+    ],
+    "2026-08-10T14": [
+      {
+        "newsId": "540d544d-237c-47cc-934a-8cf8b1f9d862",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of order",
+        "announcedAt": "2026-08-10T14:54:21.657+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-08-10T14:54:21.657"
+      },
+      {
+        "newsId": "a83b28ba-01e8-4508-88a6-2bbc2742984c",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 2,64,43,275 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015.",
+        "announcedAt": "2026-08-10T14:54:21.450+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-08-10T14:54:21.45"
+      },
+      {
+        "newsId": "acba73b3-23c7-4374-9962-b83362291418",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Intimation with regards to \"Siyaram Recycling\" secured order amounting to Rs. 1,07,73,400 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-08-10T14:47:22.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-08-10T14:47:22.933"
+      },
+      {
+        "newsId": "729e526a-49ac-480a-8148-4f9ba088dbb6",
+        "scripCode": 532483,
+        "shortName": "Canara Bank",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations 2015",
+        "announcedAt": "2026-08-10T14:09:50.967+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/canara-bank/canbk/532483/",
+        "rawTime": "2026-08-10T14:09:50.967"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-10T13:51:53.862+05:30",
-    "checksum": "0e92436099a4bb0c74fed138424691093ffa5b4d90a340ea9b7c539f9fca18fa",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-10T15:40:25.856+05:30",
+    "checksum": "ae04478a20b56fbae642f2faf32c8f85b5c5f343381503b5982ab4597f5c95d8",
+    "totalAnnouncements": 8,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-10/awards-135153.json"
+    "rawPayloadPath": "data/raw/2026-08-10/awards-154025.json"
   }
 }

@@ -22,10 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-10 15:00 | A-1 Ltd | 542012 | Receipt of a supply order /contract from solar Group of Industries ([Link](https://www.bseindia.com/stock-share-price/a-1-ltd/a1l/542012/)) | Likely Positive | 10 Aug 2026 - 15:18 |
+| 2026-08-10 15:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 with respect to Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Likely Positive | 10 Aug 2026 - 15:12 |
+| 2026-08-10 14:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of order ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 10 Aug 2026 - 14:54 |
+| 2026-08-10 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,64,43,275 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 10 Aug 2026 - 14:54 |
+| 2026-08-10 14:00 | Siyaram Recycling Industries Ltd | 544047 | Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 1,07,73,400 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 10 Aug 2026 - 14:47 |
+| 2026-08-10 14:00 | Canara Bank | 532483 | Intimation under Regulation 30 of SEBI (LODR) Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/canara-bank/canbk/532483/)) | Neutral | 10 Aug 2026 - 14:09 |
 | 2026-08-10 12:00 | United Drilling Tools Ltd | 522014 | Award of Order from USA ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 10 Aug 2026 - 12:02 |
 | 2026-08-10 10:00 | Waaree Renewable Technologies Ltd | 534618 | Received LOA of EPC works of 124MWp. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 10 Aug 2026 - 10:58 |
 
-_Last updated: 10 Aug 2026 - 13:51 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-10.json)_
+_Last updated: 10 Aug 2026 - 15:40 | Entries: 8 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-10.json)_
 
 <!-- snapshot:end -->
 
