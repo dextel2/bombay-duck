@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-10 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-10 10:00 | Waaree Renewable Technologies Ltd | 534618 | Received LOA of EPC works of 124MWp. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 10 Aug 2026 - 10:58 |
 
-_Last updated: 10 Aug 2026 - 09:53 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-10.json)_
+_Last updated: 10 Aug 2026 - 11:37 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-10.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-08-10",
-  "buckets": {},
+  "buckets": {
+    "2026-08-10T10": [
+      {
+        "newsId": "15636949-a1ae-41a4-9d1f-929321bf4bd0",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "Received LOA of EPC works of 124MWp.",
+        "announcedAt": "2026-08-10T10:58:51.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2026-08-10T10:58:51.55"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-10T09:53:44.177+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-10T11:37:14.513+05:30",
+    "checksum": "5d582c5249b5a7adf2bcf699a011a1f729347078106e976f5c6a8ada50a3fb30",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-10/awards-095343.json"
+    "rawPayloadPath": "data/raw/2026-08-10/awards-113713.json"
   }
 }
