@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-11 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-11 11:00 | Dev Information Technology Ltd | 543462 | Announcement Related To Receipt Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 11 Aug 2026 - 11:28 |
 
-_Last updated: 11 Aug 2026 - 11:18 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-11.json)_
+_Last updated: 11 Aug 2026 - 12:23 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-11.json)_
 
 <!-- snapshot:end -->
 
