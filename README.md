@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-11 14:00 | Ahasolar Technologies Ltd | 543941 | Intimation Receipt of Work Order received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 11 Aug 2026 - 14:42 |
+| 2026-08-11 13:00 | Advait Energy Transitions Ltd | 543230 | Order received from GETCO ([Link](https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/)) | Likely Positive | 11 Aug 2026 - 13:51 |
+| 2026-08-11 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Oder. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 11 Aug 2026 - 13:42 |
 | 2026-08-11 13:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are pleased to inform you that the Company has been awarded the letter of award from the National Highways Authority of India (NHAI) at Ramnagar Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 11 Aug 2026 - 13:15 |
 | 2026-08-11 12:00 | Antony Waste Handling Cell Ltd | 543254 | Please find attached intimation w.r.t Receipt of Contract/order from Greater Noida Industrial Development Authority. ([Link](https://www.bseindia.com/stock-share-price/antony-waste-handling-cell-ltd/awhcl/543254/)) | Likely Positive | 11 Aug 2026 - 12:37 |
 | 2026-08-11 11:00 | Dev Information Technology Ltd | 543462 | Announcement Related To Receipt Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 11 Aug 2026 - 11:28 |
 
-_Last updated: 11 Aug 2026 - 13:35 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-11.json)_
+_Last updated: 11 Aug 2026 - 15:23 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-11.json)_
 
 <!-- snapshot:end -->
 
