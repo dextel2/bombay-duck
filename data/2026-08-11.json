@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
         "rawTime": "2026-08-11T11:28:34.817"
       }
+    ],
+    "2026-08-11T13": [
+      {
+        "newsId": "775d5722-8933-4f64-96ba-8dd3315eb35d",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are pleased to inform you that the Company has been awarded the letter of award from the National Highways Authority of India (NHAI) at Ramnagar Fee Plaza.",
+        "announcedAt": "2026-08-11T13:15:03.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-08-11T13:15:03.803"
+      }
+    ],
+    "2026-08-11T12": [
+      {
+        "newsId": "981d6e1f-e9fd-4515-b720-f767493d8abe",
+        "scripCode": 543254,
+        "shortName": "Antony Waste Handling Cell Ltd",
+        "headline": "Please find attached intimation w.r.t Receipt of Contract/order from Greater Noida Industrial Development Authority.",
+        "announcedAt": "2026-08-11T12:37:07.450+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/antony-waste-handling-cell-ltd/awhcl/543254/",
+        "rawTime": "2026-08-11T12:37:07.45"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-11T12:23:27.515+05:30",
-    "checksum": "c5268a0160efd5ff0c46ae6595a37e524389bfc3b3a3fddd10f69d4a445cf53e",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-11T13:35:17.744+05:30",
+    "checksum": "a85527121b7a69abb5c7115b509826e49d8c5f1b86ff2fbec1633f2256795765",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-11/awards-122326.json"
+    "rawPayloadPath": "data/raw/2026-08-11/awards-133517.json"
   }
 }
