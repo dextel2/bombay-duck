@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-11 12:00 | Antony Waste Handling Cell Ltd | 543254 | Please find attached intimation w.r.t Receipt of Contract/order from Greater Noida Industrial Development Authority. ([Link](https://www.bseindia.com/stock-share-price/antony-waste-handling-cell-ltd/awhcl/543254/)) | Likely Positive | 11 Aug 2026 - 12:37 |
 | 2026-08-11 11:00 | Dev Information Technology Ltd | 543462 | Announcement Related To Receipt Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 11 Aug 2026 - 11:28 |
 
-_Last updated: 11 Aug 2026 - 15:23 | Entries: 6 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-11.json)_
+_Last updated: 11 Aug 2026 - 16:13 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-08-11.json)_
 
 <!-- snapshot:end -->
 
