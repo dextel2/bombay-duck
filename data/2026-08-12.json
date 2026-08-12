@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
         "rawTime": "2026-08-12T10:53:33.33"
       }
+    ],
+    "2026-08-12T14": [
+      {
+        "newsId": "7d1a042b-924c-480c-8ef8-7d11b7c9252d",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of Receipt of work Order Received.",
+        "announcedAt": "2026-08-12T14:47:53.793+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-08-12T14:47:53.793"
+      }
+    ],
+    "2026-08-12T13": [
+      {
+        "newsId": "323872be-b14b-4f7a-a5a0-c9b35d0378b2",
+        "scripCode": 543910,
+        "shortName": "AVG Logistics Ltd",
+        "headline": "Award of Long term contract from a renowned Cement Manufacturer in India",
+        "announcedAt": "2026-08-12T13:58:47.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/",
+        "rawTime": "2026-08-12T13:58:47.973"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-12T13:40:22.674+05:30",
-    "checksum": "59e2ba7c703d37e66abd7df1940a3d1b92089baec0f322e8db71d498aa2dd93a",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-12T15:24:32.974+05:30",
+    "checksum": "b88522cf0f8c39308971db8b976c363ad79397cd7c85589ec048fc4f0a9de98a",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-12/awards-134021.json"
+    "rawPayloadPath": "data/raw/2026-08-12/awards-152431.json"
   }
 }
