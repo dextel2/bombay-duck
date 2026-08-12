@@ -22,11 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-12 15:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of LOA from NHAI. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 12 Aug 2026 - 15:36 |
 | 2026-08-12 14:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of work Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 12 Aug 2026 - 14:47 |
 | 2026-08-12 13:00 | AVG Logistics Ltd | 543910 | Award of Long term contract from a renowned Cement Manufacturer in India ([Link](https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/)) | Likely Positive | 12 Aug 2026 - 13:58 |
 | 2026-08-12 10:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR)- Bagging of Award ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Neutral | 12 Aug 2026 - 10:53 |
 
-_Last updated: 12 Aug 2026 - 15:24 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-12.json)_
+_Last updated: 12 Aug 2026 - 16:24 | Entries: 4 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-12.json)_
 
 <!-- snapshot:end -->
 
