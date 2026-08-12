@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-08-12",
-  "buckets": {},
+  "buckets": {
+    "2026-08-12T10": [
+      {
+        "newsId": "cd9cee66-a376-45c6-9df6-6a93c4736915",
+        "scripCode": 544042,
+        "shortName": "Bajel Projects Ltd",
+        "headline": "Announcement under Regulation 30 (LODR)- Bagging of Award",
+        "announcedAt": "2026-08-12T10:53:33.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
+        "rawTime": "2026-08-12T10:53:33.33"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-12T10:12:03.513+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-12T11:37:42.309+05:30",
+    "checksum": "59e2ba7c703d37e66abd7df1940a3d1b92089baec0f322e8db71d498aa2dd93a",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-12/awards-101203.json"
+    "rawPayloadPath": "data/raw/2026-08-12/awards-113741.json"
   }
 }
