@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-12 10:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR)- Bagging of Award ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Neutral | 12 Aug 2026 - 10:53 |
 
-_Last updated: 12 Aug 2026 - 11:37 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-12.json)_
+_Last updated: 12 Aug 2026 - 13:40 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-12.json)_
 
 <!-- snapshot:end -->
 
