@@ -89,14 +89,45 @@
         "url": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
         "rawTime": "2026-08-13T14:12:02.663"
       }
+    ],
+    "2026-08-13T16": [
+      {
+        "newsId": "200269f2-55b1-478b-a868-3b539fd29a58",
+        "scripCode": 530951,
+        "shortName": "Raminfo Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-08-13T16:08:17.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/raminfo-ltd/raminfo/530951/",
+        "rawTime": "2026-08-13T16:08:17.037"
+      }
+    ],
+    "2026-08-13T15": [
+      {
+        "newsId": "23cf7b9d-f923-4b8c-a5aa-e1337d7da05a",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached intimation letter.",
+        "announcedAt": "2026-08-13T15:33:25.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2026-08-13T15:33:25.647"
+      },
+      {
+        "newsId": "5cf70960-b884-46f2-8ad6-1c28e720d737",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of the SEBI Regulations, 2015, Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to ....",
+        "announcedAt": "2026-08-13T15:26:46.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-08-13T15:26:46.58"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-13T15:25:42.389+05:30",
-    "checksum": "85a33e27abe59143df58e264a29fa52a3e6f89ac80e3feddf9a597cc0aeb06e8",
-    "totalAnnouncements": 9,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-13T16:26:02.101+05:30",
+    "checksum": "e164b17fb9ce0c4d2b223886062bce6315cf3262d0af223cfd364731af8a0ac1",
+    "totalAnnouncements": 12,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-13/awards-152538.json"
+    "rawPayloadPath": "data/raw/2026-08-13/awards-162601.json"
   }
 }
