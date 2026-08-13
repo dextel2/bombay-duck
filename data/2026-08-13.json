@@ -60,14 +60,43 @@
         "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
         "rawTime": "2026-08-13T12:21:01.75"
       }
+    ],
+    "2026-08-13T14": [
+      {
+        "newsId": "f9ee69bd-54b8-4dfa-8992-cbb6bc42e730",
+        "scripCode": 544164,
+        "shortName": "Faalcon Concepts Ltd",
+        "headline": "Received new work order from Mandeep Dhingra (Sole Proprietorship for office building at Institutional Plot No. 164, Sector 44, Gurugram - 122003, Haryana, India for amounting worth Rs. 5,25,10,221.",
+        "announcedAt": "2026-08-13T14:54:27.127+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/",
+        "rawTime": "2026-08-13T14:54:27.127"
+      },
+      {
+        "newsId": "3092557b-0ceb-416a-bfb0-6c03e89e5f12",
+        "scripCode": 544862,
+        "shortName": "Solex Energy Ltd",
+        "headline": "Intimation of Receipt of Work Order as per attachment",
+        "announcedAt": "2026-08-13T14:41:12.453+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/",
+        "rawTime": "2026-08-13T14:41:12.453"
+      },
+      {
+        "newsId": "03a31ecf-b312-4609-b692-5866bdf16b69",
+        "scripCode": 543920,
+        "shortName": "CFF Fluid Control Ltd",
+        "headline": "Receipt of Purchase Order: Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-08-13T14:12:02.663+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
+        "rawTime": "2026-08-13T14:12:02.663"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-13T13:43:18.643+05:30",
-    "checksum": "71c2238a6c3ac1d0912457acfc341ec049a5098c23938316b6543c08c470f9f3",
-    "totalAnnouncements": 6,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-13T15:25:42.389+05:30",
+    "checksum": "85a33e27abe59143df58e264a29fa52a3e6f89ac80e3feddf9a597cc0aeb06e8",
+    "totalAnnouncements": 9,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-13/awards-134317.json"
+    "rawPayloadPath": "data/raw/2026-08-13/awards-152538.json"
   }
 }
