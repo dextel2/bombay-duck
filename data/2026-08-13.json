@@ -11,14 +11,34 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-08-13T09:28:17.88"
       }
+    ],
+    "2026-08-13T11": [
+      {
+        "newsId": "4db66021-e100-4a65-8740-47b8c1f40bab",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "Larsen & Toubro Secures Mega* Order as part of a strategic partnership with together AI to build India''s largest NVIDIA B300 AI Factory",
+        "announcedAt": "2026-08-13T11:26:56.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-08-13T11:26:56.83"
+      },
+      {
+        "newsId": "d1630a5f-ae51-4601-b209-83e4d2513597",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "RMC SWitchgears Limited gets Purchase Order worth Rs. 1,88,52,000/-",
+        "announcedAt": "2026-08-13T11:09:33.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-08-13T11:09:33.72"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-13T10:15:46.338+05:30",
-    "checksum": "30f696c2b05b40ad6f7f7962f54134730890a8651e53fd7747361208a193d583",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-13T11:40:34.413+05:30",
+    "checksum": "8862efe70d8651e3a6035c18e721efde27353191f7c6da732fd16a111dcbd189",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-13/awards-101545.json"
+    "rawPayloadPath": "data/raw/2026-08-13/awards-114033.json"
   }
 }
