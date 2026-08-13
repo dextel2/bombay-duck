@@ -14,6 +14,15 @@
     ],
     "2026-08-13T11": [
       {
+        "newsId": "08704f1e-1d50-4d2b-9d54-d59383988ca9",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of Receipt of Order from Punjab Energy Development Agency",
+        "announcedAt": "2026-08-13T11:46:48.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-08-13T11:46:48.4"
+      },
+      {
         "newsId": "4db66021-e100-4a65-8740-47b8c1f40bab",
         "scripCode": 500510,
         "shortName": "Larsen & Toubro Ltd",
@@ -31,14 +40,34 @@
         "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
         "rawTime": "2026-08-13T11:09:33.72"
       }
+    ],
+    "2026-08-13T12": [
+      {
+        "newsId": "eb2484d1-069a-4a2c-bb5a-168d8646d9c7",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-08-13T12:24:34.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2026-08-13T12:24:34.343"
+      },
+      {
+        "newsId": "d94bb76b-85d1-43a8-ad30-df6570f02045",
+        "scripCode": 543986,
+        "shortName": "South West Pinnacle Exploration Ltd",
+        "headline": "Announcement for Letter of Intimation (LOI) from M/s Odisha Lift Irrigation Corporation Limited(A Govt of Odisha Undertaking)",
+        "announcedAt": "2026-08-13T12:21:01.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
+        "rawTime": "2026-08-13T12:21:01.75"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-13T11:40:34.413+05:30",
-    "checksum": "8862efe70d8651e3a6035c18e721efde27353191f7c6da732fd16a111dcbd189",
-    "totalAnnouncements": 3,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-13T13:43:18.643+05:30",
+    "checksum": "71c2238a6c3ac1d0912457acfc341ec049a5098c23938316b6543c08c470f9f3",
+    "totalAnnouncements": 6,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-13/awards-114033.json"
+    "rawPayloadPath": "data/raw/2026-08-13/awards-134317.json"
   }
 }

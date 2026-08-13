@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-13 12:00 | Saatvik Green Energy Ltd | 544526 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 13 Aug 2026 - 12:24 |
+| 2026-08-13 12:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for Letter of Intimation (LOI) from M/s Odisha Lift Irrigation Corporation Limited(A Govt of Odisha Undertaking) ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Neutral | 13 Aug 2026 - 12:21 |
+| 2026-08-13 11:00 | Sharika Enterprises Ltd | 540786 | Intimation of Receipt of Order from Punjab Energy Development Agency ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 13 Aug 2026 - 11:46 |
 | 2026-08-13 11:00 | Larsen & Toubro Ltd | 500510 | Larsen & Toubro Secures Mega* Order as part of a strategic partnership with together AI to build India''s largest NVIDIA B300 AI Factory ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 Aug 2026 - 11:26 |
 | 2026-08-13 11:00 | RMC Switchgears Ltd | 540358 | RMC SWitchgears Limited gets Purchase Order worth Rs. 1,88,52,000/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 13 Aug 2026 - 11:09 |
 | 2026-08-13 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 13 Aug 2026 - 09:28 |
 
-_Last updated: 13 Aug 2026 - 11:40 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-13.json)_
+_Last updated: 13 Aug 2026 - 13:43 | Entries: 6 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-13.json)_
 
 <!-- snapshot:end -->
 
