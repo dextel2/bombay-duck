@@ -62,14 +62,34 @@
         "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
         "rawTime": "2026-08-14T12:39:35.227"
       }
+    ],
+    "2026-08-14T14": [
+      {
+        "newsId": "1e0af4cd-3d26-4eea-b293-c35925927137",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "Press Release - KPIL AWARDED NEW ORDERS OF RS. 3526 CRORES",
+        "announcedAt": "2026-08-14T14:35:01.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2026-08-14T14:35:01.053"
+      },
+      {
+        "newsId": "7cc19cef-4f07-4fd6-945b-82b94dfd43ac",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding receipt of Purchase Order/Service Order under Reg 30 of SEBI LODR amounting to Rs.21.42 millions from KP ENERGY LTD, ADANI TOTAL GAS LTD & MAHARASHTRA NATURAL GAS LTD",
+        "announcedAt": "2026-08-14T14:31:14.403+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-08-14T14:31:14.403"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-14T13:38:20.640+05:30",
-    "checksum": "0973ef53e13b8ef8a9d1c39065febe2d659d8814603653d8f6ef5e4f365c2a70",
-    "totalAnnouncements": 6,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-14T15:22:52.599+05:30",
+    "checksum": "afa5ccc45134c3fe85682954e284fef4fba987c6c8d87aedcfdde4f3b06dcbf8",
+    "totalAnnouncements": 8,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-14/awards-133816.json"
+    "rawPayloadPath": "data/raw/2026-08-14/awards-152249.json"
   }
 }
