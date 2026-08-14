@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-08-14T08:59:45.23"
       }
+    ],
+    "2026-08-14T10": [
+      {
+        "newsId": "6a007f8a-d6f1-47ad-a8b0-c8e4d3e8ae80",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "Order received from APTRANSCO",
+        "announcedAt": "2026-08-14T10:45:32.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-08-14T10:45:32.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-14T10:13:03.720+05:30",
-    "checksum": "e380893d2047b3b70b65bdfc1a4d244db769412fa0bb08e290742e557bd1d0d6",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-14T11:37:41.322+05:30",
+    "checksum": "13b9271e99849a5d84d6c62c8fcdc173c2df92b01d67a1f79a54e48a18ba41a9",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-14/awards-101303.json"
+    "rawPayloadPath": "data/raw/2026-08-14/awards-113740.json"
   }
 }

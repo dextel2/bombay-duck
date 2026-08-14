@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-14 10:00 | Transformers and Rectifiers (India) Ltd | 532928 | Order received from APTRANSCO ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 14 Aug 2026 - 10:45 |
 | 2026-08-14 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for cut and polished lab grown diamonds from Saharsh Exports amouting to 14.25 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 14 Aug 2026 - 08:59 |
 
-_Last updated: 14 Aug 2026 - 10:13 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-14.json)_
+_Last updated: 14 Aug 2026 - 11:37 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-14.json)_
 
 <!-- snapshot:end -->
 
