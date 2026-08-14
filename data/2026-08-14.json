@@ -82,14 +82,25 @@
         "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
         "rawTime": "2026-08-14T14:31:14.403"
       }
+    ],
+    "2026-08-14T15": [
+      {
+        "newsId": "a8e0fbeb-e6e2-4593-977a-94c22d55488d",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of letter of award",
+        "announcedAt": "2026-08-14T15:40:23.973+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-08-14T15:40:23.973"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-14T15:22:52.599+05:30",
-    "checksum": "afa5ccc45134c3fe85682954e284fef4fba987c6c8d87aedcfdde4f3b06dcbf8",
-    "totalAnnouncements": 8,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-14T16:21:15.726+05:30",
+    "checksum": "3ad0ceb3ccac7fc574a00e86762052d299905118b0b6ae81d4eed2524df69483",
+    "totalAnnouncements": 9,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-14/awards-152249.json"
+    "rawPayloadPath": "data/raw/2026-08-14/awards-162111.json"
   }
 }
