@@ -22,14 +22,54 @@
         "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
         "rawTime": "2026-08-14T10:45:32.82"
       }
+    ],
+    "2026-08-14T13": [
+      {
+        "newsId": "43c31dfa-4ff3-4a66-8855-22734649a300",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are pleased to inform you that the Company has been awarded the Letter of award from the National Highways Authority of India ( NHAI) at Thirupapachethi Fee Plaza.",
+        "announcedAt": "2026-08-14T13:04:28.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-08-14T13:04:28.767"
+      },
+      {
+        "newsId": "c77c4c5f-c3be-435e-9970-f8b3f610a330",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation for further Enhancement/receiving of work order.",
+        "announcedAt": "2026-08-14T13:00:59.787+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-08-14T13:00:59.787"
+      }
+    ],
+    "2026-08-14T12": [
+      {
+        "newsId": "c69392cd-7c8d-4939-b9c1-b428ea0cf6e4",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Refex Industries Limited bags order for rate contract for ash transportation to road construction sites",
+        "announcedAt": "2026-08-14T12:42:58.703+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-08-14T12:42:58.703"
+      },
+      {
+        "newsId": "23c7d112-0cf5-4da8-b8de-df1c9f582d46",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
+        "announcedAt": "2026-08-14T12:39:35.227+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-08-14T12:39:35.227"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-14T11:37:41.322+05:30",
-    "checksum": "13b9271e99849a5d84d6c62c8fcdc173c2df92b01d67a1f79a54e48a18ba41a9",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-14T13:38:20.640+05:30",
+    "checksum": "0973ef53e13b8ef8a9d1c39065febe2d659d8814603653d8f6ef5e4f365c2a70",
+    "totalAnnouncements": 6,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-14/awards-113740.json"
+    "rawPayloadPath": "data/raw/2026-08-14/awards-133816.json"
   }
 }

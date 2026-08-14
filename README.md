@@ -22,10 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-14 13:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are pleased to inform you that the Company has been awarded the Letter of award from the National Highways Authority of India ( NHAI) at Thirupapachethi Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 14 Aug 2026 - 13:04 |
+| 2026-08-14 13:00 | Dhabriya Polywood Ltd | 538715 | Intimation for further Enhancement/receiving of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 14 Aug 2026 - 13:00 |
+| 2026-08-14 12:00 | Refex Industries Ltd | 532884 | Refex Industries Limited bags order for rate contract for ash transportation to road construction sites ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 14 Aug 2026 - 12:42 |
+| 2026-08-14 12:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 14 Aug 2026 - 12:39 |
 | 2026-08-14 10:00 | Transformers and Rectifiers (India) Ltd | 532928 | Order received from APTRANSCO ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 14 Aug 2026 - 10:45 |
 | 2026-08-14 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for cut and polished lab grown diamonds from Saharsh Exports amouting to 14.25 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 14 Aug 2026 - 08:59 |
 
-_Last updated: 14 Aug 2026 - 11:37 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-14.json)_
+_Last updated: 14 Aug 2026 - 13:38 | Entries: 6 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-14.json)_
 
 <!-- snapshot:end -->
 
