@@ -18,24 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-13 IST)
+### Today's Awarded Orders (2026-08-14 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-13 16:00 | Raminfo Ltd | 530951 | Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/raminfo-ltd/raminfo/530951/)) | Neutral | 13 Aug 2026 - 16:08 |
-| 2026-08-13 15:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 13 Aug 2026 - 15:33 |
-| 2026-08-13 15:00 | Ashoka Buildcon Ltd | 533271 | Pursuant to the provisions of Regulation 30 of the SEBI Regulations, 2015, Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 13 Aug 2026 - 15:26 |
-| 2026-08-13 14:00 | Faalcon Concepts Ltd | 544164 | Received new work order from Mandeep Dhingra (Sole Proprietorship for office building at Institutional Plot No. 164, Sector 44, Gurugram - 122003, Haryana, India for amounting worth Rs. 5,25,10,221. ([Link](https://www.bseindia.com/stock-share-price/faalcon-concepts-ltd/faalcon/544164/)) | Likely Positive | 13 Aug 2026 - 14:54 |
-| 2026-08-13 14:00 | Solex Energy Ltd | 544862 | Intimation of Receipt of Work Order as per attachment ([Link](https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/)) | Likely Positive | 13 Aug 2026 - 14:41 |
-| 2026-08-13 14:00 | CFF Fluid Control Ltd | 543920 | Receipt of Purchase Order: Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/)) | Likely Positive | 13 Aug 2026 - 14:12 |
-| 2026-08-13 12:00 | Saatvik Green Energy Ltd | 544526 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 13 Aug 2026 - 12:24 |
-| 2026-08-13 12:00 | South West Pinnacle Exploration Ltd | 543986 | Announcement for Letter of Intimation (LOI) from M/s Odisha Lift Irrigation Corporation Limited(A Govt of Odisha Undertaking) ([Link](https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/)) | Neutral | 13 Aug 2026 - 12:21 |
-| 2026-08-13 11:00 | Sharika Enterprises Ltd | 540786 | Intimation of Receipt of Order from Punjab Energy Development Agency ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 13 Aug 2026 - 11:46 |
-| 2026-08-13 11:00 | Larsen & Toubro Ltd | 500510 | Larsen & Toubro Secures Mega* Order as part of a strategic partnership with together AI to build India''s largest NVIDIA B300 AI Factory ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 13 Aug 2026 - 11:26 |
-| 2026-08-13 11:00 | RMC Switchgears Ltd | 540358 | RMC SWitchgears Limited gets Purchase Order worth Rs. 1,88,52,000/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Likely Positive | 13 Aug 2026 - 11:09 |
-| 2026-08-13 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 13 Aug 2026 - 09:28 |
+| 2026-08-14 08:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for cut and polished lab grown diamonds from Saharsh Exports amouting to 14.25 Crores ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 14 Aug 2026 - 08:59 |
 
-_Last updated: 13 Aug 2026 - 16:26 | Entries: 12 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-13.json)_
+_Last updated: 14 Aug 2026 - 10:13 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-14.json)_
 
 <!-- snapshot:end -->
 

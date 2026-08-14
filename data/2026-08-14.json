@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-08-14",
+  "buckets": {
+    "2026-08-14T08": [
+      {
+        "newsId": "9e56bea7-d301-4221-a40f-d575452da113",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of significant domestic order for cut and polished lab grown diamonds from Saharsh Exports amouting to 14.25 Crores",
+        "announcedAt": "2026-08-14T08:59:45.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-08-14T08:59:45.23"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-14T10:13:03.720+05:30",
+    "checksum": "e380893d2047b3b70b65bdfc1a4d244db769412fa0bb08e290742e557bd1d0d6",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-14/awards-101303.json"
+  }
+}
