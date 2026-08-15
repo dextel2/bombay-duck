@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-15 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-15 12:00 | Juniper Green Energy Ltd | 544853 | Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Letter of Award ([Link](https://www.bseindia.com/stock-share-price/juniper-green-energy-ltd/jnpr/544853/)) | Likely Positive | 15 Aug 2026 - 12:21 |
+| 2026-08-15 12:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are pleased to inform you that the Company has been Awarded the Letter of award from the National Highways Authority of India (NHAI) at Madangundi Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 15 Aug 2026 - 12:11 |
 
-_Last updated: 15 Aug 2026 - 11:53 | Entries: 0 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-15.json)_
+_Last updated: 15 Aug 2026 - 12:53 | Entries: 2 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-15.json)_
 
 <!-- snapshot:end -->
 

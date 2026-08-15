@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-08-15",
-  "buckets": {},
+  "buckets": {
+    "2026-08-15T12": [
+      {
+        "newsId": "7ada5062-6675-464a-8291-17de31bc40a6",
+        "scripCode": 544853,
+        "shortName": "Juniper Green Energy Ltd",
+        "headline": "Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Letter of Award",
+        "announcedAt": "2026-08-15T12:21:09.157+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/juniper-green-energy-ltd/jnpr/544853/",
+        "rawTime": "2026-08-15T12:21:09.157"
+      },
+      {
+        "newsId": "b7c7aeee-8dc7-4577-b9b0-00875d3d2be0",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are pleased to inform you that the Company has been Awarded the Letter of award from the National Highways Authority of India (NHAI) at Madangundi Fee Plaza.",
+        "announcedAt": "2026-08-15T12:11:39.657+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-08-15T12:11:39.657"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-15T11:53:53.829+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-15T12:53:29.772+05:30",
+    "checksum": "4b768da6e4baf429e6192c96b6f5d95ba73cd3939eb083606297949de26b39fd",
+    "totalAnnouncements": 2,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-15/awards-115353.json"
+    "rawPayloadPath": "data/raw/2026-08-15/awards-125329.json"
   }
 }
