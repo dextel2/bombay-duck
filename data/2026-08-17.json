@@ -1,12 +1,33 @@
 {
   "tradingDate": "2026-08-17",
-  "buckets": {},
+  "buckets": {
+    "2026-08-17T11": [
+      {
+        "newsId": "68fc2cca-8db9-4eba-95f1-11c767683ce7",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Intimation of Receipt of Work Order Received.",
+        "announcedAt": "2026-08-17T11:57:14.453+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-08-17T11:57:14.453"
+      },
+      {
+        "newsId": "940c7c3a-1b30-4d5d-8a15-ecadb5441816",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Secures Ultra-Mega* Order for Strategic Offshore Development Project in the Middle East",
+        "announcedAt": "2026-08-17T11:26:13.487+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-08-17T11:26:13.487"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-17T10:58:02.764+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-17T12:08:08.048+05:30",
+    "checksum": "adb3cb3251b151acad7309e8a457ccacf5f032d086495c48fd72c05f1a7fe58b",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-17/awards-105802.json"
+    "rawPayloadPath": "data/raw/2026-08-17/awards-120807.json"
   }
 }
