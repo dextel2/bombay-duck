@@ -20,9 +20,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-18 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-18 11:00 | Refex Industries Ltd | 532884 | Refex Industries Limited bags order for Rate contract for Ash Transportation to road construction sites ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 18 Aug 2026 - 11:53 |
+| 2026-08-18 11:00 | Goldiam International Ltd | 526729 | Intimation with regard to new export orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 18 Aug 2026 - 11:28 |
+| 2026-08-18 10:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letter dated 11th March 2026 and 12th March 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra Mining Limited .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 18 Aug 2026 - 10:59 |
 
-_Last updated: 18 Aug 2026 - 10:51 | Entries: 0 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
+_Last updated: 18 Aug 2026 - 11:59 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
 
 <!-- snapshot:end -->
 

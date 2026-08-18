@@ -1,12 +1,44 @@
 {
   "tradingDate": "2026-08-18",
-  "buckets": {},
+  "buckets": {
+    "2026-08-18T11": [
+      {
+        "newsId": "4892e3cd-3e01-4bbc-8462-0286acb3eddc",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Refex Industries Limited bags order for Rate contract for Ash Transportation to road construction sites",
+        "announcedAt": "2026-08-18T11:53:39.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-08-18T11:53:39.68"
+      },
+      {
+        "newsId": "b54004fd-ea63-47d3-8584-c2bf5099faa9",
+        "scripCode": 526729,
+        "shortName": "Goldiam International Ltd",
+        "headline": "Intimation with regard to new export orders received",
+        "announcedAt": "2026-08-18T11:28:51.230+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/",
+        "rawTime": "2026-08-18T11:28:51.23"
+      }
+    ],
+    "2026-08-18T10": [
+      {
+        "newsId": "a0f1b17b-9bc3-4015-a597-be39c97d5967",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier letter dated 11th March 2026 and 12th March 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra Mining Limited ....",
+        "announcedAt": "2026-08-18T10:59:32.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-08-18T10:59:32.853"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-18T10:51:09.943+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-18T11:59:37.511+05:30",
+    "checksum": "bc33a882e518cba99e582f1264af470e4301006c9a4c7c8f02b33f18af3781d3",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-18/awards-105109.json"
+    "rawPayloadPath": "data/raw/2026-08-18/awards-115936.json"
   }
 }
