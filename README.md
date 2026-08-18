@@ -22,6 +22,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-18 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Office .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 18 Aug 2026 - 15:48 |
 | 2026-08-18 14:00 | Advait Energy Transitions Ltd | 543230 | Turnkey contract for EPC work from KPI Green Energy Limited to Advait Greenergy Private Limited, material subsidiary of the company. ([Link](https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/)) | Likely Positive | 18 Aug 2026 - 14:18 |
 | 2026-08-18 13:00 | Airfloa Rail Technology Ltd | 544516 | Receiving Orders value of Rs70.56 Lakhs ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 18 Aug 2026 - 13:18 |
 | 2026-08-18 12:00 | GRE Renew Enertech Ltd | 544682 | Business Update on Orders Received - Fortnightly Update ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 18 Aug 2026 - 12:20 |
@@ -30,7 +31,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-18 11:00 | Goldiam International Ltd | 526729 | Intimation with regard to new export orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 18 Aug 2026 - 11:28 |
 | 2026-08-18 10:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letter dated 11th March 2026 and 12th March 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra Mining Limited .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 18 Aug 2026 - 10:59 |
 
-_Last updated: 18 Aug 2026 - 14:54 | Entries: 7 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
+_Last updated: 18 Aug 2026 - 15:49 | Entries: 8 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
 
 <!-- snapshot:end -->
 

@@ -73,14 +73,25 @@
         "url": "https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/",
         "rawTime": "2026-08-18T14:18:00.163"
       }
+    ],
+    "2026-08-18T15": [
+      {
+        "newsId": "794a62f8-ecc4-450c-a40a-542ee5e2e6ca",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Office ....",
+        "announcedAt": "2026-08-18T15:48:03.503+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-08-18T15:48:03.503"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-18T14:54:26.557+05:30",
-    "checksum": "d02247dbe6887eec91bf046f5bc7009331b97c99923f911e21f308fd560be3c8",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-08-18T15:49:50.620+05:30",
+    "checksum": "e41c9ceea7067e1adba722c597364f8e9b78f40511795b7cbc78a3fa8ea6d737",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-18/awards-145424.json"
+    "rawPayloadPath": "data/raw/2026-08-18/awards-154950.json"
   }
 }
