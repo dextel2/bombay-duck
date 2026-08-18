@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
         "rawTime": "2026-08-18T13:18:50.523"
       }
+    ],
+    "2026-08-18T14": [
+      {
+        "newsId": "257f9071-73a8-49af-b235-622f015d4869",
+        "scripCode": 543230,
+        "shortName": "Advait Energy Transitions Ltd",
+        "headline": "Turnkey contract for EPC work from KPI Green Energy Limited to Advait Greenergy Private Limited, material subsidiary of the company.",
+        "announcedAt": "2026-08-18T14:18:00.163+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/advait-energy-transitions-ltd/advait/543230/",
+        "rawTime": "2026-08-18T14:18:00.163"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-18T13:56:16.278+05:30",
-    "checksum": "502c0d410b230c286c6ffc37f31fcb36a584708df741691253715d6447e4d4df",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-08-18T14:54:26.557+05:30",
+    "checksum": "d02247dbe6887eec91bf046f5bc7009331b97c99923f911e21f308fd560be3c8",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-18/awards-135615.json"
+    "rawPayloadPath": "data/raw/2026-08-18/awards-145424.json"
   }
 }
