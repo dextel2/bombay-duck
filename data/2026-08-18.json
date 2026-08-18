@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/valplast-technologies-ltd/valplast/544565/",
         "rawTime": "2026-08-18T12:10:37.323"
       }
+    ],
+    "2026-08-18T13": [
+      {
+        "newsId": "1ebb0b3a-9722-43eb-a203-6e49f3b240a0",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Receiving Orders value of Rs70.56 Lakhs",
+        "announcedAt": "2026-08-18T13:18:50.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-08-18T13:18:50.523"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-18T13:00:49.341+05:30",
-    "checksum": "c48fd78f9f0a0bc440be292944e698c308bc6b61a0e87f5331a18df58d03e852",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-08-18T13:56:16.278+05:30",
+    "checksum": "502c0d410b230c286c6ffc37f31fcb36a584708df741691253715d6447e4d4df",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-18/awards-130048.json"
+    "rawPayloadPath": "data/raw/2026-08-18/awards-135615.json"
   }
 }
