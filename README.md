@@ -22,11 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-18 12:00 | GRE Renew Enertech Ltd | 544682 | Business Update on Orders Received - Fortnightly Update ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 18 Aug 2026 - 12:20 |
+| 2026-08-18 12:00 | Valplast Technologies Ltd | 544565 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015- Receipt of a new Order/Contract. ([Link](https://www.bseindia.com/stock-share-price/valplast-technologies-ltd/valplast/544565/)) | Likely Positive | 18 Aug 2026 - 12:10 |
 | 2026-08-18 11:00 | Refex Industries Ltd | 532884 | Refex Industries Limited bags order for Rate contract for Ash Transportation to road construction sites ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 18 Aug 2026 - 11:53 |
 | 2026-08-18 11:00 | Goldiam International Ltd | 526729 | Intimation with regard to new export orders received ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 18 Aug 2026 - 11:28 |
 | 2026-08-18 10:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letter dated 11th March 2026 and 12th March 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra Mining Limited .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 18 Aug 2026 - 10:59 |
 
-_Last updated: 18 Aug 2026 - 11:59 | Entries: 3 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
+_Last updated: 18 Aug 2026 - 13:00 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
 
 <!-- snapshot:end -->
 
