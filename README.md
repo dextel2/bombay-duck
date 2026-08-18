@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-17 IST)
+### Today's Awarded Orders (2026-08-18 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-17 11:00 | Ahasolar Technologies Ltd | 543941 | Intimation of Receipt of Work Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 17 Aug 2026 - 11:57 |
-| 2026-08-17 11:00 | Larsen & Toubro Ltd | 500510 | L&T Secures Ultra-Mega* Order for Strategic Offshore Development Project in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 17 Aug 2026 - 11:26 |
+_No award announcements have been captured yet today._
 
-_Last updated: 17 Aug 2026 - 15:54 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-17.json)_
+_Last updated: 18 Aug 2026 - 09:07 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-18.json)_
 
 <!-- snapshot:end -->
 
