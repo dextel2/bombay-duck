@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-19 11:00 | Ecoboard Industries Ltd | 523732 | Intimation of receipt of order for Design, Procurement, Manufacturing, Supply, Erection & Commissioning of 6 TPD CBG Plant ([Link](https://www.bseindia.com/stock-share-price/ecoboard-industries-ltd/ecoboar/523732/)) | Likely Positive | 19 Aug 2026 - 11:42 |
+| 2026-08-19 11:00 | Ceat Ltd | 500878 | Please find enclosed disclosure under Regulation 30 and 51 read with other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/ceat-ltd/ceatltd/500878/)) | Neutral | 19 Aug 2026 - 11:12 |
 | 2026-08-19 10:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letter dated 16th March 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Rajinder Infrastructure Private Limited ('RIPL') .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 19 Aug 2026 - 10:21 |
 | 2026-08-19 06:00 | L&T Technology Services Ltd | 540115 | L&T Technology Services Limited has secured a landmark engagement valued over $ 75 million from a leading global technology enterprise. ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Likely Positive | 19 Aug 2026 - 06:26 |
 
-_Last updated: 19 Aug 2026 - 10:51 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-19.json)_
+_Last updated: 19 Aug 2026 - 12:00 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-19.json)_
 
 <!-- snapshot:end -->
 

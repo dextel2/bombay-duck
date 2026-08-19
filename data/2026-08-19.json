@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-08-19T10:21:59.007"
       }
+    ],
+    "2026-08-19T11": [
+      {
+        "newsId": "e7c41cc9-e0dd-49dd-8e93-fae8f6db4dc5",
+        "scripCode": 523732,
+        "shortName": "Ecoboard Industries Ltd",
+        "headline": "Intimation of receipt of order for Design, Procurement, Manufacturing, Supply, Erection & Commissioning of 6 TPD CBG Plant",
+        "announcedAt": "2026-08-19T11:42:18.953+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ecoboard-industries-ltd/ecoboar/523732/",
+        "rawTime": "2026-08-19T11:42:18.953"
+      },
+      {
+        "newsId": "54f62c44-111c-4755-886a-27e23c12c7a2",
+        "scripCode": 500878,
+        "shortName": "Ceat Ltd",
+        "headline": "Please find enclosed disclosure under Regulation 30 and 51 read with other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-08-19T11:12:06.390+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceat-ltd/ceatltd/500878/",
+        "rawTime": "2026-08-19T11:12:06.39"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-19T10:51:50.379+05:30",
-    "checksum": "35c1467e9bbbdd9ec6061c4a37427bc27424beb41b416a2f26dcade330feb7e5",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-19T12:00:54.344+05:30",
+    "checksum": "a60c7f0453e8ca872e1d3ab713bd7a46f8a020d1bcdf0e82e23480b46669b63e",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-19/awards-105149.json"
+    "rawPayloadPath": "data/raw/2026-08-19/awards-120052.json"
   }
 }
