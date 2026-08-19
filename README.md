@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-19 06:00 | L&T Technology Services Ltd | 540115 | L&T Technology Services Limited has secured a landmark engagement valued over $ 75 million from a leading global technology enterprise. ([Link](https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/)) | Likely Positive | 19 Aug 2026 - 06:26 |
 
-_Last updated: 19 Aug 2026 - 09:09 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-19.json)_
+_Last updated: 19 Aug 2026 - 09:59 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-19.json)_
 
 <!-- snapshot:end -->
 
