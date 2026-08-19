@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-08-19",
+  "buckets": {
+    "2026-08-19T06": [
+      {
+        "newsId": "5327a501-15c3-4df4-9eab-a20366e77fcb",
+        "scripCode": 540115,
+        "shortName": "L&T Technology Services Ltd",
+        "headline": "L&T Technology Services Limited has secured a landmark engagement valued over $ 75 million from a leading global technology enterprise.",
+        "announcedAt": "2026-08-19T06:26:29.897+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/",
+        "rawTime": "2026-08-19T06:26:29.897"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-19T09:09:33.137+05:30",
+    "checksum": "8e7599a936e66b51df0ab9dbc50e1ce44201f804bfada2ae435ab163af61e17f",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-19/awards-090932.json"
+  }
+}
