@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/lt-technology-services-ltd/ltts/540115/",
         "rawTime": "2026-08-19T06:26:29.897"
       }
+    ],
+    "2026-08-19T10": [
+      {
+        "newsId": "d789e613-49f0-46be-b849-deb500b7ed6e",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier letter dated 16th March 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Rajinder Infrastructure Private Limited ('RIPL') ....",
+        "announcedAt": "2026-08-19T10:21:59.007+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-08-19T10:21:59.007"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-19T09:59:34.231+05:30",
-    "checksum": "8e7599a936e66b51df0ab9dbc50e1ce44201f804bfada2ae435ab163af61e17f",
-    "totalAnnouncements": 1,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-19T10:51:50.379+05:30",
+    "checksum": "35c1467e9bbbdd9ec6061c4a37427bc27424beb41b416a2f26dcade330feb7e5",
+    "totalAnnouncements": 2,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-19/awards-095933.json"
+    "rawPayloadPath": "data/raw/2026-08-19/awards-105149.json"
   }
 }
