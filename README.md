@@ -22,6 +22,9 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-20 14:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Ltd has informed that it has received an Order on Job work basis of Rs. 36 crore ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 20 Aug 2026 - 14:33 |
+| 2026-08-20 14:00 | Aarvi Encon Ltd | 544850 | Intimation of Work Order Received of Rs. 30 Cr. ([Link](https://www.bseindia.com/stock-share-price/aarvi-encon-ltd/aarvi/544850/)) | Likely Positive | 20 Aug 2026 - 14:28 |
+| 2026-08-20 14:00 | Sattrix Information Security Ltd | 544189 | Sattrix Information Security Limited has secured a significant order from one of the Private Sector Bank in India. ([Link](https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/)) | Likely Positive | 20 Aug 2026 - 14:21 |
 | 2026-08-20 13:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform you that Cryogenic OGS Limited has received two Purchase Orders from a specialized Industrial instrumentation and process optimisation solutions Multinational Company .... ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 20 Aug 2026 - 13:48 |
 | 2026-08-20 13:00 | Rail Vikas Nigam Ltd | 542649 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Letter of Acceptance from East Coast Railway ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Neutral | 20 Aug 2026 - 13:26 |
 | 2026-08-20 12:00 | EMS Ltd | 543983 | In continuation to our intimation dated July 13, 2026, we are pleased to inform about Receipt of Letter of Acceptance (LOA) from UP Jal Nigam (Urban), Varanasi for Sewerage Work ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 20 Aug 2026 - 12:55 |
@@ -31,7 +34,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-20 10:00 | Dev Information Technology Ltd | 543462 | Intimation Regarding Receipt Of Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 20 Aug 2026 - 10:25 |
 | 2026-08-20 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Large) Order for Automated People Mover System at Dubai''s AI Maktoum Airport ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Aug 2026 - 10:03 |
 
-_Last updated: 20 Aug 2026 - 13:58 | Entries: 8 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
+_Last updated: 20 Aug 2026 - 14:55 | Entries: 11 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
 
 <!-- snapshot:end -->
 

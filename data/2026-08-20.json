@@ -80,14 +80,43 @@
         "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
         "rawTime": "2026-08-20T13:26:29.36"
       }
+    ],
+    "2026-08-20T14": [
+      {
+        "newsId": "10100d8f-9c01-4138-8cfa-fff5a971c212",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "DEE Development Engineers Ltd has informed that it has received an Order on Job work basis of Rs. 36 crore",
+        "announcedAt": "2026-08-20T14:33:36.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-08-20T14:33:36.037"
+      },
+      {
+        "newsId": "8d99f82f-f960-4c24-9132-316b00f87b0f",
+        "scripCode": 544850,
+        "shortName": "Aarvi Encon Ltd",
+        "headline": "Intimation of Work Order Received of Rs. 30 Cr.",
+        "announcedAt": "2026-08-20T14:28:59.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aarvi-encon-ltd/aarvi/544850/",
+        "rawTime": "2026-08-20T14:28:59.57"
+      },
+      {
+        "newsId": "e585bfb4-6347-42ab-9bd4-076f4b9c48bd",
+        "scripCode": 544189,
+        "shortName": "Sattrix Information Security Ltd",
+        "headline": "Sattrix Information Security Limited has secured a significant order from one of the Private Sector Bank in India.",
+        "announcedAt": "2026-08-20T14:21:30.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/",
+        "rawTime": "2026-08-20T14:21:30.023"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-20T13:58:10.405+05:30",
-    "checksum": "3387e7a508c788f9d4fa18357ebfe3fe7cd2b8018af8ed1923cc7bb16ea9c257",
-    "totalAnnouncements": 8,
-    "requestCount": 6,
+    "lastUpdated": "2026-08-20T14:55:39.628+05:30",
+    "checksum": "69355c603c2e653cc60a04b0288a53e13e28741de38a6b63928b41cfd8350238",
+    "totalAnnouncements": 11,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-20/awards-135809.json"
+    "rawPayloadPath": "data/raw/2026-08-20/awards-145539.json"
   }
 }
