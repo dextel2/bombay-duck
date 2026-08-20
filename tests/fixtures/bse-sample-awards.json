@@ -1,0 +1,26 @@
+{
+  "Table": [
+    {
+      "NEWSID": "test-news-001",
+      "SCRIP_CD": 500510,
+      "SLONGNAME": "Larsen & Toubro Ltd",
+      "HEADLINE": "L&T Wins Major Order from Kuwait Oil Company",
+      "DissemDT": "2026-07-29 09:38:00",
+      "DT_TM": "29 Jul 2026 09:38:00",
+      "NURL": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+      "NSURL": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+      "SUBCATNAME": "Award of Order / Receipt of Order"
+    },
+    {
+      "NEWSID": "test-news-002",
+      "SCRIP_CD": 532719,
+      "SLONGNAME": "B. L. Kashyap and Sons Ltd",
+      "HEADLINE": "The Company has secured a new work order of Rs. 91.57 Crores",
+      "DissemDT": "2026-07-29 15:37:00",
+      "DT_TM": "29 Jul 2026 15:37:00",
+      "NURL": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+      "SUBCATNAME": "Award of Order / Receipt of Order"
+    }
+  ],
+  "Table1": [{ "ROWCNT": 2 }]
+}
