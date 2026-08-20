@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-20 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from South Western Railway, Indian Railways, Ministry of Railways of Rs. 136808080.63. For further details kindly refer .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 20 Aug 2026 - 11:51 |
+| 2026-08-20 11:00 | Kernex Microsystems India Ltd | 532686 | We wish to inform you that the company has received an order from Integral Coach Factory, Chennai for an amount of Rs.31.87 crores for the supply, installation and commissioning of On-board .... ([Link](https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/)) | Likely Positive | 20 Aug 2026 - 11:05 |
 | 2026-08-20 10:00 | Dev Information Technology Ltd | 543462 | Intimation Regarding Receipt Of Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 20 Aug 2026 - 10:25 |
 | 2026-08-20 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Large) Order for Automated People Mover System at Dubai''s AI Maktoum Airport ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Aug 2026 - 10:03 |
 
-_Last updated: 20 Aug 2026 - 10:52 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
+_Last updated: 20 Aug 2026 - 12:02 | Entries: 4 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
 
 <!-- snapshot:end -->
 

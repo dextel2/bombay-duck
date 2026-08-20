@@ -20,14 +20,34 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-08-20T10:03:00.68"
       }
+    ],
+    "2026-08-20T11": [
+      {
+        "newsId": "203bab21-d565-4756-9004-36efa1154c09",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from South Western Railway, Indian Railways, Ministry of Railways of Rs. 136808080.63. For further details kindly refer ....",
+        "announcedAt": "2026-08-20T11:51:26.060+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-08-20T11:51:26.06"
+      },
+      {
+        "newsId": "9ea55d23-5d21-49e3-8452-86727c5e7150",
+        "scripCode": 532686,
+        "shortName": "Kernex Microsystems India Ltd",
+        "headline": "We wish to inform you that the company has received an order from Integral Coach Factory, Chennai for an amount of Rs.31.87 crores for the supply, installation and commissioning of On-board ....",
+        "announcedAt": "2026-08-20T11:05:44.163+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
+        "rawTime": "2026-08-20T11:05:44.163"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-20T10:52:59.805+05:30",
-    "checksum": "4d057f5f3b4607ca4e5ce6b9598f04e8661f482ca9543b88367ff0079eb49b93",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-20T12:02:22.208+05:30",
+    "checksum": "a6a97c2900d9a9ae5a584337f1b97a8884946dddee46e56b9911713faa2d61ea",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-20/awards-105259.json"
+    "rawPayloadPath": "data/raw/2026-08-20/awards-120221.json"
   }
 }
