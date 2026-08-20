@@ -40,14 +40,34 @@
         "url": "https://www.bseindia.com/stock-share-price/kernex-microsystems-india-ltd/kernex/532686/",
         "rawTime": "2026-08-20T11:05:44.163"
       }
+    ],
+    "2026-08-20T12": [
+      {
+        "newsId": "5f04a6ab-fe12-40d5-95a7-f9eae762d77d",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "In continuation to our intimation dated July 13, 2026, we are pleased to inform about Receipt of Letter of Acceptance (LOA) from UP Jal Nigam (Urban), Varanasi for Sewerage Work",
+        "announcedAt": "2026-08-20T12:55:29.350+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-08-20T12:55:29.35"
+      },
+      {
+        "newsId": "3a1369d8-a04f-4509-9188-635111fdf4d0",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited declared an L-1 of an total amount Rs. 78.09 Crores announced by the office of the chief Engineer, Pump Storage Project Department, West Bengal State ....",
+        "announcedAt": "2026-08-20T12:14:12.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-08-20T12:14:12.27"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-20T12:02:22.208+05:30",
-    "checksum": "a6a97c2900d9a9ae5a584337f1b97a8884946dddee46e56b9911713faa2d61ea",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-20T13:04:04.439+05:30",
+    "checksum": "e8cb4b434284a1cc2d3890f51426ad040f3f39b792660f0ec2501979769669a9",
+    "totalAnnouncements": 6,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-20/awards-120221.json"
+    "rawPayloadPath": "data/raw/2026-08-20/awards-130403.json"
   }
 }
