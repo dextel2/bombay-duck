@@ -109,14 +109,34 @@
         "url": "https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/",
         "rawTime": "2026-08-20T14:21:30.023"
       }
+    ],
+    "2026-08-20T15": [
+      {
+        "newsId": "738eeaf9-dcfd-4227-914f-d744a5aad6e2",
+        "scripCode": 544259,
+        "shortName": "Popular Foundations Ltd",
+        "headline": "Domestic order worth 19.82 Crores from Sastra Deemed to be University, Thanjavur",
+        "announcedAt": "2026-08-20T15:25:43.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/popular-foundations-ltd/pfl/544259/",
+        "rawTime": "2026-08-20T15:25:43.12"
+      },
+      {
+        "newsId": "603a5d30-c143-420d-a21f-d9b290912bc8",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured a new work order worth Rs. 183.18 Crores",
+        "announcedAt": "2026-08-20T15:13:10.793+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2026-08-20T15:13:10.793"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-20T14:55:39.628+05:30",
-    "checksum": "69355c603c2e653cc60a04b0288a53e13e28741de38a6b63928b41cfd8350238",
-    "totalAnnouncements": 11,
-    "requestCount": 7,
+    "lastUpdated": "2026-08-20T15:51:11.530+05:30",
+    "checksum": "f75aee870317293f10b6d65f3dafa1ef4f7c642a65de10cedb504c094c911621",
+    "totalAnnouncements": 13,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-20/awards-145539.json"
+    "rawPayloadPath": "data/raw/2026-08-20/awards-155110.json"
   }
 }

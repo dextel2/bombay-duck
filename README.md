@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-20 15:00 | Popular Foundations Ltd | 544259 | Domestic order worth 19.82 Crores from Sastra Deemed to be University, Thanjavur ([Link](https://www.bseindia.com/stock-share-price/popular-foundations-ltd/pfl/544259/)) | Likely Positive | 20 Aug 2026 - 15:25 |
+| 2026-08-20 15:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured a new work order worth Rs. 183.18 Crores ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 20 Aug 2026 - 15:13 |
 | 2026-08-20 14:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Ltd has informed that it has received an Order on Job work basis of Rs. 36 crore ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 20 Aug 2026 - 14:33 |
 | 2026-08-20 14:00 | Aarvi Encon Ltd | 544850 | Intimation of Work Order Received of Rs. 30 Cr. ([Link](https://www.bseindia.com/stock-share-price/aarvi-encon-ltd/aarvi/544850/)) | Likely Positive | 20 Aug 2026 - 14:28 |
 | 2026-08-20 14:00 | Sattrix Information Security Ltd | 544189 | Sattrix Information Security Limited has secured a significant order from one of the Private Sector Bank in India. ([Link](https://www.bseindia.com/stock-share-price/sattrix-information-security-ltd/sattrix/544189/)) | Likely Positive | 20 Aug 2026 - 14:21 |
@@ -34,7 +36,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-20 10:00 | Dev Information Technology Ltd | 543462 | Intimation Regarding Receipt Of Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 20 Aug 2026 - 10:25 |
 | 2026-08-20 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Large) Order for Automated People Mover System at Dubai''s AI Maktoum Airport ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Aug 2026 - 10:03 |
 
-_Last updated: 20 Aug 2026 - 14:55 | Entries: 11 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
+_Last updated: 20 Aug 2026 - 15:51 | Entries: 13 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
 
 <!-- snapshot:end -->
 
