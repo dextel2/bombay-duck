@@ -60,14 +60,34 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-08-20T12:14:12.27"
       }
+    ],
+    "2026-08-20T13": [
+      {
+        "newsId": "4fb689dd-3759-4e15-9bf2-e649c11fd435",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform you that Cryogenic OGS Limited has received two Purchase Orders from a specialized Industrial instrumentation and process optimisation solutions Multinational Company ....",
+        "announcedAt": "2026-08-20T13:48:08.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-08-20T13:48:08.463"
+      },
+      {
+        "newsId": "e2baf854-3f10-4b8e-b1fe-43aee64d07bc",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015- Letter of Acceptance from East Coast Railway",
+        "announcedAt": "2026-08-20T13:26:29.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-08-20T13:26:29.36"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-20T13:04:04.439+05:30",
-    "checksum": "e8cb4b434284a1cc2d3890f51426ad040f3f39b792660f0ec2501979769669a9",
-    "totalAnnouncements": 6,
-    "requestCount": 5,
+    "lastUpdated": "2026-08-20T13:58:10.405+05:30",
+    "checksum": "3387e7a508c788f9d4fa18357ebfe3fe7cd2b8018af8ed1923cc7bb16ea9c257",
+    "totalAnnouncements": 8,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-20/awards-130403.json"
+    "rawPayloadPath": "data/raw/2026-08-20/awards-135809.json"
   }
 }
