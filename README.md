@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-20 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-20 10:00 | Dev Information Technology Ltd | 543462 | Intimation Regarding Receipt Of Order ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 20 Aug 2026 - 10:25 |
+| 2026-08-20 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins (Large) Order for Automated People Mover System at Dubai''s AI Maktoum Airport ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 20 Aug 2026 - 10:03 |
 
-_Last updated: 20 Aug 2026 - 09:59 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
+_Last updated: 20 Aug 2026 - 10:52 | Entries: 2 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-20.json)_
 
 <!-- snapshot:end -->
 
