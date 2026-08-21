@@ -31,14 +31,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-08-21T10:34:23.04"
       }
+    ],
+    "2026-08-21T11": [
+      {
+        "newsId": "cdc9a8d4-85d1-47f2-8fc2-1ef6dd088b49",
+        "scripCode": 517273,
+        "shortName": "S&S Power Switchgear Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Receipt of Order",
+        "announcedAt": "2026-08-21T11:30:28.800+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
+        "rawTime": "2026-08-21T11:30:28.8"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-21T10:54:59.780+05:30",
-    "checksum": "fd9fb7745f051107d2719ee87954138a2c79cbea7b10c99e75c83d8745b67e6b",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-21T12:02:57.569+05:30",
+    "checksum": "7d093390811a46b6cfc300ecd5731ac23b82f2837b2a9d1a2e12b5988e36ef29",
+    "totalAnnouncements": 4,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-21/awards-105459.json"
+    "rawPayloadPath": "data/raw/2026-08-21/awards-120257.json"
   }
 }
