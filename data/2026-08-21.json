@@ -3,6 +3,15 @@
   "buckets": {
     "2026-08-21T09": [
       {
+        "newsId": "dd37091e-95df-4417-b821-3b8195f5520e",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "Subex secured a new-logo from a major European open -access fibre operator to deploy the Company's Partner Ecosystem Management Solutions.",
+        "announcedAt": "2026-08-21T09:18:36.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2026-08-21T09:18:36.037"
+      },
+      {
         "newsId": "1e0b2fc8-0a6a-46ec-b884-b041517bca86",
         "scripCode": 543428,
         "shortName": "Data Patterns (India) Ltd",
@@ -14,11 +23,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-21T09:13:24.191+05:30",
-    "checksum": "fc0f9dbec78dddec21ad7cd6e89d6b02ccb2d4640a4a1fc688de7c5a418b6daa",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-21T10:00:00.184+05:30",
+    "checksum": "d197646280eeafc8e05ae463191db17a0ad5b156bffa93a5f5dfc547e64618f8",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-21/awards-091323.json"
+    "rawPayloadPath": "data/raw/2026-08-21/awards-095959.json"
   }
 }
