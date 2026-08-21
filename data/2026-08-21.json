@@ -45,6 +45,15 @@
     ],
     "2026-08-21T13": [
       {
+        "newsId": "ea62eba8-2ddd-4821-93da-4073d779135f",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Intimation for receipt of order",
+        "announcedAt": "2026-08-21T13:56:05.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-08-21T13:56:05.053"
+      },
+      {
         "newsId": "41bc855f-012d-41d8-99e8-c0a97897f4a9",
         "scripCode": 532891,
         "shortName": "Puravankara Ltd",
@@ -56,11 +65,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-21T13:05:56.263+05:30",
-    "checksum": "c7bb730c5f88eb304cc5866cedeaa052bdd2bc776feb3b326d43c034326cd064",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-08-21T14:00:30.835+05:30",
+    "checksum": "9f92478d2c63995cecd7cd6cb6bc7b2e31a6eeade6de8e12f56c57d9b5b50d88",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-21/awards-130555.json"
+    "rawPayloadPath": "data/raw/2026-08-21/awards-140030.json"
   }
 }
