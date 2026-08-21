@@ -62,14 +62,25 @@
         "url": "https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/",
         "rawTime": "2026-08-21T13:02:52.763"
       }
+    ],
+    "2026-08-21T14": [
+      {
+        "newsId": "29f37a3c-7a5f-4027-9362-b7182456fcde",
+        "scripCode": 543416,
+        "shortName": "Zodiac Energy Ltd",
+        "headline": "Receipt of Purchase order for Solar Power Plant of 2500kwp",
+        "announcedAt": "2026-08-21T14:40:47.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zodiac-energy-ltd/zodiac/543416/",
+        "rawTime": "2026-08-21T14:40:47.023"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-21T14:00:30.835+05:30",
-    "checksum": "9f92478d2c63995cecd7cd6cb6bc7b2e31a6eeade6de8e12f56c57d9b5b50d88",
-    "totalAnnouncements": 6,
-    "requestCount": 6,
+    "lastUpdated": "2026-08-21T14:58:25.755+05:30",
+    "checksum": "7d29c8114a1f457e3100e90a0cd4ccce99a7e1101c87207c44839491b7684cb7",
+    "totalAnnouncements": 7,
+    "requestCount": 7,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-21/awards-140030.json"
+    "rawPayloadPath": "data/raw/2026-08-21/awards-145824.json"
   }
 }
