@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/data-patterns-(india)-ltd/datapattns/543428/",
         "rawTime": "2026-08-21T09:06:25.22"
       }
+    ],
+    "2026-08-21T10": [
+      {
+        "newsId": "ce4aa822-9d2e-490a-a1e7-d1de869f916d",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier letters dated 11th August 2025 and 30th September 2025, we are pleased to inform you that Company has received Letter of Award (LOA) from Himanchal Pradesh ....",
+        "announcedAt": "2026-08-21T10:34:23.040+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-08-21T10:34:23.04"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-21T10:00:00.184+05:30",
-    "checksum": "d197646280eeafc8e05ae463191db17a0ad5b156bffa93a5f5dfc547e64618f8",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-21T10:54:59.780+05:30",
+    "checksum": "fd9fb7745f051107d2719ee87954138a2c79cbea7b10c99e75c83d8745b67e6b",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-21/awards-095959.json"
+    "rawPayloadPath": "data/raw/2026-08-21/awards-105459.json"
   }
 }
