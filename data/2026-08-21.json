@@ -42,14 +42,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
         "rawTime": "2026-08-21T11:30:28.8"
       }
+    ],
+    "2026-08-21T13": [
+      {
+        "newsId": "41bc855f-012d-41d8-99e8-c0a97897f4a9",
+        "scripCode": 532891,
+        "shortName": "Puravankara Ltd",
+        "headline": "Intimation of receipt of Letter of Intent by Starworth Infrastructure and Construction Limited, Wholly Owned Subsidiary of the Company.",
+        "announcedAt": "2026-08-21T13:02:52.763+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/",
+        "rawTime": "2026-08-21T13:02:52.763"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-21T12:02:57.569+05:30",
-    "checksum": "7d093390811a46b6cfc300ecd5731ac23b82f2837b2a9d1a2e12b5988e36ef29",
-    "totalAnnouncements": 4,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-21T13:05:56.263+05:30",
+    "checksum": "c7bb730c5f88eb304cc5866cedeaa052bdd2bc776feb3b326d43c034326cd064",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-21/awards-120257.json"
+    "rawPayloadPath": "data/raw/2026-08-21/awards-130555.json"
   }
 }
