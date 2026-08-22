@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
         "rawTime": "2026-08-22T11:28:27.317"
       }
+    ],
+    "2026-08-22T15": [
+      {
+        "newsId": "b6a326f3-63f8-42f0-8365-f3ee82d5de3c",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Fursungi-Uruli ....",
+        "announcedAt": "2026-08-22T15:22:34.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-08-22T15:22:34.067"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-22T14:49:28.007+05:30",
-    "checksum": "4a0c6c9615eb187be7598217540ca9843402629798c548f788cd87f533be5282",
-    "totalAnnouncements": 1,
-    "requestCount": 7,
+    "lastUpdated": "2026-08-22T15:44:58.992+05:30",
+    "checksum": "862b784952996ce4b855ef4b1320f86e28d972cd2f70ede844cd10cebc9ecfba",
+    "totalAnnouncements": 2,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-22/awards-144927.json"
+    "rawPayloadPath": "data/raw/2026-08-22/awards-154458.json"
   }
 }
