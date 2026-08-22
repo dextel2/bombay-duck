@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-22 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of Letter of Award (LOA) from NHAI for Jajau Fee Plaza in the state of Madhya Pradesh. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 22 Aug 2026 - 11:28 |
 
-_Last updated: 22 Aug 2026 - 12:54 | Entries: 1 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-22.json)_
+_Last updated: 22 Aug 2026 - 13:49 | Entries: 1 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-08-22.json)_
 
 <!-- snapshot:end -->
 
