@@ -18,19 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-21 IST)
+### Today's Awarded Orders (2026-08-22 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-21 14:00 | Zodiac Energy Ltd | 543416 | Receipt of Purchase order for Solar Power Plant of 2500kwp ([Link](https://www.bseindia.com/stock-share-price/zodiac-energy-ltd/zodiac/543416/)) | Likely Positive | 21 Aug 2026 - 14:40 |
-| 2026-08-21 13:00 | Pace Digitek Ltd | 544550 | Intimation for receipt of order ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 21 Aug 2026 - 13:56 |
-| 2026-08-21 13:00 | Puravankara Ltd | 532891 | Intimation of receipt of Letter of Intent by Starworth Infrastructure and Construction Limited, Wholly Owned Subsidiary of the Company. ([Link](https://www.bseindia.com/stock-share-price/puravankara-ltd/purva/532891/)) | Likely Positive | 21 Aug 2026 - 13:02 |
-| 2026-08-21 11:00 | S&S Power Switchgear Ltd | 517273 | Announcement under Regulation 30 (LODR) - Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/)) | Likely Positive | 21 Aug 2026 - 11:30 |
-| 2026-08-21 10:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letters dated 11th August 2025 and 30th September 2025, we are pleased to inform you that Company has received Letter of Award (LOA) from Himanchal Pradesh .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 21 Aug 2026 - 10:34 |
-| 2026-08-21 09:00 | Subex Ltd | 532348 | Subex secured a new-logo from a major European open -access fibre operator to deploy the Company's Partner Ecosystem Management Solutions. ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 21 Aug 2026 - 09:18 |
-| 2026-08-21 09:00 | Data Patterns (India) Ltd | 543428 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Data Patterns (India) Limited has received order worth .... ([Link](https://www.bseindia.com/stock-share-price/data-patterns-(india)-ltd/datapattns/543428/)) | Likely Positive | 21 Aug 2026 - 09:06 |
+_No award announcements have been captured yet today._
 
-_Last updated: 21 Aug 2026 - 15:51 | Entries: 7 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-21.json)_
+_Last updated: 22 Aug 2026 - 09:05 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-22.json)_
 
 <!-- snapshot:end -->
 
