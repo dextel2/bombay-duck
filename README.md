@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-22 IST)
+### Today's Awarded Orders (2026-08-23 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-22 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Fursungi-Uruli .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 22 Aug 2026 - 15:22 |
-| 2026-08-22 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of Letter of Award (LOA) from NHAI for Jajau Fee Plaza in the state of Madhya Pradesh. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 22 Aug 2026 - 11:28 |
+_No award announcements have been captured yet today._
 
-_Last updated: 22 Aug 2026 - 15:44 | Entries: 2 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-22.json)_
+_Last updated: 23 Aug 2026 - 09:13 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-23.json)_
 
 <!-- snapshot:end -->
 
