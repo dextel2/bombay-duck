@@ -22,13 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-24 13:00 | Garden Reach Shipbuilders & Engineers Ltd | 542011 | In terms of Regulation 30 and other applicable provisions of SEBI (LODR) Regulations, 2015, we wish to inform you that the Company has received order from West Bengal Tourism Development .... ([Link](https://www.bseindia.com/stock-share-price/garden-reach-shipbuilders--engineers-ltd/grse/542011/)) | Likely Positive | 24 Aug 2026 - 13:28 |
 | 2026-08-24 12:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receiving of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 24 Aug 2026 - 12:44 |
 | 2026-08-24 12:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letters dated 8th July 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra & Mining Limited ('SIML') [CIL - 74% .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 24 Aug 2026 - 12:37 |
 | 2026-08-24 11:00 | Brahmaputra Infrastructure Ltd | 535693 | Contract Work of an total amount Rs. 701.80 Millions. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 24 Aug 2026 - 11:31 |
 | 2026-08-24 09:00 | Insolation Energy Ltd | 543620 | Pursuant to Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015, we hereby thrilled to announce that Insolation Green Energy Private Limited, a .... ([Link](https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/)) | Neutral | 24 Aug 2026 - 09:51 |
 | 2026-08-24 09:00 | Larsen & Toubro Ltd | 500510 | L&T signs contract for an Ultra-Mega* gas compression project in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Aug 2026 - 09:37 |
 
-_Last updated: 24 Aug 2026 - 13:21 | Entries: 5 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-24.json)_
+_Last updated: 24 Aug 2026 - 14:08 | Entries: 6 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-08-24.json)_
 
 <!-- snapshot:end -->
 

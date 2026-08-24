@@ -51,14 +51,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
         "rawTime": "2026-08-24T12:37:44.55"
       }
+    ],
+    "2026-08-24T13": [
+      {
+        "newsId": "2fddb327-7a78-4c1b-b3af-6e137c22f783",
+        "scripCode": 542011,
+        "shortName": "Garden Reach Shipbuilders & Engineers Ltd",
+        "headline": "In terms of Regulation 30 and other applicable provisions of SEBI (LODR) Regulations, 2015, we wish to inform you that the Company has received order from West Bengal Tourism Development ....",
+        "announcedAt": "2026-08-24T13:28:40.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/garden-reach-shipbuilders--engineers-ltd/grse/542011/",
+        "rawTime": "2026-08-24T13:28:40.057"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-24T13:21:23.265+05:30",
-    "checksum": "3ebf02c96e9ed3b7fde7ad62ba61dc93624b2fa37186c61ad85084ebdb78189f",
-    "totalAnnouncements": 5,
-    "requestCount": 5,
+    "lastUpdated": "2026-08-24T14:08:40.682+05:30",
+    "checksum": "bfed82d367bce8bf1bfbb009630a97c12b537d5a389fb698824212aa162f4a70",
+    "totalAnnouncements": 6,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-24/awards-132122.json"
+    "rawPayloadPath": "data/raw/2026-08-24/awards-140840.json"
   }
 }
