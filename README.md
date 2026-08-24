@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-24 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-24 09:00 | Insolation Energy Ltd | 543620 | Pursuant to Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015, we hereby thrilled to announce that Insolation Green Energy Private Limited, a .... ([Link](https://www.bseindia.com/stock-share-price/insolation-energy-ltd/ina/543620/)) | Neutral | 24 Aug 2026 - 09:51 |
+| 2026-08-24 09:00 | Larsen & Toubro Ltd | 500510 | L&T signs contract for an Ultra-Mega* gas compression project in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 24 Aug 2026 - 09:37 |
 
-_Last updated: 24 Aug 2026 - 09:17 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-24.json)_
+_Last updated: 24 Aug 2026 - 10:07 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-24.json)_
 
 <!-- snapshot:end -->
 
