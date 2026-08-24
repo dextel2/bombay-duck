@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-08-24T09:37:51.79"
       }
+    ],
+    "2026-08-24T11": [
+      {
+        "newsId": "5a565e0a-4ba3-4a1f-94c1-be50fea14f21",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Contract Work of an total amount Rs. 701.80 Millions.",
+        "announcedAt": "2026-08-24T11:31:22.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-08-24T11:31:22.44"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-24T11:01:33.196+05:30",
-    "checksum": "ef990bf5ddc9500eccfbbd047c3d82f4debbfe2aae04b0a4fd5caac035d5ef19",
-    "totalAnnouncements": 2,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-24T12:10:35.468+05:30",
+    "checksum": "a834b729c9c1aa5d741c370dc34f68ff41b6b34a6b581554c2960fd23c016995",
+    "totalAnnouncements": 3,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-24/awards-110132.json"
+    "rawPayloadPath": "data/raw/2026-08-24/awards-121034.json"
   }
 }
