@@ -73,14 +73,25 @@
         "url": "https://www.bseindia.com/stock-share-price/ratnamani-metals--tubes-ltd/ratnamani/520111/",
         "rawTime": "2026-08-24T14:11:20.96"
       }
+    ],
+    "2026-08-24T15": [
+      {
+        "newsId": "b8ad86b2-d5c0-4172-884d-e1d82dbbce7c",
+        "scripCode": 517273,
+        "shortName": "S&S Power Switchgear Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Receipt of order",
+        "announcedAt": "2026-08-24T15:11:20.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
+        "rawTime": "2026-08-24T15:11:20.86"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-24T15:08:24.969+05:30",
-    "checksum": "0ca6d0ce1666821fc9414ae855e903b6dbd341c4836117649f77653ca92a2dff",
-    "totalAnnouncements": 7,
-    "requestCount": 7,
+    "lastUpdated": "2026-08-24T16:00:02.249+05:30",
+    "checksum": "5cc456c0b1a70749642d90cda124c4342663c84c98e819aa3471907a238acc40",
+    "totalAnnouncements": 8,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-24/awards-150824.json"
+    "rawPayloadPath": "data/raw/2026-08-24/awards-160000.json"
   }
 }
