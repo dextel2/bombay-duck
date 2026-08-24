@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
         "rawTime": "2026-08-24T11:31:22.44"
       }
+    ],
+    "2026-08-24T12": [
+      {
+        "newsId": "57c3a318-3338-4019-b476-1b22f64c2eb2",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of receiving of work order.",
+        "announcedAt": "2026-08-24T12:44:22.793+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-08-24T12:44:22.793"
+      },
+      {
+        "newsId": "df503479-07de-4127-8069-7843fd66a238",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier letters dated 8th July 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra & Mining Limited ('SIML') [CIL - 74% ....",
+        "announcedAt": "2026-08-24T12:37:44.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-08-24T12:37:44.55"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-24T12:10:35.468+05:30",
-    "checksum": "a834b729c9c1aa5d741c370dc34f68ff41b6b34a6b581554c2960fd23c016995",
-    "totalAnnouncements": 3,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-24T13:21:23.265+05:30",
+    "checksum": "3ebf02c96e9ed3b7fde7ad62ba61dc93624b2fa37186c61ad85084ebdb78189f",
+    "totalAnnouncements": 5,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-24/awards-121034.json"
+    "rawPayloadPath": "data/raw/2026-08-24/awards-132122.json"
   }
 }
