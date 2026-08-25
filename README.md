@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-08-25 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T Renewables Business Wins (Major*) Order for Battery Energy Storage System in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Aug 2026 - 09:32 |
 
-_Last updated: 25 Aug 2026 - 09:11 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
+_Last updated: 25 Aug 2026 - 10:01 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
 
 <!-- snapshot:end -->
 

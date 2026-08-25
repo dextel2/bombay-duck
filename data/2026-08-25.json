@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-08-25",
-  "buckets": {},
+  "buckets": {
+    "2026-08-25T09": [
+      {
+        "newsId": "458d68c1-fe3d-472a-8963-1858114b9459",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Renewables Business Wins (Major*) Order for Battery Energy Storage System in the Middle East",
+        "announcedAt": "2026-08-25T09:32:09.467+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-08-25T09:32:09.467"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-08-25T09:11:12.362+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-25T10:01:27.599+05:30",
+    "checksum": "26f485fc20f308ecaf34455d36a3caf17efcfc875a0be0333d58d9b537aa367a",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-25/awards-091111.json"
+    "rawPayloadPath": "data/raw/2026-08-25/awards-100126.json"
   }
 }
