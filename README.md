@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T Renewables Business Wins (Major*) Order for Battery Energy Storage System in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Aug 2026 - 09:32 |
 
-_Last updated: 25 Aug 2026 - 10:01 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
+_Last updated: 25 Aug 2026 - 10:54 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
 
 <!-- snapshot:end -->
 
