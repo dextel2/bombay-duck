@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-25 11:00 | Kothari Industrial Corporation Ltd | 509732 | Award ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 25 Aug 2026 - 11:33 |
 | 2026-08-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T Renewables Business Wins (Major*) Order for Battery Energy Storage System in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Aug 2026 - 09:32 |
 
-_Last updated: 25 Aug 2026 - 10:54 | Entries: 1 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
+_Last updated: 25 Aug 2026 - 12:02 | Entries: 2 | Requests: 4 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
 
 <!-- snapshot:end -->
 

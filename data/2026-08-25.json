@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-08-25T09:32:09.467"
       }
+    ],
+    "2026-08-25T11": [
+      {
+        "newsId": "f3f11b8a-5a56-411e-b3ff-7891279402cb",
+        "scripCode": 509732,
+        "shortName": "Kothari Industrial Corporation Ltd",
+        "headline": "Award",
+        "announcedAt": "2026-08-25T11:33:14.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/",
+        "rawTime": "2026-08-25T11:33:14.933"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-25T10:54:32.536+05:30",
-    "checksum": "26f485fc20f308ecaf34455d36a3caf17efcfc875a0be0333d58d9b537aa367a",
-    "totalAnnouncements": 1,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-25T12:02:55.528+05:30",
+    "checksum": "8c424d8b5c1f7c9bc6ebf194b40a07b69327c174de39aa0eb3c95c07bb0fe838",
+    "totalAnnouncements": 2,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-25/awards-105431.json"
+    "rawPayloadPath": "data/raw/2026-08-25/awards-120254.json"
   }
 }
