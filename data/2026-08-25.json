@@ -22,14 +22,34 @@
         "url": "https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/",
         "rawTime": "2026-08-25T11:33:14.933"
       }
+    ],
+    "2026-08-25T13": [
+      {
+        "newsId": "73543dd6-1147-487e-bed1-ae336e2837a9",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The Company has informed the Exchange about the purchase order received from Tata Projects Limited",
+        "announcedAt": "2026-08-25T13:43:19.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2026-08-25T13:43:19.78"
+      },
+      {
+        "newsId": "8eacb82e-fa47-427a-8edd-a2e83ac27ded",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-08-25T13:31:17.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-08-25T13:31:17.193"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-25T13:07:14.286+05:30",
-    "checksum": "8c424d8b5c1f7c9bc6ebf194b40a07b69327c174de39aa0eb3c95c07bb0fe838",
-    "totalAnnouncements": 2,
-    "requestCount": 5,
+    "lastUpdated": "2026-08-25T14:02:54.187+05:30",
+    "checksum": "6d42630e767bcf0ed0a6d289b2e269f6c17a8d3d93a14d3b5954a7e493d2da70",
+    "totalAnnouncements": 4,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-25/awards-130713.json"
+    "rawPayloadPath": "data/raw/2026-08-25/awards-140253.json"
   }
 }
