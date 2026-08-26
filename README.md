@@ -18,16 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-25 IST)
+### Today's Awarded Orders (2026-08-26 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-25 13:00 | BMW Ventures Ltd | 544543 | The Company has informed the Exchange about the purchase order received from Tata Projects Limited ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 25 Aug 2026 - 13:43 |
-| 2026-08-25 13:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 25 Aug 2026 - 13:31 |
-| 2026-08-25 11:00 | Kothari Industrial Corporation Ltd | 509732 | Award ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 25 Aug 2026 - 11:33 |
-| 2026-08-25 09:00 | Larsen & Toubro Ltd | 500510 | L&T Renewables Business Wins (Major*) Order for Battery Energy Storage System in the Middle East ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 25 Aug 2026 - 09:32 |
+| 2026-08-26 09:00 | MTAR Technologies Ltd | 543270 | Receipt of Order worth Rs. 126.74 Crs ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 26 Aug 2026 - 09:03 |
 
-_Last updated: 25 Aug 2026 - 15:53 | Entries: 4 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-25.json)_
+_Last updated: 26 Aug 2026 - 09:16 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
 
 <!-- snapshot:end -->
 
