@@ -32,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-26 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 Aug 2026 - 09:24 |
 | 2026-08-26 09:00 | MTAR Technologies Ltd | 543270 | Receipt of Order worth Rs. 126.74 Crs ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 26 Aug 2026 - 09:03 |
 
-_Last updated: 26 Aug 2026 - 14:03 | Entries: 9 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
+_Last updated: 26 Aug 2026 - 15:02 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
 
 <!-- snapshot:end -->
 
