@@ -51,14 +51,34 @@
         "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
         "rawTime": "2026-08-26T11:40:50.107"
       }
+    ],
+    "2026-08-26T13": [
+      {
+        "newsId": "11212b6f-94d0-46d0-9ae7-dd56de4ce7d7",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are pleased to inform you that the Company has been Awarded the Letter of Award from the National Highways Authority of India (NHAI) at Paranur Fee Plaza.",
+        "announcedAt": "2026-08-26T13:05:40.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-08-26T13:05:40.12"
+      },
+      {
+        "newsId": "ce6cab41-fdb3-4516-a1fd-f46b76d4d191",
+        "scripCode": 590070,
+        "shortName": "Radaan Mediaworks India Ltd",
+        "headline": "Receipt of Order for TDS payable",
+        "announcedAt": "2026-08-26T13:00:06.817+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/",
+        "rawTime": "2026-08-26T13:00:06.817"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-26T12:04:52.096+05:30",
-    "checksum": "900a6ae19534077553d953d4536c57339809a8971e9b6e719eea415a107134f6",
-    "totalAnnouncements": 5,
-    "requestCount": 4,
+    "lastUpdated": "2026-08-26T13:09:20.582+05:30",
+    "checksum": "84449baaca7b393d89d928e6db04b676a04ce0cab97e71d4b93d6c885ee4f2c3",
+    "totalAnnouncements": 7,
+    "requestCount": 5,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-26/awards-120451.json"
+    "rawPayloadPath": "data/raw/2026-08-26/awards-130920.json"
   }
 }
