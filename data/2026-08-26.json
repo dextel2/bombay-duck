@@ -54,6 +54,24 @@
     ],
     "2026-08-26T13": [
       {
+        "newsId": "21fd2fa2-3101-4057-a33d-f0502276f3dc",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation of receipt of work order",
+        "announcedAt": "2026-08-26T13:51:44.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-08-26T13:51:44.743"
+      },
+      {
+        "newsId": "3cccbbd4-fb74-4030-8400-4393fab8edd0",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as ....",
+        "announcedAt": "2026-08-26T13:27:43.237+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-08-26T13:27:43.237"
+      },
+      {
         "newsId": "11212b6f-94d0-46d0-9ae7-dd56de4ce7d7",
         "scripCode": 532467,
         "shortName": "Hazoor Multi Projects Ltd-$",
@@ -74,11 +92,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-26T13:09:20.582+05:30",
-    "checksum": "84449baaca7b393d89d928e6db04b676a04ce0cab97e71d4b93d6c885ee4f2c3",
-    "totalAnnouncements": 7,
-    "requestCount": 5,
+    "lastUpdated": "2026-08-26T14:03:52.719+05:30",
+    "checksum": "98b5311b9328a169aa912acda8d367a2f9ec2f079612db10bdd4ff0b95e3757b",
+    "totalAnnouncements": 9,
+    "requestCount": 6,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-26/awards-130920.json"
+    "rawPayloadPath": "data/raw/2026-08-26/awards-140351.json"
   }
 }

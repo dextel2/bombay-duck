@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-26 13:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 26 Aug 2026 - 13:51 |
+| 2026-08-26 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 26 Aug 2026 - 13:27 |
 | 2026-08-26 13:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are pleased to inform you that the Company has been Awarded the Letter of Award from the National Highways Authority of India (NHAI) at Paranur Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 26 Aug 2026 - 13:05 |
 | 2026-08-26 13:00 | Radaan Mediaworks India Ltd | 590070 | Receipt of Order for TDS payable ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 26 Aug 2026 - 13:00 |
 | 2026-08-26 11:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith Receipt of order from Sahjanand Metal Alloys dated 26.08.2026 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 26 Aug 2026 - 11:43 |
@@ -30,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-26 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 Aug 2026 - 09:24 |
 | 2026-08-26 09:00 | MTAR Technologies Ltd | 543270 | Receipt of Order worth Rs. 126.74 Crs ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 26 Aug 2026 - 09:03 |
 
-_Last updated: 26 Aug 2026 - 13:09 | Entries: 7 | Requests: 5 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
+_Last updated: 26 Aug 2026 - 14:03 | Entries: 9 | Requests: 6 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
 
 <!-- snapshot:end -->
 
