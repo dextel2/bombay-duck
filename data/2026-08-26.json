@@ -3,6 +3,15 @@
   "buckets": {
     "2026-08-26T09": [
       {
+        "newsId": "f54c3745-d85c-4f31-9543-d697a4af0061",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Execution of Power Purchase Agreement",
+        "announcedAt": "2026-08-26T09:24:39.787+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-08-26T09:24:39.787"
+      },
+      {
         "newsId": "2afac734-de20-458e-bbc3-7b8c38091058",
         "scripCode": 543270,
         "shortName": "MTAR Technologies Ltd",
@@ -14,11 +23,11 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-26T09:16:37.620+05:30",
-    "checksum": "3d5e313df2b161fa2831c71684399c2228e140c6bcdf425a0f2e6939e4a5d7d9",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-26T10:02:05.536+05:30",
+    "checksum": "59e67c8ef496ba4367466edba595d66c32820baf2db4181892645d327d7a68d1",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-26/awards-091637.json"
+    "rawPayloadPath": "data/raw/2026-08-26/awards-100204.json"
   }
 }
