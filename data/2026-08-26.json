@@ -89,14 +89,52 @@
         "url": "https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/",
         "rawTime": "2026-08-26T13:00:06.817"
       }
+    ],
+    "2026-08-26T15": [
+      {
+        "newsId": "cb6d58d6-6b87-44ad-b690-4a81ad3451bd",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "Press Release - BEL receives orders worth Rs.730 Crore.",
+        "announcedAt": "2026-08-26T15:39:01.490+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-08-26T15:39:01.49"
+      },
+      {
+        "newsId": "9e407a6c-ce10-46a8-8a9b-fdb949b8eb96",
+        "scripCode": 544525,
+        "shortName": "GK Energy Ltd",
+        "headline": "GK Energy Limited has informed the exchange that the Company has received a Letter of Empanelment for 1,00,000 Grid Connected Rooftop Solar Photovoltaic Project aggregating to 100 MW. The ....",
+        "announcedAt": "2026-08-26T15:28:30.937+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
+        "rawTime": "2026-08-26T15:28:30.937"
+      },
+      {
+        "newsId": "b31e5b97-1571-46ba-b4e6-d71749d4ca5b",
+        "scripCode": 544495,
+        "shortName": "NIS Management Ltd",
+        "headline": "Receipt of Work Order from Department of Technical Education Training & Skill Development, Govt. of West Bengal",
+        "announcedAt": "2026-08-26T15:11:54.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/",
+        "rawTime": "2026-08-26T15:11:54.99"
+      },
+      {
+        "newsId": "b5a5fbb7-9538-44b8-8976-890580c29531",
+        "scripCode": 544516,
+        "shortName": "Airfloa Rail Technology Ltd",
+        "headline": "Receiving of new order value of Rs.1.92 Crore",
+        "announcedAt": "2026-08-26T15:07:15.597+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/",
+        "rawTime": "2026-08-26T15:07:15.597"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-26T15:02:48.009+05:30",
-    "checksum": "98b5311b9328a169aa912acda8d367a2f9ec2f079612db10bdd4ff0b95e3757b",
-    "totalAnnouncements": 9,
-    "requestCount": 7,
+    "lastUpdated": "2026-08-26T15:57:07.964+05:30",
+    "checksum": "5223ab0b9e081bee8ad9553ee93e62574ffef9cfb1a65da09f477c4d36823b75",
+    "totalAnnouncements": 13,
+    "requestCount": 8,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-26/awards-150247.json"
+    "rawPayloadPath": "data/raw/2026-08-26/awards-155706.json"
   }
 }

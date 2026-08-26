@@ -22,6 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-26 15:00 | Bharat Electronics Ltd | 500049 | Press Release - BEL receives orders worth Rs.730 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 26 Aug 2026 - 15:39 |
+| 2026-08-26 15:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the exchange that the Company has received a Letter of Empanelment for 1,00,000 Grid Connected Rooftop Solar Photovoltaic Project aggregating to 100 MW. The .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 26 Aug 2026 - 15:28 |
+| 2026-08-26 15:00 | NIS Management Ltd | 544495 | Receipt of Work Order from Department of Technical Education Training & Skill Development, Govt. of West Bengal ([Link](https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/)) | Likely Positive | 26 Aug 2026 - 15:11 |
+| 2026-08-26 15:00 | Airfloa Rail Technology Ltd | 544516 | Receiving of new order value of Rs.1.92 Crore ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 26 Aug 2026 - 15:07 |
 | 2026-08-26 13:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 26 Aug 2026 - 13:51 |
 | 2026-08-26 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 26 Aug 2026 - 13:27 |
 | 2026-08-26 13:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are pleased to inform you that the Company has been Awarded the Letter of Award from the National Highways Authority of India (NHAI) at Paranur Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 26 Aug 2026 - 13:05 |
@@ -32,7 +36,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-08-26 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 Aug 2026 - 09:24 |
 | 2026-08-26 09:00 | MTAR Technologies Ltd | 543270 | Receipt of Order worth Rs. 126.74 Crs ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 26 Aug 2026 - 09:03 |
 
-_Last updated: 26 Aug 2026 - 15:02 | Entries: 9 | Requests: 7 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
+_Last updated: 26 Aug 2026 - 15:57 | Entries: 13 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
 
 <!-- snapshot:end -->
 
