@@ -20,14 +20,25 @@
         "url": "https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/",
         "rawTime": "2026-08-26T09:03:00.16"
       }
+    ],
+    "2026-08-26T10": [
+      {
+        "newsId": "726dd883-3931-4bfd-b5c5-ea822c6b32fd",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "Subex secured a contract with a leading African mobile operator.",
+        "announcedAt": "2026-08-26T10:05:33.200+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2026-08-26T10:05:33.2"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-26T10:02:05.536+05:30",
-    "checksum": "59e67c8ef496ba4367466edba595d66c32820baf2db4181892645d327d7a68d1",
-    "totalAnnouncements": 2,
-    "requestCount": 2,
+    "lastUpdated": "2026-08-26T10:56:40.876+05:30",
+    "checksum": "8e724f85f635b21f0d625990c3fbf695a3f9058fed8ddf4bd00743cec7308e01",
+    "totalAnnouncements": 3,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-26/awards-100204.json"
+    "rawPayloadPath": "data/raw/2026-08-26/awards-105639.json"
   }
 }
