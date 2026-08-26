@@ -31,14 +31,34 @@
         "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
         "rawTime": "2026-08-26T10:05:33.2"
       }
+    ],
+    "2026-08-26T11": [
+      {
+        "newsId": "3a45636a-6705-4b46-b85d-3090eb619820",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached herewith Receipt of order from Sahjanand Metal Alloys dated 26.08.2026",
+        "announcedAt": "2026-08-26T11:43:25.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-08-26T11:43:25.847"
+      },
+      {
+        "newsId": "14bc6c4e-33dc-4fcb-9be8-366423f23f01",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached herewith reciept of order from Sahjanand Impex dated 26th August, 2026",
+        "announcedAt": "2026-08-26T11:40:50.107+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-08-26T11:40:50.107"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-26T10:56:40.876+05:30",
-    "checksum": "8e724f85f635b21f0d625990c3fbf695a3f9058fed8ddf4bd00743cec7308e01",
-    "totalAnnouncements": 3,
-    "requestCount": 3,
+    "lastUpdated": "2026-08-26T12:04:52.096+05:30",
+    "checksum": "900a6ae19534077553d953d4536c57339809a8971e9b6e719eea415a107134f6",
+    "totalAnnouncements": 5,
+    "requestCount": 4,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-26/awards-105639.json"
+    "rawPayloadPath": "data/raw/2026-08-26/awards-120451.json"
   }
 }
