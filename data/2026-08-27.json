@@ -1,0 +1,75 @@
+{
+  "tradingDate": "2026-08-27",
+  "buckets": {
+    "2026-08-27T18": [
+      {
+        "newsId": "c288446d-ace5-49ca-b4e3-db6cf0a7ba06",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-08-27T18:42:15.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-08-27T18:42:15.01"
+      },
+      {
+        "newsId": "7532f9ab-2144-4160-b42b-95350c71efe3",
+        "scripCode": 540595,
+        "shortName": "Tejas Networks Ltd",
+        "headline": "The Company has received a Letter of Intent dated August 27, 2026, from Tata Consultancy Services Limited for supply of RAN equipment, accessories & installation materials for BSNL 4G mobile ....",
+        "announcedAt": "2026-08-27T18:20:28.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tejas-networks-ltd/tejasnet/540595/",
+        "rawTime": "2026-08-27T18:20:28.673"
+      },
+      {
+        "newsId": "8fa837bb-f41d-4f69-8e7d-ea9b222389da",
+        "scripCode": 543621,
+        "shortName": "Cargosol Logistics Ltd",
+        "headline": "Order dated august 07 2026 received form Lok Adalat",
+        "announcedAt": "2026-08-27T18:02:38.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cargosol-logistics-ltd/cargosol/543621/",
+        "rawTime": "2026-08-27T18:02:38.91"
+      }
+    ],
+    "2026-08-27T17": [
+      {
+        "newsId": "ca19e36f-19dc-42c6-8331-2b6532abeaf8",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company ....",
+        "announcedAt": "2026-08-27T17:24:52.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-08-27T17:24:52.887"
+      }
+    ],
+    "2026-08-27T11": [
+      {
+        "newsId": "30b72725-de4c-4296-8c51-3e7ff8228a76",
+        "scripCode": 538562,
+        "shortName": "Skipper Ltd",
+        "headline": "Press release on receipt of order",
+        "announcedAt": "2026-08-27T11:47:46.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/",
+        "rawTime": "2026-08-27T11:47:46.55"
+      }
+    ],
+    "2026-08-27T09": [
+      {
+        "newsId": "d67c581e-e091-444b-b46a-bf169f6f82b9",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Dear Sir/Madam, Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other ....",
+        "announcedAt": "2026-08-27T09:43:26.970+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-08-27T09:43:26.97"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-27T18:57:04.872+05:30",
+    "checksum": "28d825a72adf548830198ddb6f5e2db896a863d454e92c77f450d346530845e3",
+    "totalAnnouncements": 6,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-27/awards-185702.json"
+  }
+}

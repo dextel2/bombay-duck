@@ -18,25 +18,18 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-26 IST)
+### Today's Awarded Orders (2026-08-27 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-26 15:00 | Bharat Electronics Ltd | 500049 | Press Release - BEL receives orders worth Rs.730 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 26 Aug 2026 - 15:39 |
-| 2026-08-26 15:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the exchange that the Company has received a Letter of Empanelment for 1,00,000 Grid Connected Rooftop Solar Photovoltaic Project aggregating to 100 MW. The .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 26 Aug 2026 - 15:28 |
-| 2026-08-26 15:00 | NIS Management Ltd | 544495 | Receipt of Work Order from Department of Technical Education Training & Skill Development, Govt. of West Bengal ([Link](https://www.bseindia.com/stock-share-price/nis-management-ltd/nismgmt/544495/)) | Likely Positive | 26 Aug 2026 - 15:11 |
-| 2026-08-26 15:00 | Airfloa Rail Technology Ltd | 544516 | Receiving of new order value of Rs.1.92 Crore ([Link](https://www.bseindia.com/stock-share-price/airfloa-rail-technology-ltd/airfloa/544516/)) | Likely Positive | 26 Aug 2026 - 15:07 |
-| 2026-08-26 13:00 | DMR Engineering Ltd | 543410 | Intimation of receipt of work order ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 26 Aug 2026 - 13:51 |
-| 2026-08-26 13:00 | Ceigall India Ltd | 544223 | In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 26 Aug 2026 - 13:27 |
-| 2026-08-26 13:00 | Hazoor Multi Projects Ltd-$ | 532467 | We are pleased to inform you that the Company has been Awarded the Letter of Award from the National Highways Authority of India (NHAI) at Paranur Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Likely Positive | 26 Aug 2026 - 13:05 |
-| 2026-08-26 13:00 | Radaan Mediaworks India Ltd | 590070 | Receipt of Order for TDS payable ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 26 Aug 2026 - 13:00 |
-| 2026-08-26 11:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith Receipt of order from Sahjanand Metal Alloys dated 26.08.2026 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 26 Aug 2026 - 11:43 |
-| 2026-08-26 11:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith reciept of order from Sahjanand Impex dated 26th August, 2026 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 26 Aug 2026 - 11:40 |
-| 2026-08-26 10:00 | Subex Ltd | 532348 | Subex secured a contract with a leading African mobile operator. ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 26 Aug 2026 - 10:05 |
-| 2026-08-26 09:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 26 Aug 2026 - 09:24 |
-| 2026-08-26 09:00 | MTAR Technologies Ltd | 543270 | Receipt of Order worth Rs. 126.74 Crs ([Link](https://www.bseindia.com/stock-share-price/mtar-technologies-ltd/mtartech/543270/)) | Likely Positive | 26 Aug 2026 - 09:03 |
+| 2026-08-27 18:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Aug 2026 - 18:42 |
+| 2026-08-27 18:00 | Tejas Networks Ltd | 540595 | The Company has received a Letter of Intent dated August 27, 2026, from Tata Consultancy Services Limited for supply of RAN equipment, accessories & installation materials for BSNL 4G mobile .... ([Link](https://www.bseindia.com/stock-share-price/tejas-networks-ltd/tejasnet/540595/)) | Neutral | 27 Aug 2026 - 18:20 |
+| 2026-08-27 18:00 | Cargosol Logistics Ltd | 543621 | Order dated august 07 2026 received form Lok Adalat ([Link](https://www.bseindia.com/stock-share-price/cargosol-logistics-ltd/cargosol/543621/)) | Likely Positive | 27 Aug 2026 - 18:02 |
+| 2026-08-27 17:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 27 Aug 2026 - 17:24 |
+| 2026-08-27 11:00 | Skipper Ltd | 538562 | Press release on receipt of order ([Link](https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/)) | Likely Positive | 27 Aug 2026 - 11:47 |
+| 2026-08-27 09:00 | Shayona Engineering Ltd | 544686 | Dear Sir/Madam, Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other .... ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Neutral | 27 Aug 2026 - 09:43 |
 
-_Last updated: 26 Aug 2026 - 15:57 | Entries: 13 | Requests: 8 | Retries: 0 | [Raw JSON](data/2026-08-26.json)_
+_Last updated: 27 Aug 2026 - 18:57 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-27.json)_
 
 <!-- snapshot:end -->
 
