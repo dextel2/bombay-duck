@@ -1,0 +1,75 @@
+{
+  "tradingDate": "2026-08-28",
+  "buckets": {
+    "2026-08-28T15": [
+      {
+        "newsId": "7f920b21-9ca3-49ed-a55f-9b7496145e1e",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that Company has received renewal order amounting to Rs. 4.08 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-08-28T15:42:18.220+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-08-28T15:42:18.22"
+      }
+    ],
+    "2026-08-28T14": [
+      {
+        "newsId": "90166ad8-0f19-4a67-8672-b037f8db57fc",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Intimation of Letter of Award.",
+        "announcedAt": "2026-08-28T14:29:49.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2026-08-28T14:29:49.11"
+      },
+      {
+        "newsId": "d5ef102f-66d3-4499-87e4-02b52209436d",
+        "scripCode": 544646,
+        "shortName": "Shipwaves Online Ltd",
+        "headline": "Intimation of receipt of purchase order worth of USD 55,800 (equivalent to Rs. 53,30,016 approx.) from TATA UK Limited.",
+        "announcedAt": "2026-08-28T14:26:02.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/",
+        "rawTime": "2026-08-28T14:26:02.067"
+      }
+    ],
+    "2026-08-28T13": [
+      {
+        "newsId": "c2a380f9-8080-4c00-849b-2861d591e028",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "Received LOA of EPC work for 291 MWp Solar PV & 280 MWh BESS.",
+        "announcedAt": "2026-08-28T13:21:44.927+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2026-08-28T13:21:44.927"
+      },
+      {
+        "newsId": "8f762d3c-2206-461d-9f34-c6435a0c70c6",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Receiving of Letter of Award",
+        "announcedAt": "2026-08-28T13:17:04.643+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-08-28T13:17:04.643"
+      }
+    ],
+    "2026-08-28T10": [
+      {
+        "newsId": "2ee740b2-ece0-41a3-b2de-35eaf9c1faf6",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Recieved LOA of an total amount Rs. 115.90 Millions.",
+        "announcedAt": "2026-08-28T10:48:24.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-08-28T10:48:24.367"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-28T20:16:13.710+05:30",
+    "checksum": "6f2a0628819414d863f8c7bc1661056c84c66253f5659de8210877ef6be5581d",
+    "totalAnnouncements": 6,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-28/awards-201613.json"
+  }
+}

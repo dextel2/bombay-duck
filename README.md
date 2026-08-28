@@ -18,18 +18,18 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-27 IST)
+### Today's Awarded Orders (2026-08-28 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-27 18:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Aug 2026 - 18:42 |
-| 2026-08-27 18:00 | Tejas Networks Ltd | 540595 | The Company has received a Letter of Intent dated August 27, 2026, from Tata Consultancy Services Limited for supply of RAN equipment, accessories & installation materials for BSNL 4G mobile .... ([Link](https://www.bseindia.com/stock-share-price/tejas-networks-ltd/tejasnet/540595/)) | Neutral | 27 Aug 2026 - 18:20 |
-| 2026-08-27 18:00 | Cargosol Logistics Ltd | 543621 | Order dated august 07 2026 received form Lok Adalat ([Link](https://www.bseindia.com/stock-share-price/cargosol-logistics-ltd/cargosol/543621/)) | Likely Positive | 27 Aug 2026 - 18:02 |
-| 2026-08-27 17:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 27 Aug 2026 - 17:24 |
-| 2026-08-27 11:00 | Skipper Ltd | 538562 | Press release on receipt of order ([Link](https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/)) | Likely Positive | 27 Aug 2026 - 11:47 |
-| 2026-08-27 09:00 | Shayona Engineering Ltd | 544686 | Dear Sir/Madam, Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other .... ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Neutral | 27 Aug 2026 - 09:43 |
+| 2026-08-28 15:00 | Meta Infotech Ltd | 544441 | We wish to inform that Company has received renewal order amounting to Rs. 4.08 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 28 Aug 2026 - 15:42 |
+| 2026-08-28 14:00 | Waaree Energies Ltd | 544277 | Intimation of Letter of Award. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Neutral | 28 Aug 2026 - 14:29 |
+| 2026-08-28 14:00 | Shipwaves Online Ltd | 544646 | Intimation of receipt of purchase order worth of USD 55,800 (equivalent to Rs. 53,30,016 approx.) from TATA UK Limited. ([Link](https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/)) | Likely Positive | 28 Aug 2026 - 14:26 |
+| 2026-08-28 13:00 | Waaree Renewable Technologies Ltd | 534618 | Received LOA of EPC work for 291 MWp Solar PV & 280 MWh BESS. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 28 Aug 2026 - 13:21 |
+| 2026-08-28 13:00 | ACME Solar Holdings Ltd | 544283 | Receiving of Letter of Award ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 28 Aug 2026 - 13:17 |
+| 2026-08-28 10:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved LOA of an total amount Rs. 115.90 Millions. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 28 Aug 2026 - 10:48 |
 
-_Last updated: 27 Aug 2026 - 18:57 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-27.json)_
+_Last updated: 28 Aug 2026 - 20:16 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-28.json)_
 
 <!-- snapshot:end -->
 
