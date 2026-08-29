@@ -53,14 +53,87 @@
         "url": "https://www.bseindia.com/stock-share-price/tata-chemicals-ltd/tatachem/500770/",
         "rawTime": "2026-08-29T00:28:18.52"
       }
+    ],
+    "2026-08-29T20": [
+      {
+        "newsId": "56591cdd-7063-47dc-afd0-37d2299de88e",
+        "scripCode": 532374,
+        "shortName": "Sterlite Technologies Ltd",
+        "headline": "Bagging of order pursuant to Regulation 30 of SEBI LODR",
+        "announcedAt": "2026-08-29T20:14:35.923+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/",
+        "rawTime": "2026-08-29T20:14:35.923"
+      }
+    ],
+    "2026-08-29T18": [
+      {
+        "newsId": "47ff5535-0f82-4599-b7ae-03ff684c391c",
+        "scripCode": 533286,
+        "shortName": "Moil Ltd",
+        "headline": "Letter regarding short recovered chages with interest and service charges.",
+        "announcedAt": "2026-08-29T18:37:07.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/",
+        "rawTime": "2026-08-29T18:37:07.55"
+      }
+    ],
+    "2026-08-29T17": [
+      {
+        "newsId": "4a955c93-2a71-41e9-944b-f539a25a9b5f",
+        "scripCode": 532942,
+        "shortName": "KNR Constructions Ltd",
+        "headline": "Receipt of LOA",
+        "announcedAt": "2026-08-29T17:49:40.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/",
+        "rawTime": "2026-08-29T17:49:40.77"
+      }
+    ],
+    "2026-08-29T16": [
+      {
+        "newsId": "8dcf9bda-344e-417b-9854-9a62ec52f407",
+        "scripCode": 544458,
+        "shortName": "Shree Refrigerations Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 read with sub para 4, para B, Part A, Schedule III, of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured the order ....",
+        "announcedAt": "2026-08-29T16:48:01.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
+        "rawTime": "2026-08-29T16:48:01.193"
+      },
+      {
+        "newsId": "374572c5-a056-422a-bedb-9d1b3a79924b",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation of workorder received from NHAI at Sethiyathope Cholapuram Section of NH-36 in the state of Tamil Nadu as per provisions of regulation 30 of SEBI LODR",
+        "announcedAt": "2026-08-29T16:26:45.923+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-08-29T16:26:45.923"
+      },
+      {
+        "newsId": "a7431271-47ff-4206-9717-6b0f83980e54",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Intimation of receipt of Contract",
+        "announcedAt": "2026-08-29T16:24:19.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-08-29T16:24:19.647"
+      }
+    ],
+    "2026-08-29T15": [
+      {
+        "newsId": "a89e1384-d529-4e62-b2d3-05f8b107732a",
+        "scripCode": 544511,
+        "shortName": "Karbonsteel Engineering Ltd",
+        "headline": "Intimation of receipt of multiple new orders amounting to Rs. 67.14 crores from India''s largest diversified Company",
+        "announcedAt": "2026-08-29T15:14:54.387+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/",
+        "rawTime": "2026-08-29T15:14:54.387"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-29T15:07:11.267+05:30",
-    "checksum": "78986cc8a6159f19ca14c189e7370f9a64ca3db968953dd155ca3ad1336766b7",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-29T20:21:38.392+05:30",
+    "checksum": "7349739318502acc3d0ddee4502239217cead9ee3680a05aa7b79a3c1501ddd4",
+    "totalAnnouncements": 12,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-29/awards-150710.json"
+    "rawPayloadPath": "data/raw/2026-08-29/awards-202137.json"
   }
 }

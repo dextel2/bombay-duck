@@ -22,13 +22,20 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-29 20:00 | Sterlite Technologies Ltd | 532374 | Bagging of order pursuant to Regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/)) | Likely Positive | 29 Aug 2026 - 20:14 |
+| 2026-08-29 18:00 | Moil Ltd | 533286 | Letter regarding short recovered chages with interest and service charges. ([Link](https://www.bseindia.com/stock-share-price/moil-ltd/moil/533286/)) | Neutral | 29 Aug 2026 - 18:37 |
+| 2026-08-29 17:00 | KNR Constructions Ltd | 532942 | Receipt of LOA ([Link](https://www.bseindia.com/stock-share-price/knr-constructions-ltd/knrcon/532942/)) | Likely Positive | 29 Aug 2026 - 17:49 |
+| 2026-08-29 16:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of Regulation 30 read with sub para 4, para B, Part A, Schedule III, of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured the order .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 29 Aug 2026 - 16:48 |
+| 2026-08-29 16:00 | Innovision Ltd | 544732 | Intimation of workorder received from NHAI at Sethiyathope Cholapuram Section of NH-36 in the state of Tamil Nadu as per provisions of regulation 30 of SEBI LODR ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 29 Aug 2026 - 16:26 |
+| 2026-08-29 16:00 | Avantel Ltd | 532406 | Intimation of receipt of Contract ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 29 Aug 2026 - 16:24 |
+| 2026-08-29 15:00 | Karbonsteel Engineering Ltd | 544511 | Intimation of receipt of multiple new orders amounting to Rs. 67.14 crores from India''s largest diversified Company ([Link](https://www.bseindia.com/stock-share-price/karbonsteel-engineering-ltd/karbon/544511/)) | Likely Positive | 29 Aug 2026 - 15:14 |
 | 2026-08-29 14:00 | Transformers and Rectifiers (India) Ltd | 532928 | Order received from MEIL ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 29 Aug 2026 - 14:24 |
 | 2026-08-29 14:00 | Jyoti Ltd-$ | 504076 | Receipt of NCLT Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 29 Aug 2026 - 14:21 |
 | 2026-08-29 13:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Award (LOA) from National Highways Authority of India ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 29 Aug 2026 - 13:45 |
 | 2026-08-29 10:00 | Ashoka Buildcon Ltd | 533271 | Pursuant to the provisions of Regulation 30 of the SEBI (LODR) Regulation, 2015, Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 29 Aug 2026 - 10:05 |
 | 2026-08-29 00:00 | Tata Chemicals Ltd | 500770 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/tata-chemicals-ltd/tatachem/500770/)) | Neutral | 29 Aug 2026 - 00:28 |
 
-_Last updated: 29 Aug 2026 - 15:07 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-29.json)_
+_Last updated: 29 Aug 2026 - 20:21 | Entries: 12 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-29.json)_
 
 <!-- snapshot:end -->
 
