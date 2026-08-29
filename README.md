@@ -18,18 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-28 IST)
+### Today's Awarded Orders (2026-08-29 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-28 15:00 | Meta Infotech Ltd | 544441 | We wish to inform that Company has received renewal order amounting to Rs. 4.08 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 28 Aug 2026 - 15:42 |
-| 2026-08-28 14:00 | Waaree Energies Ltd | 544277 | Intimation of Letter of Award. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Neutral | 28 Aug 2026 - 14:29 |
-| 2026-08-28 14:00 | Shipwaves Online Ltd | 544646 | Intimation of receipt of purchase order worth of USD 55,800 (equivalent to Rs. 53,30,016 approx.) from TATA UK Limited. ([Link](https://www.bseindia.com/stock-share-price/shipwaves-online-ltd/shipwaves/544646/)) | Likely Positive | 28 Aug 2026 - 14:26 |
-| 2026-08-28 13:00 | Waaree Renewable Technologies Ltd | 534618 | Received LOA of EPC work for 291 MWp Solar PV & 280 MWh BESS. ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 28 Aug 2026 - 13:21 |
-| 2026-08-28 13:00 | ACME Solar Holdings Ltd | 544283 | Receiving of Letter of Award ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 28 Aug 2026 - 13:17 |
-| 2026-08-28 10:00 | Brahmaputra Infrastructure Ltd | 535693 | Recieved LOA of an total amount Rs. 115.90 Millions. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 28 Aug 2026 - 10:48 |
+| 2026-08-29 14:00 | Transformers and Rectifiers (India) Ltd | 532928 | Order received from MEIL ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 29 Aug 2026 - 14:24 |
+| 2026-08-29 14:00 | Jyoti Ltd-$ | 504076 | Receipt of NCLT Order ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 29 Aug 2026 - 14:21 |
+| 2026-08-29 13:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Award (LOA) from National Highways Authority of India ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 29 Aug 2026 - 13:45 |
+| 2026-08-29 10:00 | Ashoka Buildcon Ltd | 533271 | Pursuant to the provisions of Regulation 30 of the SEBI (LODR) Regulation, 2015, Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project .... ([Link](https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/)) | Neutral | 29 Aug 2026 - 10:05 |
+| 2026-08-29 00:00 | Tata Chemicals Ltd | 500770 | Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/tata-chemicals-ltd/tatachem/500770/)) | Neutral | 29 Aug 2026 - 00:28 |
 
-_Last updated: 28 Aug 2026 - 20:16 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-28.json)_
+_Last updated: 29 Aug 2026 - 15:07 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-29.json)_
 
 <!-- snapshot:end -->
 

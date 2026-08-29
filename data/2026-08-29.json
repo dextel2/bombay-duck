@@ -1,0 +1,66 @@
+{
+  "tradingDate": "2026-08-29",
+  "buckets": {
+    "2026-08-29T14": [
+      {
+        "newsId": "d79d6b41-3a6e-4c80-becd-056e7e653174",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "Order received from MEIL",
+        "announcedAt": "2026-08-29T14:24:16.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-08-29T14:24:16.057"
+      },
+      {
+        "newsId": "085a38b8-07e5-4ab8-89d5-681102fb9d72",
+        "scripCode": 504076,
+        "shortName": "Jyoti Ltd-$",
+        "headline": "Receipt of NCLT Order",
+        "announcedAt": "2026-08-29T14:21:53.957+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/",
+        "rawTime": "2026-08-29T14:21:53.957"
+      }
+    ],
+    "2026-08-29T13": [
+      {
+        "newsId": "eff10e39-53b0-45c5-a4ea-0139ba0d65cb",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "Intimation of Receipt of Letter of Award (LOA) from National Highways Authority of India",
+        "announcedAt": "2026-08-29T13:45:10.147+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-08-29T13:45:10.147"
+      }
+    ],
+    "2026-08-29T10": [
+      {
+        "newsId": "12b0e92b-c5bd-432f-a5d9-e8a20ec10765",
+        "scripCode": 533271,
+        "shortName": "Ashoka Buildcon Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of the SEBI (LODR) Regulation, 2015, Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project ....",
+        "announcedAt": "2026-08-29T10:05:05.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
+        "rawTime": "2026-08-29T10:05:05.79"
+      }
+    ],
+    "2026-08-29T00": [
+      {
+        "newsId": "7fa8610b-98e5-4635-8ae9-e20cfb6492a9",
+        "scripCode": 500770,
+        "shortName": "Tata Chemicals Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-08-29T00:28:18.520+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tata-chemicals-ltd/tatachem/500770/",
+        "rawTime": "2026-08-29T00:28:18.52"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-29T15:07:11.267+05:30",
+    "checksum": "78986cc8a6159f19ca14c189e7370f9a64ca3db968953dd155ca3ad1336766b7",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-29/awards-150710.json"
+  }
+}
