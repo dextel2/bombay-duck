@@ -1,9 +1,21 @@
-﻿# ⚠️ Known Issues
+# ⚠️ Known Issues
 
 ## ⏱️ Rate Limiting & API Availability
 
-- The BSE endpoint is unauthenticated and may throttle heavy usage. Although the workflow enforces a 60-second delay between fetches, repeated failures might require a longer cool-off period or manual retry.
-- BSE occasionally deploys changes without notice. If the JSON contract changes, the fetch script may break. Refer to the **Step Summary** output for the `rawPayloadPath`, and inspect the corresponding files under `data/raw/<date>/` to debug differences.
+**Status (partially addressed in #30 / branch `fix/rate-limit-resilience`):**
+
+- The BSE endpoint remains unauthenticated and may still throttle heavy usage.
+- The fetch step now supports:
+  - Configurable retries via `MAX_ATTEMPTS`, `BASE_RETRY_DELAY_MS`, `RETRY_FACTOR`
+  - Cross-run **cool-off** after consecutive hard failures (`FAILURE_THRESHOLD`, `COOL_OFF_MINUTES`)
+  - Honouring a `Retry-After` response header when present
+  - Lightweight response-shape validation so contract changes fail loudly instead of producing empty data
+- Cool-off state is stored in `data/.rate-limit.json`. While active, the fetch step exits successfully and skips the network call.
+- If the JSON contract still changes in a way the validator does not catch, inspect the **Step Summary** (`rawPayloadPath`) and files under `data/raw/<date>/`.
+
+Remaining gaps:
+- No automatic GitHub issue is opened on hard failure yet (planned follow-up).
+- Cool-off is process-local to the repo state file; it does not coordinate across forks.
 
 ## 📅 Trading Calendar Assumptions
 
@@ -21,5 +33,5 @@
 
 ## 🧪 Local Development Footprint
 
-- Local fetches still hit the live BSE endpoint and are subject to the same rate limits. During development, prefer using **mocked responses** to avoid unnecessary API calls.
-- The `data/` directory is partially `.gitignore`-d. Ensure only the relevant **daily JSON state file** and **README updates** are committed.
+- Local fetches still hit the live BSE endpoint and are subject to the same rate limits and cool-off logic. During development, prefer using **mocked responses** to avoid unnecessary API calls.
+- The `data/` directory is partially `.gitignore`-d. Ensure only the relevant **daily JSON state file** and **README updates** are committed. The rate-limit state file (`data/.rate-limit.json`) is intentionally local and should not be force-committed unless debugging.
