@@ -22,10 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-31 18:00 | NCC Ltd | 500294 | Order(s) received during August 2026 ([Link](https://www.bseindia.com/stock-share-price/ncc-ltd/ncc/500294/)) | Likely Positive | 31 Aug 2026 - 18:04 |
+| 2026-08-31 18:00 | Midwest Ltd | 544587 | The Company has accepted LOI''s for working of Quarry Leases in Andhra Pradesh on Raising Cum Sale Basis. ([Link](https://www.bseindia.com/stock-share-price/midwest-ltd/midwestltd/544587/)) | Neutral | 31 Aug 2026 - 18:03 |
+| 2026-08-31 17:00 | Time Technoplast Ltd | 532856 | Time Technoplast Limited secures order of Rs. 87.53 Crores for supply of Type IV Composite CNG Cylinders - Mobile Storage Cascades for CNG and CGD Network from Well-Established Public Sector .... ([Link](https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/)) | Likely Positive | 31 Aug 2026 - 17:25 |
+| 2026-08-31 17:00 | E2E Networks Ltd | 544783 | E2E Networks Limited informed the exchange about Bagging/Receiving of order/contracts ([Link](https://www.bseindia.com/stock-share-price/e2e-networks-ltd/e2e/544783/)) | Likely Positive | 31 Aug 2026 - 17:23 |
+| 2026-08-31 16:00 | Indo Tech Transformers Ltd | 532717 | Announcement under Reg 30 (LODR) - Bagging of order ([Link](https://www.bseindia.com/stock-share-price/indo-tech-transformers-ltd/indotech/532717/)) | Likely Positive | 31 Aug 2026 - 16:33 |
+| 2026-08-31 15:00 | Raaj Medisafe India Ltd | 524502 | We are glad to inform you that the Company has received a Letter of award from Madhya Pradesh public health services corporation limited for supply of Baby Diappers to various governement .... ([Link](https://www.bseindia.com/stock-share-price/raaj-medisafe-india-ltd/raajmedi/524502/)) | Neutral | 31 Aug 2026 - 15:42 |
 | 2026-08-31 13:00 | Zuari Agro Chemicals Ltd | 534742 | Please find the attached intimation of Adjudication order received from the Registrar of Companies, Goa as required under Reg 30 of SEBI, LODR 2015. The prescribed signed PDF intimation .... ([Link](https://www.bseindia.com/stock-share-price/zuari-agro-chemicals-ltd/zuari/534742/)) | Likely Positive | 31 Aug 2026 - 13:32 |
 | 2026-08-31 11:00 | Ahasolar Technologies Ltd | 543941 | Initiation of Receipt of Work Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 31 Aug 2026 - 11:24 |
 
-_Last updated: 31 Aug 2026 - 14:39 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-31.json)_
+_Last updated: 31 Aug 2026 - 22:49 | Entries: 8 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-31.json)_
 
 <!-- snapshot:end -->
 

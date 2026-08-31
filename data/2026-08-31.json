@@ -22,14 +22,76 @@
         "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
         "rawTime": "2026-08-31T11:24:59.543"
       }
+    ],
+    "2026-08-31T18": [
+      {
+        "newsId": "44173c91-793a-45fe-8c0b-e8b777ce0fbe",
+        "scripCode": 500294,
+        "shortName": "NCC Ltd",
+        "headline": "Order(s) received during August 2026",
+        "announcedAt": "2026-08-31T18:04:35.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ncc-ltd/ncc/500294/",
+        "rawTime": "2026-08-31T18:04:35.29"
+      },
+      {
+        "newsId": "83c0ab57-cc28-4bf2-9546-6bcb84636ad7",
+        "scripCode": 544587,
+        "shortName": "Midwest Ltd",
+        "headline": "The Company has accepted LOI''s for working of Quarry Leases in Andhra Pradesh on Raising Cum Sale Basis.",
+        "announcedAt": "2026-08-31T18:03:33.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/midwest-ltd/midwestltd/544587/",
+        "rawTime": "2026-08-31T18:03:33.95"
+      }
+    ],
+    "2026-08-31T17": [
+      {
+        "newsId": "5740dd2e-7b6f-4183-9d42-0f9d5815bb69",
+        "scripCode": 532856,
+        "shortName": "Time Technoplast Ltd",
+        "headline": "Time Technoplast Limited secures order of Rs. 87.53 Crores for supply of Type IV Composite CNG Cylinders - Mobile Storage Cascades for CNG and CGD Network from Well-Established Public Sector ....",
+        "announcedAt": "2026-08-31T17:25:43.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/time-technoplast-ltd/timetechno/532856/",
+        "rawTime": "2026-08-31T17:25:43.29"
+      },
+      {
+        "newsId": "dc8bacda-5c05-45f8-a3a2-d82209237e0b",
+        "scripCode": 544783,
+        "shortName": "E2E Networks Ltd",
+        "headline": "E2E Networks Limited informed the exchange about Bagging/Receiving of order/contracts",
+        "announcedAt": "2026-08-31T17:23:52.690+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/e2e-networks-ltd/e2e/544783/",
+        "rawTime": "2026-08-31T17:23:52.69"
+      }
+    ],
+    "2026-08-31T16": [
+      {
+        "newsId": "2f91edb1-528c-4db3-82a3-cf9fdc2ae369",
+        "scripCode": 532717,
+        "shortName": "Indo Tech Transformers Ltd",
+        "headline": "Announcement under Reg 30 (LODR) - Bagging of order",
+        "announcedAt": "2026-08-31T16:33:56.020+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indo-tech-transformers-ltd/indotech/532717/",
+        "rawTime": "2026-08-31T16:33:56.02"
+      }
+    ],
+    "2026-08-31T15": [
+      {
+        "newsId": "bb6a341c-e470-4f52-83a4-89d0f760d78d",
+        "scripCode": 524502,
+        "shortName": "Raaj Medisafe India Ltd",
+        "headline": "We are glad to inform you that the Company has received a Letter of award from Madhya Pradesh public health services corporation limited for supply of Baby Diappers to various governement ....",
+        "announcedAt": "2026-08-31T15:42:46.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/raaj-medisafe-india-ltd/raajmedi/524502/",
+        "rawTime": "2026-08-31T15:42:46.507"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-31T14:39:35.248+05:30",
-    "checksum": "63fceb99f821cbccace623cf59a437864a22306a917e48ecd8135deb4343ac52",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-08-31T22:49:43.915+05:30",
+    "checksum": "53745751df838dae9865c37ac191d483270a89f7b5cea95703c5d656abe8087a",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-08-31/awards-143934.json"
+    "rawPayloadPath": "data/raw/2026-08-31/awards-224942.json"
   }
 }
