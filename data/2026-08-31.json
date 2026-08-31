@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-08-31",
+  "buckets": {
+    "2026-08-31T13": [
+      {
+        "newsId": "f6c9deb2-3b8d-40ef-ba70-307cd0c20f4e",
+        "scripCode": 534742,
+        "shortName": "Zuari Agro Chemicals Ltd",
+        "headline": "Please find the attached intimation of Adjudication order received from the Registrar of Companies, Goa as required under Reg 30 of SEBI, LODR 2015. The prescribed signed PDF intimation ....",
+        "announcedAt": "2026-08-31T13:32:56.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zuari-agro-chemicals-ltd/zuari/534742/",
+        "rawTime": "2026-08-31T13:32:56.54"
+      }
+    ],
+    "2026-08-31T11": [
+      {
+        "newsId": "ab09d88e-6baf-4a33-bd24-09e216f9d1ce",
+        "scripCode": 543941,
+        "shortName": "Ahasolar Technologies Ltd",
+        "headline": "Initiation of Receipt of Work Order Received.",
+        "announcedAt": "2026-08-31T11:24:59.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/",
+        "rawTime": "2026-08-31T11:24:59.543"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-31T14:39:35.248+05:30",
+    "checksum": "63fceb99f821cbccace623cf59a437864a22306a917e48ecd8135deb4343ac52",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-08-31/awards-143934.json"
+  }
+}

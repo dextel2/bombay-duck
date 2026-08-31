@@ -18,11 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-08-30 IST)
+### Today's Awarded Orders (2026-08-31 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-08-31 13:00 | Zuari Agro Chemicals Ltd | 534742 | Please find the attached intimation of Adjudication order received from the Registrar of Companies, Goa as required under Reg 30 of SEBI, LODR 2015. The prescribed signed PDF intimation .... ([Link](https://www.bseindia.com/stock-share-price/zuari-agro-chemicals-ltd/zuari/534742/)) | Likely Positive | 31 Aug 2026 - 13:32 |
+| 2026-08-31 11:00 | Ahasolar Technologies Ltd | 543941 | Initiation of Receipt of Work Order Received. ([Link](https://www.bseindia.com/stock-share-price/ahasolar-technologies-ltd/ahasolar/543941/)) | Likely Positive | 31 Aug 2026 - 11:24 |
 
-_Last updated: 30 Aug 2026 - 19:41 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-08-30.json)_
+_Last updated: 31 Aug 2026 - 14:39 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-08-31.json)_
 
 <!-- snapshot:end -->
 
