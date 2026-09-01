@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-09-01",
+  "buckets": {
+    "2026-09-01T13": [
+      {
+        "newsId": "b2363a9a-cb0f-4dea-b2f1-43c0a19a7ff1",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of receipt of Letter of Award worth USD 135 Million from Tsiko Africa Logistics (Pty) Ltd. together with Barberry Holdings (Pty) Ltd.",
+        "announcedAt": "2026-09-01T13:19:54.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-09-01T13:19:54.44"
+      }
+    ],
+    "2026-09-01T12": [
+      {
+        "newsId": "b4189384-e437-4046-be29-ab76b31ff3bc",
+        "scripCode": 544501,
+        "shortName": "Sugs Lloyd Ltd",
+        "headline": "Sugs LLoyd Limited secures Rs. 214.27 crore Orders from TPSODL & TPWODL.",
+        "announcedAt": "2026-09-01T12:20:55.953+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/",
+        "rawTime": "2026-09-01T12:20:55.953"
+      }
+    ],
+    "2026-09-01T08": [
+      {
+        "newsId": "d86e022a-3103-495c-a26a-95b21a7d31e6",
+        "scripCode": 500183,
+        "shortName": "HFCL Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that the Company has entered into a three-year supply agreement ....",
+        "announcedAt": "2026-09-01T08:40:56.663+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/",
+        "rawTime": "2026-09-01T08:40:56.663"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-01T13:40:03.418+05:30",
+    "checksum": "20763c40f2d6fbff16d7732669a2c7691156d4c8fcb6df0ff26c0be069099769",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-01/awards-134002.json"
+  }
+}
