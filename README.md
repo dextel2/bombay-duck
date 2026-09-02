@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-02 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Purchase order received for an Amount 9.69 Crore from Megha Enginnering & infrastructure ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 02 Sep 2026 - 13:45 |
 | 2026-09-02 08:00 | BEML Ltd | 500048 | Receiving of order ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 02 Sep 2026 - 08:56 |
 
-_Last updated: 02 Sep 2026 - 12:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-02.json)_
+_Last updated: 02 Sep 2026 - 17:55 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-02.json)_
 
 <!-- snapshot:end -->
 

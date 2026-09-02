@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
         "rawTime": "2026-09-02T08:56:46.247"
       }
+    ],
+    "2026-09-02T13": [
+      {
+        "newsId": "08961631-e4d7-4499-9217-06af10a388f9",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Purchase order received for an Amount 9.69 Crore from Megha Enginnering & infrastructure",
+        "announcedAt": "2026-09-02T13:45:33.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-09-02T13:45:33.12"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-02T12:59:24.843+05:30",
-    "checksum": "19094a68c40a438bb62ab1b9433364fe98b2b2b7aa65270f67c7127547ac40cd",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-02T17:55:56.056+05:30",
+    "checksum": "bff1655fd90a557347b6f9dd157896545d83fd9d32d9a8ab3afa0466602e5118",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-02/awards-125924.json"
+    "rawPayloadPath": "data/raw/2026-09-02/awards-175555.json"
   }
 }
