@@ -18,22 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-01 IST)
+### Today's Awarded Orders (2026-09-02 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-01 18:00 | 3i Infotech Ltd | 532628 | Please find attached letter regarding purchase order received from leading consumer durables company. ([Link](https://www.bseindia.com/stock-share-price/3i-infotech-ltd/3iinfoltd/532628/)) | Likely Positive | 01 Sep 2026 - 18:52 |
-| 2026-09-01 18:00 | ARSS Infrastructure Projects Ltd | 533163 | Intimation regarding Work Order of Rs. 130.53 Crore ([Link](https://www.bseindia.com/stock-share-price/arss-infrastructure-projects-ltd/arssinfra/533163/)) | Likely Positive | 01 Sep 2026 - 18:47 |
-| 2026-09-01 17:00 | Indo Tech Transformers Ltd | 532717 | Bagging of order - Corrigendum to submission dated August 31, 2026 ([Link](https://www.bseindia.com/stock-share-price/indo-tech-transformers-ltd/indotech/532717/)) | Likely Positive | 01 Sep 2026 - 17:55 |
-| 2026-09-01 17:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 01 Sep 2026 - 17:52 |
-| 2026-09-01 15:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Service Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 01 Sep 2026 - 15:24 |
-| 2026-09-01 14:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Service Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 01 Sep 2026 - 14:57 |
-| 2026-09-01 14:00 | Shayona Engineering Ltd | 544686 | Intimation under Regulation 30 - Receipt of Service Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 01 Sep 2026 - 14:03 |
-| 2026-09-01 13:00 | Texmaco Rail & Engineering Ltd | 533326 | Intimation of receipt of Letter of Award worth USD 135 Million from Tsiko Africa Logistics (Pty) Ltd. together with Barberry Holdings (Pty) Ltd. ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 01 Sep 2026 - 13:19 |
-| 2026-09-01 12:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Limited secures Rs. 214.27 crore Orders from TPSODL & TPWODL. ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Likely Positive | 01 Sep 2026 - 12:20 |
-| 2026-09-01 08:00 | HFCL Ltd | 500183 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform that the Company has entered into a three-year supply agreement .... ([Link](https://www.bseindia.com/stock-share-price/hfcl-ltd/hfcl/500183/)) | Neutral | 01 Sep 2026 - 08:40 |
+| 2026-09-02 08:00 | BEML Ltd | 500048 | Receiving of order ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 02 Sep 2026 - 08:56 |
 
-_Last updated: 01 Sep 2026 - 19:20 | Entries: 10 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-01.json)_
+_Last updated: 02 Sep 2026 - 12:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-02.json)_
 
 <!-- snapshot:end -->
 

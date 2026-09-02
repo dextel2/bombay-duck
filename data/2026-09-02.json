@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-09-02",
+  "buckets": {
+    "2026-09-02T08": [
+      {
+        "newsId": "9a5ab9fd-1587-4f40-b149-8e49a4a3562f",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "Receiving of order",
+        "announcedAt": "2026-09-02T08:56:46.247+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2026-09-02T08:56:46.247"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-02T12:59:24.843+05:30",
+    "checksum": "19094a68c40a438bb62ab1b9433364fe98b2b2b7aa65270f67c7127547ac40cd",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-02/awards-125924.json"
+  }
+}
