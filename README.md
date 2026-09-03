@@ -22,10 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-03 17:00 | Innovision Ltd | 544732 | Intimation of Workorder received from NHAI for Mangapatnam Toll in the state of Andhra Pradesh ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 03 Sep 2026 - 17:43 |
+| 2026-09-03 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 03 Sep 2026 - 15:11 |
+| 2026-09-03 15:00 | Ecoboard Industries Ltd | 523732 | Announcement under regulation 30 for receipt of order of Rs. 20,50,00,000 from Sri Balaji Bio Energies and Organics Private Limited for 12 TPD CBG Plant ([Link](https://www.bseindia.com/stock-share-price/ecoboard-industries-ltd/ecoboar/523732/)) | Likely Positive | 03 Sep 2026 - 15:02 |
+| 2026-09-03 13:00 | Ceigall India Ltd | 544223 | In continuation to our earlier letters dated 26th August 2026, we wish to inform you that Ceigall India Limited ('CIL') has received Letter of Intent (LoI) from REC Power Development and .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 03 Sep 2026 - 13:52 |
+| 2026-09-03 13:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Limited secures 24.63 crore from TPCODL. ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Neutral | 03 Sep 2026 - 13:44 |
+| 2026-09-03 13:00 | Saatvik Green Energy Ltd | 544526 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 03 Sep 2026 - 13:30 |
 | 2026-09-03 11:00 | Kothari Industrial Corporation Ltd | 509732 | award ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 03 Sep 2026 - 11:52 |
 | 2026-09-03 09:00 | Solex Energy Ltd | 544862 | Intimation of Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/)) | Likely Positive | 03 Sep 2026 - 09:59 |
 
-_Last updated: 03 Sep 2026 - 13:05 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-03.json)_
+_Last updated: 03 Sep 2026 - 17:55 | Entries: 8 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-03.json)_
 
 <!-- snapshot:end -->
 

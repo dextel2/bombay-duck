@@ -22,14 +22,74 @@
         "url": "https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/",
         "rawTime": "2026-09-03T09:59:11.51"
       }
+    ],
+    "2026-09-03T17": [
+      {
+        "newsId": "ed091f00-1742-4874-9125-3374a6e37b5f",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation of Workorder received from NHAI for Mangapatnam Toll in the state of Andhra Pradesh",
+        "announcedAt": "2026-09-03T17:43:40.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-09-03T17:43:40.94"
+      }
+    ],
+    "2026-09-03T15": [
+      {
+        "newsId": "3df376fb-a7cb-4925-884a-159cf6b0ad60",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Maharashtra ....",
+        "announcedAt": "2026-09-03T15:11:59.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-09-03T15:11:59.983"
+      },
+      {
+        "newsId": "badd0feb-dda1-4b57-acf1-523b1ed6471b",
+        "scripCode": 523732,
+        "shortName": "Ecoboard Industries Ltd",
+        "headline": "Announcement under regulation 30 for receipt of order of Rs. 20,50,00,000 from Sri Balaji Bio Energies and Organics Private Limited for 12 TPD CBG Plant",
+        "announcedAt": "2026-09-03T15:02:41.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ecoboard-industries-ltd/ecoboar/523732/",
+        "rawTime": "2026-09-03T15:02:41.697"
+      }
+    ],
+    "2026-09-03T13": [
+      {
+        "newsId": "52d96f9d-149c-439e-b30c-cb8f1a8d5d4e",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier letters dated 26th August 2026, we wish to inform you that Ceigall India Limited ('CIL') has received Letter of Intent (LoI) from REC Power Development and ....",
+        "announcedAt": "2026-09-03T13:52:36.617+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-09-03T13:52:36.617"
+      },
+      {
+        "newsId": "1d112a60-8398-4222-b727-efb4fa4a5892",
+        "scripCode": 544501,
+        "shortName": "Sugs Lloyd Ltd",
+        "headline": "Sugs LLoyd Limited secures 24.63 crore from TPCODL.",
+        "announcedAt": "2026-09-03T13:44:05.250+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/",
+        "rawTime": "2026-09-03T13:44:05.25"
+      },
+      {
+        "newsId": "de88c182-afae-4bf6-a52a-b5d28ef2c1ee",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-09-03T13:30:29.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2026-09-03T13:30:29.843"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-03T13:05:02.682+05:30",
-    "checksum": "6aa76c1489ac9ac3c7dbda0e17c6a728974a94c56a66d2fc5c9b85a81ae8525f",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-03T17:55:53.574+05:30",
+    "checksum": "3a25f5cc0ec81d82995ebd9bab96ec5ff8e92908d3a11e338e7941cae8aae801",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-03/awards-130502.json"
+    "rawPayloadPath": "data/raw/2026-09-03/awards-175552.json"
   }
 }
