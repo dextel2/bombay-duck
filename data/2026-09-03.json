@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-09-03",
+  "buckets": {
+    "2026-09-03T11": [
+      {
+        "newsId": "3c090e03-241c-4a91-af76-8383981f95ab",
+        "scripCode": 509732,
+        "shortName": "Kothari Industrial Corporation Ltd",
+        "headline": "award",
+        "announcedAt": "2026-09-03T11:52:45.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/",
+        "rawTime": "2026-09-03T11:52:45.86"
+      }
+    ],
+    "2026-09-03T09": [
+      {
+        "newsId": "b3876d0b-14cb-4624-b637-40c09cde92c9",
+        "scripCode": 544862,
+        "shortName": "Solex Energy Ltd",
+        "headline": "Intimation of Receipt of Work Order",
+        "announcedAt": "2026-09-03T09:59:11.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/",
+        "rawTime": "2026-09-03T09:59:11.51"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-03T13:05:02.682+05:30",
+    "checksum": "6aa76c1489ac9ac3c7dbda0e17c6a728974a94c56a66d2fc5c9b85a81ae8525f",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-03/awards-130502.json"
+  }
+}

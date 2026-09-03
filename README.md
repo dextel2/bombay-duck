@@ -18,14 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-02 IST)
+### Today's Awarded Orders (2026-09-03 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-02 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Purchase order received for an Amount 9.69 Crore from Megha Enginnering & infrastructure ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 02 Sep 2026 - 13:45 |
-| 2026-09-02 08:00 | BEML Ltd | 500048 | Receiving of order ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 02 Sep 2026 - 08:56 |
+| 2026-09-03 11:00 | Kothari Industrial Corporation Ltd | 509732 | award ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 03 Sep 2026 - 11:52 |
+| 2026-09-03 09:00 | Solex Energy Ltd | 544862 | Intimation of Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/)) | Likely Positive | 03 Sep 2026 - 09:59 |
 
-_Last updated: 02 Sep 2026 - 17:55 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-02.json)_
+_Last updated: 03 Sep 2026 - 13:05 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-03.json)_
 
 <!-- snapshot:end -->
 
