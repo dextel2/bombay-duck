@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-04 17:00 | SBC Exports Ltd | 542725 | Work order received from Dubai Based Entity Gawgee Brothers Wholesaler co. LLC for an amount of INR 22Cr. ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 04 Sep 2026 - 17:32 |
+| 2026-09-04 17:00 | SBC Exports Ltd | 542725 | Work Order received from Huxx Readymade Garments Trading LLC ([Link](https://www.bseindia.com/stock-share-price/sbc-exports-ltd/sbc/542725/)) | Likely Positive | 04 Sep 2026 - 17:27 |
 | 2026-09-04 12:00 | Jhaveri Credits & Capital Ltd | 531550 | The Company has received Letter of Award from New & Renewable Energy Developement Corporation of Andhra Pradesh Ltd for Supply, Installation, Comissioning of Solar Rooftop Power Plants .... ([Link](https://www.bseindia.com/stock-share-price/jhaveri-credits--capital-ltd/jhacc/531550/)) | Neutral | 04 Sep 2026 - 12:32 |
 | 2026-09-04 11:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of Letter of Award (LOA) from NHAI for Chillakallu Toll Plaza. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 04 Sep 2026 - 11:17 |
 
-_Last updated: 04 Sep 2026 - 13:09 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-04.json)_
+_Last updated: 04 Sep 2026 - 17:54 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-04.json)_
 
 <!-- snapshot:end -->
 
