@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-09-04",
+  "buckets": {
+    "2026-09-04T12": [
+      {
+        "newsId": "42792a29-3487-4953-a5f0-a10452abfabd",
+        "scripCode": 531550,
+        "shortName": "Jhaveri Credits & Capital Ltd",
+        "headline": "The Company has received Letter of Award from New & Renewable Energy Developement Corporation of Andhra Pradesh Ltd for Supply, Installation, Comissioning of Solar Rooftop Power Plants ....",
+        "announcedAt": "2026-09-04T12:32:09.813+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jhaveri-credits--capital-ltd/jhacc/531550/",
+        "rawTime": "2026-09-04T12:32:09.813"
+      }
+    ],
+    "2026-09-04T11": [
+      {
+        "newsId": "226341a9-02e4-46f0-9b94-1105e426ad63",
+        "scripCode": 544335,
+        "shortName": "B.R.Goyal Infrastructure Ltd",
+        "headline": "Receipt of Letter of Award (LOA) from NHAI for Chillakallu Toll Plaza.",
+        "announcedAt": "2026-09-04T11:17:05.227+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
+        "rawTime": "2026-09-04T11:17:05.227"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-04T13:09:08.755+05:30",
+    "checksum": "6bbb186e230d7544d37b2892b18556e5994b5e5e671fe4dbda52627ba861b4d6",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-04/awards-130907.json"
+  }
+}
