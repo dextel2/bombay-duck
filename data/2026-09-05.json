@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-09-05",
+  "buckets": {
+    "2026-09-05T11": [
+      {
+        "newsId": "0e38bbdf-7cf0-4853-aa48-8addcb6ab5fd",
+        "scripCode": 522134,
+        "shortName": "Artson Ltd",
+        "headline": "Received a purchase order from L&T - MHI Power Boilers Private Limited - details enclosed.",
+        "announcedAt": "2026-09-05T11:59:44.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/",
+        "rawTime": "2026-09-05T11:59:44.767"
+      },
+      {
+        "newsId": "e83c3e7c-be5d-4e51-b741-abde12ad584c",
+        "scripCode": 531260,
+        "shortName": "Refex Renewables & Infrastructure Ltd",
+        "headline": "Letter of award received by Refex Green Power Limited, a WOS from SJVN Limited, a joint venture of Government of India and Government of Himachal Pradesh for setting up of 80MW wind power ....",
+        "announcedAt": "2026-09-05T11:33:53.413+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-renewables--infrastructure-ltd/refexrenew/531260/",
+        "rawTime": "2026-09-05T11:33:53.413"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-05T12:46:15.803+05:30",
+    "checksum": "62a1ae265511d931fd65702a65278909cc493b8355a1d8938f987ea1220b383e",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 1,
+    "rawPayloadPath": "data/raw/2026-09-05/awards-124558.json"
+  }
+}
