@@ -22,10 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-05 16:00 | Accord Transformer & Switchgear Ltd | 544710 | Order Received from Shalimar Corp Limited for an Amount 50.40 Lakhs ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 05 Sep 2026 - 16:15 |
+| 2026-09-05 14:00 | Harish Textile Engineers Ltd | 542682 | Please find attached herewith Intimation under Regulation 30 of SEBI(LODR) Regulations, 2025. ([Link](https://www.bseindia.com/stock-share-price/harish-textile-engineers-ltd/harish/542682/)) | Neutral | 05 Sep 2026 - 14:15 |
 | 2026-09-05 11:00 | Artson Ltd | 522134 | Received a purchase order from L&T - MHI Power Boilers Private Limited - details enclosed. ([Link](https://www.bseindia.com/stock-share-price/artson-ltd/artson/522134/)) | Likely Positive | 05 Sep 2026 - 11:59 |
 | 2026-09-05 11:00 | Refex Renewables & Infrastructure Ltd | 531260 | Letter of award received by Refex Green Power Limited, a WOS from SJVN Limited, a joint venture of Government of India and Government of Himachal Pradesh for setting up of 80MW wind power .... ([Link](https://www.bseindia.com/stock-share-price/refex-renewables--infrastructure-ltd/refexrenew/531260/)) | Neutral | 05 Sep 2026 - 11:33 |
 
-_Last updated: 05 Sep 2026 - 12:46 | Entries: 2 | Requests: 1 | Retries: 1 | [Raw JSON](data/2026-09-05.json)_
+_Last updated: 05 Sep 2026 - 17:00 | Entries: 4 | Requests: 2 | Retries: 1 | [Raw JSON](data/2026-09-05.json)_
 
 <!-- snapshot:end -->
 

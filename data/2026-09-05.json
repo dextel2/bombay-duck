@@ -20,14 +20,36 @@
         "url": "https://www.bseindia.com/stock-share-price/refex-renewables--infrastructure-ltd/refexrenew/531260/",
         "rawTime": "2026-09-05T11:33:53.413"
       }
+    ],
+    "2026-09-05T16": [
+      {
+        "newsId": "4ab9f450-09f0-4037-ac21-8a29e3440b74",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Order Received from Shalimar Corp Limited for an Amount 50.40 Lakhs",
+        "announcedAt": "2026-09-05T16:15:45.937+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-09-05T16:15:45.937"
+      }
+    ],
+    "2026-09-05T14": [
+      {
+        "newsId": "ab8373bd-6b0d-4bb1-92c0-01e7b9a90784",
+        "scripCode": 542682,
+        "shortName": "Harish Textile Engineers Ltd",
+        "headline": "Please find attached herewith Intimation under Regulation 30 of SEBI(LODR) Regulations, 2025.",
+        "announcedAt": "2026-09-05T14:15:08.593+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/harish-textile-engineers-ltd/harish/542682/",
+        "rawTime": "2026-09-05T14:15:08.593"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-05T12:46:15.803+05:30",
-    "checksum": "62a1ae265511d931fd65702a65278909cc493b8355a1d8938f987ea1220b383e",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-05T17:00:56.207+05:30",
+    "checksum": "9d6ad69b8f5e55b838a075505372fec7aeb0487d4621f7f77902838b1fbcaf93",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 1,
-    "rawPayloadPath": "data/raw/2026-09-05/awards-124558.json"
+    "rawPayloadPath": "data/raw/2026-09-05/awards-170055.json"
   }
 }
