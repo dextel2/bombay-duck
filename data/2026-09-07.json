@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-09-07",
+  "buckets": {
+    "2026-09-07T12": [
+      {
+        "newsId": "30b1cbcd-fd03-43be-83bf-afe9a4362f88",
+        "scripCode": 543991,
+        "shortName": "Techknowgreen Solutions Ltd",
+        "headline": "Receipt of order from Mahindra & Mahindra Limited",
+        "announcedAt": "2026-09-07T12:04:38.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/",
+        "rawTime": "2026-09-07T12:04:38.747"
+      }
+    ],
+    "2026-09-07T09": [
+      {
+        "newsId": "99ab6a73-bea5-49af-87b6-5e0c206c9cca",
+        "scripCode": 504786,
+        "shortName": "Investment & Precision Castings Ltd",
+        "headline": "Intimation under regulation 30 of SEBI (LODR), 2015 for recepit of signifiocat irder from HAL",
+        "announcedAt": "2026-09-07T09:05:16.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/investment--precision-castings-ltd/invprecq/504786/",
+        "rawTime": "2026-09-07T09:05:16.83"
+      }
+    ],
+    "2026-09-07T08": [
+      {
+        "newsId": "d87b1278-3a00-4673-8d0a-fef299058540",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG secures repeat order from RIL to deliver state-of-the-art ETP at Jamnagar",
+        "announcedAt": "2026-09-07T08:14:49.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-09-07T08:14:49.89"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-07T13:15:35.854+05:30",
+    "checksum": "54674149069191e418a7abf13b81bf5caf0040105fe5ac21ba9ba065bb088386",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 2,
+    "rawPayloadPath": "data/raw/2026-09-07/awards-131459.json"
+  }
+}
