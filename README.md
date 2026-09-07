@@ -22,11 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-07 18:00 | Rajputana Stainless Ltd | 544731 | Intimation under Regulation 30. ([Link](https://www.bseindia.com/stock-share-price/rajputana-stainless-ltd/rsl/544731/)) | Neutral | 07 Sep 2026 - 18:12 |
+| 2026-09-07 17:00 | GE Vernova T&D India Ltd | 522275 | Intimation of Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/ge-vernova-td-india-ltd/gvtd/522275/)) | Likely Positive | 07 Sep 2026 - 17:44 |
+| 2026-09-07 17:00 | Container Corporation of India Ltd | 531344 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/)) | Likely Positive | 07 Sep 2026 - 17:41 |
+| 2026-09-07 14:00 | Radaan Mediaworks India Ltd | 590070 | Intimation under Reg 30 of LODR - Receipt of favourable Order from CENSTAT, Chennai ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 07 Sep 2026 - 14:46 |
+| 2026-09-07 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Order Received for an Amount 1.92 Crores ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 07 Sep 2026 - 13:22 |
 | 2026-09-07 12:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of order from Mahindra & Mahindra Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 07 Sep 2026 - 12:04 |
 | 2026-09-07 09:00 | Investment & Precision Castings Ltd | 504786 | Intimation under regulation 30 of SEBI (LODR), 2015 for recepit of signifiocat irder from HAL ([Link](https://www.bseindia.com/stock-share-price/investment--precision-castings-ltd/invprecq/504786/)) | Neutral | 07 Sep 2026 - 09:05 |
 | 2026-09-07 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures repeat order from RIL to deliver state-of-the-art ETP at Jamnagar ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 07 Sep 2026 - 08:14 |
 
-_Last updated: 07 Sep 2026 - 13:15 | Entries: 3 | Requests: 1 | Retries: 2 | [Raw JSON](data/2026-09-07.json)_
+_Last updated: 07 Sep 2026 - 19:20 | Entries: 8 | Requests: 2 | Retries: 2 | [Raw JSON](data/2026-09-07.json)_
 
 <!-- snapshot:end -->
 

@@ -33,14 +33,67 @@
         "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
         "rawTime": "2026-09-07T08:14:49.89"
       }
+    ],
+    "2026-09-07T18": [
+      {
+        "newsId": "8c363919-4363-42b5-9c6d-7d12f9806d24",
+        "scripCode": 544731,
+        "shortName": "Rajputana Stainless Ltd",
+        "headline": "Intimation under Regulation 30.",
+        "announcedAt": "2026-09-07T18:12:06.667+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajputana-stainless-ltd/rsl/544731/",
+        "rawTime": "2026-09-07T18:12:06.667"
+      }
+    ],
+    "2026-09-07T17": [
+      {
+        "newsId": "51dbd9f0-30fc-4c61-8023-a6004fdf71fa",
+        "scripCode": 522275,
+        "shortName": "GE Vernova T&D India Ltd",
+        "headline": "Intimation of Receipt of Order",
+        "announcedAt": "2026-09-07T17:44:00.783+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ge-vernova-td-india-ltd/gvtd/522275/",
+        "rawTime": "2026-09-07T17:44:00.783"
+      },
+      {
+        "newsId": "d16ef200-8a1b-472f-8468-c83cf28feaee",
+        "scripCode": 531344,
+        "shortName": "Container Corporation of India Ltd",
+        "headline": "Award of Order",
+        "announcedAt": "2026-09-07T17:41:51.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/",
+        "rawTime": "2026-09-07T17:41:51.48"
+      }
+    ],
+    "2026-09-07T14": [
+      {
+        "newsId": "a9b9effd-0276-4351-b407-bdb0bdffef0a",
+        "scripCode": 590070,
+        "shortName": "Radaan Mediaworks India Ltd",
+        "headline": "Intimation under Reg 30 of LODR - Receipt of favourable Order from CENSTAT, Chennai",
+        "announcedAt": "2026-09-07T14:46:19.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/",
+        "rawTime": "2026-09-07T14:46:19.373"
+      }
+    ],
+    "2026-09-07T13": [
+      {
+        "newsId": "7a135342-4cce-4778-9c88-30537fc5e53d",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Order Received for an Amount 1.92 Crores",
+        "announcedAt": "2026-09-07T13:22:37.023+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-09-07T13:22:37.023"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-07T13:15:35.854+05:30",
-    "checksum": "54674149069191e418a7abf13b81bf5caf0040105fe5ac21ba9ba065bb088386",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-07T19:20:52.568+05:30",
+    "checksum": "f31762d66477573f4e5ac5f61ba3e71a34f87237ebd22b1b48f6d48e815bac11",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 2,
-    "rawPayloadPath": "data/raw/2026-09-07/awards-131459.json"
+    "rawPayloadPath": "data/raw/2026-09-07/awards-192051.json"
   }
 }
