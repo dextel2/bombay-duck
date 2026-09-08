@@ -80,14 +80,92 @@
         "url": "https://www.bseindia.com/stock-share-price/hle-glascoat-ltd/hleglas/522215/",
         "rawTime": "2026-09-08T01:43:20.123"
       }
+    ],
+    "2026-09-08T16": [
+      {
+        "newsId": "3b1fb3b7-ace4-4d0d-be37-4198da4ad901",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase Order of Rs. 651.00 Lakhs by M/s. N. S Engineering Projects Private Limited, a subsidiary of M/s. Cosmic CRF Limited",
+        "announcedAt": "2026-09-08T16:57:26.543+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-08T16:57:26.543"
+      },
+      {
+        "newsId": "a00f0894-ac73-42db-b53e-a71b7e01dca8",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation of work order received from NHAI at NH-39 for four lane of Jhansi Khajuraho Section of Madhya Pradesh Toll on the basis of competitive bidding",
+        "announcedAt": "2026-09-08T16:56:07.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-09-08T16:56:07.66"
+      },
+      {
+        "newsId": "3b14a7c1-a9f1-47b0-9729-710ffd35d5f8",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase Order by the Company of Rs. 563.27 Lakhs.",
+        "announcedAt": "2026-09-08T16:53:17.657+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-08T16:53:17.657"
+      },
+      {
+        "newsId": "a22e31d1-c8d9-4aab-9b1a-c4706f76c181",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation of Work order received from NHAI, Six Lane of Indore Dewas section of NH-3 in the state of Madhya Pradesh on the basis of competitive bidding",
+        "announcedAt": "2026-09-08T16:36:22.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-09-08T16:36:22.19"
+      },
+      {
+        "newsId": "8c01e706-a071-4f0d-b7ad-4ff045ce44e3",
+        "scripCode": 544290,
+        "shortName": "Enviro Infra Engineers Ltd",
+        "headline": "Receipt of Order worth Rs. 189.99 Crores(excluding GST)",
+        "announcedAt": "2026-09-08T16:22:37.500+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/enviro-infra-engineers-ltd/eiel/544290/",
+        "rawTime": "2026-09-08T16:22:37.5"
+      },
+      {
+        "newsId": "1f71815d-e3fa-4665-9bb4-022f80a9866e",
+        "scripCode": 543443,
+        "shortName": "Ascensive Educare Ltd",
+        "headline": "Bagging of Order",
+        "announcedAt": "2026-09-08T16:18:22.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ascensive-educare-ltd/ascensive/543443/",
+        "rawTime": "2026-09-08T16:18:22.05"
+      }
+    ],
+    "2026-09-08T15": [
+      {
+        "newsId": "c0041b1c-7733-41f0-ae6b-134147c55b9a",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are pleased to inform you that the Company has been awarded the Letter of Award from the National Highways Auhtority of India (NHAI) at H. Pudhupatti Fee Plaza.",
+        "announcedAt": "2026-09-08T15:34:57.627+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-09-08T15:34:57.627"
+      }
+    ],
+    "2026-09-08T13": [
+      {
+        "newsId": "33796675-6073-4ff8-b3c4-33580af9e19b",
+        "scripCode": 543288,
+        "shortName": "Deep Industries Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-09-08T13:41:25.467+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/deep-industries-ltd/deepinds/543288/",
+        "rawTime": "2026-09-08T13:41:25.467"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-08T13:09:01.680+05:30",
-    "checksum": "f3e8072a5db4d10ab78d40f52f81d01f06cd20b1fe0704fabfb80a72a9fdfaba",
-    "totalAnnouncements": 8,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-08T17:58:34.648+05:30",
+    "checksum": "db60d3fa27718984748fc169cd9f38f25a0caef59ef662821bf36f87cc7fd576",
+    "totalAnnouncements": 16,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-08/awards-130901.json"
+    "rawPayloadPath": "data/raw/2026-09-08/awards-175833.json"
   }
 }
