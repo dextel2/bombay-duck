@@ -1,0 +1,93 @@
+{
+  "tradingDate": "2026-09-08",
+  "buckets": {
+    "2026-09-08T12": [
+      {
+        "newsId": "b0c7fd04-070f-4d90-9abf-3103c94c3cf4",
+        "scripCode": 526729,
+        "shortName": "Goldiam International Ltd",
+        "headline": "We are pleased to announce that the Compnay, along with its Wholly Owned subsidiaries, have received purchase orders aggregating to Rs.60 cr. for the manufacturing and export of lab-grown ....",
+        "announcedAt": "2026-09-08T12:53:37.870+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/",
+        "rawTime": "2026-09-08T12:53:37.87"
+      },
+      {
+        "newsId": "69ba7997-5b08-458b-a896-7f9f351557e0",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In accordance with the above-mentioned provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') ....",
+        "announcedAt": "2026-09-08T12:42:05.443+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-09-08T12:42:05.443"
+      },
+      {
+        "newsId": "e70defbc-7299-487d-9f03-56f0a3bde305",
+        "scripCode": 504076,
+        "shortName": "Jyoti Ltd-$",
+        "headline": "Receipt of Letter of Intent (LOI)",
+        "announcedAt": "2026-09-08T12:39:11.633+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/",
+        "rawTime": "2026-09-08T12:39:11.633"
+      }
+    ],
+    "2026-09-08T10": [
+      {
+        "newsId": "ca439f87-f126-4b00-814f-944d019ec65a",
+        "scripCode": 541402,
+        "shortName": "Affordable Robotic & Automation Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received a purchase order from its esteemed ....",
+        "announcedAt": "2026-09-08T10:27:09.153+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/",
+        "rawTime": "2026-09-08T10:27:09.153"
+      },
+      {
+        "newsId": "42fa0e07-b7c7-4f3c-9df2-18af86ecaf3c",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "As attached",
+        "announcedAt": "2026-09-08T10:11:09.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2026-09-08T10:11:09.79"
+      },
+      {
+        "newsId": "005428f5-9c27-4c7a-ac7f-99d9d52ae52a",
+        "scripCode": 540358,
+        "shortName": "RMC Switchgears Ltd",
+        "headline": "LOE worth Rs. 14,98,65,900/-",
+        "announcedAt": "2026-09-08T10:06:07.153+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+        "rawTime": "2026-09-08T10:06:07.153"
+      }
+    ],
+    "2026-09-08T08": [
+      {
+        "newsId": "d29420be-4a8d-41a5-bd2c-39e09a216c8d",
+        "scripCode": 543997,
+        "shortName": "Organic Recycling Systems Ltd",
+        "headline": "We Wish to inform you that Solapur Bioenergy Systems Private Limited (\"SBEPSL\"), a Wholly Owned Subsidiary of Organic Recycling Systems Limited (The Company), has secured Contracts from ....",
+        "announcedAt": "2026-09-08T08:35:11.280+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/",
+        "rawTime": "2026-09-08T08:35:11.28"
+      }
+    ],
+    "2026-09-08T01": [
+      {
+        "newsId": "a8bfeb56-fb71-4b2b-9177-8ecf1b75b08a",
+        "scripCode": 522215,
+        "shortName": "HLE Glascoat Ltd",
+        "headline": "HLE Glascoat Limited has informed the exchange about the receipt of order / contract.",
+        "announcedAt": "2026-09-08T01:43:20.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hle-glascoat-ltd/hleglas/522215/",
+        "rawTime": "2026-09-08T01:43:20.123"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-08T13:09:01.680+05:30",
+    "checksum": "f3e8072a5db4d10ab78d40f52f81d01f06cd20b1fe0704fabfb80a72a9fdfaba",
+    "totalAnnouncements": 8,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-08/awards-130901.json"
+  }
+}

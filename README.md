@@ -18,20 +18,20 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-07 IST)
+### Today's Awarded Orders (2026-09-08 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-07 18:00 | Rajputana Stainless Ltd | 544731 | Intimation under Regulation 30. ([Link](https://www.bseindia.com/stock-share-price/rajputana-stainless-ltd/rsl/544731/)) | Neutral | 07 Sep 2026 - 18:12 |
-| 2026-09-07 17:00 | GE Vernova T&D India Ltd | 522275 | Intimation of Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/ge-vernova-td-india-ltd/gvtd/522275/)) | Likely Positive | 07 Sep 2026 - 17:44 |
-| 2026-09-07 17:00 | Container Corporation of India Ltd | 531344 | Award of Order ([Link](https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/)) | Likely Positive | 07 Sep 2026 - 17:41 |
-| 2026-09-07 14:00 | Radaan Mediaworks India Ltd | 590070 | Intimation under Reg 30 of LODR - Receipt of favourable Order from CENSTAT, Chennai ([Link](https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/)) | Likely Positive | 07 Sep 2026 - 14:46 |
-| 2026-09-07 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Order Received for an Amount 1.92 Crores ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 07 Sep 2026 - 13:22 |
-| 2026-09-07 12:00 | Techknowgreen Solutions Ltd | 543991 | Receipt of order from Mahindra & Mahindra Limited ([Link](https://www.bseindia.com/stock-share-price/techknowgreen-solutions-ltd/techkgreen/543991/)) | Likely Positive | 07 Sep 2026 - 12:04 |
-| 2026-09-07 09:00 | Investment & Precision Castings Ltd | 504786 | Intimation under regulation 30 of SEBI (LODR), 2015 for recepit of signifiocat irder from HAL ([Link](https://www.bseindia.com/stock-share-price/investment--precision-castings-ltd/invprecq/504786/)) | Neutral | 07 Sep 2026 - 09:05 |
-| 2026-09-07 08:00 | VA Tech Wabag Ltd | 533269 | WABAG secures repeat order from RIL to deliver state-of-the-art ETP at Jamnagar ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 07 Sep 2026 - 08:14 |
+| 2026-09-08 12:00 | Goldiam International Ltd | 526729 | We are pleased to announce that the Compnay, along with its Wholly Owned subsidiaries, have received purchase orders aggregating to Rs.60 cr. for the manufacturing and export of lab-grown .... ([Link](https://www.bseindia.com/stock-share-price/goldiam-international-ltd/goldiam/526729/)) | Likely Positive | 08 Sep 2026 - 12:53 |
+| 2026-09-08 12:00 | Ceigall India Ltd | 544223 | In accordance with the above-mentioned provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 08 Sep 2026 - 12:42 |
+| 2026-09-08 12:00 | Jyoti Ltd-$ | 504076 | Receipt of Letter of Intent (LOI) ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 08 Sep 2026 - 12:39 |
+| 2026-09-08 10:00 | Affordable Robotic & Automation Ltd | 541402 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received a purchase order from its esteemed .... ([Link](https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/)) | Likely Positive | 08 Sep 2026 - 10:27 |
+| 2026-09-08 10:00 | Valiant Communications Ltd-$ | 526775 | As attached ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 08 Sep 2026 - 10:11 |
+| 2026-09-08 10:00 | RMC Switchgears Ltd | 540358 | LOE worth Rs. 14,98,65,900/- ([Link](https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/)) | Neutral | 08 Sep 2026 - 10:06 |
+| 2026-09-08 08:00 | Organic Recycling Systems Ltd | 543997 | We Wish to inform you that Solapur Bioenergy Systems Private Limited ("SBEPSL"), a Wholly Owned Subsidiary of Organic Recycling Systems Limited (The Company), has secured Contracts from .... ([Link](https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/)) | Likely Positive | 08 Sep 2026 - 08:35 |
+| 2026-09-08 01:00 | HLE Glascoat Ltd | 522215 | HLE Glascoat Limited has informed the exchange about the receipt of order / contract. ([Link](https://www.bseindia.com/stock-share-price/hle-glascoat-ltd/hleglas/522215/)) | Likely Positive | 08 Sep 2026 - 01:43 |
 
-_Last updated: 07 Sep 2026 - 19:20 | Entries: 8 | Requests: 2 | Retries: 2 | [Raw JSON](data/2026-09-07.json)_
+_Last updated: 08 Sep 2026 - 13:09 | Entries: 8 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-08.json)_
 
 <!-- snapshot:end -->
 
