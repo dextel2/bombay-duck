@@ -1,0 +1,75 @@
+{
+  "tradingDate": "2026-09-09",
+  "buckets": {
+    "2026-09-09T12": [
+      {
+        "newsId": "054624fa-8ab7-42c3-8132-5fca8d69d699",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "Intimation of Receipt of Letter of Award (LOA) from National Highways Authority of India",
+        "announcedAt": "2026-09-09T12:32:04.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-09-09T12:32:04.53"
+      }
+    ],
+    "2026-09-09T11": [
+      {
+        "newsId": "de5e0747-afa8-4b56-9918-56eee6dacf3f",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please see the attched intimation of Receipt of Order",
+        "announcedAt": "2026-09-09T11:41:44.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-09-09T11:41:44.193"
+      }
+    ],
+    "2026-09-09T10": [
+      {
+        "newsId": "2dcac9da-c3e4-4150-83d9-cddaba811bbf",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Ratnagiri ....",
+        "announcedAt": "2026-09-09T10:47:15.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-09-09T10:47:15.653"
+      },
+      {
+        "newsId": "af90dfe6-d99a-4243-a0de-32f2b4b8b7cb",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Letter of Acceptance received from Indian Oil Corporation Limited amounting to Rs. 30.29 Million",
+        "announcedAt": "2026-09-09T10:21:00.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-09-09T10:21:00.887"
+      },
+      {
+        "newsId": "902e63a8-99e6-49f5-be09-f109e5998b21",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Large* Offshore Order from ONGC",
+        "announcedAt": "2026-09-09T10:00:05.507+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-09-09T10:00:05.507"
+      }
+    ],
+    "2026-09-09T08": [
+      {
+        "newsId": "0c67e562-5c7c-44d0-a100-3c6603fdf504",
+        "scripCode": 543997,
+        "shortName": "Organic Recycling Systems Ltd",
+        "headline": "We wish to inform you that Solapur Bioenergy Systems Private Limited (SBESPL), A wholly owned subsidary of Organic Recycling Systems Limited (the Company) , has secured APCOM contract from ....",
+        "announcedAt": "2026-09-09T08:40:28.903+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/",
+        "rawTime": "2026-09-09T08:40:28.903"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-09T13:13:54.842+05:30",
+    "checksum": "fad886c3301440ad6ea48fa2418a580d31abfd817fe725cdaf39146631f85f19",
+    "totalAnnouncements": 6,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-09/awards-131354.json"
+  }
+}
