@@ -22,6 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-09 17:00 | Schneider Electric Infrastructure Ltd | 534139 | Please find enclosed receipt of order from GST authorities. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/)) | Likely Positive | 09 Sep 2026 - 17:24 |
+| 2026-09-09 17:00 | Sandur Manganese & Iron Ores Ltd | 504918 | Receipt of penalty order by Royal Sandur Metals Private Limited (formerly Arjas Steel Private Limited), Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/sandur-manganese--iron-ores-ltd/sanduma/504918/)) | Likely Positive | 09 Sep 2026 - 17:24 |
+| 2026-09-09 17:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Limited for 10,000 Off-Grid Solar Photovoltaic Water Pumping Systems .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 09 Sep 2026 - 17:23 |
+| 2026-09-09 16:00 | Veerhealth Care Ltd | 511523 | The Company wishes to inform that it has entered into supply agreement with a Company having an Indo- Canadian joint venture who is one of the world''s largest manufacturers of luxury .... ([Link](https://www.bseindia.com/stock-share-price/veerhealth-care-ltd/veerhealth/511523/)) | Neutral | 09 Sep 2026 - 16:33 |
+| 2026-09-09 14:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed intimation of contract win of Rs. 114.82 Crore by Alcon Builders and Engineers Private Limited, a wholly owned subsidiary of the Company. ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 09 Sep 2026 - 14:41 |
+| 2026-09-09 14:00 | Adani Ports and Special Economic Zone Ltd | 532921 | Receipt of Letter of Award (LOA) for development and operations of two dry buik berths at Paradip Port, Odisha ([Link](https://www.bseindia.com/stock-share-price/adani-ports-and-special-economic-zone-ltd/adaniports/532921/)) | Likely Positive | 09 Sep 2026 - 14:12 |
 | 2026-09-09 12:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Award (LOA) from National Highways Authority of India ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 09 Sep 2026 - 12:32 |
 | 2026-09-09 11:00 | Power Mech Projects Ltd | 539302 | Please see the attched intimation of Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Likely Positive | 09 Sep 2026 - 11:41 |
 | 2026-09-09 10:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from Ratnagiri .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 09 Sep 2026 - 10:47 |
@@ -29,7 +35,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-09-09 10:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Large* Offshore Order from ONGC ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 09 Sep 2026 - 10:00 |
 | 2026-09-09 08:00 | Organic Recycling Systems Ltd | 543997 | We wish to inform you that Solapur Bioenergy Systems Private Limited (SBESPL), A wholly owned subsidary of Organic Recycling Systems Limited (the Company) , has secured APCOM contract from .... ([Link](https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/)) | Likely Positive | 09 Sep 2026 - 08:40 |
 
-_Last updated: 09 Sep 2026 - 13:13 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-09.json)_
+_Last updated: 09 Sep 2026 - 18:06 | Entries: 12 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-09.json)_
 
 <!-- snapshot:end -->
 

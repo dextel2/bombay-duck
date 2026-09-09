@@ -62,14 +62,74 @@
         "url": "https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/",
         "rawTime": "2026-09-09T08:40:28.903"
       }
+    ],
+    "2026-09-09T17": [
+      {
+        "newsId": "03283637-8b39-4f4a-8188-d09420f1e657",
+        "scripCode": 534139,
+        "shortName": "Schneider Electric Infrastructure Ltd",
+        "headline": "Please find enclosed receipt of order from GST authorities.",
+        "announcedAt": "2026-09-09T17:24:47.457+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/",
+        "rawTime": "2026-09-09T17:24:47.457"
+      },
+      {
+        "newsId": "19644e2b-c070-43f6-b896-8ef30b93bf14",
+        "scripCode": 504918,
+        "shortName": "Sandur Manganese & Iron Ores Ltd",
+        "headline": "Receipt of penalty order by Royal Sandur Metals Private Limited (formerly Arjas Steel Private Limited), Material Subsidiary of the Company",
+        "announcedAt": "2026-09-09T17:24:14.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sandur-manganese--iron-ores-ltd/sanduma/504918/",
+        "rawTime": "2026-09-09T17:24:14.673"
+      },
+      {
+        "newsId": "a0ae64b1-f836-451f-848b-900bb34e4164",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We are glad to inform that Company has received Letter of Empanelment from Maharashtra State Electricity Distribution Limited for 10,000 Off-Grid Solar Photovoltaic Water Pumping Systems ....",
+        "announcedAt": "2026-09-09T17:23:42.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-09-09T17:23:42.13"
+      }
+    ],
+    "2026-09-09T16": [
+      {
+        "newsId": "f6811fc6-b2f3-4710-92e4-1c1aadf666da",
+        "scripCode": 511523,
+        "shortName": "Veerhealth Care Ltd",
+        "headline": "The Company wishes to inform that it has entered into supply agreement with a Company having an Indo- Canadian joint venture who is one of the world''s largest manufacturers of luxury ....",
+        "announcedAt": "2026-09-09T16:33:05.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/veerhealth-care-ltd/veerhealth/511523/",
+        "rawTime": "2026-09-09T16:33:05.987"
+      }
+    ],
+    "2026-09-09T14": [
+      {
+        "newsId": "857436a3-c75a-4669-90e8-dd1653298d67",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed intimation of contract win of Rs. 114.82 Crore by Alcon Builders and Engineers Private Limited, a wholly owned subsidiary of the Company.",
+        "announcedAt": "2026-09-09T14:41:00.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-09-09T14:41:00.42"
+      },
+      {
+        "newsId": "1e1d7340-b3ae-43f2-abac-82cde0f2ff6e",
+        "scripCode": 532921,
+        "shortName": "Adani Ports and Special Economic Zone Ltd",
+        "headline": "Receipt of Letter of Award (LOA) for development and operations of two dry buik berths at Paradip Port, Odisha",
+        "announcedAt": "2026-09-09T14:12:10.407+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/adani-ports-and-special-economic-zone-ltd/adaniports/532921/",
+        "rawTime": "2026-09-09T14:12:10.407"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-09T13:13:54.842+05:30",
-    "checksum": "fad886c3301440ad6ea48fa2418a580d31abfd817fe725cdaf39146631f85f19",
-    "totalAnnouncements": 6,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-09T18:06:26.586+05:30",
+    "checksum": "881006405906cacaf871b3c3192d8bee3e9b486c95148486b3aa7ea0691f05af",
+    "totalAnnouncements": 12,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-09/awards-131354.json"
+    "rawPayloadPath": "data/raw/2026-09-09/awards-180625.json"
   }
 }
