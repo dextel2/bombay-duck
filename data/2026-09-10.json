@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-09-10",
+  "buckets": {
+    "2026-09-10T12": [
+      {
+        "newsId": "80f06b54-6145-4ae7-8b4d-f4c81484e9b6",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for receipt of Letter of Award from Rite Water Solutions (India) Limited",
+        "announcedAt": "2026-09-10T12:38:19.500+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
+        "rawTime": "2026-09-10T12:38:19.5"
+      },
+      {
+        "newsId": "b087f881-6764-4efd-a53e-6ef0b8c9cf48",
+        "scripCode": 544335,
+        "shortName": "B.R.Goyal Infrastructure Ltd",
+        "headline": "Receipt of Letter of Award from NHAI for Khambara Fee Plaza.",
+        "announcedAt": "2026-09-10T12:09:42.460+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/",
+        "rawTime": "2026-09-10T12:09:42.46"
+      }
+    ],
+    "2026-09-10T11": [
+      {
+        "newsId": "590d5663-8999-4b1d-a314-34662b0f1f9c",
+        "scripCode": 541402,
+        "shortName": "Affordable Robotic & Automation Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 we hereby inform you that the company has received a purchase order from its esteement ....",
+        "announcedAt": "2026-09-10T11:14:58.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/",
+        "rawTime": "2026-09-10T11:14:58.747"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-10T13:13:30.878+05:30",
+    "checksum": "03d648c7fc34287e37b67acd8dfab9c19912503314719fc2b2ba53a856e01b56",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-10/awards-131330.json"
+  }
+}
