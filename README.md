@@ -22,11 +22,18 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-10 17:00 | Reliance Communications Ltd | 532712 | Disclosure under Regulation 30 of SEBI (LODR) Order passed by the Hon''ble Supreme Court of India in Review Petition Diary no 15076 of 2026 in Civil Appeal no 4570 of 2021 and in Review .... ([Link](https://www.bseindia.com/stock-share-price/reliance-communications-ltd/rcom/532712/)) | Likely Positive | 10 Sep 2026 - 17:16 |
+| 2026-09-10 16:00 | Texmaco Rail & Engineering Ltd | 533326 | Intimation of receipt of Order worth Rs. 27.82 Crores (incl. taxes) from Hindalco Industries Limited ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 10 Sep 2026 - 16:38 |
+| 2026-09-10 16:00 | United Drilling Tools Ltd | 522014 | Receipt of Order from Agentera Engenharia ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 10 Sep 2026 - 16:29 |
+| 2026-09-10 14:00 | Dev Information Technology Ltd | 543462 | Intimation Regarding Work Order Received ([Link](https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/)) | Likely Positive | 10 Sep 2026 - 14:12 |
+| 2026-09-10 13:00 | Man Industries (India) Ltd-$ | 513269 | As per the attachment. ([Link](https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/)) | Neutral | 10 Sep 2026 - 13:53 |
+| 2026-09-10 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of LOI. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 10 Sep 2026 - 13:51 |
+| 2026-09-10 13:00 | Valiant Communications Ltd-$ | 526775 | Receipt of Purchase Order of INR 1,388 Lacs. ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Likely Positive | 10 Sep 2026 - 13:39 |
 | 2026-09-10 12:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Letter of Award from Rite Water Solutions (India) Limited ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/)) | Likely Positive | 10 Sep 2026 - 12:38 |
 | 2026-09-10 12:00 | B.R.Goyal Infrastructure Ltd | 544335 | Receipt of Letter of Award from NHAI for Khambara Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/brgoyal-infrastructure-ltd/brgil/544335/)) | Likely Positive | 10 Sep 2026 - 12:09 |
 | 2026-09-10 11:00 | Affordable Robotic & Automation Ltd | 541402 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 we hereby inform you that the company has received a purchase order from its esteement .... ([Link](https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/)) | Likely Positive | 10 Sep 2026 - 11:14 |
 
-_Last updated: 10 Sep 2026 - 13:13 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-10.json)_
+_Last updated: 10 Sep 2026 - 18:04 | Entries: 10 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-10.json)_
 
 <!-- snapshot:end -->
 

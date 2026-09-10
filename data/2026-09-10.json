@@ -31,14 +31,85 @@
         "url": "https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/",
         "rawTime": "2026-09-10T11:14:58.747"
       }
+    ],
+    "2026-09-10T17": [
+      {
+        "newsId": "633cf516-a12f-4986-b540-59a9a93eccb0",
+        "scripCode": 532712,
+        "shortName": "Reliance Communications Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Order passed by the Hon''ble Supreme Court of India in Review Petition Diary no 15076 of 2026 in Civil Appeal no 4570 of 2021 and in Review ....",
+        "announcedAt": "2026-09-10T17:16:50.350+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/reliance-communications-ltd/rcom/532712/",
+        "rawTime": "2026-09-10T17:16:50.35"
+      }
+    ],
+    "2026-09-10T16": [
+      {
+        "newsId": "64876316-0d1e-4129-8cfd-ec2c98cc41b5",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of receipt of Order worth Rs. 27.82 Crores (incl. taxes) from Hindalco Industries Limited",
+        "announcedAt": "2026-09-10T16:38:40.410+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-09-10T16:38:40.41"
+      },
+      {
+        "newsId": "29c78121-0eb7-4be5-994e-ff25129d00b2",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Receipt of Order from Agentera Engenharia",
+        "announcedAt": "2026-09-10T16:29:20.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-09-10T16:29:20.81"
+      }
+    ],
+    "2026-09-10T14": [
+      {
+        "newsId": "74fb8eee-fc38-4603-b68f-6aa58e08ca0d",
+        "scripCode": 543462,
+        "shortName": "Dev Information Technology Ltd",
+        "headline": "Intimation Regarding Work Order Received",
+        "announcedAt": "2026-09-10T14:12:30.460+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dev-information-technology-ltd/devit/543462/",
+        "rawTime": "2026-09-10T14:12:30.46"
+      }
+    ],
+    "2026-09-10T13": [
+      {
+        "newsId": "342e54d7-1a0c-4380-94a7-f8fe68bcbd50",
+        "scripCode": 513269,
+        "shortName": "Man Industries (India) Ltd-$",
+        "headline": "As per the attachment.",
+        "announcedAt": "2026-09-10T13:53:52.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/man-industries-(india)-ltd/maninds/513269/",
+        "rawTime": "2026-09-10T13:53:52.27"
+      },
+      {
+        "newsId": "a90260e8-5210-454b-98c6-a3131516bd15",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of LOI.",
+        "announcedAt": "2026-09-10T13:51:08.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-09-10T13:51:08.92"
+      },
+      {
+        "newsId": "9f8742eb-2c29-43ce-a7f2-48b3f4a85386",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "Receipt of Purchase Order of INR 1,388 Lacs.",
+        "announcedAt": "2026-09-10T13:39:47.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2026-09-10T13:39:47.72"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-10T13:13:30.878+05:30",
-    "checksum": "03d648c7fc34287e37b67acd8dfab9c19912503314719fc2b2ba53a856e01b56",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-10T18:04:10.184+05:30",
+    "checksum": "f351361405db195895fdd7d8ed89aac1d271b86808162e52781fbef437d418fa",
+    "totalAnnouncements": 10,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-10/awards-131330.json"
+    "rawPayloadPath": "data/raw/2026-09-10/awards-180409.json"
   }
 }
