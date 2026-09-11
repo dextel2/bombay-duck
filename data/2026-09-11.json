@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
         "rawTime": "2026-09-11T12:09:09.363"
       }
+    ],
+    "2026-09-11T13": [
+      {
+        "newsId": "8265eeb7-d46c-4095-8d14-5dc9dd95956b",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "The Company has secured a new work order from Municipal corporation Ludhiana, Government of Punjab for Digitization of official records of Municipal corporation Ludhiana, Order Value - ....",
+        "announcedAt": "2026-09-11T13:43:35.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-09-11T13:43:35.86"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-11T13:08:42.284+05:30",
-    "checksum": "46d9fb9c9f05dc546211b60bb2eb1947f603577581b70bd3d738172b98fcca2d",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-11T17:58:50.199+05:30",
+    "checksum": "f9931dd9baa2cbc02ae0c59ee42ffc16effb89a4ab2ecdb2ab68a22a95cece6a",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-11/awards-130841.json"
+    "rawPayloadPath": "data/raw/2026-09-11/awards-175849.json"
   }
 }

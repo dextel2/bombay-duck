@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-11 13:00 | Atishay Ltd | 538713 | The Company has secured a new work order from Municipal corporation Ludhiana, Government of Punjab for Digitization of official records of Municipal corporation Ludhiana, Order Value - .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 11 Sep 2026 - 13:43 |
 | 2026-09-11 12:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of award ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 11 Sep 2026 - 12:09 |
 
-_Last updated: 11 Sep 2026 - 13:08 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-11.json)_
+_Last updated: 11 Sep 2026 - 17:58 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-11.json)_
 
 <!-- snapshot:end -->
 
