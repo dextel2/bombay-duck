@@ -25,7 +25,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-09-12 11:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed herewith intimation regarding contract win of Rs. 85.53 Crore by Alcon Builders and Engineers Private Limited, a wholly owned subsidiary of the Company. ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 12 Sep 2026 - 11:02 |
 | 2026-09-12 09:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 12 Sep 2026 - 09:40 |
 
-_Last updated: 12 Sep 2026 - 13:01 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-12.json)_
+_Last updated: 12 Sep 2026 - 17:21 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-12.json)_
 
 <!-- snapshot:end -->
 
