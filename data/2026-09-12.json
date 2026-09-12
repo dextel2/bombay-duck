@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-09-12",
+  "buckets": {
+    "2026-09-12T11": [
+      {
+        "newsId": "c790ded5-adc7-459c-b260-3d16925d2e75",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed herewith intimation regarding contract win of Rs. 85.53 Crore by Alcon Builders and Engineers Private Limited, a wholly owned subsidiary of the Company.",
+        "announcedAt": "2026-09-12T11:02:19.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-09-12T11:02:19.037"
+      }
+    ],
+    "2026-09-12T09": [
+      {
+        "newsId": "187df683-761f-45f1-9b68-5ca390e43885",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-09-12T09:40:02.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-09-12T09:40:02.933"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-12T13:01:52.566+05:30",
+    "checksum": "04b4c52052d69095d63ff357c25cef6727bea7984b65a4c361ee98d307175cc4",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-12/awards-130152.json"
+  }
+}
