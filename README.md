@@ -20,9 +20,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-09-13 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-09-13 15:00 | Patels Airtemp India Ltd | 517417 | Order of USD 23663860 (Approximate Rs. 226 Crores) received by the Company in the Normal Course of Business ([Link](https://www.bseindia.com/stock-share-price/patels-airtemp-india-ltd/patelsai/517417/)) | Likely Positive | 13 Sep 2026 - 15:19 |
 
-_Last updated: 13 Sep 2026 - 13:22 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-13.json)_
+_Last updated: 13 Sep 2026 - 18:31 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-13.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-09-13",
-  "buckets": {},
+  "buckets": {
+    "2026-09-13T15": [
+      {
+        "newsId": "d603b21d-b3c0-4a68-8972-7c95f9b46ac7",
+        "scripCode": 517417,
+        "shortName": "Patels Airtemp India Ltd",
+        "headline": "Order of USD 23663860 (Approximate Rs. 226 Crores) received by the Company in the Normal Course of Business",
+        "announcedAt": "2026-09-13T15:19:23.297+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/patels-airtemp-india-ltd/patelsai/517417/",
+        "rawTime": "2026-09-13T15:19:23.297"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-09-13T13:22:30.487+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-13T18:31:04.119+05:30",
+    "checksum": "0e41367e34af8c0c461c9389fb5efd1047a775e6187cfc7f82531446b5ea1b09",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-13/awards-132230.json"
+    "rawPayloadPath": "data/raw/2026-09-13/awards-183103.json"
   }
 }
