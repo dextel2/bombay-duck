@@ -18,13 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-13 IST)
+### Today's Awarded Orders (2026-09-14 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-13 15:00 | Patels Airtemp India Ltd | 517417 | Order of USD 23663860 (Approximate Rs. 226 Crores) received by the Company in the Normal Course of Business ([Link](https://www.bseindia.com/stock-share-price/patels-airtemp-india-ltd/patelsai/517417/)) | Likely Positive | 13 Sep 2026 - 15:19 |
+| 2026-09-14 09:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,303 Crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 14 Sep 2026 - 09:16 |
 
-_Last updated: 13 Sep 2026 - 18:31 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-13.json)_
+_Last updated: 14 Sep 2026 - 13:54 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-14.json)_
 
 <!-- snapshot:end -->
 
