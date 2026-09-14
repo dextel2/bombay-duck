@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
         "rawTime": "2026-09-14T09:16:41.653"
       }
+    ],
+    "2026-09-14T14": [
+      {
+        "newsId": "8eb5bc04-80ec-47bc-b9b5-be7c809843ee",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our company has bagged a new contract from Indian Navy, Department of Military Affairs, Ministry of Defence of worth Rs. 8305153.87. For further details, kindly ....",
+        "announcedAt": "2026-09-14T14:53:32.067+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-09-14T14:53:32.067"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-14T13:54:53.898+05:30",
-    "checksum": "0f26410e541a1eb6f5dc5a1489e6929be579c076d765b6939c9b43f92a56a67a",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-14T21:02:01.229+05:30",
+    "checksum": "bb47cfbd54f1dd7c66a09bcbe3c92eba7c5e2ea97ce730b6c8df2c65decf7a7f",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-14/awards-135453.json"
+    "rawPayloadPath": "data/raw/2026-09-14/awards-210200.json"
   }
 }

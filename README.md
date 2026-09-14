@@ -22,9 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-14 14:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged a new contract from Indian Navy, Department of Military Affairs, Ministry of Defence of worth Rs. 8305153.87. For further details, kindly .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Sep 2026 - 14:53 |
 | 2026-09-14 09:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,303 Crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 14 Sep 2026 - 09:16 |
 
-_Last updated: 14 Sep 2026 - 13:54 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-14.json)_
+_Last updated: 14 Sep 2026 - 21:02 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-14.json)_
 
 <!-- snapshot:end -->
 
