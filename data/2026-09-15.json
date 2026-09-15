@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-09-15",
+  "buckets": {
+    "2026-09-15T13": [
+      {
+        "newsId": "bbfaf4e6-4d5b-4d20-ab22-a21ad316c929",
+        "scripCode": 542579,
+        "shortName": "Ashapuri Gold Ornament Ltd",
+        "headline": "The Details of Order Recived by the Company are enclosed.",
+        "announcedAt": "2026-09-15T13:22:52.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashapuri-gold-ornament-ltd/agol/542579/",
+        "rawTime": "2026-09-15T13:22:52.373"
+      }
+    ],
+    "2026-09-15T11": [
+      {
+        "newsId": "361f1d37-9be2-4889-b142-c09f888a1543",
+        "scripCode": 544524,
+        "shortName": "JD Cables Ltd",
+        "headline": "BSE Intimation pursuant to Regulation 30 of SEBI LODR Regulations 2015, regarding the award/ receipt of order of approx. 12 crores (including GST)",
+        "announcedAt": "2026-09-15T11:18:26.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/",
+        "rawTime": "2026-09-15T11:18:26.63"
+      }
+    ],
+    "2026-09-15T10": [
+      {
+        "newsId": "2f7449ae-c769-4d51-9d74-75807f2af55e",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Receipt of Letter of Award from Adani Electricity Mumbai Limited for supply of speciallised cables",
+        "announcedAt": "2026-09-15T10:59:17.740+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-09-15T10:59:17.74"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-15T13:45:38.337+05:30",
+    "checksum": "d75b2d4517890df5d4b4cf945c82efa455c3f680df37c1060b549ff58c730750",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-15/awards-134537.json"
+  }
+}

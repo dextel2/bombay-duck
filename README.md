@@ -18,14 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-14 IST)
+### Today's Awarded Orders (2026-09-15 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-14 14:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our company has bagged a new contract from Indian Navy, Department of Military Affairs, Ministry of Defence of worth Rs. 8305153.87. For further details, kindly .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 14 Sep 2026 - 14:53 |
-| 2026-09-14 09:00 | KEC International Ltd | 532714 | We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,303 Crores secured by the Company. All the orders mentioned in the enclosed press release have .... ([Link](https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/)) | Likely Positive | 14 Sep 2026 - 09:16 |
+| 2026-09-15 13:00 | Ashapuri Gold Ornament Ltd | 542579 | The Details of Order Recived by the Company are enclosed. ([Link](https://www.bseindia.com/stock-share-price/ashapuri-gold-ornament-ltd/agol/542579/)) | Likely Positive | 15 Sep 2026 - 13:22 |
+| 2026-09-15 11:00 | JD Cables Ltd | 544524 | BSE Intimation pursuant to Regulation 30 of SEBI LODR Regulations 2015, regarding the award/ receipt of order of approx. 12 crores (including GST) ([Link](https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/)) | Likely Positive | 15 Sep 2026 - 11:18 |
+| 2026-09-15 10:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Receipt of Letter of Award from Adani Electricity Mumbai Limited for supply of speciallised cables ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 15 Sep 2026 - 10:59 |
 
-_Last updated: 14 Sep 2026 - 21:02 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-14.json)_
+_Last updated: 15 Sep 2026 - 13:45 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-15.json)_
 
 <!-- snapshot:end -->
 
