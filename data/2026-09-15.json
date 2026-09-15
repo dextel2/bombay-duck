@@ -3,6 +3,15 @@
   "buckets": {
     "2026-09-15T13": [
       {
+        "newsId": "b6e53d5a-cd6b-436f-acc1-be72a63a3a7c",
+        "scripCode": 590041,
+        "shortName": "Kavveri Defence & Wireless Technologies Ltd-$",
+        "headline": "Business Update-Update on Order Execution.",
+        "announcedAt": "2026-09-15T13:50:02.737+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kavveri-defence--wireless-technologies-ltd/kavdefence/590041/",
+        "rawTime": "2026-09-15T13:50:02.737"
+      },
+      {
         "newsId": "bbfaf4e6-4d5b-4d20-ab22-a21ad316c929",
         "scripCode": 542579,
         "shortName": "Ashapuri Gold Ornament Ltd",
@@ -33,14 +42,36 @@
         "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
         "rawTime": "2026-09-15T10:59:17.74"
       }
+    ],
+    "2026-09-15T17": [
+      {
+        "newsId": "4fab137c-e922-4a21-bd83-1f16ec8e1ecd",
+        "scripCode": 544526,
+        "shortName": "Saatvik Green Energy Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-09-15T17:31:03.500+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/",
+        "rawTime": "2026-09-15T17:31:03.5"
+      }
+    ],
+    "2026-09-15T16": [
+      {
+        "newsId": "baf4b86c-7b10-4629-93e4-a2df568d0377",
+        "scripCode": 538521,
+        "shortName": "Yaan Enterprises Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015 for material events regarding Receipt of Purchase Order for supply of yellow maize approx. value Rs. 15.86 Crores",
+        "announcedAt": "2026-09-15T16:25:16.170+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/yaan-enterprises-ltd/yaanent/538521/",
+        "rawTime": "2026-09-15T16:25:16.17"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-15T13:45:38.337+05:30",
-    "checksum": "d75b2d4517890df5d4b4cf945c82efa455c3f680df37c1060b549ff58c730750",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-15T19:33:38.386+05:30",
+    "checksum": "c61f823bd200c05b8507d4c1e38a4040b16ff2a45691ea4028d1d5527084b3e2",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-15/awards-134537.json"
+    "rawPayloadPath": "data/raw/2026-09-15/awards-193337.json"
   }
 }

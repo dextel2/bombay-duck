@@ -22,11 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-15 17:00 | Saatvik Green Energy Ltd | 544526 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/saatvik-green-energy-ltd/saatvikgl/544526/)) | Likely Positive | 15 Sep 2026 - 17:31 |
+| 2026-09-15 16:00 | Yaan Enterprises Ltd | 538521 | Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015 for material events regarding Receipt of Purchase Order for supply of yellow maize approx. value Rs. 15.86 Crores ([Link](https://www.bseindia.com/stock-share-price/yaan-enterprises-ltd/yaanent/538521/)) | Likely Positive | 15 Sep 2026 - 16:25 |
+| 2026-09-15 13:00 | Kavveri Defence & Wireless Technologies Ltd-$ | 590041 | Business Update-Update on Order Execution. ([Link](https://www.bseindia.com/stock-share-price/kavveri-defence--wireless-technologies-ltd/kavdefence/590041/)) | Likely Positive | 15 Sep 2026 - 13:50 |
 | 2026-09-15 13:00 | Ashapuri Gold Ornament Ltd | 542579 | The Details of Order Recived by the Company are enclosed. ([Link](https://www.bseindia.com/stock-share-price/ashapuri-gold-ornament-ltd/agol/542579/)) | Likely Positive | 15 Sep 2026 - 13:22 |
 | 2026-09-15 11:00 | JD Cables Ltd | 544524 | BSE Intimation pursuant to Regulation 30 of SEBI LODR Regulations 2015, regarding the award/ receipt of order of approx. 12 crores (including GST) ([Link](https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/)) | Likely Positive | 15 Sep 2026 - 11:18 |
 | 2026-09-15 10:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Receipt of Letter of Award from Adani Electricity Mumbai Limited for supply of speciallised cables ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 15 Sep 2026 - 10:59 |
 
-_Last updated: 15 Sep 2026 - 13:45 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-15.json)_
+_Last updated: 15 Sep 2026 - 19:33 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-15.json)_
 
 <!-- snapshot:end -->
 
