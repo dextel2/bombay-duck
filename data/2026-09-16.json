@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-09-16",
+  "buckets": {
+    "2026-09-16T11": [
+      {
+        "newsId": "f83be370-a059-420a-a0f8-aef24365f964",
+        "scripCode": 544543,
+        "shortName": "BMW Ventures Ltd",
+        "headline": "The Company has received an order from Adani",
+        "announcedAt": "2026-09-16T11:50:44.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/",
+        "rawTime": "2026-09-16T11:50:44.883"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-16T13:39:26.665+05:30",
+    "checksum": "e71b4f6391d44d427a9e78c4c3fdc5d69dd68ce6e1ed5279f5d871f8e3d7b354",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-16/awards-133926.json"
+  }
+}
