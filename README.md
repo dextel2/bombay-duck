@@ -22,9 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-16 19:00 | Praveg Ltd | 531637 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Acceptance (LoA) .... ([Link](https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/)) | Neutral | 16 Sep 2026 - 19:08 |
+| 2026-09-16 17:00 | Highway Infrastructure Ltd | 544477 | Company received a Letter of award for Gorakhpur Link Expressway amounting of Rs. 220 Cr for collection of user fees and operation of Toll Plazas along with deployment of 04 number of .... ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 16 Sep 2026 - 17:50 |
+| 2026-09-16 17:00 | Digilogic Systems Ltd | 544684 | The Company has received an order from Ministry of Defence, Government of India, worth of Rs. 2.40 Crores (Incl. of all taxes) ([Link](https://www.bseindia.com/stock-share-price/digilogic-systems-ltd/digilogic/544684/)) | Likely Positive | 16 Sep 2026 - 17:34 |
 | 2026-09-16 11:00 | BMW Ventures Ltd | 544543 | The Company has received an order from Adani ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 16 Sep 2026 - 11:50 |
 
-_Last updated: 16 Sep 2026 - 13:39 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-16.json)_
+_Last updated: 16 Sep 2026 - 19:26 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-16.json)_
 
 <!-- snapshot:end -->
 
