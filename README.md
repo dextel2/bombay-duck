@@ -18,16 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-16 IST)
+### Today's Awarded Orders (2026-09-17 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-16 19:00 | Praveg Ltd | 531637 | Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company has received a Letter of Acceptance (LoA) .... ([Link](https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/)) | Neutral | 16 Sep 2026 - 19:08 |
-| 2026-09-16 17:00 | Highway Infrastructure Ltd | 544477 | Company received a Letter of award for Gorakhpur Link Expressway amounting of Rs. 220 Cr for collection of user fees and operation of Toll Plazas along with deployment of 04 number of .... ([Link](https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/)) | Neutral | 16 Sep 2026 - 17:50 |
-| 2026-09-16 17:00 | Digilogic Systems Ltd | 544684 | The Company has received an order from Ministry of Defence, Government of India, worth of Rs. 2.40 Crores (Incl. of all taxes) ([Link](https://www.bseindia.com/stock-share-price/digilogic-systems-ltd/digilogic/544684/)) | Likely Positive | 16 Sep 2026 - 17:34 |
-| 2026-09-16 11:00 | BMW Ventures Ltd | 544543 | The Company has received an order from Adani ([Link](https://www.bseindia.com/stock-share-price/bmw-ventures-ltd/bmwventltd/544543/)) | Likely Positive | 16 Sep 2026 - 11:50 |
+| 2026-09-17 13:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Orders from T Second Inc. USA ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/)) | Likely Positive | 17 Sep 2026 - 13:34 |
+| 2026-09-17 13:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Receipt of order worth of Rs. 263.25 Crore ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 17 Sep 2026 - 13:02 |
+| 2026-09-17 12:00 | Affordable Robotic & Automation Ltd | 541402 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 we hereby inform you that the company has received a purchase order form its esteemed .... ([Link](https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/)) | Likely Positive | 17 Sep 2026 - 12:46 |
+| 2026-09-17 12:00 | Desco Infratech Ltd | 544387 | Letter of Intent received from Sabarmati Gas Limited amounting to Rs. 5.86 Million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Neutral | 17 Sep 2026 - 12:03 |
+| 2026-09-17 05:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 17 Sep 2026 - 05:57 |
 
-_Last updated: 16 Sep 2026 - 19:26 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-16.json)_
+_Last updated: 17 Sep 2026 - 13:46 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-17.json)_
 
 <!-- snapshot:end -->
 

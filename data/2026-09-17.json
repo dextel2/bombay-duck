@@ -1,0 +1,64 @@
+{
+  "tradingDate": "2026-09-17",
+  "buckets": {
+    "2026-09-17T13": [
+      {
+        "newsId": "5ee513c4-aca8-49fa-917a-8d244b1aed40",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation for receipt of Orders from T Second Inc. USA",
+        "announcedAt": "2026-09-17T13:34:02.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
+        "rawTime": "2026-09-17T13:34:02.4"
+      },
+      {
+        "newsId": "51781095-74e8-44a2-bd69-837e4c0bcbe1",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "Receipt of order worth of Rs. 263.25 Crore",
+        "announcedAt": "2026-09-17T13:02:08.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-09-17T13:02:08.01"
+      }
+    ],
+    "2026-09-17T12": [
+      {
+        "newsId": "b0eefaaa-ff5a-4ae5-ac17-2b3e1faffb52",
+        "scripCode": 541402,
+        "shortName": "Affordable Robotic & Automation Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 we hereby inform you that the company has received a purchase order form its esteemed ....",
+        "announcedAt": "2026-09-17T12:46:56.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/",
+        "rawTime": "2026-09-17T12:46:56.867"
+      },
+      {
+        "newsId": "85cb68f3-a43d-4fb1-bf95-4464bbbcaaa0",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Letter of Intent received from Sabarmati Gas Limited amounting to Rs. 5.86 Million",
+        "announcedAt": "2026-09-17T12:03:15.377+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-09-17T12:03:15.377"
+      }
+    ],
+    "2026-09-17T05": [
+      {
+        "newsId": "a462ae46-ce51-4388-9255-a11429b88c76",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-09-17T05:57:03.813+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-09-17T05:57:03.813"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-17T13:46:09.289+05:30",
+    "checksum": "575b61de83cffdb9cf1f35c41dc7bc8eb1820b606e48c5e7422f95dbc7b0623d",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-17/awards-134608.json"
+  }
+}
