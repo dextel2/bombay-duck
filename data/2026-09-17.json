@@ -3,6 +3,24 @@
   "buckets": {
     "2026-09-17T13": [
       {
+        "newsId": "e5f337ac-6792-430d-afc0-e37c0aa703ba",
+        "scripCode": 570004,
+        "shortName": "Jain Irrigation Systems Ltd_DVR",
+        "headline": "Receipt of letter of Empanelment from MSEDCL",
+        "announcedAt": "2026-09-17T13:46:55.200+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jain-irrigation-systems-ltd_dvr/jisldvreqs/570004/",
+        "rawTime": "2026-09-17T13:46:55.2"
+      },
+      {
+        "newsId": "618b6b8a-3393-440c-b1f0-94ba3145990f",
+        "scripCode": 500219,
+        "shortName": "Jain Irrigation Systems Ltd",
+        "headline": "Receipt of letter of Empanelment from MSEDCL",
+        "announcedAt": "2026-09-17T13:46:55.187+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jain-irrigation-systems-ltd/jisljaleqs/500219/",
+        "rawTime": "2026-09-17T13:46:55.187"
+      },
+      {
         "newsId": "5ee513c4-aca8-49fa-917a-8d244b1aed40",
         "scripCode": 538734,
         "shortName": "Ceinsys Tech Ltd",
@@ -51,14 +69,94 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-09-17T05:57:03.813"
       }
+    ],
+    "2026-09-17T18": [
+      {
+        "newsId": "57bf36be-1a97-4cd0-b811-92801652e002",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed herewith press release for order bagged by the Company worth Rs. 483.72 Crore.",
+        "announcedAt": "2026-09-17T18:36:36.057+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-09-17T18:36:36.057"
+      }
+    ],
+    "2026-09-17T16": [
+      {
+        "newsId": "86b291c4-63b4-439b-8039-b5e8f1ac940b",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "Press Release - BEL receives orders worth Rs.648 Crore.",
+        "announcedAt": "2026-09-17T16:41:47.260+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-09-17T16:41:47.26"
+      },
+      {
+        "newsId": "d7797457-9b73-470b-b1cd-dbd6a6ef7554",
+        "scripCode": 544786,
+        "shortName": "Schneider Electric President Systems Ltd",
+        "headline": "The Company has received a Refund Sanctioned Order for the pre-deposit made at the time of filing the Appeal. Detailed are enclosed herewith.",
+        "announcedAt": "2026-09-17T16:34:22.720+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/",
+        "rawTime": "2026-09-17T16:34:22.72"
+      }
+    ],
+    "2026-09-17T15": [
+      {
+        "newsId": "e143989e-4e68-47e8-a0c0-236787e0a5ee",
+        "scripCode": 544453,
+        "shortName": "Monarch Surveyors and Engineering Consultants Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from National ....",
+        "announcedAt": "2026-09-17T15:54:09.437+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/",
+        "rawTime": "2026-09-17T15:54:09.437"
+      },
+      {
+        "newsId": "383bba73-0d33-461f-9ec0-486113fb9e80",
+        "scripCode": 536974,
+        "shortName": "Captain Polyplast Ltd",
+        "headline": "company has received order worth Rs. 47 Crore from Mahashatra State Electricity Distribution Limited for 2000 SPWPS. Press release for the same attached herewith.",
+        "announcedAt": "2026-09-17T15:42:56.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/",
+        "rawTime": "2026-09-17T15:42:56.94"
+      }
+    ],
+    "2026-09-17T14": [
+      {
+        "newsId": "9671e877-1b13-46f2-b64b-0b4a58faa702",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of order from Hild Projects Private Limited",
+        "announcedAt": "2026-09-17T14:55:13.707+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-09-17T14:55:13.707"
+      },
+      {
+        "newsId": "8b23340f-4e3d-410d-8235-a0d45d39d14b",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "M/s Brahmaputra Infrastructure Limited bags an order in the name M/s BIL-GKCPL (JV) of an total amount Rs. 89.73 Crores.",
+        "announcedAt": "2026-09-17T14:41:24.003+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-09-17T14:41:24.003"
+      },
+      {
+        "newsId": "7024a159-e1a3-4256-9523-bd4d918b0384",
+        "scripCode": 544682,
+        "shortName": "GRE Renew Enertech Ltd",
+        "headline": "Business Update on Orders Received-Fortnightly Update",
+        "announcedAt": "2026-09-17T14:20:13.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/",
+        "rawTime": "2026-09-17T14:20:13.82"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-17T13:46:09.289+05:30",
-    "checksum": "575b61de83cffdb9cf1f35c41dc7bc8eb1820b606e48c5e7422f95dbc7b0623d",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-17T19:30:41.870+05:30",
+    "checksum": "e80bb8f7b9813715ca5ecef75a8c5c185e816aff45d4935454743073d4cb88fa",
+    "totalAnnouncements": 15,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-17/awards-134608.json"
+    "rawPayloadPath": "data/raw/2026-09-17/awards-193041.json"
   }
 }
