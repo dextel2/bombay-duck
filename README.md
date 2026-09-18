@@ -18,27 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-17 IST)
+### Today's Awarded Orders (2026-09-18 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-17 18:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed herewith press release for order bagged by the Company worth Rs. 483.72 Crore. ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 17 Sep 2026 - 18:36 |
-| 2026-09-17 16:00 | Bharat Electronics Ltd | 500049 | Press Release - BEL receives orders worth Rs.648 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 17 Sep 2026 - 16:41 |
-| 2026-09-17 16:00 | Schneider Electric President Systems Ltd | 544786 | The Company has received a Refund Sanctioned Order for the pre-deposit made at the time of filing the Appeal. Detailed are enclosed herewith. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/)) | Likely Positive | 17 Sep 2026 - 16:34 |
-| 2026-09-17 15:00 | Monarch Surveyors and Engineering Consultants Ltd | 544453 | Pursuant to the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015, we hereby submit that Company has received an order from National .... ([Link](https://www.bseindia.com/stock-share-price/monarch-surveyors-and-engineering-consultants-ltd/msecl/544453/)) | Likely Positive | 17 Sep 2026 - 15:54 |
-| 2026-09-17 15:00 | Captain Polyplast Ltd | 536974 | company has received order worth Rs. 47 Crore from Mahashatra State Electricity Distribution Limited for 2000 SPWPS. Press release for the same attached herewith. ([Link](https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/)) | Likely Positive | 17 Sep 2026 - 15:42 |
-| 2026-09-17 14:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of order from Hild Projects Private Limited ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 17 Sep 2026 - 14:55 |
-| 2026-09-17 14:00 | Brahmaputra Infrastructure Ltd | 535693 | M/s Brahmaputra Infrastructure Limited bags an order in the name M/s BIL-GKCPL (JV) of an total amount Rs. 89.73 Crores. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Likely Positive | 17 Sep 2026 - 14:41 |
-| 2026-09-17 14:00 | GRE Renew Enertech Ltd | 544682 | Business Update on Orders Received-Fortnightly Update ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 17 Sep 2026 - 14:20 |
-| 2026-09-17 13:00 | Jain Irrigation Systems Ltd_DVR | 570004 | Receipt of letter of Empanelment from MSEDCL ([Link](https://www.bseindia.com/stock-share-price/jain-irrigation-systems-ltd_dvr/jisldvreqs/570004/)) | Likely Positive | 17 Sep 2026 - 13:46 |
-| 2026-09-17 13:00 | Jain Irrigation Systems Ltd | 500219 | Receipt of letter of Empanelment from MSEDCL ([Link](https://www.bseindia.com/stock-share-price/jain-irrigation-systems-ltd/jisljaleqs/500219/)) | Likely Positive | 17 Sep 2026 - 13:46 |
-| 2026-09-17 13:00 | Ceinsys Tech Ltd | 538734 | Intimation for receipt of Orders from T Second Inc. USA ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/)) | Likely Positive | 17 Sep 2026 - 13:34 |
-| 2026-09-17 13:00 | Diamond Power Infrastructure Ltd-$ | 522163 | Receipt of order worth of Rs. 263.25 Crore ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 17 Sep 2026 - 13:02 |
-| 2026-09-17 12:00 | Affordable Robotic & Automation Ltd | 541402 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 we hereby inform you that the company has received a purchase order form its esteemed .... ([Link](https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/)) | Likely Positive | 17 Sep 2026 - 12:46 |
-| 2026-09-17 12:00 | Desco Infratech Ltd | 544387 | Letter of Intent received from Sabarmati Gas Limited amounting to Rs. 5.86 Million ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Neutral | 17 Sep 2026 - 12:03 |
-| 2026-09-17 05:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 17 Sep 2026 - 05:57 |
+| 2026-09-18 11:00 | KS Smart Technologies Ltd | 516038 | Intimation regarding bagging of order by KS Smart Solutions Private Limited, a Wholly-Owned Subsidiary of the Company from School Education Department, Government of Punjab. ([Link](https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/)) | Likely Positive | 18 Sep 2026 - 11:49 |
+| 2026-09-18 11:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith Intimation under Regulation 30 of SEBI LODR- Awarding of Order updates ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 18 Sep 2026 - 11:39 |
+| 2026-09-18 11:00 | Cryogenic Ogs Ltd | 544440 | We are pleased to inform you that Cryogenic OGS Limited has received a Purchase Order from a Global EPC Company amounting to USD 2,022,816 (i.e. approximately Rs. 19.36 Crores.). ([Link](https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/)) | Likely Positive | 18 Sep 2026 - 11:38 |
+| 2026-09-18 10:00 | DMR Engineering Ltd | 543410 | We wish to inform you that DMR Engineering Ltd. as the Lead Member, in a Joint Venture with Shri Balaji Hydro Construction Private Limited, has received a Letter of Award (LoA) for the .... ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Neutral | 18 Sep 2026 - 10:36 |
+| 2026-09-18 09:00 | BEML Ltd | 500048 | Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/)) | Likely Positive | 18 Sep 2026 - 09:17 |
 
-_Last updated: 17 Sep 2026 - 19:30 | Entries: 15 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-17.json)_
+_Last updated: 18 Sep 2026 - 13:19 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-18.json)_
 
 <!-- snapshot:end -->
 

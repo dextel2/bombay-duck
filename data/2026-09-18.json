@@ -1,0 +1,64 @@
+{
+  "tradingDate": "2026-09-18",
+  "buckets": {
+    "2026-09-18T11": [
+      {
+        "newsId": "09d2b8cc-b0d5-49e6-bf05-7e23dfc55da2",
+        "scripCode": 516038,
+        "shortName": "KS Smart Technologies Ltd",
+        "headline": "Intimation regarding bagging of order by KS Smart Solutions Private Limited, a Wholly-Owned Subsidiary of the Company from School Education Department, Government of Punjab.",
+        "announcedAt": "2026-09-18T11:49:12.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ks-smart-technologies-ltd/kssmart/516038/",
+        "rawTime": "2026-09-18T11:49:12.16"
+      },
+      {
+        "newsId": "6673d10a-93d0-4515-ae3e-911ab3c0b097",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached herewith Intimation under Regulation 30 of SEBI LODR- Awarding of Order updates",
+        "announcedAt": "2026-09-18T11:39:29.443+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-09-18T11:39:29.443"
+      },
+      {
+        "newsId": "85c09e48-d2b3-4200-a11a-990089d79c36",
+        "scripCode": 544440,
+        "shortName": "Cryogenic Ogs Ltd",
+        "headline": "We are pleased to inform you that Cryogenic OGS Limited has received a Purchase Order from a Global EPC Company amounting to USD 2,022,816 (i.e. approximately Rs. 19.36 Crores.).",
+        "announcedAt": "2026-09-18T11:38:00.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
+        "rawTime": "2026-09-18T11:38:00.583"
+      }
+    ],
+    "2026-09-18T10": [
+      {
+        "newsId": "939f64e5-3cef-494c-9519-e48e864e6e05",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "We wish to inform you that DMR Engineering Ltd. as the Lead Member, in a Joint Venture with Shri Balaji Hydro Construction Private Limited, has received a Letter of Award (LoA) for the ....",
+        "announcedAt": "2026-09-18T10:36:02.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-09-18T10:36:02.713"
+      }
+    ],
+    "2026-09-18T09": [
+      {
+        "newsId": "c9a050f5-5aa5-451a-a820-053e33d5baaf",
+        "scripCode": 500048,
+        "shortName": "BEML Ltd",
+        "headline": "Receipt of Order",
+        "announcedAt": "2026-09-18T09:17:52.347+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
+        "rawTime": "2026-09-18T09:17:52.347"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-18T13:19:53.260+05:30",
+    "checksum": "8b5fd038033efa6c0f31daeebd96dc97f4984876971d4076c2cd198ef7cf6227",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-18/awards-131952.json"
+  }
+}
