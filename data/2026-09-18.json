@@ -51,14 +51,83 @@
         "url": "https://www.bseindia.com/stock-share-price/beml-ltd/beml/500048/",
         "rawTime": "2026-09-18T09:17:52.347"
       }
+    ],
+    "2026-09-18T17": [
+      {
+        "newsId": "ff2c468d-5423-4210-972b-706c81e32064",
+        "scripCode": 544637,
+        "shortName": "Methodhub Software Ltd",
+        "headline": "Intimation for receipt of order worth Rs. 161 crores from an International Entity",
+        "announcedAt": "2026-09-18T17:19:22.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/methodhub-software-ltd/methodhub/544637/",
+        "rawTime": "2026-09-18T17:19:22.24"
+      },
+      {
+        "newsId": "43b9d18e-4ae1-4611-86da-a1f30714f9e2",
+        "scripCode": 509631,
+        "shortName": "HEG Ltd",
+        "headline": "Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company",
+        "announcedAt": "2026-09-18T17:05:29.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/heg-ltd/heg/509631/",
+        "rawTime": "2026-09-18T17:05:29.263"
+      }
+    ],
+    "2026-09-18T16": [
+      {
+        "newsId": "dfa267f4-7291-42f7-a985-1ad86eea04c3",
+        "scripCode": 506820,
+        "shortName": "AstraZeneca Pharma India Ltd",
+        "headline": "Please find the enclosed intimation of the Company with respect to the captioned subject for your reference.",
+        "announcedAt": "2026-09-18T16:56:27.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/astrazeneca-pharma-india-ltd/astrazen/506820/",
+        "rawTime": "2026-09-18T16:56:27.13"
+      },
+      {
+        "newsId": "39149e87-d2a6-41a2-80a4-a8e6f0ff75dc",
+        "scripCode": 539760,
+        "shortName": "Relicab Cable Manufacturing Ltd",
+        "headline": "Announcement under Regulation 30 (LODR)- Award of order receipt of order",
+        "announcedAt": "2026-09-18T16:48:59.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/relicab-cable-manufacturing-ltd/relicab/539760/",
+        "rawTime": "2026-09-18T16:48:59.48"
+      }
+    ],
+    "2026-09-18T14": [
+      {
+        "newsId": "f0ded969-2f5d-44d6-9ac5-c29917be688f",
+        "scripCode": 543985,
+        "shortName": "Zaggle Prepaid Ocean Services Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform you that Zaggle Prepaid Ocean Services Limited has entered into an agreement with Bandhan AMC Limited",
+        "announcedAt": "2026-09-18T14:57:16.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/",
+        "rawTime": "2026-09-18T14:57:16.983"
+      },
+      {
+        "newsId": "662957cf-aa30-42c9-8fe0-7586807c5e62",
+        "scripCode": 523874,
+        "shortName": "East India Drums and Barrels Manufacturing Ltd",
+        "headline": "Receipt of Order of Indo Tibetan Border Police, Ministry of Home Affairs, Government of India",
+        "announcedAt": "2026-09-18T14:55:37.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/",
+        "rawTime": "2026-09-18T14:55:37.21"
+      },
+      {
+        "newsId": "63ee9cab-8912-445a-9a73-88706cb200e0",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "We are pleased to inform you that the Company has received the Work Order from M/s Emerald Haven Life Spaces 3 Private Limited (EHLS3PL) at Pallavaram, Chengalpattu, Chennai.",
+        "announcedAt": "2026-09-18T14:21:52.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-09-18T14:21:52.77"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-18T13:19:53.260+05:30",
-    "checksum": "8b5fd038033efa6c0f31daeebd96dc97f4984876971d4076c2cd198ef7cf6227",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-18T18:03:54.449+05:30",
+    "checksum": "5f67338a6ee8cbf63db60cc6c420df4b0814c4141f2010ed60a2c984ddef248c",
+    "totalAnnouncements": 12,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-18/awards-131952.json"
+    "rawPayloadPath": "data/raw/2026-09-18/awards-180353.json"
   }
 }
