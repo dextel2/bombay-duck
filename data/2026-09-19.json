@@ -1,12 +1,82 @@
 {
   "tradingDate": "2026-09-19",
-  "buckets": {},
+  "buckets": {
+    "2026-09-19T15": [
+      {
+        "newsId": "7657cb38-5c70-4154-85c9-f560bed3ad9a",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of purchase order by the Subsidiary M/s Cosmic Springs & Engineers Limited worth Rs. 589.96 Lakhs",
+        "announcedAt": "2026-09-19T15:43:18.520+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-19T15:43:18.52"
+      },
+      {
+        "newsId": "092db84e-a425-4589-9ef4-e170cce6df42",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Receipt of order from ONGC",
+        "announcedAt": "2026-09-19T15:43:05.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-09-19T15:43:05.037"
+      },
+      {
+        "newsId": "2002b89f-541a-471e-9574-a8405d7a0cfe",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase order by the Company worth Rs. 1179.92 Lakhs.",
+        "announcedAt": "2026-09-19T15:39:43.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-19T15:39:43.11"
+      },
+      {
+        "newsId": "d1bd6695-482f-4e8b-9253-201f238ddf63",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase order by the subsidiary M/s N S Engineering Projects Private Limited worth Rs. 1414.04 Lakhs.",
+        "announcedAt": "2026-09-19T15:36:43.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-19T15:36:43.683"
+      }
+    ],
+    "2026-09-19T14": [
+      {
+        "newsId": "10e6ce58-a96d-4522-961c-463552b62110",
+        "scripCode": 544561,
+        "shortName": "Chiraharit Ltd",
+        "headline": "We wish to inform your esteemed organization that the Company has received a purchase order from Northern Region Farm Machinery Training & Testing Institute, Haryana, India for Supply ....",
+        "announcedAt": "2026-09-19T14:18:45.487+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/",
+        "rawTime": "2026-09-19T14:18:45.487"
+      },
+      {
+        "newsId": "7ab62618-8099-4a7e-a79f-369b9032f385",
+        "scripCode": 532884,
+        "shortName": "Refex Industries Ltd",
+        "headline": "Refex Industries Limited bags contract for Lifting of 10 MT of Pond Ash and Fly Ash",
+        "announcedAt": "2026-09-19T14:11:15.403+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/",
+        "rawTime": "2026-09-19T14:11:15.403"
+      }
+    ],
+    "2026-09-19T13": [
+      {
+        "newsId": "b7b53ebc-a92c-4b93-8db1-ba8fca05c522",
+        "scripCode": 523874,
+        "shortName": "East India Drums and Barrels Manufacturing Ltd",
+        "headline": "Receipt of Order of Hindustan Petroleum Corporation Limited.",
+        "announcedAt": "2026-09-19T13:24:44.643+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/",
+        "rawTime": "2026-09-19T13:24:44.643"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-09-19T13:12:16.466+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-19T17:41:07.118+05:30",
+    "checksum": "55986b63cb48fcdb4ab8d373304f17938ea93cef085d1a806a33caf28cfabc03",
+    "totalAnnouncements": 7,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-19/awards-131215.json"
+    "rawPayloadPath": "data/raw/2026-09-19/awards-174106.json"
   }
 }
