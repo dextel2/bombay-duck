@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-09-20 10:00 | Welspun Enterprises Ltd | 532553 | Welspun Enterprisers has informed the exchange about receiving of Letter of Award by Welspun Michigan Engineers Limited, Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Neutral | 20 Sep 2026 - 10:37 |
 
-_Last updated: 20 Sep 2026 - 13:39 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-20.json)_
+_Last updated: 20 Sep 2026 - 18:52 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-20.json)_
 
 <!-- snapshot:end -->
 
