@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-09-20",
+  "buckets": {
+    "2026-09-20T10": [
+      {
+        "newsId": "28abe153-1019-4b38-9631-23b9ce530a2e",
+        "scripCode": 532553,
+        "shortName": "Welspun Enterprises Ltd",
+        "headline": "Welspun Enterprisers has informed the exchange about receiving of Letter of Award by Welspun Michigan Engineers Limited, Material Subsidiary of the Company",
+        "announcedAt": "2026-09-20T10:37:50.287+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/",
+        "rawTime": "2026-09-20T10:37:50.287"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-20T13:39:53.649+05:30",
+    "checksum": "f3612d51a1f4926032afd8cfb3acaa395ac0fd85f69b4d88a6d79ff9062b0381",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-20/awards-133953.json"
+  }
+}

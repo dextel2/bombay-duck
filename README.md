@@ -18,19 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-19 IST)
+### Today's Awarded Orders (2026-09-20 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-19 15:00 | Cosmic CRF Ltd | 543928 | Receipt of purchase order by the Subsidiary M/s Cosmic Springs & Engineers Limited worth Rs. 589.96 Lakhs ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 19 Sep 2026 - 15:43 |
-| 2026-09-19 15:00 | United Drilling Tools Ltd | 522014 | Receipt of order from ONGC ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 19 Sep 2026 - 15:43 |
-| 2026-09-19 15:00 | Cosmic CRF Ltd | 543928 | Receipt of Purchase order by the Company worth Rs. 1179.92 Lakhs. ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 19 Sep 2026 - 15:39 |
-| 2026-09-19 15:00 | Cosmic CRF Ltd | 543928 | Receipt of Purchase order by the subsidiary M/s N S Engineering Projects Private Limited worth Rs. 1414.04 Lakhs. ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 19 Sep 2026 - 15:36 |
-| 2026-09-19 14:00 | Chiraharit Ltd | 544561 | We wish to inform your esteemed organization that the Company has received a purchase order from Northern Region Farm Machinery Training & Testing Institute, Haryana, India for Supply .... ([Link](https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/)) | Likely Positive | 19 Sep 2026 - 14:18 |
-| 2026-09-19 14:00 | Refex Industries Ltd | 532884 | Refex Industries Limited bags contract for Lifting of 10 MT of Pond Ash and Fly Ash ([Link](https://www.bseindia.com/stock-share-price/refex-industries-ltd/refex/532884/)) | Likely Positive | 19 Sep 2026 - 14:11 |
-| 2026-09-19 13:00 | East India Drums and Barrels Manufacturing Ltd | 523874 | Receipt of Order of Hindustan Petroleum Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/)) | Likely Positive | 19 Sep 2026 - 13:24 |
+| 2026-09-20 10:00 | Welspun Enterprises Ltd | 532553 | Welspun Enterprisers has informed the exchange about receiving of Letter of Award by Welspun Michigan Engineers Limited, Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Neutral | 20 Sep 2026 - 10:37 |
 
-_Last updated: 19 Sep 2026 - 17:41 | Entries: 7 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-19.json)_
+_Last updated: 20 Sep 2026 - 13:39 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-20.json)_
 
 <!-- snapshot:end -->
 
