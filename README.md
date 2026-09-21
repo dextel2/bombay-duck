@@ -18,13 +18,18 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-20 IST)
+### Today's Awarded Orders (2026-09-21 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-20 10:00 | Welspun Enterprises Ltd | 532553 | Welspun Enterprisers has informed the exchange about receiving of Letter of Award by Welspun Michigan Engineers Limited, Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Neutral | 20 Sep 2026 - 10:37 |
+| 2026-09-21 13:00 | Diamond Power Infrastructure Ltd-$ | 522163 | receipt of order worth Rs. 116.49 Crore for supply of 11 kV XLPE power cable ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 21 Sep 2026 - 13:39 |
+| 2026-09-21 13:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the exchange that the Company has received a Letter of Award from Maharashtra State Electricity Distribution Company Limited for setting up 150 MW / 300 MWh .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 21 Sep 2026 - 13:13 |
+| 2026-09-21 11:00 | Kothari Industrial Corporation Ltd | 509732 | award ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 21 Sep 2026 - 11:06 |
+| 2026-09-21 10:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has been declared as L-1 bidder by REC Power Development and Consultancy Limited (RECPDCL) for 'Development and Operation of Intra State Transmission System for Transmission .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 21 Sep 2026 - 10:49 |
+| 2026-09-21 09:00 | Garment Mantra Lifestyle Ltd | 539216 | Pursuant to Regulation 30 of SEBI(LODR) receipt of order from Overseas entity is submitted herewith ([Link](https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/)) | Likely Positive | 21 Sep 2026 - 09:34 |
+| 2026-09-21 09:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for cut and polished natural diamonds amounting to Rs. 14.25 Crores from Aura Diamond ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 21 Sep 2026 - 09:01 |
 
-_Last updated: 20 Sep 2026 - 18:52 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-20.json)_
+_Last updated: 21 Sep 2026 - 13:56 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-21.json)_
 
 <!-- snapshot:end -->
 

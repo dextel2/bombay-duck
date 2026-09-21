@@ -1,0 +1,75 @@
+{
+  "tradingDate": "2026-09-21",
+  "buckets": {
+    "2026-09-21T13": [
+      {
+        "newsId": "d70dee09-f50d-493a-8d99-341d8d81670c",
+        "scripCode": 522163,
+        "shortName": "Diamond Power Infrastructure Ltd-$",
+        "headline": "receipt of order worth Rs. 116.49 Crore for supply of 11 kV XLPE power cable",
+        "announcedAt": "2026-09-21T13:39:35.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/",
+        "rawTime": "2026-09-21T13:39:35.77"
+      },
+      {
+        "newsId": "f7692954-a034-463e-aef2-3a5362899c7b",
+        "scripCode": 544525,
+        "shortName": "GK Energy Ltd",
+        "headline": "GK Energy Limited has informed the exchange that the Company has received a Letter of Award from Maharashtra State Electricity Distribution Company Limited for setting up 150 MW / 300 MWh ....",
+        "announcedAt": "2026-09-21T13:13:54.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/",
+        "rawTime": "2026-09-21T13:13:54.88"
+      }
+    ],
+    "2026-09-21T11": [
+      {
+        "newsId": "00f6a0be-fa7f-4610-8f69-fbec7eedd93b",
+        "scripCode": 509732,
+        "shortName": "Kothari Industrial Corporation Ltd",
+        "headline": "award",
+        "announcedAt": "2026-09-21T11:06:16.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/",
+        "rawTime": "2026-09-21T11:06:16.463"
+      }
+    ],
+    "2026-09-21T10": [
+      {
+        "newsId": "194af27b-8572-4574-9002-a12a224a91c8",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited has been declared as L-1 bidder by REC Power Development and Consultancy Limited (RECPDCL) for 'Development and Operation of Intra State Transmission System for Transmission ....",
+        "announcedAt": "2026-09-21T10:49:48.533+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-09-21T10:49:48.533"
+      }
+    ],
+    "2026-09-21T09": [
+      {
+        "newsId": "9363902b-9f33-48b4-9875-48e1ad4c1364",
+        "scripCode": 539216,
+        "shortName": "Garment Mantra Lifestyle Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI(LODR) receipt of order from Overseas entity is submitted herewith",
+        "announcedAt": "2026-09-21T09:34:30.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/",
+        "rawTime": "2026-09-21T09:34:30.73"
+      },
+      {
+        "newsId": "57969496-4b5b-494a-a9a0-deeb51e16937",
+        "scripCode": 523373,
+        "shortName": "Mini Diamonds India Ltd",
+        "headline": "Receipt of significant domestic order for cut and polished natural diamonds amounting to Rs. 14.25 Crores from Aura Diamond",
+        "announcedAt": "2026-09-21T09:01:06.060+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
+        "rawTime": "2026-09-21T09:01:06.06"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-21T13:56:41.621+05:30",
+    "checksum": "3949ee7dc3d376bbe5cf4b0fdbe0bfb430a7dd9384e7ed6f2fa4449c53b849ea",
+    "totalAnnouncements": 6,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-21/awards-135641.json"
+  }
+}
