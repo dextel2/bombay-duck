@@ -62,14 +62,67 @@
         "url": "https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/",
         "rawTime": "2026-09-21T09:01:06.06"
       }
+    ],
+    "2026-09-21T20": [
+      {
+        "newsId": "15a51e47-a1a7-473d-99d8-a8a2eec89725",
+        "scripCode": 540900,
+        "shortName": "Newgen Software Technologies Ltd",
+        "headline": "Enclosed disclosure of Material Order of Rs. 17.14 Cr.",
+        "announcedAt": "2026-09-21T20:10:02.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
+        "rawTime": "2026-09-21T20:10:02.21"
+      }
+    ],
+    "2026-09-21T19": [
+      {
+        "newsId": "e176e329-592f-443c-8f83-8f2edb9a934d",
+        "scripCode": 544277,
+        "shortName": "Waaree Energies Ltd",
+        "headline": "Intimation of Letter of Award.",
+        "announcedAt": "2026-09-21T19:11:50.610+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
+        "rawTime": "2026-09-21T19:11:50.61"
+      }
+    ],
+    "2026-09-21T17": [
+      {
+        "newsId": "ffa5a3b7-1b22-49a3-b19c-7966a8d95e39",
+        "scripCode": 544190,
+        "shortName": "3C IT Solutions and Telecoms (India) Ltd",
+        "headline": "The Company has informed the Exchange about Bagging/Receiving of purchase orders/contract.",
+        "announcedAt": "2026-09-21T17:42:07.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/3c-it-solutions-and-telecoms-(india)-ltd/3cit/544190/",
+        "rawTime": "2026-09-21T17:42:07.43"
+      }
+    ],
+    "2026-09-21T15": [
+      {
+        "newsId": "3bc8f77e-a105-4a08-8fad-4ec2a1cd7872",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Intimation of Order that Lineage Power Private Limited (Material Subsidiary) has received the order from NTPC GE Power Services Private Limited.",
+        "announcedAt": "2026-09-21T15:50:47.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-09-21T15:50:47.73"
+      },
+      {
+        "newsId": "e42b00ec-68e6-45a4-9520-e7a113e85c5d",
+        "scripCode": 517536,
+        "shortName": "Onward Technologies Ltd",
+        "headline": "Intimation of Renewal of Digital Engineering Service Contract under regulation 30 of SEBI (LODR) , Regulation 2015",
+        "announcedAt": "2026-09-21T15:05:46.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/onward-technologies-ltd/onwardtec/517536/",
+        "rawTime": "2026-09-21T15:05:46.92"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-21T13:56:41.621+05:30",
-    "checksum": "3949ee7dc3d376bbe5cf4b0fdbe0bfb430a7dd9384e7ed6f2fa4449c53b849ea",
-    "totalAnnouncements": 6,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-21T21:02:11.179+05:30",
+    "checksum": "458889f21cca87dbaf37a58eb970abd9b82b534dd00d244adc0fcf1d394e181f",
+    "totalAnnouncements": 11,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-21/awards-135641.json"
+    "rawPayloadPath": "data/raw/2026-09-21/awards-210210.json"
   }
 }
