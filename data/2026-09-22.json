@@ -31,14 +31,105 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-09-22T11:38:18.23"
       }
+    ],
+    "2026-09-22T18": [
+      {
+        "newsId": "9bfba226-0809-4397-8e72-b8d6e4a1186e",
+        "scripCode": 509040,
+        "shortName": "Netlink Solutions India Ltd",
+        "headline": "Intimation w.r.t order from Regional Director approving the Shifting of Registered Office",
+        "announcedAt": "2026-09-22T18:40:09.340+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/netlink-solutions-india-ltd/netlink/509040/",
+        "rawTime": "2026-09-22T18:40:09.34"
+      }
+    ],
+    "2026-09-22T17": [
+      {
+        "newsId": "473e6c33-4188-490a-be83-b96e069f84e5",
+        "scripCode": 543525,
+        "shortName": "Silver Touch Technologies Ltd",
+        "headline": "Enclosed herewith Business update on \"Silver Touch Technologies Receives Purchase order from Gujarat Energy Limited (GEL), a Government of Gujarat undertaking in power and energy sector.\"",
+        "announcedAt": "2026-09-22T17:55:00.400+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/",
+        "rawTime": "2026-09-22T17:55:00.4"
+      },
+      {
+        "newsId": "59ad6034-2e00-4f91-ac80-6250f7af0299",
+        "scripCode": 538521,
+        "shortName": "Yaan Enterprises Ltd",
+        "headline": "Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015 for receipt of purchase order of yellow maize of approx. value of Rs. 15.86 Crores.",
+        "announcedAt": "2026-09-22T17:53:39.883+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/yaan-enterprises-ltd/yaanent/538521/",
+        "rawTime": "2026-09-22T17:53:39.883"
+      }
+    ],
+    "2026-09-22T16": [
+      {
+        "newsId": "b328547d-609c-41fd-a84c-436e6f275fd9",
+        "scripCode": 544259,
+        "shortName": "Popular Foundations Ltd",
+        "headline": "Domestic order for construction of Super Structure works for proposed G+7 floors with Terrace with facilities at RIT- Homi Bhabha Block Phase III, Kuthambakkam, Chennai",
+        "announcedAt": "2026-09-22T16:05:12.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/popular-foundations-ltd/pfl/544259/",
+        "rawTime": "2026-09-22T16:05:12.78"
+      }
+    ],
+    "2026-09-22T15": [
+      {
+        "newsId": "930cd71b-bd40-453f-a9b1-87a622100565",
+        "scripCode": 544501,
+        "shortName": "Sugs Lloyd Ltd",
+        "headline": "SUGS LLoyd Limited Receives Rs. 213.48 Crore Letter of Award for RDSS Works in Punjab on a Back to Back Basis.",
+        "announcedAt": "2026-09-22T15:47:49.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/",
+        "rawTime": "2026-09-22T15:47:49.48"
+      },
+      {
+        "newsId": "6d6ab8f1-b21a-405d-ba5b-1f6e76d5cdf6",
+        "scripCode": 544561,
+        "shortName": "Chiraharit Ltd",
+        "headline": "We wish to inform your esteemed organization that the Company has received a Purchase Order from Larsen and Toubro Limited for Supply of Pipes and Fittings of Solar Module Cleaning System.",
+        "announcedAt": "2026-09-22T15:46:09.483+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/",
+        "rawTime": "2026-09-22T15:46:09.483"
+      }
+    ],
+    "2026-09-22T14": [
+      {
+        "newsId": "64c0cee3-705d-4808-9ee8-0f10ef07814c",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company ....",
+        "announcedAt": "2026-09-22T14:55:22.280+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-09-22T14:55:22.28"
+      },
+      {
+        "newsId": "bdb4d0bd-5a6c-43e7-9448-a4406009869b",
+        "scripCode": 541556,
+        "shortName": "RITES Ltd",
+        "headline": "Update regarding Major Order Secured",
+        "announcedAt": "2026-09-22T14:06:52.877+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/",
+        "rawTime": "2026-09-22T14:06:52.877"
+      },
+      {
+        "newsId": "aad8de2d-9d0d-410b-9076-a1ebb8003b20",
+        "scripCode": 517286,
+        "shortName": "Rnit Ai Solutions Ltd",
+        "headline": "Receipt of Notification of Award from Andhra Pradesh State Skill Development Corporation for a large scale SaaS based Gen AI - enabled Multilingual Conversational AI Platform.",
+        "announcedAt": "2026-09-22T14:01:19.460+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/",
+        "rawTime": "2026-09-22T14:01:19.46"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-22T13:37:02.456+05:30",
-    "checksum": "2ae33e5de9bdf8078b9f4a2f52ec02040671a996b7febb126b97445480af6305",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-22T19:18:45.093+05:30",
+    "checksum": "6018b4c5a14735033862a3be209aa9a6a70fd4ccd103672117590f227fc0edba",
+    "totalAnnouncements": 12,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-22/awards-133701.json"
+    "rawPayloadPath": "data/raw/2026-09-22/awards-191843.json"
   }
 }
