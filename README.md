@@ -18,23 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-21 IST)
+### Today's Awarded Orders (2026-09-22 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-21 20:00 | Newgen Software Technologies Ltd | 540900 | Enclosed disclosure of Material Order of Rs. 17.14 Cr. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 21 Sep 2026 - 20:10 |
-| 2026-09-21 19:00 | Waaree Energies Ltd | 544277 | Intimation of Letter of Award. ([Link](https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/)) | Neutral | 21 Sep 2026 - 19:11 |
-| 2026-09-21 17:00 | 3C IT Solutions and Telecoms (India) Ltd | 544190 | The Company has informed the Exchange about Bagging/Receiving of purchase orders/contract. ([Link](https://www.bseindia.com/stock-share-price/3c-it-solutions-and-telecoms-(india)-ltd/3cit/544190/)) | Likely Positive | 21 Sep 2026 - 17:42 |
-| 2026-09-21 15:00 | Pace Digitek Ltd | 544550 | Intimation of Order that Lineage Power Private Limited (Material Subsidiary) has received the order from NTPC GE Power Services Private Limited. ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 21 Sep 2026 - 15:50 |
-| 2026-09-21 15:00 | Onward Technologies Ltd | 517536 | Intimation of Renewal of Digital Engineering Service Contract under regulation 30 of SEBI (LODR) , Regulation 2015 ([Link](https://www.bseindia.com/stock-share-price/onward-technologies-ltd/onwardtec/517536/)) | Likely Positive | 21 Sep 2026 - 15:05 |
-| 2026-09-21 13:00 | Diamond Power Infrastructure Ltd-$ | 522163 | receipt of order worth Rs. 116.49 Crore for supply of 11 kV XLPE power cable ([Link](https://www.bseindia.com/stock-share-price/diamond-power-infrastructure-ltd/diacabs/522163/)) | Likely Positive | 21 Sep 2026 - 13:39 |
-| 2026-09-21 13:00 | GK Energy Ltd | 544525 | GK Energy Limited has informed the exchange that the Company has received a Letter of Award from Maharashtra State Electricity Distribution Company Limited for setting up 150 MW / 300 MWh .... ([Link](https://www.bseindia.com/stock-share-price/gk-energy-ltd/gkenergy/544525/)) | Neutral | 21 Sep 2026 - 13:13 |
-| 2026-09-21 11:00 | Kothari Industrial Corporation Ltd | 509732 | award ([Link](https://www.bseindia.com/stock-share-price/kothari-industrial-corporation-ltd/kotic/509732/)) | Neutral | 21 Sep 2026 - 11:06 |
-| 2026-09-21 10:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has been declared as L-1 bidder by REC Power Development and Consultancy Limited (RECPDCL) for 'Development and Operation of Intra State Transmission System for Transmission .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 21 Sep 2026 - 10:49 |
-| 2026-09-21 09:00 | Garment Mantra Lifestyle Ltd | 539216 | Pursuant to Regulation 30 of SEBI(LODR) receipt of order from Overseas entity is submitted herewith ([Link](https://www.bseindia.com/stock-share-price/garment-mantra-lifestyle-ltd/garmntmntr/539216/)) | Likely Positive | 21 Sep 2026 - 09:34 |
-| 2026-09-21 09:00 | Mini Diamonds India Ltd | 523373 | Receipt of significant domestic order for cut and polished natural diamonds amounting to Rs. 14.25 Crores from Aura Diamond ([Link](https://www.bseindia.com/stock-share-price/mini-diamonds-india-ltd/minid/523373/)) | Likely Positive | 21 Sep 2026 - 09:01 |
+| 2026-09-22 12:00 | Cosmic CRF Ltd | 543928 | Receipt of purchase order by the subsidiary M/s. N S Engineering Projects Private Limited worth Rs. 250.46 Lakhs ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 22 Sep 2026 - 12:53 |
+| 2026-09-22 12:00 | Shelter Pharma Ltd | 543963 | Intimation Under Regulation 30 of SEBI (LODR) Regulations, 2015, Receipt of Significant International Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 22 Sep 2026 - 12:23 |
+| 2026-09-22 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 22 Sep 2026 - 11:38 |
 
-_Last updated: 21 Sep 2026 - 21:02 | Entries: 11 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-21.json)_
+_Last updated: 22 Sep 2026 - 13:37 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-22.json)_
 
 <!-- snapshot:end -->
 
