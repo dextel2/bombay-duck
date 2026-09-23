@@ -44,14 +44,123 @@
         "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
         "rawTime": "2026-09-23T08:54:55.767"
       }
+    ],
+    "2026-09-23T18": [
+      {
+        "newsId": "8400ee1f-c14a-4e29-88b3-c74b72b0d14b",
+        "scripCode": 527001,
+        "shortName": "Ashapura Minechem Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI LODR",
+        "announcedAt": "2026-09-23T18:32:43.940+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ashapura-minechem-ltd/ashapurmin/527001/",
+        "rawTime": "2026-09-23T18:32:43.94"
+      },
+      {
+        "newsId": "86d6bf20-aad7-4ebc-ab37-f583ccbf0fde",
+        "scripCode": 541143,
+        "shortName": "Bharat Dynamics Ltd",
+        "headline": "Receipt of order for SAT- SAAW by IAF",
+        "announcedAt": "2026-09-23T18:14:36.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-dynamics-ltd/bdl/541143/",
+        "rawTime": "2026-09-23T18:14:36.67"
+      },
+      {
+        "newsId": "bbbaea69-047b-4f43-aa5d-594857885c02",
+        "scripCode": 544094,
+        "shortName": "Euphoria Infotech (India) Ltd",
+        "headline": "Bagging of Order",
+        "announcedAt": "2026-09-23T18:11:46.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/euphoria-infotech-(india)-ltd/euphoriait/544094/",
+        "rawTime": "2026-09-23T18:11:46.67"
+      }
+    ],
+    "2026-09-23T17": [
+      {
+        "newsId": "4d0b9f62-98c7-4903-83cf-e9234e8e6f0a",
+        "scripCode": 504786,
+        "shortName": "Investment & Precision Castings Ltd",
+        "headline": "Intimation of receipt of order in continuation of earlier order from PLR",
+        "announcedAt": "2026-09-23T17:52:47.130+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/investment--precision-castings-ltd/invprecq/504786/",
+        "rawTime": "2026-09-23T17:52:47.13"
+      },
+      {
+        "newsId": "f47160fc-54e9-4a26-b96c-3a09898a4d22",
+        "scripCode": 538521,
+        "shortName": "Yaan Enterprises Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 for receipt of order of yellow maize of approx. value of Rs. 15.86 crores.",
+        "announcedAt": "2026-09-23T17:26:05.553+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/yaan-enterprises-ltd/yaanent/538521/",
+        "rawTime": "2026-09-23T17:26:05.553"
+      }
+    ],
+    "2026-09-23T16": [
+      {
+        "newsId": "ba3b2ded-57c3-4385-b2f1-26f886c6ebf5",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from Department of Defence Research & Development , Office of DG (MSS), Ministry of Defence of contract value of Rs. ....",
+        "announcedAt": "2026-09-23T16:11:50.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-09-23T16:11:50.343"
+      }
+    ],
+    "2026-09-23T15": [
+      {
+        "newsId": "25f8d882-95af-4cd6-b572-08b715a2d600",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Purchase Order",
+        "announcedAt": "2026-09-23T15:45:58.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-09-23T15:45:58.747"
+      }
+    ],
+    "2026-09-23T14": [
+      {
+        "newsId": "c6d58740-d385-4ee4-911c-dbec048a24ef",
+        "scripCode": 531411,
+        "shortName": "Tuni Textile Mills Ltd",
+        "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"SEBI LODR Regulations\"), read with the Company''s Policy for Determination of ....",
+        "announcedAt": "2026-09-23T14:43:41.150+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tuni-textile-mills-ltd/tunitex/531411/",
+        "rawTime": "2026-09-23T14:43:41.15"
+      },
+      {
+        "newsId": "54bb8882-bcc7-4d74-aa45-0b0f9d8fa2c8",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-09-23T14:24:31.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-09-23T14:24:31.277"
+      },
+      {
+        "newsId": "e76e8e12-ca19-4063-8648-2f04c9fdf261",
+        "scripCode": 544856,
+        "shortName": "Fusion Klassroom Edutech Ltd",
+        "headline": "Dear Sir / Madam, Pursuant to Regulation 30 read with Part A of Schedule III of SEBI (LODR) Regulations, 2015, we wish to inform you that Fusion Klassroom Edutech Limited has received ....",
+        "announcedAt": "2026-09-23T14:21:00.493+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/fusion-klassroom-edutech-ltd/klassroom/544856/",
+        "rawTime": "2026-09-23T14:21:00.493"
+      },
+      {
+        "newsId": "c52ed1a3-71d4-458c-bd77-39a75716a1fe",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation of Work / Supply Order Received",
+        "announcedAt": "2026-09-23T14:17:06.687+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-09-23T14:17:06.687"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-23T13:39:44.717+05:30",
-    "checksum": "e702889ebcc501949bfedf551406e3f5d0d183837503477d768354fd811d8537",
-    "totalAnnouncements": 4,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-23T19:29:39.815+05:30",
+    "checksum": "f8c3ec564b82b2e045426e1a663b994d97e090be4efb3013e13a7537bf2eb4fd",
+    "totalAnnouncements": 15,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-23/awards-133943.json"
+    "rawPayloadPath": "data/raw/2026-09-23/awards-192939.json"
   }
 }
