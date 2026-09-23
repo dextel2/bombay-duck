@@ -18,24 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-22 IST)
+### Today's Awarded Orders (2026-09-23 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-22 18:00 | Netlink Solutions India Ltd | 509040 | Intimation w.r.t order from Regional Director approving the Shifting of Registered Office ([Link](https://www.bseindia.com/stock-share-price/netlink-solutions-india-ltd/netlink/509040/)) | Likely Positive | 22 Sep 2026 - 18:40 |
-| 2026-09-22 17:00 | Silver Touch Technologies Ltd | 543525 | Enclosed herewith Business update on "Silver Touch Technologies Receives Purchase order from Gujarat Energy Limited (GEL), a Government of Gujarat undertaking in power and energy sector." ([Link](https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/)) | Likely Positive | 22 Sep 2026 - 17:55 |
-| 2026-09-22 17:00 | Yaan Enterprises Ltd | 538521 | Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015 for receipt of purchase order of yellow maize of approx. value of Rs. 15.86 Crores. ([Link](https://www.bseindia.com/stock-share-price/yaan-enterprises-ltd/yaanent/538521/)) | Likely Positive | 22 Sep 2026 - 17:53 |
-| 2026-09-22 16:00 | Popular Foundations Ltd | 544259 | Domestic order for construction of Super Structure works for proposed G+7 floors with Terrace with facilities at RIT- Homi Bhabha Block Phase III, Kuthambakkam, Chennai ([Link](https://www.bseindia.com/stock-share-price/popular-foundations-ltd/pfl/544259/)) | Likely Positive | 22 Sep 2026 - 16:05 |
-| 2026-09-22 15:00 | Sugs Lloyd Ltd | 544501 | SUGS LLoyd Limited Receives Rs. 213.48 Crore Letter of Award for RDSS Works in Punjab on a Back to Back Basis. ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Neutral | 22 Sep 2026 - 15:47 |
-| 2026-09-22 15:00 | Chiraharit Ltd | 544561 | We wish to inform your esteemed organization that the Company has received a Purchase Order from Larsen and Toubro Limited for Supply of Pipes and Fittings of Solar Module Cleaning System. ([Link](https://www.bseindia.com/stock-share-price/chiraharit-ltd/chiraharit/544561/)) | Likely Positive | 22 Sep 2026 - 15:46 |
-| 2026-09-22 14:00 | Cranex Ltd | 522001 | Pursuant to Regulation 30 and other applicable regulations of SEBI (LODR) Regulations, 2015 and the relevant amendment thereto from time to time, we wish to inform you that the Company .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Neutral | 22 Sep 2026 - 14:55 |
-| 2026-09-22 14:00 | RITES Ltd | 541556 | Update regarding Major Order Secured ([Link](https://www.bseindia.com/stock-share-price/rites-ltd/rites/541556/)) | Likely Positive | 22 Sep 2026 - 14:06 |
-| 2026-09-22 14:00 | Rnit Ai Solutions Ltd | 517286 | Receipt of Notification of Award from Andhra Pradesh State Skill Development Corporation for a large scale SaaS based Gen AI - enabled Multilingual Conversational AI Platform. ([Link](https://www.bseindia.com/stock-share-price/rnit-ai-solutions-ltd/rnitai/517286/)) | Likely Positive | 22 Sep 2026 - 14:01 |
-| 2026-09-22 12:00 | Cosmic CRF Ltd | 543928 | Receipt of purchase order by the subsidiary M/s. N S Engineering Projects Private Limited worth Rs. 250.46 Lakhs ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 22 Sep 2026 - 12:53 |
-| 2026-09-22 12:00 | Shelter Pharma Ltd | 543963 | Intimation Under Regulation 30 of SEBI (LODR) Regulations, 2015, Receipt of Significant International Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 22 Sep 2026 - 12:23 |
-| 2026-09-22 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 22 Sep 2026 - 11:38 |
+| 2026-09-23 12:00 | Subex Ltd | 532348 | Subex secured a contract with a major mobile network operator in the Asia Pacific region ([Link](https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/)) | Likely Positive | 23 Sep 2026 - 12:36 |
+| 2026-09-23 11:00 | Desco Infratech Ltd | 544387 | Intimation regarding receipt of Purchase Order amounting to Rs. 23.40 million from Adani Total Gas Limited ("ATGL") under Regulation 30 of SEBI (Listing and Disclosure Requirements) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/)) | Likely Positive | 23 Sep 2026 - 11:49 |
+| 2026-09-23 10:00 | Skipper Ltd | 538562 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/)) | Likely Positive | 23 Sep 2026 - 10:42 |
+| 2026-09-23 08:00 | Oswal Pumps Ltd | 544418 | As per attached intimation letter. ([Link](https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/)) | Neutral | 23 Sep 2026 - 08:54 |
 
-_Last updated: 22 Sep 2026 - 19:18 | Entries: 12 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-22.json)_
+_Last updated: 23 Sep 2026 - 13:39 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-23.json)_
 
 <!-- snapshot:end -->
 

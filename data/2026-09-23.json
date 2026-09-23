@@ -1,0 +1,57 @@
+{
+  "tradingDate": "2026-09-23",
+  "buckets": {
+    "2026-09-23T12": [
+      {
+        "newsId": "6a11a8ec-4981-4d00-a59d-8763fe0b34cb",
+        "scripCode": 532348,
+        "shortName": "Subex Ltd",
+        "headline": "Subex secured a contract with a major mobile network operator in the Asia Pacific region",
+        "announcedAt": "2026-09-23T12:36:06.980+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/subex-ltd/subexltd/532348/",
+        "rawTime": "2026-09-23T12:36:06.98"
+      }
+    ],
+    "2026-09-23T11": [
+      {
+        "newsId": "08df9471-47ff-416d-9aeb-aa0c157b43a3",
+        "scripCode": 544387,
+        "shortName": "Desco Infratech Ltd",
+        "headline": "Intimation regarding receipt of Purchase Order amounting to Rs. 23.40 million from Adani Total Gas Limited (\"ATGL\") under Regulation 30 of SEBI (Listing and Disclosure Requirements) Regulations, 2015.",
+        "announcedAt": "2026-09-23T11:49:06.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/desco-infratech-ltd/desco/544387/",
+        "rawTime": "2026-09-23T11:49:06.3"
+      }
+    ],
+    "2026-09-23T10": [
+      {
+        "newsId": "60cacb54-d652-4293-8717-ca4662c03757",
+        "scripCode": 538562,
+        "shortName": "Skipper Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-09-23T10:42:09.673+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/skipper-ltd/skipper/538562/",
+        "rawTime": "2026-09-23T10:42:09.673"
+      }
+    ],
+    "2026-09-23T08": [
+      {
+        "newsId": "7fa1d6a0-1b4a-4a5e-8648-66eab3f84f4e",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached intimation letter.",
+        "announcedAt": "2026-09-23T08:54:55.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2026-09-23T08:54:55.767"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-23T13:39:44.717+05:30",
+    "checksum": "e702889ebcc501949bfedf551406e3f5d0d183837503477d768354fd811d8537",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-23/awards-133943.json"
+  }
+}
