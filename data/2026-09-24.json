@@ -22,14 +22,54 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2026-09-24T08:47:54.747"
       }
+    ],
+    "2026-09-24T18": [
+      {
+        "newsId": "952c7eee-4383-4e6e-a212-20b0f5facdf5",
+        "scripCode": 544834,
+        "shortName": "Gulf Lloyds (India) Ltd",
+        "headline": "Announcement of Receipt of Work Order",
+        "announcedAt": "2026-09-24T18:51:35.727+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gulf-lloyds-(india)-ltd/gulflloyds/544834/",
+        "rawTime": "2026-09-24T18:51:35.727"
+      },
+      {
+        "newsId": "589eb523-e703-4527-894a-acf50a6289e9",
+        "scripCode": 511702,
+        "shortName": "YOGI Ltd",
+        "headline": "Please find the attached Intimation for Receipt of Orders",
+        "announcedAt": "2026-09-24T18:42:36.877+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/yogi-ltd/yogi/511702/",
+        "rawTime": "2026-09-24T18:42:36.877"
+      },
+      {
+        "newsId": "a18afee2-58da-4c0f-94eb-56616d45f1e2",
+        "scripCode": 544501,
+        "shortName": "Sugs Lloyd Ltd",
+        "headline": "Sugs LLoyd Secures Order worth Rs. 4.68 crores from UPNEDA.",
+        "announcedAt": "2026-09-24T18:31:25.273+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/",
+        "rawTime": "2026-09-24T18:31:25.273"
+      }
+    ],
+    "2026-09-24T17": [
+      {
+        "newsId": "54edf4a8-9aef-44e7-a4be-6c958c3d35ac",
+        "scripCode": 506109,
+        "shortName": "Genesys International Corporation Ltd",
+        "headline": "Genesys International Corporation Limited has informed the exchange regarding - Genesys International wins contract valued at INR 283 crore for Ahmedabad''s 3D Digital Twin and Spatial ....",
+        "announcedAt": "2026-09-24T17:02:24.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/genesys-international-corporation-ltd/genesys/506109/",
+        "rawTime": "2026-09-24T17:02:24.91"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-24T13:30:44.031+05:30",
-    "checksum": "2977ed03fad727139963a6ae3bb5f5a73a816b5006c326b5f5af81db20f80c97",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-24T19:26:28.978+05:30",
+    "checksum": "fc1189bca8f3a40866179f8c4d0f5c5234f63d67226f574ecbc9600cfb697ac0",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-24/awards-133043.json"
+    "rawPayloadPath": "data/raw/2026-09-24/awards-192627.json"
   }
 }

@@ -22,10 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-24 18:00 | Gulf Lloyds (India) Ltd | 544834 | Announcement of Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/gulf-lloyds-(india)-ltd/gulflloyds/544834/)) | Likely Positive | 24 Sep 2026 - 18:51 |
+| 2026-09-24 18:00 | YOGI Ltd | 511702 | Please find the attached Intimation for Receipt of Orders ([Link](https://www.bseindia.com/stock-share-price/yogi-ltd/yogi/511702/)) | Likely Positive | 24 Sep 2026 - 18:42 |
+| 2026-09-24 18:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Secures Order worth Rs. 4.68 crores from UPNEDA. ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Likely Positive | 24 Sep 2026 - 18:31 |
+| 2026-09-24 17:00 | Genesys International Corporation Ltd | 506109 | Genesys International Corporation Limited has informed the exchange regarding - Genesys International wins contract valued at INR 283 crore for Ahmedabad''s 3D Digital Twin and Spatial .... ([Link](https://www.bseindia.com/stock-share-price/genesys-international-corporation-ltd/genesys/506109/)) | Likely Positive | 24 Sep 2026 - 17:02 |
 | 2026-09-24 12:00 | Lancor Holdings Ltd | 509048 | Disclosure of Reg 30- Order ([Link](https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/)) | Likely Positive | 24 Sep 2026 - 12:42 |
 | 2026-09-24 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2025 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 24 Sep 2026 - 08:47 |
 
-_Last updated: 24 Sep 2026 - 13:30 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-24.json)_
+_Last updated: 24 Sep 2026 - 19:26 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-24.json)_
 
 <!-- snapshot:end -->
 
