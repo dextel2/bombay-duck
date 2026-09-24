@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-09-24",
+  "buckets": {
+    "2026-09-24T12": [
+      {
+        "newsId": "24b41bef-8cf4-4503-b708-fded58380f1e",
+        "scripCode": 509048,
+        "shortName": "Lancor Holdings Ltd",
+        "headline": "Disclosure of Reg 30- Order",
+        "announcedAt": "2026-09-24T12:42:53.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/",
+        "rawTime": "2026-09-24T12:42:53.093"
+      }
+    ],
+    "2026-09-24T08": [
+      {
+        "newsId": "b6a64b18-e208-413c-b234-3a26d302fb5d",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2025 CRORES",
+        "announcedAt": "2026-09-24T08:47:54.747+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2026-09-24T08:47:54.747"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-24T13:30:44.031+05:30",
+    "checksum": "2977ed03fad727139963a6ae3bb5f5a73a816b5006c326b5f5af81db20f80c97",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-24/awards-133043.json"
+  }
+}
