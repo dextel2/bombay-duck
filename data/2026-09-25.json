@@ -33,14 +33,45 @@
         "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
         "rawTime": "2026-09-25T07:39:25.29"
       }
+    ],
+    "2026-09-25T18": [
+      {
+        "newsId": "0abcbb62-a635-48e9-bced-2f537f91fb36",
+        "scripCode": 532880,
+        "shortName": "Omaxe Ltd",
+        "headline": "Please find enclosed herewith a copy of intimation w.r.t. Order passed by Securities and Exchange Board of India.",
+        "announcedAt": "2026-09-25T18:14:27.717+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/omaxe-ltd/omaxe/532880/",
+        "rawTime": "2026-09-25T18:14:27.717"
+      }
+    ],
+    "2026-09-25T14": [
+      {
+        "newsId": "e5cbb68d-e1d2-4bb0-9b12-ecd626a8a9f0",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase order by the Company worth Rs. 1329.80 Lakhs.",
+        "announcedAt": "2026-09-25T14:19:30.943+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-25T14:19:30.943"
+      },
+      {
+        "newsId": "44b4bb4d-5f49-4ef9-85ee-caa9d771e128",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "Receipt of Purchase Order by the Subsidiary M/s N S Engineering Projects Pvt. Ltd. worth Rs. 1302.45 Lakhs.",
+        "announcedAt": "2026-09-25T14:16:23.800+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-09-25T14:16:23.8"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-25T13:55:06.703+05:30",
-    "checksum": "81a442760bfa5d9fa8e800a045985270c69cd79567aa767a21ddc0af244066ab",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-25T19:50:42.838+05:30",
+    "checksum": "73926c27ba294ef072f6622c5992343a0147d4d5baf39af6f5b21854336c17f2",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-25/awards-135505.json"
+    "rawPayloadPath": "data/raw/2026-09-25/awards-195041.json"
   }
 }
