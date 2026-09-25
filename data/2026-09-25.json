@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-09-25",
+  "buckets": {
+    "2026-09-25T13": [
+      {
+        "newsId": "d46546e9-a8e3-4888-bfce-06516dbe4559",
+        "scripCode": 544538,
+        "shortName": "Praruh Technologies Ltd",
+        "headline": "Praruh Technologies Limited has received a Rate Contract from Railtel Corporation limited.",
+        "announcedAt": "2026-09-25T13:50:18.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/",
+        "rawTime": "2026-09-25T13:50:18.33"
+      }
+    ],
+    "2026-09-25T08": [
+      {
+        "newsId": "e74ac867-910b-4359-b6ca-66ff026a2b62",
+        "scripCode": 532144,
+        "shortName": "Welspun Corp Ltd",
+        "headline": "Welspun Corp wins Largest-Ever Order for HFIW Pipes in Company''s History, Valued at approx USD 412.5 Million (approx. Rs. 4000 crors) , to be supplied from its USA Manufacturing Facility",
+        "announcedAt": "2026-09-25T08:29:19.030+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/",
+        "rawTime": "2026-09-25T08:29:19.03"
+      }
+    ],
+    "2026-09-25T07": [
+      {
+        "newsId": "2f78d0e2-9967-4323-b263-04d1fcb81b10",
+        "scripCode": 533156,
+        "shortName": "Vascon Engineers Ltd",
+        "headline": "Vascon Engineers Limited receives Letter of Intent amounting to Rs. 660.79 Crore from Qualcumm India Private Limited",
+        "announcedAt": "2026-09-25T07:39:25.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
+        "rawTime": "2026-09-25T07:39:25.29"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-25T13:55:06.703+05:30",
+    "checksum": "81a442760bfa5d9fa8e800a045985270c69cd79567aa767a21ddc0af244066ab",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-25/awards-135505.json"
+  }
+}

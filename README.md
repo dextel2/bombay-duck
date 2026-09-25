@@ -18,18 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-24 IST)
+### Today's Awarded Orders (2026-09-25 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-24 18:00 | Gulf Lloyds (India) Ltd | 544834 | Announcement of Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/gulf-lloyds-(india)-ltd/gulflloyds/544834/)) | Likely Positive | 24 Sep 2026 - 18:51 |
-| 2026-09-24 18:00 | YOGI Ltd | 511702 | Please find the attached Intimation for Receipt of Orders ([Link](https://www.bseindia.com/stock-share-price/yogi-ltd/yogi/511702/)) | Likely Positive | 24 Sep 2026 - 18:42 |
-| 2026-09-24 18:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Secures Order worth Rs. 4.68 crores from UPNEDA. ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Likely Positive | 24 Sep 2026 - 18:31 |
-| 2026-09-24 17:00 | Genesys International Corporation Ltd | 506109 | Genesys International Corporation Limited has informed the exchange regarding - Genesys International wins contract valued at INR 283 crore for Ahmedabad''s 3D Digital Twin and Spatial .... ([Link](https://www.bseindia.com/stock-share-price/genesys-international-corporation-ltd/genesys/506109/)) | Likely Positive | 24 Sep 2026 - 17:02 |
-| 2026-09-24 12:00 | Lancor Holdings Ltd | 509048 | Disclosure of Reg 30- Order ([Link](https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/)) | Likely Positive | 24 Sep 2026 - 12:42 |
-| 2026-09-24 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2025 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 24 Sep 2026 - 08:47 |
+| 2026-09-25 13:00 | Praruh Technologies Ltd | 544538 | Praruh Technologies Limited has received a Rate Contract from Railtel Corporation limited. ([Link](https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/)) | Likely Positive | 25 Sep 2026 - 13:50 |
+| 2026-09-25 08:00 | Welspun Corp Ltd | 532144 | Welspun Corp wins Largest-Ever Order for HFIW Pipes in Company''s History, Valued at approx USD 412.5 Million (approx. Rs. 4000 crors) , to be supplied from its USA Manufacturing Facility ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 25 Sep 2026 - 08:29 |
+| 2026-09-25 07:00 | Vascon Engineers Ltd | 533156 | Vascon Engineers Limited receives Letter of Intent amounting to Rs. 660.79 Crore from Qualcumm India Private Limited ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Neutral | 25 Sep 2026 - 07:39 |
 
-_Last updated: 24 Sep 2026 - 19:26 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-24.json)_
+_Last updated: 25 Sep 2026 - 13:55 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-25.json)_
 
 <!-- snapshot:end -->
 
