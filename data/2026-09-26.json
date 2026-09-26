@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-09-26",
+  "buckets": {
+    "2026-09-26T13": [
+      {
+        "newsId": "82f6e9ce-4b8f-4e0f-8264-4b070abaaca0",
+        "scripCode": 544741,
+        "shortName": "Highness Microelectronics Ltd",
+        "headline": "Intimation of Receipt of Purchase order under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015.",
+        "announcedAt": "2026-09-26T13:38:21.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/",
+        "rawTime": "2026-09-26T13:38:21.847"
+      }
+    ],
+    "2026-09-26T10": [
+      {
+        "newsId": "28f18d3a-73a2-46e9-9c24-a96f75f98141",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-09-26T10:45:34.193+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-09-26T10:45:34.193"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-26T13:42:14.130+05:30",
+    "checksum": "155d1417cdbeb0e121c7b7cf3b2505e5febe42d4fdb424af2cda1d9ee10da0ef",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-26/awards-134213.json"
+  }
+}

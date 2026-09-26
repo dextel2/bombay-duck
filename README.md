@@ -18,18 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-25 IST)
+### Today's Awarded Orders (2026-09-26 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-25 18:00 | Omaxe Ltd | 532880 | Please find enclosed herewith a copy of intimation w.r.t. Order passed by Securities and Exchange Board of India. ([Link](https://www.bseindia.com/stock-share-price/omaxe-ltd/omaxe/532880/)) | Likely Positive | 25 Sep 2026 - 18:14 |
-| 2026-09-25 14:00 | Cosmic CRF Ltd | 543928 | Receipt of Purchase order by the Company worth Rs. 1329.80 Lakhs. ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 25 Sep 2026 - 14:19 |
-| 2026-09-25 14:00 | Cosmic CRF Ltd | 543928 | Receipt of Purchase Order by the Subsidiary M/s N S Engineering Projects Pvt. Ltd. worth Rs. 1302.45 Lakhs. ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 25 Sep 2026 - 14:16 |
-| 2026-09-25 13:00 | Praruh Technologies Ltd | 544538 | Praruh Technologies Limited has received a Rate Contract from Railtel Corporation limited. ([Link](https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/)) | Likely Positive | 25 Sep 2026 - 13:50 |
-| 2026-09-25 08:00 | Welspun Corp Ltd | 532144 | Welspun Corp wins Largest-Ever Order for HFIW Pipes in Company''s History, Valued at approx USD 412.5 Million (approx. Rs. 4000 crors) , to be supplied from its USA Manufacturing Facility ([Link](https://www.bseindia.com/stock-share-price/welspun-corp-ltd/welcorp/532144/)) | Likely Positive | 25 Sep 2026 - 08:29 |
-| 2026-09-25 07:00 | Vascon Engineers Ltd | 533156 | Vascon Engineers Limited receives Letter of Intent amounting to Rs. 660.79 Crore from Qualcumm India Private Limited ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Neutral | 25 Sep 2026 - 07:39 |
+| 2026-09-26 13:00 | Highness Microelectronics Ltd | 544741 | Intimation of Receipt of Purchase order under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/)) | Likely Positive | 26 Sep 2026 - 13:38 |
+| 2026-09-26 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 26 Sep 2026 - 10:45 |
 
-_Last updated: 25 Sep 2026 - 19:50 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-25.json)_
+_Last updated: 26 Sep 2026 - 13:42 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-26.json)_
 
 <!-- snapshot:end -->
 
