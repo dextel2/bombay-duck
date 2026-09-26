@@ -22,10 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-26 17:00 | Speciality Restaurants Ltd | 534425 | As Enclosed. ([Link](https://www.bseindia.com/stock-share-price/speciality-restaurants-ltd/speciality/534425/)) | Neutral | 26 Sep 2026 - 17:35 |
+| 2026-09-26 15:00 | Shayona Engineering Ltd | 544686 | Intimation of receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 26 Sep 2026 - 15:27 |
+| 2026-09-26 15:00 | Shayona Engineering Ltd | 544686 | Intimation of Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 26 Sep 2026 - 15:24 |
+| 2026-09-26 14:00 | Silver Touch Technologies Ltd | 543525 | Enclosed herewith Business Update on "Silver Touch Technologies has received purchase order from Space Applications Centre (SAC), Indian Space Research Organisation (ISRO), Department of .... ([Link](https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/)) | Likely Positive | 26 Sep 2026 - 14:35 |
 | 2026-09-26 13:00 | Highness Microelectronics Ltd | 544741 | Intimation of Receipt of Purchase order under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015. ([Link](https://www.bseindia.com/stock-share-price/highness-microelectronics-ltd/highness/544741/)) | Likely Positive | 26 Sep 2026 - 13:38 |
 | 2026-09-26 10:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 26 Sep 2026 - 10:45 |
 
-_Last updated: 26 Sep 2026 - 13:42 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-26.json)_
+_Last updated: 26 Sep 2026 - 19:02 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-26.json)_
 
 <!-- snapshot:end -->
 

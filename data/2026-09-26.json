@@ -22,14 +22,56 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-09-26T10:45:34.193"
       }
+    ],
+    "2026-09-26T17": [
+      {
+        "newsId": "05ac6c71-b705-442b-833f-4a28ca5ad51d",
+        "scripCode": 534425,
+        "shortName": "Speciality Restaurants Ltd",
+        "headline": "As Enclosed.",
+        "announcedAt": "2026-09-26T17:35:00.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/speciality-restaurants-ltd/speciality/534425/",
+        "rawTime": "2026-09-26T17:35:00.353"
+      }
+    ],
+    "2026-09-26T15": [
+      {
+        "newsId": "203bd716-9ced-4760-bfbf-41f6f66fbb75",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of receipt of Purchase Order",
+        "announcedAt": "2026-09-26T15:27:47.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-09-26T15:27:47.853"
+      },
+      {
+        "newsId": "ecea9010-a84a-4adb-9ca5-31402dea942a",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of Receipt of Order",
+        "announcedAt": "2026-09-26T15:24:29.240+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-09-26T15:24:29.24"
+      }
+    ],
+    "2026-09-26T14": [
+      {
+        "newsId": "7dc5e25a-a6e0-4cc1-b0bc-66b0c5f496cd",
+        "scripCode": 543525,
+        "shortName": "Silver Touch Technologies Ltd",
+        "headline": "Enclosed herewith Business Update on \"Silver Touch Technologies has received purchase order from Space Applications Centre (SAC), Indian Space Research Organisation (ISRO), Department of ....",
+        "announcedAt": "2026-09-26T14:35:28.600+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/",
+        "rawTime": "2026-09-26T14:35:28.6"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-26T13:42:14.130+05:30",
-    "checksum": "155d1417cdbeb0e121c7b7cf3b2505e5febe42d4fdb424af2cda1d9ee10da0ef",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-26T19:02:32.500+05:30",
+    "checksum": "14719694aa8d0e661721603a30be71d00a8f5c2f61518c073da0fb3cc8f46954",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-26/awards-134213.json"
+    "rawPayloadPath": "data/raw/2026-09-26/awards-190231.json"
   }
 }
