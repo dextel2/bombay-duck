@@ -1,12 +1,24 @@
 {
   "tradingDate": "2026-09-27",
-  "buckets": {},
+  "buckets": {
+    "2026-09-27T17": [
+      {
+        "newsId": "4d98ca38-cb05-4a99-a937-8c97a2d05591",
+        "scripCode": 543433,
+        "shortName": "HP Adhesives Ltd",
+        "headline": "Receipt of Order-In-Original from Joint Commissioner of Customs (NS - I)",
+        "announcedAt": "2026-09-27T17:52:35.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hp-adhesives-ltd/hpal/543433/",
+        "rawTime": "2026-09-27T17:52:35.81"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-09-27T14:19:08.259+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-27T19:59:36.837+05:30",
+    "checksum": "32d1823e01dbec9749f76a20aa90b2687f1be872c882280ce05e0256d3dc232e",
+    "totalAnnouncements": 1,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-27/awards-141907.json"
+    "rawPayloadPath": "data/raw/2026-09-27/awards-195936.json"
   }
 }
