@@ -18,13 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-27 IST)
+### Today's Awarded Orders (2026-09-28 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-09-27 17:00 | HP Adhesives Ltd | 543433 | Receipt of Order-In-Original from Joint Commissioner of Customs (NS - I) ([Link](https://www.bseindia.com/stock-share-price/hp-adhesives-ltd/hpal/543433/)) | Likely Positive | 27 Sep 2026 - 17:52 |
+_No award announcements have been captured yet today._
 
-_Last updated: 27 Sep 2026 - 19:59 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-27.json)_
+_Last updated: 28 Sep 2026 - 23:24 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-28.json)_
 
 <!-- snapshot:end -->
 
