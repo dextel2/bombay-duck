@@ -73,14 +73,98 @@
         "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
         "rawTime": "2026-09-29T10:32:42.56"
       }
+    ],
+    "2026-09-29T21": [
+      {
+        "newsId": "85794e19-dc76-42a4-8f09-c2a5746e6b2d",
+        "scripCode": 544822,
+        "shortName": "Laser Power & Infra Ltd",
+        "headline": "Intimation pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015- Letter of Intent received from CESC Limited for execution of EPC works",
+        "announcedAt": "2026-09-29T21:16:52.233+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/",
+        "rawTime": "2026-09-29T21:16:52.233"
+      }
+    ],
+    "2026-09-29T20": [
+      {
+        "newsId": "c2964489-8596-4dab-84bb-131b1c36da2f",
+        "scripCode": 500249,
+        "shortName": "KSB Ltd",
+        "headline": "KSB Limited receives letter of award from Dangote projects free zone enterprise",
+        "announcedAt": "2026-09-29T20:39:42.773+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ksb-ltd/ksb/500249/",
+        "rawTime": "2026-09-29T20:39:42.773"
+      }
+    ],
+    "2026-09-29T18": [
+      {
+        "newsId": "8629dd91-f897-4b35-a7a5-30046ac6daa3",
+        "scripCode": 544167,
+        "shortName": "JNK India Ltd",
+        "headline": "Intimation regarding receipt of orders.",
+        "announcedAt": "2026-09-29T18:34:17.123+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jnk-india-ltd/jnkindia/544167/",
+        "rawTime": "2026-09-29T18:34:17.123"
+      }
+    ],
+    "2026-09-29T17": [
+      {
+        "newsId": "0b62e4c9-365d-4a66-bbeb-e7e12bc9f5aa",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please find the enclosed disclosure related to receipt of Order",
+        "announcedAt": "2026-09-29T17:54:13.733+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-09-29T17:54:13.733"
+      },
+      {
+        "newsId": "4b6547e9-32d5-4c75-af45-817377aed78c",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-09-29T17:49:48.373+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-09-29T17:49:48.373"
+      },
+      {
+        "newsId": "228aa711-535e-4951-b7a3-0f8a590f5a00",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation for Material Order received for an amount -8.63 Crores",
+        "announcedAt": "2026-09-29T17:06:25.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-09-29T17:06:25.65"
+      }
+    ],
+    "2026-09-29T16": [
+      {
+        "newsId": "a523813d-ddf1-4e41-ae85-c2aa62774caa",
+        "scripCode": 544395,
+        "shortName": "STL Networks Ltd",
+        "headline": "Receipt of Letter of Intent",
+        "announcedAt": "2026-09-29T16:09:37.690+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/stl-networks-ltd/stlnetwork/544395/",
+        "rawTime": "2026-09-29T16:09:37.69"
+      }
+    ],
+    "2026-09-29T15": [
+      {
+        "newsId": "71eedf2d-9854-437d-b177-02b390f3eaf8",
+        "scripCode": 544419,
+        "shortName": "ArisInfra Solutions Ltd",
+        "headline": "Receipt of Order from Transcon Bellaviu Private Limited, SPV of Transcon Group through Subsidiary company",
+        "announcedAt": "2026-09-29T15:50:30.320+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/arisinfra-solutions-ltd/aris/544419/",
+        "rawTime": "2026-09-29T15:50:30.32"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-09-29T14:51:05.830+05:30",
-    "checksum": "97748ee2948cb1c648866e49e04ac8d2337961791749fa904bf5bc1b80b67a7b",
-    "totalAnnouncements": 7,
-    "requestCount": 1,
+    "lastUpdated": "2026-09-29T21:46:45.791+05:30",
+    "checksum": "d8fce3948a8da7311e76c7895110b29aae9353dd693078a4960a9ec1da873b59",
+    "totalAnnouncements": 15,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-09-29/awards-145105.json"
+    "rawPayloadPath": "data/raw/2026-09-29/awards-214645.json"
   }
 }
