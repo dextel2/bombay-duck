@@ -18,11 +18,19 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-28 IST)
+### Today's Awarded Orders (2026-09-29 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-09-29 14:00 | Schneider Electric President Systems Ltd | 544786 | Please find enclosed Order in Original received by the Company in relation to availment of Input Tax Credit on certain reverse charge mechanism (RCM) transactions pertaining to pre GST .... ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/)) | Likely Positive | 29 Sep 2026 - 14:16 |
+| 2026-09-29 14:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 29 Sep 2026 - 14:16 |
+| 2026-09-29 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 29 Sep 2026 - 13:59 |
+| 2026-09-29 12:00 | Valiant Communications Ltd-$ | 526775 | Receives Letter of Award worth Rs. 4,025 Lacs for Indian Power Utilities ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 29 Sep 2026 - 12:41 |
+| 2026-09-29 11:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Limited receives LOI from Sachkhand Sri Harmandir Sahib, Sri Darbar Sahib, Sri Amritsar for 2 MW(AC) Ground Mounted Solar Power Project ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Neutral | 29 Sep 2026 - 11:13 |
+| 2026-09-29 10:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from UP Power Transmission Corporation Limited for a period of 2 years of contract value of Rs. 69400954.24. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 29 Sep 2026 - 10:40 |
+| 2026-09-29 10:00 | Shayona Engineering Ltd | 544686 | Intimation under Reg 30 for receipt of Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Sep 2026 - 10:32 |
 
-_Last updated: 28 Sep 2026 - 23:24 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-28.json)_
+_Last updated: 29 Sep 2026 - 14:51 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-29.json)_
 
 <!-- snapshot:end -->
 

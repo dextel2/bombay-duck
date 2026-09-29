@@ -1,0 +1,86 @@
+{
+  "tradingDate": "2026-09-29",
+  "buckets": {
+    "2026-09-29T14": [
+      {
+        "newsId": "3c144fd0-b203-4417-ba30-ca810535d350",
+        "scripCode": 544786,
+        "shortName": "Schneider Electric President Systems Ltd",
+        "headline": "Please find enclosed Order in Original received by the Company in relation to availment of Input Tax Credit on certain reverse charge mechanism (RCM) transactions pertaining to pre GST ....",
+        "announcedAt": "2026-09-29T14:16:28.310+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/",
+        "rawTime": "2026-09-29T14:16:28.31"
+      },
+      {
+        "newsId": "9febf30d-a937-4657-9eb2-e9d6339d4f2d",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+        "announcedAt": "2026-09-29T14:16:25.133+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-09-29T14:16:25.133"
+      }
+    ],
+    "2026-09-29T13": [
+      {
+        "newsId": "31b30f5c-9e65-4031-8b3d-e8851e6ced92",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of work order.",
+        "announcedAt": "2026-09-29T13:59:40.837+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-09-29T13:59:40.837"
+      }
+    ],
+    "2026-09-29T12": [
+      {
+        "newsId": "1845e74c-dd43-4679-ba36-8dfbe5767738",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "Receives Letter of Award worth Rs. 4,025 Lacs for Indian Power Utilities",
+        "announcedAt": "2026-09-29T12:41:03.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2026-09-29T12:41:03.217"
+      }
+    ],
+    "2026-09-29T11": [
+      {
+        "newsId": "7efede09-f255-41ea-8760-1e2e160891d0",
+        "scripCode": 544501,
+        "shortName": "Sugs Lloyd Ltd",
+        "headline": "Sugs LLoyd Limited receives LOI from Sachkhand Sri Harmandir Sahib, Sri Darbar Sahib, Sri Amritsar for 2 MW(AC) Ground Mounted Solar Power Project",
+        "announcedAt": "2026-09-29T11:13:51.580+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/",
+        "rawTime": "2026-09-29T11:13:51.58"
+      }
+    ],
+    "2026-09-29T10": [
+      {
+        "newsId": "a4e372bf-6051-49a1-858f-38779147e9ec",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from UP Power Transmission Corporation Limited for a period of 2 years of contract value of Rs. 69400954.24. For further ....",
+        "announcedAt": "2026-09-29T10:40:01.297+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-09-29T10:40:01.297"
+      },
+      {
+        "newsId": "4420d187-757a-466d-ab63-0b2505073c4a",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation under Reg 30 for receipt of Order",
+        "announcedAt": "2026-09-29T10:32:42.560+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-09-29T10:32:42.56"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-29T14:51:05.830+05:30",
+    "checksum": "97748ee2948cb1c648866e49e04ac8d2337961791749fa904bf5bc1b80b67a7b",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-29/awards-145105.json"
+  }
+}
