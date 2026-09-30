@@ -1,0 +1,88 @@
+{
+  "tradingDate": "2026-09-30",
+  "buckets": {
+    "2026-09-30T14": [
+      {
+        "newsId": "40a0e06e-6e48-4e43-84c2-8c38ab39edf5",
+        "scripCode": 544911,
+        "shortName": "Kanohar Electricals Ltd",
+        "headline": "Disclosure pursuant to regulation 30(12) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015-Receipt of Notification of Award",
+        "announcedAt": "2026-09-30T14:01:22.360+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kanohar-electricals-ltd/kanohar/544911/",
+        "rawTime": "2026-09-30T14:01:22.36"
+      }
+    ],
+    "2026-09-30T13": [
+      {
+        "newsId": "4b445449-fc8c-432c-b068-9dbef58e153b",
+        "scripCode": 544532,
+        "shortName": "Solarworld Energy Solutions Ltd",
+        "headline": "Receipt of purchase order for supply of Solar Panels.",
+        "announcedAt": "2026-09-30T13:35:31.453+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/",
+        "rawTime": "2026-09-30T13:35:31.453"
+      }
+    ],
+    "2026-09-30T12": [
+      {
+        "newsId": "34116125-5add-405b-92e4-8322cc784a78",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Transportation Infrastructure Vertical Secures Twin Contracts in Dubai",
+        "announcedAt": "2026-09-30T12:15:33.843+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-09-30T12:15:33.843"
+      },
+      {
+        "newsId": "1d286aff-2d03-42cd-8249-add30c36d472",
+        "scripCode": 544223,
+        "shortName": "Ceigall India Ltd",
+        "headline": "In continuation to our earlier intimation dated 08th September 2026 and in accordance with the above-mentioned provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, ....",
+        "announcedAt": "2026-09-30T12:04:05.510+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
+        "rawTime": "2026-09-30T12:04:05.51"
+      }
+    ],
+    "2026-09-30T11": [
+      {
+        "newsId": "d039c0bd-48bc-486f-b98d-b0de4605b8a8",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
+        "announcedAt": "2026-09-30T11:51:29.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-09-30T11:51:29.95"
+      }
+    ],
+    "2026-09-30T10": [
+      {
+        "newsId": "419f6fd1-68b2-4819-9322-7c24b0ffdb05",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of Receipt of Purchase Order",
+        "announcedAt": "2026-09-30T10:37:46.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-09-30T10:37:46.55"
+      }
+    ],
+    "2026-09-30T09": [
+      {
+        "newsId": "f589845b-767e-4ed0-a778-38c708b56335",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of receiving of work order.",
+        "announcedAt": "2026-09-30T09:36:46.960+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-09-30T09:36:46.96"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-09-30T14:41:29.338+05:30",
+    "checksum": "404da2eadabe31663132f50206197148863bb72769707de02584617be99f1204",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-09-30/awards-144128.json"
+  }
+}

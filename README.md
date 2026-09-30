@@ -18,27 +18,19 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-09-29 IST)
+### Today's Awarded Orders (2026-09-30 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-29 21:00 | Laser Power & Infra Ltd | 544822 | Intimation pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015- Letter of Intent received from CESC Limited for execution of EPC works ([Link](https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/)) | Neutral | 29 Sep 2026 - 21:16 |
-| 2026-09-29 20:00 | KSB Ltd | 500249 | KSB Limited receives letter of award from Dangote projects free zone enterprise ([Link](https://www.bseindia.com/stock-share-price/ksb-ltd/ksb/500249/)) | Neutral | 29 Sep 2026 - 20:39 |
-| 2026-09-29 18:00 | JNK India Ltd | 544167 | Intimation regarding receipt of orders. ([Link](https://www.bseindia.com/stock-share-price/jnk-india-ltd/jnkindia/544167/)) | Likely Positive | 29 Sep 2026 - 18:34 |
-| 2026-09-29 17:00 | Power Mech Projects Ltd | 539302 | Please find the enclosed disclosure related to receipt of Order ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Likely Positive | 29 Sep 2026 - 17:54 |
-| 2026-09-29 17:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 29 Sep 2026 - 17:49 |
-| 2026-09-29 17:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation for Material Order received for an amount -8.63 Crores ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 29 Sep 2026 - 17:06 |
-| 2026-09-29 16:00 | STL Networks Ltd | 544395 | Receipt of Letter of Intent ([Link](https://www.bseindia.com/stock-share-price/stl-networks-ltd/stlnetwork/544395/)) | Likely Positive | 29 Sep 2026 - 16:09 |
-| 2026-09-29 15:00 | ArisInfra Solutions Ltd | 544419 | Receipt of Order from Transcon Bellaviu Private Limited, SPV of Transcon Group through Subsidiary company ([Link](https://www.bseindia.com/stock-share-price/arisinfra-solutions-ltd/aris/544419/)) | Likely Positive | 29 Sep 2026 - 15:50 |
-| 2026-09-29 14:00 | Schneider Electric President Systems Ltd | 544786 | Please find enclosed Order in Original received by the Company in relation to availment of Input Tax Credit on certain reverse charge mechanism (RCM) transactions pertaining to pre GST .... ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-president-systems-ltd/selectric/544786/)) | Likely Positive | 29 Sep 2026 - 14:16 |
-| 2026-09-29 14:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 29 Sep 2026 - 14:16 |
-| 2026-09-29 13:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of work order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 29 Sep 2026 - 13:59 |
-| 2026-09-29 12:00 | Valiant Communications Ltd-$ | 526775 | Receives Letter of Award worth Rs. 4,025 Lacs for Indian Power Utilities ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Neutral | 29 Sep 2026 - 12:41 |
-| 2026-09-29 11:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Limited receives LOI from Sachkhand Sri Harmandir Sahib, Sri Darbar Sahib, Sri Amritsar for 2 MW(AC) Ground Mounted Solar Power Project ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Neutral | 29 Sep 2026 - 11:13 |
-| 2026-09-29 10:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from UP Power Transmission Corporation Limited for a period of 2 years of contract value of Rs. 69400954.24. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 29 Sep 2026 - 10:40 |
-| 2026-09-29 10:00 | Shayona Engineering Ltd | 544686 | Intimation under Reg 30 for receipt of Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 29 Sep 2026 - 10:32 |
+| 2026-09-30 14:00 | Kanohar Electricals Ltd | 544911 | Disclosure pursuant to regulation 30(12) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015-Receipt of Notification of Award ([Link](https://www.bseindia.com/stock-share-price/kanohar-electricals-ltd/kanohar/544911/)) | Likely Positive | 30 Sep 2026 - 14:01 |
+| 2026-09-30 13:00 | Solarworld Energy Solutions Ltd | 544532 | Receipt of purchase order for supply of Solar Panels. ([Link](https://www.bseindia.com/stock-share-price/solarworld-energy-solutions-ltd/solarworld/544532/)) | Likely Positive | 30 Sep 2026 - 13:35 |
+| 2026-09-30 12:00 | Larsen & Toubro Ltd | 500510 | L&T Transportation Infrastructure Vertical Secures Twin Contracts in Dubai ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 30 Sep 2026 - 12:15 |
+| 2026-09-30 12:00 | Ceigall India Ltd | 544223 | In continuation to our earlier intimation dated 08th September 2026 and in accordance with the above-mentioned provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, .... ([Link](https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/)) | Neutral | 30 Sep 2026 - 12:04 |
+| 2026-09-30 11:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 30 Sep 2026 - 11:51 |
+| 2026-09-30 10:00 | Shayona Engineering Ltd | 544686 | Intimation of Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 30 Sep 2026 - 10:37 |
+| 2026-09-30 09:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receiving of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 30 Sep 2026 - 09:36 |
 
-_Last updated: 29 Sep 2026 - 21:46 | Entries: 15 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-09-29.json)_
+_Last updated: 30 Sep 2026 - 14:41 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-09-30.json)_
 
 <!-- snapshot:end -->
 
