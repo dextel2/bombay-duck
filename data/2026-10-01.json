@@ -1,0 +1,86 @@
+{
+  "tradingDate": "2026-10-01",
+  "buckets": {
+    "2026-10-01T15": [
+      {
+        "newsId": "56b56e12-04a9-4a14-8ddd-accc4fbd17ca",
+        "scripCode": 526612,
+        "shortName": "Blue Dart Express Ltd",
+        "headline": "As per the attachment",
+        "announcedAt": "2026-10-01T15:01:41.293+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/blue-dart-express-ltd/bluedart/526612/",
+        "rawTime": "2026-10-01T15:01:41.293"
+      }
+    ],
+    "2026-10-01T13": [
+      {
+        "newsId": "2b4345ba-6929-4325-b3f9-5291195e731c",
+        "scripCode": 509631,
+        "shortName": "HEG Advanced Materials Ltd",
+        "headline": "Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company",
+        "announcedAt": "2026-10-01T13:40:34.603+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/heg-advanced-materials-ltd/hegam/509631/",
+        "rawTime": "2026-10-01T13:40:34.603"
+      }
+    ],
+    "2026-10-01T12": [
+      {
+        "newsId": "385afe09-8b82-4bf2-bae7-3824e4a85530",
+        "scripCode": 532406,
+        "shortName": "Avantel Ltd",
+        "headline": "Receipt of Contract worth of Rs.6.02 Cr",
+        "announcedAt": "2026-10-01T12:44:58.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/",
+        "rawTime": "2026-10-01T12:44:58.44"
+      }
+    ],
+    "2026-10-01T11": [
+      {
+        "newsId": "7b36b94d-95ca-40e4-b9db-a3feb2aaa472",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed herewith Press Release on contract win of Rs. 385 Crore by a Subsidiary Company of GPT Infraprojects Limited",
+        "announcedAt": "2026-10-01T11:48:31.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-10-01T11:48:31.263"
+      },
+      {
+        "newsId": "922b91ef-1d44-4061-aeda-9044671336bf",
+        "scripCode": 533553,
+        "shortName": "TD Power Systems Ltd",
+        "headline": "Intimation of Receipt of Order",
+        "announcedAt": "2026-10-01T11:44:29.447+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/td-power-systems-ltd/tdpowersys/533553/",
+        "rawTime": "2026-10-01T11:44:29.447"
+      },
+      {
+        "newsId": "e396e688-5aa6-4dd2-b465-3d9955c2a731",
+        "scripCode": 532374,
+        "shortName": "Sterlite Technologies Ltd",
+        "headline": "Intimation of receipt of order under Regulation 30 of SEBI Listing Regulations 2015",
+        "announcedAt": "2026-10-01T11:19:55.600+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/",
+        "rawTime": "2026-10-01T11:19:55.6"
+      }
+    ],
+    "2026-10-01T10": [
+      {
+        "newsId": "594418fe-a8e3-4cd9-a30f-36d9a2a510ac",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of receiving of work order.",
+        "announcedAt": "2026-10-01T10:59:57.530+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-10-01T10:59:57.53"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-01T15:09:04.858+05:30",
+    "checksum": "1c8b5acee4c9550658c73731452d3d7e696e256168f5f28f44b6a9e26fa7de16",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-01/awards-150904.json"
+  }
+}
