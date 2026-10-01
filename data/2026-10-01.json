@@ -3,6 +3,15 @@
   "buckets": {
     "2026-10-01T15": [
       {
+        "newsId": "77b8adfc-00b7-41df-89c6-e64d4d5ac2e0",
+        "scripCode": 544441,
+        "shortName": "Meta Infotech Ltd",
+        "headline": "We wish to inform that company has received fresh and renewal orders amounting to Rs. 7.82 crores bagged by the Company in the ordinary course of business.",
+        "announcedAt": "2026-10-01T15:33:11.427+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/",
+        "rawTime": "2026-10-01T15:33:11.427"
+      },
+      {
         "newsId": "56b56e12-04a9-4a14-8ddd-accc4fbd17ca",
         "scripCode": 526612,
         "shortName": "Blue Dart Express Ltd",
@@ -73,14 +82,92 @@
         "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
         "rawTime": "2026-10-01T10:59:57.53"
       }
+    ],
+    "2026-10-01T22": [
+      {
+        "newsId": "7763d1e7-607a-4f65-bec9-7a6ffba1b04f",
+        "scripCode": 530377,
+        "shortName": "Nila Infrastructures Ltd",
+        "headline": "Intimation of Amendment in Work Order",
+        "announcedAt": "2026-10-01T22:02:58.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nila-infrastructures-ltd/nilainfra/530377/",
+        "rawTime": "2026-10-01T22:02:58.523"
+      },
+      {
+        "newsId": "a8831ca9-73f7-42e2-b134-8720e9220692",
+        "scripCode": 530377,
+        "shortName": "Nila Infrastructures Ltd",
+        "headline": "Intimation of Amendment in Work order",
+        "announcedAt": "2026-10-01T22:00:15.833+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/nila-infrastructures-ltd/nilainfra/530377/",
+        "rawTime": "2026-10-01T22:00:15.833"
+      }
+    ],
+    "2026-10-01T18": [
+      {
+        "newsId": "4c36c6ff-2d0b-42e2-b2e5-dfd9887922fb",
+        "scripCode": 542649,
+        "shortName": "Rail Vikas Nigam Ltd",
+        "headline": "Cancellation of Letter of Award received from East Coast Railway",
+        "announcedAt": "2026-10-01T18:57:02.927+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
+        "rawTime": "2026-10-01T18:57:02.927"
+      }
+    ],
+    "2026-10-01T17": [
+      {
+        "newsId": "b98f3be0-702e-47b5-bb2f-e8e406968691",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed herewith Press Release on contract win of Rs. 21.21 Crore by Alcon Builders and Engineers Private Limited, a wholly owned subsidiary of the Company",
+        "announcedAt": "2026-10-01T17:50:44.433+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-10-01T17:50:44.433"
+      },
+      {
+        "newsId": "2714de4f-0334-4c3d-9279-e2eeca23b03b",
+        "scripCode": 544315,
+        "shortName": "Concord Enviro Systems Ltd",
+        "headline": "Pursuant to Regulation 30 read with Part A(B) of Schedule III of SEBI LODR Regulations, 2015, we are pleased to inform you that, Rochem Separation Systems (India) Private Limited, a material ....",
+        "announcedAt": "2026-10-01T17:42:02.627+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/concord-enviro-systems-ltd/cewater/544315/",
+        "rawTime": "2026-10-01T17:42:02.627"
+      },
+      {
+        "newsId": "d4718c75-0d8c-487c-9954-1470bdba36df",
+        "scripCode": 544406,
+        "shortName": "Unified Data Tech Solutions Ltd",
+        "headline": "Announcement under Regulation 30 of Sebi (LODR) Regulations, 2015 for receipt of Purchase Order.",
+        "announcedAt": "2026-10-01T17:34:26.430+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/unified-data-tech-solutions-ltd/unified/544406/",
+        "rawTime": "2026-10-01T17:34:26.43"
+      },
+      {
+        "newsId": "52d54135-4b75-4e66-b2e6-aae6996a6744",
+        "scripCode": 538734,
+        "shortName": "Ceinsys Tech Ltd",
+        "headline": "Intimation of Extension of Letter of Award from MSRDC Tunnels Limited",
+        "announcedAt": "2026-10-01T17:28:38.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/",
+        "rawTime": "2026-10-01T17:28:38.07"
+      },
+      {
+        "newsId": "5ec76625-73bf-414a-979d-2ea8b6987545",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-10-01T17:28:27.713+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-10-01T17:28:27.713"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-01T15:09:04.858+05:30",
-    "checksum": "1c8b5acee4c9550658c73731452d3d7e696e256168f5f28f44b6a9e26fa7de16",
-    "totalAnnouncements": 7,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-01T22:18:42.246+05:30",
+    "checksum": "eb89826e71e92f7ea1a07d134c48d381f852db697b4e87cb7081e22055107c53",
+    "totalAnnouncements": 16,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-01/awards-150904.json"
+    "rawPayloadPath": "data/raw/2026-10-01/awards-221841.json"
   }
 }
