@@ -18,28 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-01 IST)
+### Today's Awarded Orders (2026-10-02 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-01 22:00 | Nila Infrastructures Ltd | 530377 | Intimation of Amendment in Work Order ([Link](https://www.bseindia.com/stock-share-price/nila-infrastructures-ltd/nilainfra/530377/)) | Likely Positive | 01 Oct 2026 - 22:02 |
-| 2026-10-01 22:00 | Nila Infrastructures Ltd | 530377 | Intimation of Amendment in Work order ([Link](https://www.bseindia.com/stock-share-price/nila-infrastructures-ltd/nilainfra/530377/)) | Likely Positive | 01 Oct 2026 - 22:00 |
-| 2026-10-01 18:00 | Rail Vikas Nigam Ltd | 542649 | Cancellation of Letter of Award received from East Coast Railway ([Link](https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/)) | Review Manually | 01 Oct 2026 - 18:57 |
-| 2026-10-01 17:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed herewith Press Release on contract win of Rs. 21.21 Crore by Alcon Builders and Engineers Private Limited, a wholly owned subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 01 Oct 2026 - 17:50 |
-| 2026-10-01 17:00 | Concord Enviro Systems Ltd | 544315 | Pursuant to Regulation 30 read with Part A(B) of Schedule III of SEBI LODR Regulations, 2015, we are pleased to inform you that, Rochem Separation Systems (India) Private Limited, a material .... ([Link](https://www.bseindia.com/stock-share-price/concord-enviro-systems-ltd/cewater/544315/)) | Neutral | 01 Oct 2026 - 17:42 |
-| 2026-10-01 17:00 | Unified Data Tech Solutions Ltd | 544406 | Announcement under Regulation 30 of Sebi (LODR) Regulations, 2015 for receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/unified-data-tech-solutions-ltd/unified/544406/)) | Likely Positive | 01 Oct 2026 - 17:34 |
-| 2026-10-01 17:00 | Ceinsys Tech Ltd | 538734 | Intimation of Extension of Letter of Award from MSRDC Tunnels Limited ([Link](https://www.bseindia.com/stock-share-price/ceinsys-tech-ltd/ceinsys/538734/)) | Neutral | 01 Oct 2026 - 17:28 |
-| 2026-10-01 17:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 01 Oct 2026 - 17:28 |
-| 2026-10-01 15:00 | Meta Infotech Ltd | 544441 | We wish to inform that company has received fresh and renewal orders amounting to Rs. 7.82 crores bagged by the Company in the ordinary course of business. ([Link](https://www.bseindia.com/stock-share-price/meta-infotech-ltd/metainfo/544441/)) | Likely Positive | 01 Oct 2026 - 15:33 |
-| 2026-10-01 15:00 | Blue Dart Express Ltd | 526612 | As per the attachment ([Link](https://www.bseindia.com/stock-share-price/blue-dart-express-ltd/bluedart/526612/)) | Neutral | 01 Oct 2026 - 15:01 |
-| 2026-10-01 13:00 | HEG Advanced Materials Ltd | 509631 | Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/heg-advanced-materials-ltd/hegam/509631/)) | Likely Positive | 01 Oct 2026 - 13:40 |
-| 2026-10-01 12:00 | Avantel Ltd | 532406 | Receipt of Contract worth of Rs.6.02 Cr ([Link](https://www.bseindia.com/stock-share-price/avantel-ltd/avantel/532406/)) | Likely Positive | 01 Oct 2026 - 12:44 |
-| 2026-10-01 11:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed herewith Press Release on contract win of Rs. 385 Crore by a Subsidiary Company of GPT Infraprojects Limited ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 01 Oct 2026 - 11:48 |
-| 2026-10-01 11:00 | TD Power Systems Ltd | 533553 | Intimation of Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/td-power-systems-ltd/tdpowersys/533553/)) | Likely Positive | 01 Oct 2026 - 11:44 |
-| 2026-10-01 11:00 | Sterlite Technologies Ltd | 532374 | Intimation of receipt of order under Regulation 30 of SEBI Listing Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/sterlite-technologies-ltd/stltech/532374/)) | Likely Positive | 01 Oct 2026 - 11:19 |
-| 2026-10-01 10:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receiving of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 01 Oct 2026 - 10:59 |
+| 2026-10-02 12:00 | ZF Commercial Vehicle Control Systems India Ltd | 533023 | Favourable order received from the Office of the Commissioner (Appeals) ([Link](https://www.bseindia.com/stock-share-price/zf-commercial-vehicle-control-systems-india-ltd/zfcvindia/533023/)) | Likely Positive | 02 Oct 2026 - 12:14 |
+| 2026-10-02 10:00 | Transformers and Rectifiers (India) Ltd | 532928 | We have received Large Order from Damodar Valley Corporation ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 02 Oct 2026 - 10:54 |
 
-_Last updated: 01 Oct 2026 - 22:18 | Entries: 16 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-01.json)_
+_Last updated: 02 Oct 2026 - 14:43 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-02.json)_
 
 <!-- snapshot:end -->
 

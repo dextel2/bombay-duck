@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-10-02",
+  "buckets": {
+    "2026-10-02T12": [
+      {
+        "newsId": "00660c79-f3e4-4f24-ac44-301b75cb9c35",
+        "scripCode": 533023,
+        "shortName": "ZF Commercial Vehicle Control Systems India Ltd",
+        "headline": "Favourable order received from the Office of the Commissioner (Appeals)",
+        "announcedAt": "2026-10-02T12:14:01.200+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/zf-commercial-vehicle-control-systems-india-ltd/zfcvindia/533023/",
+        "rawTime": "2026-10-02T12:14:01.2"
+      }
+    ],
+    "2026-10-02T10": [
+      {
+        "newsId": "1f0f04f8-3dc7-47bb-b886-ae2edce19758",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "We have received Large Order from Damodar Valley Corporation",
+        "announcedAt": "2026-10-02T10:54:38.990+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-10-02T10:54:38.99"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-02T14:43:16.896+05:30",
+    "checksum": "760f0d894ec13e13cf3a17695c24c6f4e5b7ed237f67d632bedf78a4e9fad191",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-02/awards-144316.json"
+  }
+}
