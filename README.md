@@ -22,10 +22,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-02 21:00 | Emcure Pharmaceuticals Ltd | 544210 | Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Regulatory Order(s) ([Link](https://www.bseindia.com/stock-share-price/emcure-pharmaceuticals-ltd/emcure/544210/)) | Likely Positive | 02 Oct 2026 - 21:29 |
+| 2026-10-02 20:00 | Snowman Logistics Ltd | 538635 | Please refer the attached file ([Link](https://www.bseindia.com/stock-share-price/snowman-logistics-ltd/snowman/538635/)) | Neutral | 02 Oct 2026 - 20:17 |
+| 2026-10-02 17:00 | Knack Packaging Ltd | 544814 | Received New Order and Renewal of Contract. ([Link](https://www.bseindia.com/stock-share-price/knack-packaging-ltd/knack/544814/)) | Likely Positive | 02 Oct 2026 - 17:41 |
+| 2026-10-02 16:00 | Transformers and Rectifiers (India) Ltd | 532928 | Order received from GETCO ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 02 Oct 2026 - 16:31 |
 | 2026-10-02 12:00 | ZF Commercial Vehicle Control Systems India Ltd | 533023 | Favourable order received from the Office of the Commissioner (Appeals) ([Link](https://www.bseindia.com/stock-share-price/zf-commercial-vehicle-control-systems-india-ltd/zfcvindia/533023/)) | Likely Positive | 02 Oct 2026 - 12:14 |
 | 2026-10-02 10:00 | Transformers and Rectifiers (India) Ltd | 532928 | We have received Large Order from Damodar Valley Corporation ([Link](https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/)) | Likely Positive | 02 Oct 2026 - 10:54 |
 
-_Last updated: 02 Oct 2026 - 14:43 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-02.json)_
+_Last updated: 02 Oct 2026 - 21:32 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-02.json)_
 
 <!-- snapshot:end -->
 

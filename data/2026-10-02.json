@@ -22,14 +22,58 @@
         "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
         "rawTime": "2026-10-02T10:54:38.99"
       }
+    ],
+    "2026-10-02T21": [
+      {
+        "newsId": "2ac735d4-31f5-435c-b760-0667f53b1422",
+        "scripCode": 544210,
+        "shortName": "Emcure Pharmaceuticals Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Regulatory Order(s)",
+        "announcedAt": "2026-10-02T21:29:14.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/emcure-pharmaceuticals-ltd/emcure/544210/",
+        "rawTime": "2026-10-02T21:29:14.933"
+      }
+    ],
+    "2026-10-02T20": [
+      {
+        "newsId": "871d9c14-04f3-4c6d-8980-d33d01a455bf",
+        "scripCode": 538635,
+        "shortName": "Snowman Logistics Ltd",
+        "headline": "Please refer the attached file",
+        "announcedAt": "2026-10-02T20:17:50.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/snowman-logistics-ltd/snowman/538635/",
+        "rawTime": "2026-10-02T20:17:50.54"
+      }
+    ],
+    "2026-10-02T17": [
+      {
+        "newsId": "8f433081-6a39-4b0c-82c9-2334c245e56d",
+        "scripCode": 544814,
+        "shortName": "Knack Packaging Ltd",
+        "headline": "Received New Order and Renewal of Contract.",
+        "announcedAt": "2026-10-02T17:41:46.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knack-packaging-ltd/knack/544814/",
+        "rawTime": "2026-10-02T17:41:46.27"
+      }
+    ],
+    "2026-10-02T16": [
+      {
+        "newsId": "9ac2fa11-fb8d-4bff-ae91-c0620059bcd9",
+        "scripCode": 532928,
+        "shortName": "Transformers and Rectifiers (India) Ltd",
+        "headline": "Order received from GETCO",
+        "announcedAt": "2026-10-02T16:31:11.290+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/transformers-and-rectifiers-(india)-ltd/taril/532928/",
+        "rawTime": "2026-10-02T16:31:11.29"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-02T14:43:16.896+05:30",
-    "checksum": "760f0d894ec13e13cf3a17695c24c6f4e5b7ed237f67d632bedf78a4e9fad191",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-02T21:32:16.986+05:30",
+    "checksum": "b6a5dad5d3d85d14f16fcd22c4c5d3b8cf429b8eccc3fdec9eec37b41872060d",
+    "totalAnnouncements": 6,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-02/awards-144316.json"
+    "rawPayloadPath": "data/raw/2026-10-02/awards-213215.json"
   }
 }
