@@ -20,14 +20,45 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-10-03T12:01:01.35"
       }
+    ],
+    "2026-10-03T18": [
+      {
+        "newsId": "c9a6fea5-c978-49ca-ab60-675b5bec580c",
+        "scripCode": 544682,
+        "shortName": "GRE Renew Enertech Ltd",
+        "headline": "Business Update on Orders received -Fortnightly Update",
+        "announcedAt": "2026-10-03T18:16:18.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/",
+        "rawTime": "2026-10-03T18:16:18.12"
+      },
+      {
+        "newsId": "613e8f5c-2f8e-4a67-8c33-f51e4026f3ea",
+        "scripCode": 544862,
+        "shortName": "Solex Energy Ltd",
+        "headline": "Receipt of Work Orders",
+        "announcedAt": "2026-10-03T18:00:47.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/",
+        "rawTime": "2026-10-03T18:00:47.683"
+      }
+    ],
+    "2026-10-03T16": [
+      {
+        "newsId": "c11c8af7-b20c-498d-9667-6c9dc92a9e3a",
+        "scripCode": 543263,
+        "shortName": "SMC Global Securities Ltd",
+        "headline": "SMC Global Securities Limited has informed the Exchange about Action(s) initiated or order passed",
+        "announcedAt": "2026-10-03T16:47:31.190+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/smc-global-securities-ltd/smcglobal/543263/",
+        "rawTime": "2026-10-03T16:47:31.19"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-03T14:15:38.936+05:30",
-    "checksum": "b8d987fbdff4d7f9a31fafea2f0776d27c25031b43460fad7cff81a3d0f0eea9",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-03T19:35:43.305+05:30",
+    "checksum": "faa4ebb2ba56e80440596a26a0ed119020e6762800d105187b63873920f32d5d",
+    "totalAnnouncements": 5,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-03/awards-141538.json"
+    "rawPayloadPath": "data/raw/2026-10-03/awards-193542.json"
   }
 }

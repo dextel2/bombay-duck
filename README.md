@@ -22,10 +22,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-03 18:00 | GRE Renew Enertech Ltd | 544682 | Business Update on Orders received -Fortnightly Update ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 03 Oct 2026 - 18:16 |
+| 2026-10-03 18:00 | Solex Energy Ltd | 544862 | Receipt of Work Orders ([Link](https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/)) | Likely Positive | 03 Oct 2026 - 18:00 |
+| 2026-10-03 16:00 | SMC Global Securities Ltd | 543263 | SMC Global Securities Limited has informed the Exchange about Action(s) initiated or order passed ([Link](https://www.bseindia.com/stock-share-price/smc-global-securities-ltd/smcglobal/543263/)) | Likely Positive | 03 Oct 2026 - 16:47 |
 | 2026-10-03 12:00 | Veerhealth Care Ltd | 511523 | The Company wishes to inform that it has received an order for supply of skin care products from one of the India''s largest FMCG Company for a value of Rs. 454.68 Lakhs ([Link](https://www.bseindia.com/stock-share-price/veerhealth-care-ltd/veerhealth/511523/)) | Likely Positive | 03 Oct 2026 - 12:51 |
 | 2026-10-03 12:00 | Texmaco Rail & Engineering Ltd | 533326 | Intimation of receipt of order worth Rs. 3.65 Crores (incl. taxes) from West Central Railway ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 03 Oct 2026 - 12:01 |
 
-_Last updated: 03 Oct 2026 - 14:15 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-03.json)_
+_Last updated: 03 Oct 2026 - 19:35 | Entries: 5 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-03.json)_
 
 <!-- snapshot:end -->
 
