@@ -1,0 +1,33 @@
+{
+  "tradingDate": "2026-10-03",
+  "buckets": {
+    "2026-10-03T12": [
+      {
+        "newsId": "7d68e3ed-7b35-46d9-836a-f050684de096",
+        "scripCode": 511523,
+        "shortName": "Veerhealth Care Ltd",
+        "headline": "The Company wishes to inform that it has received an order for supply of skin care products from one of the India''s largest FMCG Company for a value of Rs. 454.68 Lakhs",
+        "announcedAt": "2026-10-03T12:51:43.197+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/veerhealth-care-ltd/veerhealth/511523/",
+        "rawTime": "2026-10-03T12:51:43.197"
+      },
+      {
+        "newsId": "10c113eb-87f1-4641-9ad1-659e5d25eeab",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of receipt of order worth Rs. 3.65 Crores (incl. taxes) from West Central Railway",
+        "announcedAt": "2026-10-03T12:01:01.350+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-10-03T12:01:01.35"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-03T14:15:38.936+05:30",
+    "checksum": "b8d987fbdff4d7f9a31fafea2f0776d27c25031b43460fad7cff81a3d0f0eea9",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-03/awards-141538.json"
+  }
+}
