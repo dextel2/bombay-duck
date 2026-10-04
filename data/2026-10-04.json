@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-10-04",
+  "buckets": {
+    "2026-10-04T10": [
+      {
+        "newsId": "b5bd74a2-607a-49e0-8521-83bc32a7d202",
+        "scripCode": 520086,
+        "shortName": "Sical Logistics Ltd",
+        "headline": "Sical Logistics Limited has informed the exchange about the receipt of Award Letter",
+        "announcedAt": "2026-10-04T10:07:04.657+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sical-logistics-ltd/sicallog/520086/",
+        "rawTime": "2026-10-04T10:07:04.657"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-04T14:41:46.463+05:30",
+    "checksum": "3b817c9ce3bf6061056c64946ffecfbb9ebff758a92323b0961a170b584c1434",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-04/awards-144146.json"
+  }
+}
