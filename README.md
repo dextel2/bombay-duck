@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-10-04 10:00 | Sical Logistics Ltd | 520086 | Sical Logistics Limited has informed the exchange about the receipt of Award Letter ([Link](https://www.bseindia.com/stock-share-price/sical-logistics-ltd/sicallog/520086/)) | Likely Positive | 04 Oct 2026 - 10:07 |
 
-_Last updated: 04 Oct 2026 - 14:41 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-04.json)_
+_Last updated: 04 Oct 2026 - 20:33 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-04.json)_
 
 <!-- snapshot:end -->
 
