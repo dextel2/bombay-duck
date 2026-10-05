@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-10-05",
+  "buckets": {
+    "2026-10-05T12": [
+      {
+        "newsId": "3bc45963-266a-46c1-ac2c-f2c30e0aa489",
+        "scripCode": 544635,
+        "shortName": "Luxury Time Ltd",
+        "headline": "Intimation of Final Compounding order along with clarification",
+        "announcedAt": "2026-10-05T12:59:29.340+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/luxury-time-ltd/luxury/544635/",
+        "rawTime": "2026-10-05T12:59:29.34"
+      }
+    ],
+    "2026-10-05T11": [
+      {
+        "newsId": "6844072f-da8a-4099-841e-f9b895cefae9",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from Employees Provident Fund Organisation (EPFO), Ministry of Labour & Employment of order value of Rs. 19286946.73. ....",
+        "announcedAt": "2026-10-05T11:45:13.387+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-10-05T11:45:13.387"
+      }
+    ],
+    "2026-10-05T09": [
+      {
+        "newsId": "e09a9a7a-2530-4384-bd67-3d05c9072329",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins Orders (Mega*) for Power Transmission & Distribution Business",
+        "announcedAt": "2026-10-05T09:34:03.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-10-05T09:34:03.173"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-05T15:22:21.450+05:30",
+    "checksum": "7c30c1e72a5f37842a9ee042a8364e807a16206b504f42025e819c721e41177a",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-05/awards-152220.json"
+  }
+}
