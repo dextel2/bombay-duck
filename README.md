@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-05 IST)
+### Today's Awarded Orders (2026-10-06 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-10-05 12:00 | Luxury Time Ltd | 544635 | Intimation of Final Compounding order along with clarification ([Link](https://www.bseindia.com/stock-share-price/luxury-time-ltd/luxury/544635/)) | Likely Positive | 05 Oct 2026 - 12:59 |
-| 2026-10-05 11:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Employees Provident Fund Organisation (EPFO), Ministry of Labour & Employment of order value of Rs. 19286946.73. .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 05 Oct 2026 - 11:45 |
-| 2026-10-05 09:00 | Larsen & Toubro Ltd | 500510 | L&T Wins Orders (Mega*) for Power Transmission & Distribution Business ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 05 Oct 2026 - 09:34 |
+_No award announcements have been captured yet today._
 
-_Last updated: 05 Oct 2026 - 15:22 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-05.json)_
+_Last updated: 06 Oct 2026 - 00:29 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-06.json)_
 
 <!-- snapshot:end -->
 
