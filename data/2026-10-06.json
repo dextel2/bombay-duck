@@ -51,14 +51,87 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-10-06T10:43:57.59"
       }
+    ],
+    "2026-10-06T20": [
+      {
+        "newsId": "eb209b90-1aeb-468b-b49f-2bec79b8f43b",
+        "scripCode": 507717,
+        "shortName": "Dhanuka Agritech Ltd",
+        "headline": "Demand orders received under Haryana Tax on Entry of Goods into Local Areas Act, 2008.",
+        "announcedAt": "2026-10-06T20:25:23.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhanuka-agritech-ltd/dhanuka/507717/",
+        "rawTime": "2026-10-06T20:25:23.91"
+      }
+    ],
+    "2026-10-06T19": [
+      {
+        "newsId": "e949f9ea-2324-41e7-8363-f2ef2bd4056c",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of Letter of Intent for AIS substation",
+        "announcedAt": "2026-10-06T19:41:40.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-10-06T19:41:40.217"
+      }
+    ],
+    "2026-10-06T18": [
+      {
+        "newsId": "0e14cb87-cf0c-4226-81fc-3d840bab38e6",
+        "scripCode": 531344,
+        "shortName": "Container Corporation of India Ltd",
+        "headline": "Award an order",
+        "announcedAt": "2026-10-06T18:20:57.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/",
+        "rawTime": "2026-10-06T18:20:57.14"
+      }
+    ],
+    "2026-10-06T17": [
+      {
+        "newsId": "6194e159-0b25-4548-bfd6-36aa15322740",
+        "scripCode": 509243,
+        "shortName": "TVS Srichakra Ltd-$",
+        "headline": "Intimation of order received on 05/10/2026 from the office of the State Tax Officer, Rudrapur, Uttarakhand",
+        "announcedAt": "2026-10-06T17:39:49.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tvs-srichakra-ltd/tvssrichak/509243/",
+        "rawTime": "2026-10-06T17:39:49.27"
+      },
+      {
+        "newsId": "545733c8-3d52-4143-92e9-5e1cd0a32b06",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of Letter of Intent",
+        "announcedAt": "2026-10-06T17:02:32.907+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-10-06T17:02:32.907"
+      }
+    ],
+    "2026-10-06T15": [
+      {
+        "newsId": "1791cb94-43a0-4294-b447-f24c956298e5",
+        "scripCode": 544555,
+        "shortName": "Ameenji Rubber Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 with respect to Purchase Order",
+        "announcedAt": "2026-10-06T15:56:03.520+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/",
+        "rawTime": "2026-10-06T15:56:03.52"
+      },
+      {
+        "newsId": "e0edf59e-89d5-49ed-99e4-8a4e2be3ab42",
+        "scripCode": 532894,
+        "shortName": "Indowind Energy Ltd",
+        "headline": "Dear sir/Madam, PFA disclosure under reg 30.",
+        "announcedAt": "2026-10-06T15:47:58.177+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/",
+        "rawTime": "2026-10-06T15:47:58.177"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-06T15:09:38.950+05:30",
-    "checksum": "5f343e9f29517bdf0cc2c8543f63376b25867f11cce7608c3a6d293a91901430",
-    "totalAnnouncements": 5,
-    "requestCount": 2,
+    "lastUpdated": "2026-10-06T21:55:23.453+05:30",
+    "checksum": "2ed891dfc4cb1d5b03250bb9e776306b409afb3bea683b2e016e2431da793c8b",
+    "totalAnnouncements": 12,
+    "requestCount": 3,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-06/awards-150938.json"
+    "rawPayloadPath": "data/raw/2026-10-06/awards-215522.json"
   }
 }
