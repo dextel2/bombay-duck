@@ -20,9 +20,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-10-06 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-10-06 12:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Comapny has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 4,755 Off-Grid Solar Photovoltaic Water Pumping .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 06 Oct 2026 - 12:28 |
+| 2026-10-06 12:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of SEBI(LODR) Regulations, 2015 regarding bagging of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 06 Oct 2026 - 12:18 |
+| 2026-10-06 12:00 | Solex Energy Ltd | 544862 | Intimation of Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/)) | Likely Positive | 06 Oct 2026 - 12:17 |
+| 2026-10-06 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Oct 2026 - 11:22 |
+| 2026-10-06 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 06 Oct 2026 - 10:43 |
 
-_Last updated: 06 Oct 2026 - 00:29 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-06.json)_
+_Last updated: 06 Oct 2026 - 15:09 | Entries: 5 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-06.json)_
 
 <!-- snapshot:end -->
 

@@ -1,12 +1,64 @@
 {
   "tradingDate": "2026-10-06",
-  "buckets": {},
+  "buckets": {
+    "2026-10-06T12": [
+      {
+        "newsId": "f9952cdb-b827-423e-a131-5e30cdc8892d",
+        "scripCode": 531431,
+        "shortName": "Shakti Pumps India Ltd-$",
+        "headline": "We are glad to inform that Comapny has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 4,755 Off-Grid Solar Photovoltaic Water Pumping ....",
+        "announcedAt": "2026-10-06T12:28:08.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+        "rawTime": "2026-10-06T12:28:08.11"
+      },
+      {
+        "newsId": "f1edffcd-a6bc-437f-a8c7-4cc2356e47d1",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI(LODR) Regulations, 2015 regarding bagging of an order.",
+        "announcedAt": "2026-10-06T12:18:04.147+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2026-10-06T12:18:04.147"
+      },
+      {
+        "newsId": "b421e8c7-9046-4e8d-9023-0c1f2411742c",
+        "scripCode": 544862,
+        "shortName": "Solex Energy Ltd",
+        "headline": "Intimation of Receipt of Work Order",
+        "announcedAt": "2026-10-06T12:17:05.127+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/",
+        "rawTime": "2026-10-06T12:17:05.127"
+      }
+    ],
+    "2026-10-06T11": [
+      {
+        "newsId": "8fb5157f-5344-4526-8105-d861a0d81215",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt of Work Order",
+        "announcedAt": "2026-10-06T11:22:59.857+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-10-06T11:22:59.857"
+      }
+    ],
+    "2026-10-06T10": [
+      {
+        "newsId": "89d558f9-1b0c-4acf-ad08-c77c687ef7a3",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New order received",
+        "announcedAt": "2026-10-06T10:43:57.590+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-06T10:43:57.59"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-10-06T00:29:04.069+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-06T15:09:38.950+05:30",
+    "checksum": "5f343e9f29517bdf0cc2c8543f63376b25867f11cce7608c3a6d293a91901430",
+    "totalAnnouncements": 5,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-06/awards-002903.json"
+    "rawPayloadPath": "data/raw/2026-10-06/awards-150938.json"
   }
 }
