@@ -18,24 +18,19 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-06 IST)
+### Today's Awarded Orders (2026-10-07 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-06 20:00 | Dhanuka Agritech Ltd | 507717 | Demand orders received under Haryana Tax on Entry of Goods into Local Areas Act, 2008. ([Link](https://www.bseindia.com/stock-share-price/dhanuka-agritech-ltd/dhanuka/507717/)) | Likely Positive | 06 Oct 2026 - 20:25 |
-| 2026-10-06 19:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Intent for AIS substation ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 06 Oct 2026 - 19:41 |
-| 2026-10-06 18:00 | Container Corporation of India Ltd | 531344 | Award an order ([Link](https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/)) | Likely Positive | 06 Oct 2026 - 18:20 |
-| 2026-10-06 17:00 | TVS Srichakra Ltd-$ | 509243 | Intimation of order received on 05/10/2026 from the office of the State Tax Officer, Rudrapur, Uttarakhand ([Link](https://www.bseindia.com/stock-share-price/tvs-srichakra-ltd/tvssrichak/509243/)) | Likely Positive | 06 Oct 2026 - 17:39 |
-| 2026-10-06 17:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Intent ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 06 Oct 2026 - 17:02 |
-| 2026-10-06 15:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 with respect to Purchase Order ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Likely Positive | 06 Oct 2026 - 15:56 |
-| 2026-10-06 15:00 | Indowind Energy Ltd | 532894 | Dear sir/Madam, PFA disclosure under reg 30. ([Link](https://www.bseindia.com/stock-share-price/indowind-energy-ltd/indowind/532894/)) | Neutral | 06 Oct 2026 - 15:47 |
-| 2026-10-06 12:00 | Shakti Pumps India Ltd-$ | 531431 | We are glad to inform that Comapny has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 4,755 Off-Grid Solar Photovoltaic Water Pumping .... ([Link](https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/)) | Neutral | 06 Oct 2026 - 12:28 |
-| 2026-10-06 12:00 | Interarch Building Solutions Ltd | 544232 | Intimation under Regulation 30 of SEBI(LODR) Regulations, 2015 regarding bagging of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 06 Oct 2026 - 12:18 |
-| 2026-10-06 12:00 | Solex Energy Ltd | 544862 | Intimation of Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/solex-energy-ltd/solex/544862/)) | Likely Positive | 06 Oct 2026 - 12:17 |
-| 2026-10-06 11:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 06 Oct 2026 - 11:22 |
-| 2026-10-06 10:00 | RailTel Corporation of India Ltd | 543265 | New order received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 06 Oct 2026 - 10:43 |
+| 2026-10-07 14:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of order value of Rs. 10526224.27. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 07 Oct 2026 - 14:32 |
+| 2026-10-07 14:00 | Modern Engineering And Projects Ltd | 539762 | Intimation of letter of Award ([Link](https://www.bseindia.com/stock-share-price/modern-engineering-and-projects-ltd/meapl/539762/)) | Neutral | 07 Oct 2026 - 14:28 |
+| 2026-10-07 13:00 | Welspun Enterprises Ltd | 532553 | Receipt of Letter of Acceptance by Welspun Michigan Engineers Limited, Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Likely Positive | 07 Oct 2026 - 13:40 |
+| 2026-10-07 13:00 | SMR Jewels Ltd | 544774 | We are pleased to inform you that the company has received significant order from the multiple vendors at Couture India Show 2026 held from 26th September, 2026 to 28th September, 2026. .... ([Link](https://www.bseindia.com/stock-share-price/smr-jewels-ltd/smr/544774/)) | Likely Positive | 07 Oct 2026 - 13:06 |
+| 2026-10-07 10:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has received Grant of Authorisation for 'Laying, Building, Operating or Expanding Petroleum and Petroleum Product (LPG) Pipeline from Paradip, Odisha to Raipur, Chattisgarh' ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 07 Oct 2026 - 10:38 |
+| 2026-10-07 10:00 | Larsen & Toubro Ltd | 500510 | L&T Energy CarbonLite Solutions Secures LNTP for 1,600 MW Thermal Power Plant (Major*) Order ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 Oct 2026 - 10:10 |
+| 2026-10-07 09:00 | Swastika Infra Ltd | 544949 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirement. Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, .... ([Link](https://www.bseindia.com/stock-share-price/swastika-infra-ltd/swastikain/544949/)) | Neutral | 07 Oct 2026 - 09:54 |
 
-_Last updated: 06 Oct 2026 - 21:55 | Entries: 12 | Requests: 3 | Retries: 0 | [Raw JSON](data/2026-10-06.json)_
+_Last updated: 07 Oct 2026 - 15:06 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-07.json)_
 
 <!-- snapshot:end -->
 

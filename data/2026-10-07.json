@@ -1,0 +1,84 @@
+{
+  "tradingDate": "2026-10-07",
+  "buckets": {
+    "2026-10-07T14": [
+      {
+        "newsId": "58fb0c86-714f-4871-853f-60554149ea29",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of order value of Rs. 10526224.27. For further ....",
+        "announcedAt": "2026-10-07T14:32:41.297+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-10-07T14:32:41.297"
+      },
+      {
+        "newsId": "3d7e7c0d-2add-467f-ad5c-6a1087005f05",
+        "scripCode": 539762,
+        "shortName": "Modern Engineering And Projects Ltd",
+        "headline": "Intimation of letter of Award",
+        "announcedAt": "2026-10-07T14:28:46.167+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/modern-engineering-and-projects-ltd/meapl/539762/",
+        "rawTime": "2026-10-07T14:28:46.167"
+      }
+    ],
+    "2026-10-07T13": [
+      {
+        "newsId": "197f3241-d91b-41ce-b37d-b1afc03ec381",
+        "scripCode": 532553,
+        "shortName": "Welspun Enterprises Ltd",
+        "headline": "Receipt of Letter of Acceptance by Welspun Michigan Engineers Limited, Material Subsidiary of the Company",
+        "announcedAt": "2026-10-07T13:40:39.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/",
+        "rawTime": "2026-10-07T13:40:39.647"
+      },
+      {
+        "newsId": "a954cb9e-b4b5-4768-b165-9f99e46b4768",
+        "scripCode": 544774,
+        "shortName": "SMR Jewels Ltd",
+        "headline": "We are pleased to inform you that the company has received significant order from the multiple vendors at Couture India Show 2026 held from 26th September, 2026 to 28th September, 2026. ....",
+        "announcedAt": "2026-10-07T13:06:17.573+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/smr-jewels-ltd/smr/544774/",
+        "rawTime": "2026-10-07T13:06:17.573"
+      }
+    ],
+    "2026-10-07T10": [
+      {
+        "newsId": "4ccf862d-1947-4414-bae2-85da9bcf85cf",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited has received Grant of Authorisation for 'Laying, Building, Operating or Expanding Petroleum and Petroleum Product (LPG) Pipeline from Paradip, Odisha to Raipur, Chattisgarh'",
+        "announcedAt": "2026-10-07T10:38:18.520+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-10-07T10:38:18.52"
+      },
+      {
+        "newsId": "4361d6d5-3668-47bf-b2fc-b02d6c18ead8",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Energy CarbonLite Solutions Secures LNTP for 1,600 MW Thermal Power Plant (Major*) Order",
+        "announcedAt": "2026-10-07T10:10:40.073+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-10-07T10:10:40.073"
+      }
+    ],
+    "2026-10-07T09": [
+      {
+        "newsId": "49b543f2-1a0a-46a7-8c35-41be92456a6c",
+        "scripCode": 544949,
+        "shortName": "Swastika Infra Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirement. Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, ....",
+        "announcedAt": "2026-10-07T09:54:53.500+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/swastika-infra-ltd/swastikain/544949/",
+        "rawTime": "2026-10-07T09:54:53.5"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-07T15:06:46.802+05:30",
+    "checksum": "a9c35e257ebf209ef896f54d0be679f86905a776d8b00fb9a700360e214f454d",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-07/awards-150646.json"
+  }
+}
