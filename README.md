@@ -22,6 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-07 19:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Intent from Gujarat Energy Transmission Corporation Limited for Transmission Line Project ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 07 Oct 2026 - 19:22 |
+| 2026-10-07 19:00 | Silver Touch Technologies Ltd | 543525 | Enclosed herewith Business Update on "Silver Touch Technologies has received Purchase order from ITI Limited for supply of High Performance Enterprise Servers. ([Link](https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/)) | Likely Positive | 07 Oct 2026 - 19:14 |
+| 2026-10-07 17:00 | ARCL Organics Ltd | 543993 | Receipt of Order by DRT-I of Kolkata ([Link](https://www.bseindia.com/stock-share-price/arcl-organics-ltd/arcl/543993/)) | Likely Positive | 07 Oct 2026 - 17:51 |
+| 2026-10-07 17:00 | Takyon Networks Ltd | 544471 | TAKYON NETWORKS LIMITED HAS RECEIVED A WORK ORDER FROM BANARAS LOCOMOTIVE WORKS. ([Link](https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/)) | Likely Positive | 07 Oct 2026 - 17:14 |
+| 2026-10-07 15:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Rajiv Gandhi National Institute of Youth Development (RGNIYD) of order value of Rs. 30307724.19. For further details, .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 07 Oct 2026 - 15:56 |
 | 2026-10-07 14:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of order value of Rs. 10526224.27. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 07 Oct 2026 - 14:32 |
 | 2026-10-07 14:00 | Modern Engineering And Projects Ltd | 539762 | Intimation of letter of Award ([Link](https://www.bseindia.com/stock-share-price/modern-engineering-and-projects-ltd/meapl/539762/)) | Neutral | 07 Oct 2026 - 14:28 |
 | 2026-10-07 13:00 | Welspun Enterprises Ltd | 532553 | Receipt of Letter of Acceptance by Welspun Michigan Engineers Limited, Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Likely Positive | 07 Oct 2026 - 13:40 |
@@ -30,7 +35,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-10-07 10:00 | Larsen & Toubro Ltd | 500510 | L&T Energy CarbonLite Solutions Secures LNTP for 1,600 MW Thermal Power Plant (Major*) Order ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 Oct 2026 - 10:10 |
 | 2026-10-07 09:00 | Swastika Infra Ltd | 544949 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirement. Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, .... ([Link](https://www.bseindia.com/stock-share-price/swastika-infra-ltd/swastikain/544949/)) | Neutral | 07 Oct 2026 - 09:54 |
 
-_Last updated: 07 Oct 2026 - 15:06 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-07.json)_
+_Last updated: 07 Oct 2026 - 22:38 | Entries: 12 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-07.json)_
 
 <!-- snapshot:end -->
 

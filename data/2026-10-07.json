@@ -71,14 +71,65 @@
         "url": "https://www.bseindia.com/stock-share-price/swastika-infra-ltd/swastikain/544949/",
         "rawTime": "2026-10-07T09:54:53.5"
       }
+    ],
+    "2026-10-07T19": [
+      {
+        "newsId": "36068c52-9349-4202-8931-84dc52cdd74d",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of Letter of Intent from Gujarat Energy Transmission Corporation Limited for Transmission Line Project",
+        "announcedAt": "2026-10-07T19:22:20.523+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-10-07T19:22:20.523"
+      },
+      {
+        "newsId": "9459db64-e826-49fc-a040-9b5d99250765",
+        "scripCode": 543525,
+        "shortName": "Silver Touch Technologies Ltd",
+        "headline": "Enclosed herewith Business Update on \"Silver Touch Technologies has received Purchase order from ITI Limited for supply of High Performance Enterprise Servers.",
+        "announcedAt": "2026-10-07T19:14:49.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/",
+        "rawTime": "2026-10-07T19:14:49.887"
+      }
+    ],
+    "2026-10-07T17": [
+      {
+        "newsId": "348ad709-b5e9-4243-aa39-582c9c548ea8",
+        "scripCode": 543993,
+        "shortName": "ARCL Organics Ltd",
+        "headline": "Receipt of Order by DRT-I of Kolkata",
+        "announcedAt": "2026-10-07T17:51:17.237+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/arcl-organics-ltd/arcl/543993/",
+        "rawTime": "2026-10-07T17:51:17.237"
+      },
+      {
+        "newsId": "0072a094-d0a7-4a58-9e93-e86e42278674",
+        "scripCode": 544471,
+        "shortName": "Takyon Networks Ltd",
+        "headline": "TAKYON NETWORKS LIMITED HAS RECEIVED A WORK ORDER FROM BANARAS LOCOMOTIVE WORKS.",
+        "announcedAt": "2026-10-07T17:14:11.983+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/",
+        "rawTime": "2026-10-07T17:14:11.983"
+      }
+    ],
+    "2026-10-07T15": [
+      {
+        "newsId": "0b2c895d-fe24-46a8-bf20-4b1fdc8e80a9",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform that our Company has bagged a new contract from Rajiv Gandhi National Institute of Youth Development (RGNIYD) of order value of Rs. 30307724.19. For further details, ....",
+        "announcedAt": "2026-10-07T15:56:21.517+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-10-07T15:56:21.517"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-07T15:06:46.802+05:30",
-    "checksum": "a9c35e257ebf209ef896f54d0be679f86905a776d8b00fb9a700360e214f454d",
-    "totalAnnouncements": 7,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-07T22:38:16.050+05:30",
+    "checksum": "4a0e78eb9d22a8a88c4cc4ec15f0a685b25fee9edc73278d03d452ed4b071aa0",
+    "totalAnnouncements": 12,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-07/awards-150646.json"
+    "rawPayloadPath": "data/raw/2026-10-07/awards-223815.json"
   }
 }
