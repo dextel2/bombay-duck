@@ -1,0 +1,84 @@
+{
+  "tradingDate": "2026-10-08",
+  "buckets": {
+    "2026-10-08T13": [
+      {
+        "newsId": "77980402-c63f-44f2-a438-2fddda769000",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "In continuation to our intimation dated August 17th, 2026, we are pleased to inform about receipt of Letter of Award from Municipal Corporation Jodhpur for Sewerage Work",
+        "announcedAt": "2026-10-08T13:06:18.910+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-10-08T13:06:18.91"
+      }
+    ],
+    "2026-10-08T12": [
+      {
+        "newsId": "e103e4fe-e503-482a-b7a3-4ce5b4fd8bd5",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Enclosed herewith is the intimation regarding the receipt of a Letter of Award (LOA) for a new order valued at approximately Rs. 1,06,81,360/- for supply, commissioning and testing of a ....",
+        "announcedAt": "2026-10-08T12:56:12.840+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-10-08T12:56:12.84"
+      },
+      {
+        "newsId": "082ce8a0-6055-451f-87da-8edcfc705d71",
+        "scripCode": 544458,
+        "shortName": "Shree Refrigerations Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 read with sub para 4, para B, Part A Schedule III, of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured an order amounting ....",
+        "announcedAt": "2026-10-08T12:31:23.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
+        "rawTime": "2026-10-08T12:31:23.173"
+      },
+      {
+        "newsId": "d04217f1-5590-43d7-a95e-5c84fbe51cd1",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-08T12:14:21.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-08T12:14:21.78"
+      },
+      {
+        "newsId": "b45497bb-843a-4c91-bc9b-18ed9e230de3",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "DEE Development Engineers Limited has informed that its WOS M/s DEE Fabricom India Private Limited has received an order/ contract of approximately Rs. 55 Crore (exclusive of GST)",
+        "announcedAt": "2026-10-08T12:10:42.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-10-08T12:10:42.463"
+      }
+    ],
+    "2026-10-08T11": [
+      {
+        "newsId": "99b899de-aa92-491f-8264-f5b1af191502",
+        "scripCode": 544232,
+        "shortName": "Interarch Building Solutions Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI(LODR) Regulations, 2015 regarding bagging of an order.",
+        "announcedAt": "2026-10-08T11:09:36.957+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/",
+        "rawTime": "2026-10-08T11:09:36.957"
+      }
+    ],
+    "2026-10-08T10": [
+      {
+        "newsId": "eacc2a61-a7eb-4ff8-8233-58012793750f",
+        "scripCode": 544524,
+        "shortName": "JD Cables Ltd",
+        "headline": "BSE Intimation persuant to Regulation 30 of SEBI (LODR Regulations) 2015, regarding the receipt of order from reputed government and private entities",
+        "announcedAt": "2026-10-08T10:34:08.210+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/",
+        "rawTime": "2026-10-08T10:34:08.21"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-08T15:17:07.987+05:30",
+    "checksum": "b5be756929de105f90b57a79c36912f8de50688af499eac4d76cea5628a9a12a",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-08/awards-151707.json"
+  }
+}

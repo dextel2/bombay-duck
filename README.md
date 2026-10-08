@@ -18,24 +18,19 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-07 IST)
+### Today's Awarded Orders (2026-10-08 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 19:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Intent from Gujarat Energy Transmission Corporation Limited for Transmission Line Project ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 07 Oct 2026 - 19:22 |
-| 2026-10-07 19:00 | Silver Touch Technologies Ltd | 543525 | Enclosed herewith Business Update on "Silver Touch Technologies has received Purchase order from ITI Limited for supply of High Performance Enterprise Servers. ([Link](https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/)) | Likely Positive | 07 Oct 2026 - 19:14 |
-| 2026-10-07 17:00 | ARCL Organics Ltd | 543993 | Receipt of Order by DRT-I of Kolkata ([Link](https://www.bseindia.com/stock-share-price/arcl-organics-ltd/arcl/543993/)) | Likely Positive | 07 Oct 2026 - 17:51 |
-| 2026-10-07 17:00 | Takyon Networks Ltd | 544471 | TAKYON NETWORKS LIMITED HAS RECEIVED A WORK ORDER FROM BANARAS LOCOMOTIVE WORKS. ([Link](https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/)) | Likely Positive | 07 Oct 2026 - 17:14 |
-| 2026-10-07 15:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Rajiv Gandhi National Institute of Youth Development (RGNIYD) of order value of Rs. 30307724.19. For further details, .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 07 Oct 2026 - 15:56 |
-| 2026-10-07 14:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of order value of Rs. 10526224.27. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 07 Oct 2026 - 14:32 |
-| 2026-10-07 14:00 | Modern Engineering And Projects Ltd | 539762 | Intimation of letter of Award ([Link](https://www.bseindia.com/stock-share-price/modern-engineering-and-projects-ltd/meapl/539762/)) | Neutral | 07 Oct 2026 - 14:28 |
-| 2026-10-07 13:00 | Welspun Enterprises Ltd | 532553 | Receipt of Letter of Acceptance by Welspun Michigan Engineers Limited, Material Subsidiary of the Company ([Link](https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/)) | Likely Positive | 07 Oct 2026 - 13:40 |
-| 2026-10-07 13:00 | SMR Jewels Ltd | 544774 | We are pleased to inform you that the company has received significant order from the multiple vendors at Couture India Show 2026 held from 26th September, 2026 to 28th September, 2026. .... ([Link](https://www.bseindia.com/stock-share-price/smr-jewels-ltd/smr/544774/)) | Likely Positive | 07 Oct 2026 - 13:06 |
-| 2026-10-07 10:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has received Grant of Authorisation for 'Laying, Building, Operating or Expanding Petroleum and Petroleum Product (LPG) Pipeline from Paradip, Odisha to Raipur, Chattisgarh' ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 07 Oct 2026 - 10:38 |
-| 2026-10-07 10:00 | Larsen & Toubro Ltd | 500510 | L&T Energy CarbonLite Solutions Secures LNTP for 1,600 MW Thermal Power Plant (Major*) Order ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 07 Oct 2026 - 10:10 |
-| 2026-10-07 09:00 | Swastika Infra Ltd | 544949 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirement. Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, .... ([Link](https://www.bseindia.com/stock-share-price/swastika-infra-ltd/swastikain/544949/)) | Neutral | 07 Oct 2026 - 09:54 |
+| 2026-10-08 13:00 | EMS Ltd | 543983 | In continuation to our intimation dated August 17th, 2026, we are pleased to inform about receipt of Letter of Award from Municipal Corporation Jodhpur for Sewerage Work ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 08 Oct 2026 - 13:06 |
+| 2026-10-08 12:00 | Cranex Ltd | 522001 | Enclosed herewith is the intimation regarding the receipt of a Letter of Award (LOA) for a new order valued at approximately Rs. 1,06,81,360/- for supply, commissioning and testing of a .... ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Likely Positive | 08 Oct 2026 - 12:56 |
+| 2026-10-08 12:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of Regulation 30 read with sub para 4, para B, Part A Schedule III, of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured an order amounting .... ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 08 Oct 2026 - 12:31 |
+| 2026-10-08 12:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 08 Oct 2026 - 12:14 |
+| 2026-10-08 12:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has informed that its WOS M/s DEE Fabricom India Private Limited has received an order/ contract of approximately Rs. 55 Crore (exclusive of GST) ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 08 Oct 2026 - 12:10 |
+| 2026-10-08 11:00 | Interarch Building Solutions Ltd | 544232 | Disclosure under Regulation 30 of SEBI(LODR) Regulations, 2015 regarding bagging of an order. ([Link](https://www.bseindia.com/stock-share-price/interarch-building-solutions-ltd/interarch/544232/)) | Likely Positive | 08 Oct 2026 - 11:09 |
+| 2026-10-08 10:00 | JD Cables Ltd | 544524 | BSE Intimation persuant to Regulation 30 of SEBI (LODR Regulations) 2015, regarding the receipt of order from reputed government and private entities ([Link](https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/)) | Likely Positive | 08 Oct 2026 - 10:34 |
 
-_Last updated: 07 Oct 2026 - 22:38 | Entries: 12 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-07.json)_
+_Last updated: 08 Oct 2026 - 15:17 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-08.json)_
 
 <!-- snapshot:end -->
 
