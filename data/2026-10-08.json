@@ -71,14 +71,74 @@
         "url": "https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/",
         "rawTime": "2026-10-08T10:34:08.21"
       }
+    ],
+    "2026-10-08T20": [
+      {
+        "newsId": "7aa6c010-6b73-4e52-aa35-f69ca1c42cfb",
+        "scripCode": 532714,
+        "shortName": "KEC International Ltd",
+        "headline": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,030 Crores secured by the Company. All the orders mentioned in the enclosed press release have ....",
+        "announcedAt": "2026-10-08T20:55:37.297+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kec-international-ltd/kec/532714/",
+        "rawTime": "2026-10-08T20:55:37.297"
+      }
+    ],
+    "2026-10-08T19": [
+      {
+        "newsId": "bdeda826-e738-449b-8691-8a58e5143f0b",
+        "scripCode": 544477,
+        "shortName": "Highway Infrastructure Ltd",
+        "headline": "Company received a work order for the Velanchettiyur Fee Plaza.",
+        "announcedAt": "2026-10-08T19:20:29.923+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/",
+        "rawTime": "2026-10-08T19:20:29.923"
+      },
+      {
+        "newsId": "67ae14e3-be7a-4d07-aa99-aeddd0440db3",
+        "scripCode": 534618,
+        "shortName": "Waaree Renewable Technologies Ltd",
+        "headline": "Please find attached herewith disclosure for Order awarded to the Company",
+        "announcedAt": "2026-10-08T19:07:57.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/",
+        "rawTime": "2026-10-08T19:07:57.86"
+      }
+    ],
+    "2026-10-08T17": [
+      {
+        "newsId": "e6a121e9-44a4-494e-9858-de5172050a93",
+        "scripCode": 517273,
+        "shortName": "S&S Power Switchgear Ltd",
+        "headline": "Announcement under regulation 30 (LODR) Receipt of order",
+        "announcedAt": "2026-10-08T17:36:44.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ss-power-switchgear-ltd/sspower/517273/",
+        "rawTime": "2026-10-08T17:36:44.75"
+      },
+      {
+        "newsId": "81e8a292-3f4d-4f1a-859c-3e6d41656037",
+        "scripCode": 500294,
+        "shortName": "NCC Ltd",
+        "headline": "Disclosure regarding receipt of Major Order",
+        "announcedAt": "2026-10-08T17:26:46.463+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ncc-ltd/ncc/500294/",
+        "rawTime": "2026-10-08T17:26:46.463"
+      },
+      {
+        "newsId": "b21fa001-6013-43d3-aef3-3d33697c6bc1",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Intimation for receipt of letter of Intent (LOI) aggregating to Rs. 1,794 million",
+        "announcedAt": "2026-10-08T17:07:02.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-10-08T17:07:02.217"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-08T15:17:07.987+05:30",
-    "checksum": "b5be756929de105f90b57a79c36912f8de50688af499eac4d76cea5628a9a12a",
-    "totalAnnouncements": 7,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-08T22:36:13.877+05:30",
+    "checksum": "f913550efb4826aac31972348015947062137eb74dbfde4c597644e5832b2e23",
+    "totalAnnouncements": 13,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-08/awards-151707.json"
+    "rawPayloadPath": "data/raw/2026-10-08/awards-223613.json"
   }
 }
