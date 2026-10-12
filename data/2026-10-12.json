@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-10-12",
+  "buckets": {
+    "2026-10-12T15": [
+      {
+        "newsId": "076f2364-465d-49e5-b797-20f5a42d0908",
+        "scripCode": 532467,
+        "shortName": "Hazoor Multi Projects Ltd-$",
+        "headline": "Please find attached the revised intimation regarding Letter of Award received from National Highways Authority of India (NHAI) for collection of user fee at Gaddurur (Nangli) Fee Plaza.",
+        "announcedAt": "2026-10-12T15:27:26.987+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/",
+        "rawTime": "2026-10-12T15:27:26.987"
+      }
+    ],
+    "2026-10-12T09": [
+      {
+        "newsId": "03ff7886-0dbe-4e5b-930b-2c7eaf280884",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Order Received from Madhya Gujrat Vij Company Limited (MGVCL).",
+        "announcedAt": "2026-10-12T09:46:17.893+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-10-12T09:46:17.893"
+      },
+      {
+        "newsId": "58ec5813-186e-420d-9b9e-8914218c928a",
+        "scripCode": 533170,
+        "shortName": "Tamboli Industries Ltd",
+        "headline": "Tamboli Industries Limited announces a significant milestone as its wholly owned subsidiary, Tamboli Castings Limited (TCL), is selected and qualified by a multibillion dollar Fortune 100 ....",
+        "announcedAt": "2026-10-12T09:00:22.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/tamboli-industries-ltd/tamboliin/533170/",
+        "rawTime": "2026-10-12T09:00:22.55"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-12T15:33:28.925+05:30",
+    "checksum": "130904dd64c7984824a2973b326e273e3896febecb57c1ded1bfc7faf52790be",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-12/awards-153327.json"
+  }
+}

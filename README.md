@@ -18,11 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-11 IST)
+### Today's Awarded Orders (2026-10-12 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-10-12 15:00 | Hazoor Multi Projects Ltd-$ | 532467 | Please find attached the revised intimation regarding Letter of Award received from National Highways Authority of India (NHAI) for collection of user fee at Gaddurur (Nangli) Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Neutral | 12 Oct 2026 - 15:27 |
+| 2026-10-12 09:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order Received from Madhya Gujrat Vij Company Limited (MGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 12 Oct 2026 - 09:46 |
+| 2026-10-12 09:00 | Tamboli Industries Ltd | 533170 | Tamboli Industries Limited announces a significant milestone as its wholly owned subsidiary, Tamboli Castings Limited (TCL), is selected and qualified by a multibillion dollar Fortune 100 .... ([Link](https://www.bseindia.com/stock-share-price/tamboli-industries-ltd/tamboliin/533170/)) | Neutral | 12 Oct 2026 - 09:00 |
 
-_Last updated: 11 Oct 2026 - 21:34 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-11.json)_
+_Last updated: 12 Oct 2026 - 15:33 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-12.json)_
 
 <!-- snapshot:end -->
 
