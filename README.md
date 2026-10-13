@@ -22,11 +22,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-13 18:00 | Jupiter Infomedia Ltd | 534623 | Approval of Hon''ble Regional Director for change of registered office of the company from State of Maharashtra to State of Gujarat. ([Link](https://www.bseindia.com/stock-share-price/jupiter-infomedia-ltd/jupiterin/534623/)) | Neutral | 13 Oct 2026 - 18:15 |
+| 2026-10-13 17:00 | Link Pharma Chem Ltd | 524748 | Disclosure order Regulation 30 read with Part A of Schedule III of SEBI Regulation 2015 order received from GST Appellate authority, Tribunal , Vadodara FY 2021-22. ([Link](https://www.bseindia.com/stock-share-price/link-pharma-chem-ltd/linkph/524748/)) | Likely Positive | 13 Oct 2026 - 17:40 |
+| 2026-10-13 17:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 13 Oct 2026 - 17:34 |
+| 2026-10-13 16:00 | Signpost India Ltd | 544117 | Award of Exclusive Adverting Rights on Buses Operating under the Premium Bus Service by Chalo Mobility Private Limited ([Link](https://www.bseindia.com/stock-share-price/signpost-india-ltd/signpost/544117/)) | Neutral | 13 Oct 2026 - 16:29 |
+| 2026-10-13 15:00 | Bharat Electronics Ltd | 500049 | Press Release - BEL receives orders worth Rs.533 Crore. ([Link](https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/)) | Likely Positive | 13 Oct 2026 - 15:31 |
 | 2026-10-13 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Purchase Order Received for an amount Seventy Lakhs from October 07, 2026. ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 13 Oct 2026 - 13:18 |
 | 2026-10-13 11:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith Order updates recieved on 12th October,2026 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 13 Oct 2026 - 11:21 |
 | 2026-10-13 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2225 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 13 Oct 2026 - 08:46 |
 
-_Last updated: 13 Oct 2026 - 15:25 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-13.json)_
+_Last updated: 13 Oct 2026 - 22:47 | Entries: 8 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-13.json)_
 
 <!-- snapshot:end -->
 

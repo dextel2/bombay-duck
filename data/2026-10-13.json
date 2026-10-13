@@ -33,14 +33,67 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2026-10-13T08:46:30.593"
       }
+    ],
+    "2026-10-13T18": [
+      {
+        "newsId": "f34b6aea-f2ab-4676-95f2-237b5436af1a",
+        "scripCode": 534623,
+        "shortName": "Jupiter Infomedia Ltd",
+        "headline": "Approval of Hon''ble Regional Director for change of registered office of the company from State of Maharashtra to State of Gujarat.",
+        "announcedAt": "2026-10-13T18:15:01.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jupiter-infomedia-ltd/jupiterin/534623/",
+        "rawTime": "2026-10-13T18:15:01.867"
+      }
+    ],
+    "2026-10-13T17": [
+      {
+        "newsId": "469f40de-ceb0-4f4e-b396-e6f1a5539377",
+        "scripCode": 524748,
+        "shortName": "Link Pharma Chem Ltd",
+        "headline": "Disclosure order Regulation 30 read with Part A of Schedule III of SEBI Regulation 2015 order received from GST Appellate authority, Tribunal , Vadodara FY 2021-22.",
+        "announcedAt": "2026-10-13T17:40:09.660+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/link-pharma-chem-ltd/linkph/524748/",
+        "rawTime": "2026-10-13T17:40:09.66"
+      },
+      {
+        "newsId": "6c251df3-51c4-4263-81c7-66e8687a32e0",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-13T17:34:32.277+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-13T17:34:32.277"
+      }
+    ],
+    "2026-10-13T16": [
+      {
+        "newsId": "7d17f8f3-4f73-4c33-8e18-a9a7bea22f8d",
+        "scripCode": 544117,
+        "shortName": "Signpost India Ltd",
+        "headline": "Award of Exclusive Adverting Rights on Buses Operating under the Premium Bus Service by Chalo Mobility Private Limited",
+        "announcedAt": "2026-10-13T16:29:43.320+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/signpost-india-ltd/signpost/544117/",
+        "rawTime": "2026-10-13T16:29:43.32"
+      }
+    ],
+    "2026-10-13T15": [
+      {
+        "newsId": "fd67769b-fe8b-4d35-8829-056549051343",
+        "scripCode": 500049,
+        "shortName": "Bharat Electronics Ltd",
+        "headline": "Press Release - BEL receives orders worth Rs.533 Crore.",
+        "announcedAt": "2026-10-13T15:31:13.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049/",
+        "rawTime": "2026-10-13T15:31:13.42"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-13T15:25:50.059+05:30",
-    "checksum": "e9f58ebddf59f38435c4e6484837f4448a9a614e89a17505d39463c471e2906d",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-13T22:47:50.025+05:30",
+    "checksum": "cc728b9e95783c1361f872a8a9709a6100e9bccc19b78e22f43df44a384deb1b",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-13/awards-152547.json"
+    "rawPayloadPath": "data/raw/2026-10-13/awards-224749.json"
   }
 }
