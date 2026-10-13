@@ -18,15 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-12 IST)
+### Today's Awarded Orders (2026-10-13 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-12 15:00 | Hazoor Multi Projects Ltd-$ | 532467 | Please find attached the revised intimation regarding Letter of Award received from National Highways Authority of India (NHAI) for collection of user fee at Gaddurur (Nangli) Fee Plaza. ([Link](https://www.bseindia.com/stock-share-price/hazoor-multi-projects-ltd/hazoor/532467/)) | Neutral | 12 Oct 2026 - 15:27 |
-| 2026-10-12 09:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order Received from Madhya Gujrat Vij Company Limited (MGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 12 Oct 2026 - 09:46 |
-| 2026-10-12 09:00 | Tamboli Industries Ltd | 533170 | Tamboli Industries Limited announces a significant milestone as its wholly owned subsidiary, Tamboli Castings Limited (TCL), is selected and qualified by a multibillion dollar Fortune 100 .... ([Link](https://www.bseindia.com/stock-share-price/tamboli-industries-ltd/tamboliin/533170/)) | Neutral | 12 Oct 2026 - 09:00 |
+| 2026-10-13 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Purchase Order Received for an amount Seventy Lakhs from October 07, 2026. ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 13 Oct 2026 - 13:18 |
+| 2026-10-13 11:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith Order updates recieved on 12th October,2026 ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 13 Oct 2026 - 11:21 |
+| 2026-10-13 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2225 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 13 Oct 2026 - 08:46 |
 
-_Last updated: 12 Oct 2026 - 15:33 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-12.json)_
+_Last updated: 13 Oct 2026 - 15:25 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-13.json)_
 
 <!-- snapshot:end -->
 

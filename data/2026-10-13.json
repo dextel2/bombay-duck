@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-10-13",
+  "buckets": {
+    "2026-10-13T13": [
+      {
+        "newsId": "746820af-9a06-4c80-b714-669356a7ce54",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Purchase Order Received for an amount Seventy Lakhs from October 07, 2026.",
+        "announcedAt": "2026-10-13T13:18:03.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-10-13T13:18:03.48"
+      }
+    ],
+    "2026-10-13T11": [
+      {
+        "newsId": "a1edfdb0-9d8b-4230-a918-4c6122f8bce8",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached herewith Order updates recieved on 12th October,2026",
+        "announcedAt": "2026-10-13T11:21:45.637+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-10-13T11:21:45.637"
+      }
+    ],
+    "2026-10-13T08": [
+      {
+        "newsId": "2c63839a-adf7-4964-a0a6-c486f511f493",
+        "scripCode": 522287,
+        "shortName": "Kalpataru Projects International Ltd",
+        "headline": "Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2225 CRORES",
+        "announcedAt": "2026-10-13T08:46:30.593+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
+        "rawTime": "2026-10-13T08:46:30.593"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-13T15:25:50.059+05:30",
+    "checksum": "e9f58ebddf59f38435c4e6484837f4448a9a614e89a17505d39463c471e2906d",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-13/awards-152547.json"
+  }
+}
