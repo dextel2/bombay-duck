@@ -22,6 +22,8 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-14 18:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of Letter of Acceptance from Uttar Gujarat Vij Company Limited ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 14 Oct 2026 - 18:57 |
+| 2026-10-14 14:00 | Dhabriya Polywood Ltd | 538715 | Intimation of receiving of work order. ([Link](https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/)) | Likely Positive | 14 Oct 2026 - 14:48 |
 | 2026-10-14 13:00 | Rajesh Power Services Ltd | 544291 | Intimation of Order Received from Uttar Gujarat Vij Company Limited (UGVCL) ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 14 Oct 2026 - 13:10 |
 | 2026-10-14 13:00 | PTC Industries Ltd | 539006 | As enclosed ([Link](https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/)) | Neutral | 14 Oct 2026 - 13:05 |
 | 2026-10-14 12:00 | DMR Engineering Ltd | 543410 | Intimation opf receipt of letter of assignment ([Link](https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/)) | Likely Positive | 14 Oct 2026 - 12:02 |
@@ -30,7 +32,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-10-14 11:00 | Navkar Corporation Ltd | 539332 | As per attached file ([Link](https://www.bseindia.com/stock-share-price/navkar-corporation-ltd/navkarcorp/539332/)) | Neutral | 14 Oct 2026 - 11:10 |
 | 2026-10-14 11:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 14 Oct 2026 - 11:02 |
 
-_Last updated: 14 Oct 2026 - 13:46 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-14.json)_
+_Last updated: 14 Oct 2026 - 19:44 | Entries: 9 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-14.json)_
 
 <!-- snapshot:end -->
 

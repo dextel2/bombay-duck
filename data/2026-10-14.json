@@ -69,14 +69,36 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-10-14T11:02:02.42"
       }
+    ],
+    "2026-10-14T18": [
+      {
+        "newsId": "63b38918-565f-4833-9ad8-57e648d7c710",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of Letter of Acceptance from Uttar Gujarat Vij Company Limited",
+        "announcedAt": "2026-10-14T18:57:55.203+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-10-14T18:57:55.203"
+      }
+    ],
+    "2026-10-14T14": [
+      {
+        "newsId": "8565fb2c-9f79-40e5-95d1-8fa61b498261",
+        "scripCode": 538715,
+        "shortName": "Dhabriya Polywood Ltd",
+        "headline": "Intimation of receiving of work order.",
+        "announcedAt": "2026-10-14T14:48:15.270+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dhabriya-polywood-ltd/dhabriya/538715/",
+        "rawTime": "2026-10-14T14:48:15.27"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-14T13:46:07.101+05:30",
-    "checksum": "ffe985b73748da84908e602c0c664ab47502379fc90f00666380438a138a3e3b",
-    "totalAnnouncements": 7,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-14T19:44:03.067+05:30",
+    "checksum": "b316b7f33090c5675499819ec9c571756dc248e550f4129bec37e436f83c0e6b",
+    "totalAnnouncements": 9,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-14/awards-134606.json"
+    "rawPayloadPath": "data/raw/2026-10-14/awards-194402.json"
   }
 }
