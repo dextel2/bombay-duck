@@ -1,0 +1,82 @@
+{
+  "tradingDate": "2026-10-14",
+  "buckets": {
+    "2026-10-14T13": [
+      {
+        "newsId": "fb968c1a-aaff-4350-8567-22e92da87c75",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of Order Received from Uttar Gujarat Vij Company Limited (UGVCL)",
+        "announcedAt": "2026-10-14T13:10:56.550+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-10-14T13:10:56.55"
+      },
+      {
+        "newsId": "15db2cbd-74e1-4f6d-9c91-dd12618c59aa",
+        "scripCode": 539006,
+        "shortName": "PTC Industries Ltd",
+        "headline": "As enclosed",
+        "announcedAt": "2026-10-14T13:05:27.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ptc-industries-ltd/ptcil/539006/",
+        "rawTime": "2026-10-14T13:05:27.67"
+      }
+    ],
+    "2026-10-14T12": [
+      {
+        "newsId": "1d1fb89e-1a0f-4b92-a8e1-1f5f3b6099b6",
+        "scripCode": 543410,
+        "shortName": "DMR Engineering Ltd",
+        "headline": "Intimation opf receipt of letter of assignment",
+        "announcedAt": "2026-10-14T12:02:07.570+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dmr-engineering-ltd/dmr/543410/",
+        "rawTime": "2026-10-14T12:02:07.57"
+      }
+    ],
+    "2026-10-14T11": [
+      {
+        "newsId": "e63d335a-68be-416c-9560-7cc2ed737bbe",
+        "scripCode": 544910,
+        "shortName": "Apana Logistics Ltd",
+        "headline": "Award of work order",
+        "announcedAt": "2026-10-14T11:58:29.527+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/apana-logistics-ltd/apana/544910/",
+        "rawTime": "2026-10-14T11:58:29.527"
+      },
+      {
+        "newsId": "fde45ccd-35d5-473a-a6ce-a4dbbffde90c",
+        "scripCode": 532811,
+        "shortName": "Ahluwalia Contracts (India) Ltd",
+        "headline": "Construction of Bennett University Building - Awards Rs. 310 Crores",
+        "announcedAt": "2026-10-14T11:51:06.010+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ahluwalia-contracts-(india)-ltd/ahlucont/532811/",
+        "rawTime": "2026-10-14T11:51:06.01"
+      },
+      {
+        "newsId": "6c88c7f6-bb29-4198-9339-05bd46efb156",
+        "scripCode": 539332,
+        "shortName": "Navkar Corporation Ltd",
+        "headline": "As per attached file",
+        "announcedAt": "2026-10-14T11:10:20.677+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/navkar-corporation-ltd/navkarcorp/539332/",
+        "rawTime": "2026-10-14T11:10:20.677"
+      },
+      {
+        "newsId": "a23538b9-bc87-41e8-8c91-4ccb8cd36ffb",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-14T11:02:02.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-14T11:02:02.42"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-14T13:46:07.101+05:30",
+    "checksum": "ffe985b73748da84908e602c0c664ab47502379fc90f00666380438a138a3e3b",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-14/awards-134606.json"
+  }
+}
