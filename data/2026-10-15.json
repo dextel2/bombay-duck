@@ -1,0 +1,55 @@
+{
+  "tradingDate": "2026-10-15",
+  "buckets": {
+    "2026-10-15T12": [
+      {
+        "newsId": "072aa7a0-9911-4ca8-91c5-8061fc765287",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
+        "announcedAt": "2026-10-15T12:03:00.640+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-10-15T12:03:00.64"
+      },
+      {
+        "newsId": "4e627409-85c7-47f7-a607-9d16c4e689c3",
+        "scripCode": 544198,
+        "shortName": "Dee Development Engineers Ltd",
+        "headline": "DEE Development Engineers Limited has received an order/ contract pf approximately of Rs. 46 crore.",
+        "announcedAt": "2026-10-15T12:02:25.853+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+        "rawTime": "2026-10-15T12:02:25.853"
+      }
+    ],
+    "2026-10-15T11": [
+      {
+        "newsId": "4990b9ba-9428-467d-ae27-657127f3abff",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of receipt of purchase order.",
+        "announcedAt": "2026-10-15T11:02:20.900+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-10-15T11:02:20.9"
+      }
+    ],
+    "2026-10-15T10": [
+      {
+        "newsId": "7753046b-2929-4407-8362-5e6d37bd5073",
+        "scripCode": 524238,
+        "shortName": "Gujarat Inject Kerala Ltd",
+        "headline": "Purchase order of Total Value of Rs.6.25 Crore.",
+        "announcedAt": "2026-10-15T10:24:26.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/",
+        "rawTime": "2026-10-15T10:24:26.847"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-15T13:23:19.476+05:30",
+    "checksum": "8ba4c61f456da61c80a24b5a137c89c934f73dd3ee644c2fe1a77a3bae3682ea",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-15/awards-132319.json"
+  }
+}
