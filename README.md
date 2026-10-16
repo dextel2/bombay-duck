@@ -22,13 +22,20 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 17:00 | GPT Infraprojects Ltd | 533761 | Please find the enclosed press release. ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Neutral | 16 Oct 2026 - 17:40 |
+| 2026-10-16 17:00 | Mauria Udyog Ltd | 539219 | In furtherance to our intimation dated July17, 2026 we inform that company had filed Appeal No 269 of 2026 before the Securities Appellate Tribunal,Mumbai(SAT) against the Final Order dt. .... ([Link](https://www.bseindia.com/stock-share-price/mauria-udyog-ltd/mul/539219/)) | Likely Positive | 16 Oct 2026 - 17:13 |
+| 2026-10-16 15:00 | Lenskart Solutions Ltd | 544600 | Lenskart Solutions Limited has infomred the Exchange about receipt of order from the Office of the Principal Commissioner of Custom ([Link](https://www.bseindia.com/stock-share-price/lenskart-solutions-ltd/lenskart/544600/)) | Likely Positive | 16 Oct 2026 - 15:47 |
+| 2026-10-16 15:00 | Dharmaj Crop Guard Ltd | 543687 | Intimation regarding the Order passed by the Hon''ble High Court of Himachal Pradesh ([Link](https://www.bseindia.com/stock-share-price/dharmaj-crop-guard-ltd/dharmaj/543687/)) | Likely Positive | 16 Oct 2026 - 15:42 |
+| 2026-10-16 14:00 | B. L. Kashyap and Sons Ltd | 532719 | The Company has secured an order worth Rs. 202.02 Crores. ([Link](https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/)) | Likely Positive | 16 Oct 2026 - 14:57 |
+| 2026-10-16 13:00 | RDB Infrastructure And Power Ltd | 533285 | We wish to inform you that the Company has received a Notice of Award dated 16th October 2026 from Oswal Residential Building Private Limited for the construction of an Experience Centre .... ([Link](https://www.bseindia.com/stock-share-price/rdb-infrastructure-and-power-ltd/rdbipl/533285/)) | Neutral | 16 Oct 2026 - 13:56 |
+| 2026-10-16 13:00 | Panchmahal Steel Ltd | 513511 | Intimation of receipt of Purchase Order from BHEL - BAP, Ranipet ([Link](https://www.bseindia.com/stock-share-price/panchmahal-steel-ltd/panchmahq/513511/)) | Likely Positive | 16 Oct 2026 - 13:44 |
 | 2026-10-16 13:00 | Newgen Software Technologies Ltd | 540900 | Enclosed Material Order disclosure of Rs. 20.51 Cr. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 16 Oct 2026 - 13:07 |
 | 2026-10-16 12:00 | Siyaram Recycling Industries Ltd | 544047 | Attached Intimation for Award/Reciept of Order receieved by the Company ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Oct 2026 - 12:52 |
 | 2026-10-16 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform you that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of contract value of Rs. 6741660.26. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 16 Oct 2026 - 12:16 |
 | 2026-10-16 08:00 | Organic Recycling Systems Ltd | 543997 | Solapur Bioenergy Systems Private Limited, Wholly Owned Subsidiary of Organic Recycling Systems Limited secures 05th Large Scale Contract for CBG Project from BPCL in Chhattisgarh. ([Link](https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/)) | Likely Positive | 16 Oct 2026 - 08:31 |
 | 2026-10-16 08:00 | Vascon Engineers Ltd | 533156 | Vascon Engineers Limited receives Letter of Acceptance From State Bank of India amounting to Rs. 198 Crore for construction of SBILD, Residential Flats and other commercial outfits at Hinjewadi, .... ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Neutral | 16 Oct 2026 - 08:19 |
 
-_Last updated: 16 Oct 2026 - 13:15 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-16.json)_
+_Last updated: 16 Oct 2026 - 18:25 | Entries: 12 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-16.json)_
 
 <!-- snapshot:end -->
 

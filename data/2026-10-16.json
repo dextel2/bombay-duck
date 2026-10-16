@@ -3,6 +3,24 @@
   "buckets": {
     "2026-10-16T13": [
       {
+        "newsId": "23d6bc06-baae-4a14-abf8-9ab10298f931",
+        "scripCode": 533285,
+        "shortName": "RDB Infrastructure And Power Ltd",
+        "headline": "We wish to inform you that the Company has received a Notice of Award dated 16th October 2026 from Oswal Residential Building Private Limited for the construction of an Experience Centre ....",
+        "announcedAt": "2026-10-16T13:56:37.870+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rdb-infrastructure-and-power-ltd/rdbipl/533285/",
+        "rawTime": "2026-10-16T13:56:37.87"
+      },
+      {
+        "newsId": "6d353e4d-d2f5-465b-a892-4f3de3afdb6e",
+        "scripCode": 513511,
+        "shortName": "Panchmahal Steel Ltd",
+        "headline": "Intimation of receipt of Purchase Order from BHEL - BAP, Ranipet",
+        "announcedAt": "2026-10-16T13:44:05.630+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/panchmahal-steel-ltd/panchmahq/513511/",
+        "rawTime": "2026-10-16T13:44:05.63"
+      },
+      {
         "newsId": "c233ccaf-d031-4d74-acc7-72b7bd41e7e6",
         "scripCode": 540900,
         "shortName": "Newgen Software Technologies Ltd",
@@ -51,14 +69,65 @@
         "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
         "rawTime": "2026-10-16T08:19:14.35"
       }
+    ],
+    "2026-10-16T17": [
+      {
+        "newsId": "8c3835bb-cbaa-4165-99fe-1e2452773dcd",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find the enclosed press release.",
+        "announcedAt": "2026-10-16T17:40:09.267+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-10-16T17:40:09.267"
+      },
+      {
+        "newsId": "ad1e2c84-2b21-4130-a37a-1cd99aa8ebef",
+        "scripCode": 539219,
+        "shortName": "Mauria Udyog Ltd",
+        "headline": "In furtherance to our intimation dated July17, 2026 we inform that company had filed Appeal No 269 of 2026 before the Securities Appellate Tribunal,Mumbai(SAT) against the Final Order dt. ....",
+        "announcedAt": "2026-10-16T17:13:53.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mauria-udyog-ltd/mul/539219/",
+        "rawTime": "2026-10-16T17:13:53.12"
+      }
+    ],
+    "2026-10-16T15": [
+      {
+        "newsId": "ba1e6f05-e37a-4838-86cf-7155c1db2898",
+        "scripCode": 544600,
+        "shortName": "Lenskart Solutions Ltd",
+        "headline": "Lenskart Solutions Limited has infomred the Exchange about receipt of order from the Office of the Principal Commissioner of Custom",
+        "announcedAt": "2026-10-16T15:47:07.793+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/lenskart-solutions-ltd/lenskart/544600/",
+        "rawTime": "2026-10-16T15:47:07.793"
+      },
+      {
+        "newsId": "9e1fb348-1848-4c7e-9151-0394b152ec86",
+        "scripCode": 543687,
+        "shortName": "Dharmaj Crop Guard Ltd",
+        "headline": "Intimation regarding the Order passed by the Hon''ble High Court of Himachal Pradesh",
+        "announcedAt": "2026-10-16T15:42:40.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dharmaj-crop-guard-ltd/dharmaj/543687/",
+        "rawTime": "2026-10-16T15:42:40.207"
+      }
+    ],
+    "2026-10-16T14": [
+      {
+        "newsId": "fbcd0108-9673-4357-8af3-35750a2c9e0a",
+        "scripCode": 532719,
+        "shortName": "B. L. Kashyap and Sons Ltd",
+        "headline": "The Company has secured an order worth Rs. 202.02 Crores.",
+        "announcedAt": "2026-10-16T14:57:02.120+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/b-l-kashyap-and-sons-ltd/blkashyap/532719/",
+        "rawTime": "2026-10-16T14:57:02.12"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-16T13:15:48.206+05:30",
-    "checksum": "7cadd42e27bfbda7a1a6d6e74bc3cbe9c5300910b493c816b4e4db892f1877a5",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-16T18:25:07.110+05:30",
+    "checksum": "4a48b92bc83f001c30e15fc23ddfc697ac79badd7b203b4d6a755e2a93a7ec9b",
+    "totalAnnouncements": 12,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-16/awards-131546.json"
+    "rawPayloadPath": "data/raw/2026-10-16/awards-182506.json"
   }
 }
