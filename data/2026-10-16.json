@@ -1,0 +1,64 @@
+{
+  "tradingDate": "2026-10-16",
+  "buckets": {
+    "2026-10-16T13": [
+      {
+        "newsId": "c233ccaf-d031-4d74-acc7-72b7bd41e7e6",
+        "scripCode": 540900,
+        "shortName": "Newgen Software Technologies Ltd",
+        "headline": "Enclosed Material Order disclosure of Rs. 20.51 Cr.",
+        "announcedAt": "2026-10-16T13:07:02.370+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/",
+        "rawTime": "2026-10-16T13:07:02.37"
+      }
+    ],
+    "2026-10-16T12": [
+      {
+        "newsId": "0049fb28-3020-4959-a654-fb61b25c2976",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached Intimation for Award/Reciept of Order receieved by the Company",
+        "announcedAt": "2026-10-16T12:52:08.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-10-16T12:52:08.82"
+      },
+      {
+        "newsId": "3a2d1332-5065-4075-b09d-24a01393ece3",
+        "scripCode": 543806,
+        "shortName": "ITCONS E-Solutions Ltd",
+        "headline": "We are pleased to inform you that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of contract value of Rs. 6741660.26. For further ....",
+        "announcedAt": "2026-10-16T12:16:34.847+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/",
+        "rawTime": "2026-10-16T12:16:34.847"
+      }
+    ],
+    "2026-10-16T08": [
+      {
+        "newsId": "8752b344-eb26-4ddb-af58-be63d7cb4ea7",
+        "scripCode": 543997,
+        "shortName": "Organic Recycling Systems Ltd",
+        "headline": "Solapur Bioenergy Systems Private Limited, Wholly Owned Subsidiary of Organic Recycling Systems Limited secures 05th Large Scale Contract for CBG Project from BPCL in Chhattisgarh.",
+        "announcedAt": "2026-10-16T08:31:28.750+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/",
+        "rawTime": "2026-10-16T08:31:28.75"
+      },
+      {
+        "newsId": "86951906-851c-405b-9dd6-9bc341abd39b",
+        "scripCode": 533156,
+        "shortName": "Vascon Engineers Ltd",
+        "headline": "Vascon Engineers Limited receives Letter of Acceptance From State Bank of India amounting to Rs. 198 Crore for construction of SBILD, Residential Flats and other commercial outfits at Hinjewadi, ....",
+        "announcedAt": "2026-10-16T08:19:14.350+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
+        "rawTime": "2026-10-16T08:19:14.35"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-16T13:15:48.206+05:30",
+    "checksum": "7cadd42e27bfbda7a1a6d6e74bc3cbe9c5300910b493c816b4e4db892f1877a5",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-16/awards-131546.json"
+  }
+}

@@ -18,21 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-15 IST)
+### Today's Awarded Orders (2026-10-16 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-15 16:00 | Praxis Home Retail Ltd | 540901 | Announcement under Regulation 30 (LODR) ([Link](https://www.bseindia.com/stock-share-price/praxis-home-retail-ltd/praxis/540901/)) | Neutral | 15 Oct 2026 - 16:42 |
-| 2026-10-15 16:00 | Waaree Renewable Technologies Ltd | 534618 | Please find attached herewith intimation on update of Award received to the Company ([Link](https://www.bseindia.com/stock-share-price/waaree-renewable-technologies-ltd/waareertl/534618/)) | Neutral | 15 Oct 2026 - 16:29 |
-| 2026-10-15 15:00 | Regaal Resources Ltd | 544485 | Please find enclosed the disclosure under Regulation 30 for the receipt of Order (s) from the Registrar of Companies, Kolkata ([Link](https://www.bseindia.com/stock-share-price/regaal-resources-ltd/regaal/544485/)) | Likely Positive | 15 Oct 2026 - 15:10 |
-| 2026-10-15 14:00 | Bharat Dynamics Ltd | 541143 | Receipt of Order for Heavyweight Torpedoes ([Link](https://www.bseindia.com/stock-share-price/bharat-dynamics-ltd/bdl/541143/)) | Likely Positive | 15 Oct 2026 - 14:50 |
-| 2026-10-15 14:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform that our Company has bagged a new contract from I&B Main Secretariate, Ministry of Information & Broadcasting of order value of Rs. 1894647.99. For further details .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 15 Oct 2026 - 14:06 |
-| 2026-10-15 12:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 15 Oct 2026 - 12:03 |
-| 2026-10-15 12:00 | Dee Development Engineers Ltd | 544198 | DEE Development Engineers Limited has received an order/ contract pf approximately of Rs. 46 crore. ([Link](https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/)) | Likely Positive | 15 Oct 2026 - 12:02 |
-| 2026-10-15 11:00 | Shayona Engineering Ltd | 544686 | Intimation of receipt of purchase order. ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 15 Oct 2026 - 11:02 |
-| 2026-10-15 10:00 | Gujarat Inject Kerala Ltd | 524238 | Purchase order of Total Value of Rs.6.25 Crore. ([Link](https://www.bseindia.com/stock-share-price/gujarat-inject-kerala-ltd/gujinjec/524238/)) | Likely Positive | 15 Oct 2026 - 10:24 |
+| 2026-10-16 13:00 | Newgen Software Technologies Ltd | 540900 | Enclosed Material Order disclosure of Rs. 20.51 Cr. ([Link](https://www.bseindia.com/stock-share-price/newgen-software-technologies-ltd/newgen/540900/)) | Likely Positive | 16 Oct 2026 - 13:07 |
+| 2026-10-16 12:00 | Siyaram Recycling Industries Ltd | 544047 | Attached Intimation for Award/Reciept of Order receieved by the Company ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 16 Oct 2026 - 12:52 |
+| 2026-10-16 12:00 | ITCONS E-Solutions Ltd | 543806 | We are pleased to inform you that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of contract value of Rs. 6741660.26. For further .... ([Link](https://www.bseindia.com/stock-share-price/itcons-e-solutions-ltd/itcons/543806/)) | Likely Positive | 16 Oct 2026 - 12:16 |
+| 2026-10-16 08:00 | Organic Recycling Systems Ltd | 543997 | Solapur Bioenergy Systems Private Limited, Wholly Owned Subsidiary of Organic Recycling Systems Limited secures 05th Large Scale Contract for CBG Project from BPCL in Chhattisgarh. ([Link](https://www.bseindia.com/stock-share-price/organic-recycling-systems-ltd/organicrec/543997/)) | Likely Positive | 16 Oct 2026 - 08:31 |
+| 2026-10-16 08:00 | Vascon Engineers Ltd | 533156 | Vascon Engineers Limited receives Letter of Acceptance From State Bank of India amounting to Rs. 198 Crore for construction of SBILD, Residential Flats and other commercial outfits at Hinjewadi, .... ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Neutral | 16 Oct 2026 - 08:19 |
 
-_Last updated: 15 Oct 2026 - 18:29 | Entries: 9 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-15.json)_
+_Last updated: 16 Oct 2026 - 13:15 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-16.json)_
 
 <!-- snapshot:end -->
 
