@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
         "rawTime": "2026-10-17T10:32:09.28"
       }
+    ],
+    "2026-10-17T16": [
+      {
+        "newsId": "7bab607f-8707-43ac-a52a-83ed0cea7ae7",
+        "scripCode": 544682,
+        "shortName": "GRE Renew Enertech Ltd",
+        "headline": "Business Update on Order Received (Fortnightly Update)",
+        "announcedAt": "2026-10-17T16:15:51.393+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/",
+        "rawTime": "2026-10-17T16:15:51.393"
+      }
+    ],
+    "2026-10-17T13": [
+      {
+        "newsId": "1941bb62-768d-4b95-a6b2-2b2fd47df55a",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-17T13:36:06.560+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-17T13:36:06.56"
+      },
+      {
+        "newsId": "485bf0f4-4fe2-46ce-afe0-9af577624c78",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-17T13:35:01.350+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-17T13:35:01.35"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-17T12:53:42.493+05:30",
-    "checksum": "66f5f25d65414a4ca26431dbe6b36208cc56e27eee068163af521f47073dbdcd",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-17T17:24:10.004+05:30",
+    "checksum": "c1c01de9107a7b2dc3b00949efd94f7795f35a82f9bb2b3b12cfdb57dd5be0d4",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-17/awards-125342.json"
+    "rawPayloadPath": "data/raw/2026-10-17/awards-172409.json"
   }
 }
