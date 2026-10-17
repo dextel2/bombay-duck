@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-10-17",
+  "buckets": {
+    "2026-10-17T10": [
+      {
+        "newsId": "c799fa49-1b7f-4253-9d80-f21d903eac8d",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed press release.",
+        "announcedAt": "2026-10-17T10:32:09.280+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-10-17T10:32:09.28"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-17T12:53:42.493+05:30",
+    "checksum": "66f5f25d65414a4ca26431dbe6b36208cc56e27eee068163af521f47073dbdcd",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-17/awards-125342.json"
+  }
+}
