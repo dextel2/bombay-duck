@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-17 IST)
+### Today's Awarded Orders (2026-10-18 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-10-17 16:00 | GRE Renew Enertech Ltd | 544682 | Business Update on Order Received (Fortnightly Update) ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Likely Positive | 17 Oct 2026 - 16:15 |
-| 2026-10-17 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 17 Oct 2026 - 13:36 |
-| 2026-10-17 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 17 Oct 2026 - 13:35 |
-| 2026-10-17 10:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed press release. ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Neutral | 17 Oct 2026 - 10:32 |
+_No award announcements have been captured yet today._
 
-_Last updated: 17 Oct 2026 - 17:24 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-17.json)_
+_Last updated: 18 Oct 2026 - 13:08 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-18.json)_
 
 <!-- snapshot:end -->
 
