@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-10-19",
+  "buckets": {
+    "2026-10-19T12": [
+      {
+        "newsId": "10e1be60-f562-4960-a06d-f436c57d44ce",
+        "scripCode": 539302,
+        "shortName": "Power Mech Projects Ltd",
+        "headline": "Please check the enclosed order details",
+        "announcedAt": "2026-10-19T12:36:05.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/",
+        "rawTime": "2026-10-19T12:36:05.48"
+      }
+    ],
+    "2026-10-19T10": [
+      {
+        "newsId": "8a57b0a9-8570-41ad-90a3-970cbc391c7b",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Commences Initial Activities for New Tashkent International Airport (Ultra-mega*) Project",
+        "announcedAt": "2026-10-19T10:13:18.670+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-10-19T10:13:18.67"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-19T13:50:16.757+05:30",
+    "checksum": "8753f521ead35a19ff25bf1f7ec1fbce41bff2efbd9ea99ef446c1ea6fbd2190",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-19/awards-135016.json"
+  }
+}
