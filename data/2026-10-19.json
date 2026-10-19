@@ -22,14 +22,45 @@
         "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
         "rawTime": "2026-10-19T10:13:18.67"
       }
+    ],
+    "2026-10-19T19": [
+      {
+        "newsId": "e42953e6-8ca8-4238-b57f-820bf42190c2",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation for Order Received for an Aggregate Amount 1,41,00,000 (Rupees One Crore Forty One Lakhs Only)",
+        "announcedAt": "2026-10-19T19:45:50.653+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-10-19T19:45:50.653"
+      }
+    ],
+    "2026-10-19T14": [
+      {
+        "newsId": "7e188cb4-8cdd-411c-9c6c-6fd04a86eb0e",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of Receipt of Order for Manpower Services",
+        "announcedAt": "2026-10-19T14:34:00.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-10-19T14:34:00.767"
+      },
+      {
+        "newsId": "22853066-e1e6-4f97-a4e7-8f4fdf9551b3",
+        "scripCode": 544091,
+        "shortName": "Qualitek Labs Ltd",
+        "headline": "Receipt of Work Order by Interstellar Testing Centre Private Limited, a Wholly Owned Subsidiary of Qualitek Labs Limited from BRDC, Govt of Meghalaya",
+        "announcedAt": "2026-10-19T14:25:47.207+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/qualitek-labs-ltd/qll/544091/",
+        "rawTime": "2026-10-19T14:25:47.207"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-19T13:50:16.757+05:30",
-    "checksum": "8753f521ead35a19ff25bf1f7ec1fbce41bff2efbd9ea99ef446c1ea6fbd2190",
-    "totalAnnouncements": 2,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-19T21:34:06.555+05:30",
+    "checksum": "3fa9021d344420f6f972ebf3f048168c29078f035acf7fc250d94947e8e46f64",
+    "totalAnnouncements": 5,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-19/awards-135016.json"
+    "rawPayloadPath": "data/raw/2026-10-19/awards-213406.json"
   }
 }
