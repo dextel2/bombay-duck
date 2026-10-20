@@ -18,17 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-19 IST)
+### Today's Awarded Orders (2026-10-20 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-10-19 19:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation for Order Received for an Aggregate Amount 1,41,00,000 (Rupees One Crore Forty One Lakhs Only) ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 19 Oct 2026 - 19:45 |
-| 2026-10-19 14:00 | Icon Facilitators Ltd | 544426 | Intimation of Receipt of Order for Manpower Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 19 Oct 2026 - 14:34 |
-| 2026-10-19 14:00 | Qualitek Labs Ltd | 544091 | Receipt of Work Order by Interstellar Testing Centre Private Limited, a Wholly Owned Subsidiary of Qualitek Labs Limited from BRDC, Govt of Meghalaya ([Link](https://www.bseindia.com/stock-share-price/qualitek-labs-ltd/qll/544091/)) | Likely Positive | 19 Oct 2026 - 14:25 |
-| 2026-10-19 12:00 | Power Mech Projects Ltd | 539302 | Please check the enclosed order details ([Link](https://www.bseindia.com/stock-share-price/power-mech-projects-ltd/powermech/539302/)) | Likely Positive | 19 Oct 2026 - 12:36 |
-| 2026-10-19 10:00 | Larsen & Toubro Ltd | 500510 | L&T Commences Initial Activities for New Tashkent International Airport (Ultra-mega*) Project ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Neutral | 19 Oct 2026 - 10:13 |
+_No award announcements have been captured yet today._
 
-_Last updated: 19 Oct 2026 - 21:34 | Entries: 5 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-19.json)_
+_Last updated: 20 Oct 2026 - 13:34 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-20.json)_
 
 <!-- snapshot:end -->
 
