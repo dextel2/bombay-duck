@@ -18,13 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-20 IST)
+### Today's Awarded Orders (2026-10-21 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-20 16:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 20 Oct 2026 - 16:48 |
+| 2026-10-21 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2349 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 21 Oct 2026 - 08:45 |
 
-_Last updated: 20 Oct 2026 - 19:30 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-20.json)_
+_Last updated: 21 Oct 2026 - 13:39 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-21.json)_
 
 <!-- snapshot:end -->
 
