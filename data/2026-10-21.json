@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/",
         "rawTime": "2026-10-21T08:45:41.863"
       }
+    ],
+    "2026-10-21T16": [
+      {
+        "newsId": "4cafd79c-501e-4176-8961-e5c04fc9ff85",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of Receipt of Purchase Orders",
+        "announcedAt": "2026-10-21T16:09:32.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-10-21T16:09:32.683"
+      }
+    ],
+    "2026-10-21T14": [
+      {
+        "newsId": "805ad074-27ed-4180-bc1e-e5d2c6fa9697",
+        "scripCode": 544426,
+        "shortName": "Icon Facilitators Ltd",
+        "headline": "Intimation of receipt of order of Electro Mechanical Services",
+        "announcedAt": "2026-10-21T14:40:21.420+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/",
+        "rawTime": "2026-10-21T14:40:21.42"
+      },
+      {
+        "newsId": "c8416087-75aa-4017-925e-f1563dee71e3",
+        "scripCode": 531550,
+        "shortName": "Jhaveri Credits & Capital Ltd",
+        "headline": "The Company has received Letter of Intent from Gujrat Energy Development Agency",
+        "announcedAt": "2026-10-21T14:21:35.753+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jhaveri-credits--capital-ltd/jhacc/531550/",
+        "rawTime": "2026-10-21T14:21:35.753"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-21T13:39:58.420+05:30",
-    "checksum": "add183e4905fda34cf6030d9488443329a308a08183debc34fa83007bf28ca6f",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-21T19:45:57.208+05:30",
+    "checksum": "948d444163e8b44d7fe3a8289ff86d557094a2b142db999f2167139dd3954a6d",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-21/awards-133957.json"
+    "rawPayloadPath": "data/raw/2026-10-21/awards-194556.json"
   }
 }
