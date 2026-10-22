@@ -18,16 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-21 IST)
+### Today's Awarded Orders (2026-10-22 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-10-21 16:00 | Shayona Engineering Ltd | 544686 | Intimation of Receipt of Purchase Orders ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 21 Oct 2026 - 16:09 |
-| 2026-10-21 14:00 | Icon Facilitators Ltd | 544426 | Intimation of receipt of order of Electro Mechanical Services ([Link](https://www.bseindia.com/stock-share-price/icon-facilitators-ltd/icon/544426/)) | Likely Positive | 21 Oct 2026 - 14:40 |
-| 2026-10-21 14:00 | Jhaveri Credits & Capital Ltd | 531550 | The Company has received Letter of Intent from Gujrat Energy Development Agency ([Link](https://www.bseindia.com/stock-share-price/jhaveri-credits--capital-ltd/jhacc/531550/)) | Neutral | 21 Oct 2026 - 14:21 |
-| 2026-10-21 08:00 | Kalpataru Projects International Ltd | 522287 | Press Release - KPIL ANNOUNCES NEW ORDER WINS OF RS. 2349 CRORES ([Link](https://www.bseindia.com/stock-share-price/kalpataru-projects-international-ltd/kpil/522287/)) | Likely Positive | 21 Oct 2026 - 08:45 |
+_No award announcements have been captured yet today._
 
-_Last updated: 21 Oct 2026 - 19:45 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-21.json)_
+_Last updated: 22 Oct 2026 - 13:40 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-22.json)_
 
 <!-- snapshot:end -->
 
