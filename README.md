@@ -20,9 +20,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 ### Today's Awarded Orders (2026-10-22 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-10-22 18:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed herewith Press Release on contract win by the Company, GPT Infraprojects Limited ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 22 Oct 2026 - 18:39 |
+| 2026-10-22 14:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt Work Order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 22 Oct 2026 - 14:02 |
 
-_Last updated: 22 Oct 2026 - 13:40 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-22.json)_
+_Last updated: 22 Oct 2026 - 19:45 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-22.json)_
 
 <!-- snapshot:end -->
 

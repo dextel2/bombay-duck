@@ -1,12 +1,35 @@
 {
   "tradingDate": "2026-10-22",
-  "buckets": {},
+  "buckets": {
+    "2026-10-22T18": [
+      {
+        "newsId": "bd2dc42d-a3b4-481d-9db9-139571c0c043",
+        "scripCode": 533761,
+        "shortName": "GPT Infraprojects Ltd",
+        "headline": "Please find enclosed herewith Press Release on contract win by the Company, GPT Infraprojects Limited",
+        "announcedAt": "2026-10-22T18:39:05.830+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/",
+        "rawTime": "2026-10-22T18:39:05.83"
+      }
+    ],
+    "2026-10-22T14": [
+      {
+        "newsId": "18174a51-4c8b-4724-bcac-55ca1afe9dc7",
+        "scripCode": 543971,
+        "shortName": "Bondada Engineering Ltd",
+        "headline": "Intimation of receipt Work Order.",
+        "announcedAt": "2026-10-22T14:02:44.890+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
+        "rawTime": "2026-10-22T14:02:44.89"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-10-22T13:40:58.115+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-22T19:45:44.616+05:30",
+    "checksum": "6c148d1ffc9308d8b00354c1b53e6c33e3698ae8d48518e478b9978a9da1c0b0",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-22/awards-134057.json"
+    "rawPayloadPath": "data/raw/2026-10-22/awards-194544.json"
   }
 }
