@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-22 IST)
+### Today's Awarded Orders (2026-10-23 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-22 18:00 | GPT Infraprojects Ltd | 533761 | Please find enclosed herewith Press Release on contract win by the Company, GPT Infraprojects Limited ([Link](https://www.bseindia.com/stock-share-price/gpt-infraprojects-ltd/gptinfra/533761/)) | Likely Positive | 22 Oct 2026 - 18:39 |
-| 2026-10-22 14:00 | Bondada Engineering Ltd | 543971 | Intimation of receipt Work Order. ([Link](https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/)) | Likely Positive | 22 Oct 2026 - 14:02 |
+| 2026-10-23 08:00 | Jyoti Structures Ltd | 513250 | The Company has received a Letter of Award from Gujarat Energy Transmission Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Neutral | 23 Oct 2026 - 08:57 |
 
-_Last updated: 22 Oct 2026 - 19:45 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-22.json)_
+_Last updated: 23 Oct 2026 - 13:38 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-23.json)_
 
 <!-- snapshot:end -->
 

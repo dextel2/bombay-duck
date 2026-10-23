@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-10-23",
+  "buckets": {
+    "2026-10-23T08": [
+      {
+        "newsId": "5581f65b-3a2d-485f-bd5a-126e2c0de67b",
+        "scripCode": 513250,
+        "shortName": "Jyoti Structures Ltd",
+        "headline": "The Company has received a Letter of Award from Gujarat Energy Transmission Corporation Limited",
+        "announcedAt": "2026-10-23T08:57:07.537+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
+        "rawTime": "2026-10-23T08:57:07.537"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-23T13:38:42.849+05:30",
+    "checksum": "52ae64c71b30b17850bdd468b02c92d8a56145fb7edc18d42f9022318cda7342",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-23/awards-133842.json"
+  }
+}
