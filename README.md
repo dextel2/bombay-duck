@@ -22,9 +22,12 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-23 16:00 | Shayona Engineering Ltd | 544686 | Intimation of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 23 Oct 2026 - 16:50 |
+| 2026-10-23 16:00 | East India Drums and Barrels Manufacturing Ltd | 523874 | Receipt of work of order from Indian Oil Corporation Limited. ([Link](https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/)) | Likely Positive | 23 Oct 2026 - 16:17 |
+| 2026-10-23 14:00 | We Win Ltd | 543535 | Award of Work Order for Establishment and Operation of the Integrated 104 Health Helpline, Telemedical Consultation and Grievance Redressal Services through Call Centre and Digital (Web .... ([Link](https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/)) | Likely Positive | 23 Oct 2026 - 14:57 |
 | 2026-10-23 08:00 | Jyoti Structures Ltd | 513250 | The Company has received a Letter of Award from Gujarat Energy Transmission Corporation Limited ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Neutral | 23 Oct 2026 - 08:57 |
 
-_Last updated: 23 Oct 2026 - 13:38 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-23.json)_
+_Last updated: 23 Oct 2026 - 19:28 | Entries: 4 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-23.json)_
 
 <!-- snapshot:end -->
 

@@ -11,14 +11,45 @@
         "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
         "rawTime": "2026-10-23T08:57:07.537"
       }
+    ],
+    "2026-10-23T16": [
+      {
+        "newsId": "e078391a-82d2-4463-8889-768ecd1819b1",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of Purchase Order",
+        "announcedAt": "2026-10-23T16:50:16.947+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-10-23T16:50:16.947"
+      },
+      {
+        "newsId": "d8ef9a46-ab59-483c-8965-84a4b8063ac8",
+        "scripCode": 523874,
+        "shortName": "East India Drums and Barrels Manufacturing Ltd",
+        "headline": "Receipt of work of order from Indian Oil Corporation Limited.",
+        "announcedAt": "2026-10-23T16:17:04.280+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/",
+        "rawTime": "2026-10-23T16:17:04.28"
+      }
+    ],
+    "2026-10-23T14": [
+      {
+        "newsId": "8484c27c-4e0b-46f4-928c-13d88f11df4f",
+        "scripCode": 543535,
+        "shortName": "We Win Ltd",
+        "headline": "Award of Work Order for Establishment and Operation of the Integrated 104 Health Helpline, Telemedical Consultation and Grievance Redressal Services through Call Centre and Digital (Web ....",
+        "announcedAt": "2026-10-23T14:57:41.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/we-win-ltd/wewin/543535/",
+        "rawTime": "2026-10-23T14:57:41.07"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-23T13:38:42.849+05:30",
-    "checksum": "52ae64c71b30b17850bdd468b02c92d8a56145fb7edc18d42f9022318cda7342",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-23T19:28:54.063+05:30",
+    "checksum": "c51ddca93e0f3782a16cfff5ef3c9b5851b199c40fea2247c6242722537d6483",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-23/awards-133842.json"
+    "rawPayloadPath": "data/raw/2026-10-23/awards-192853.json"
   }
 }
