@@ -1,0 +1,55 @@
+{
+  "tradingDate": "2026-10-26",
+  "buckets": {
+    "2026-10-26T13": [
+      {
+        "newsId": "72caddc1-f841-4717-b908-322196f8641a",
+        "scripCode": 544501,
+        "shortName": "Sugs Lloyd Ltd",
+        "headline": "Sugs LLoyd Secures Rs. 3.16 crore Rate Contract from Tata Power-DDL for SITC of 11Kv Auto Reclosure for Distribution Automation System (DAS)",
+        "announcedAt": "2026-10-26T13:31:32.877+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/",
+        "rawTime": "2026-10-26T13:31:32.877"
+      }
+    ],
+    "2026-10-26T12": [
+      {
+        "newsId": "55fbfc40-c881-4d87-8a39-c8d25c4ca146",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Receipt of award/order",
+        "announcedAt": "2026-10-26T12:40:09.553+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-10-26T12:40:09.553"
+      },
+      {
+        "newsId": "2759fbbc-6341-4c7a-81a8-7b52bf4a026e",
+        "scripCode": 544190,
+        "shortName": "3C IT Solutions and Telecoms (India) Ltd",
+        "headline": "The has informed to the stock exchange that the company has received a purchase order of Rs. 9,08,43,480/- for supply of HP desktops.",
+        "announcedAt": "2026-10-26T12:12:09.867+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/3c-it-solutions-and-telecoms-(india)-ltd/3cit/544190/",
+        "rawTime": "2026-10-26T12:12:09.867"
+      }
+    ],
+    "2026-10-26T08": [
+      {
+        "newsId": "bcb107a9-87ac-47d5-bd4c-d497ee56d485",
+        "scripCode": 513250,
+        "shortName": "Jyoti Structures Ltd",
+        "headline": "We wish to inform you that the Company has received Notifications of Award from Power Grid Corporation of India Limited",
+        "announcedAt": "2026-10-26T08:58:14.600+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
+        "rawTime": "2026-10-26T08:58:14.6"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-26T13:50:38.614+05:30",
+    "checksum": "28fe038776485b85e5d131862fd7bad4d914daccf7c94fba7839b9cb21bc4181",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-26/awards-135037.json"
+  }
+}

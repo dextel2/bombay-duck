@@ -18,11 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-25 IST)
+### Today's Awarded Orders (2026-10-26 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-10-26 13:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Secures Rs. 3.16 crore Rate Contract from Tata Power-DDL for SITC of 11Kv Auto Reclosure for Distribution Automation System (DAS) ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Likely Positive | 26 Oct 2026 - 13:31 |
+| 2026-10-26 12:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of award/order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 26 Oct 2026 - 12:40 |
+| 2026-10-26 12:00 | 3C IT Solutions and Telecoms (India) Ltd | 544190 | The has informed to the stock exchange that the company has received a purchase order of Rs. 9,08,43,480/- for supply of HP desktops. ([Link](https://www.bseindia.com/stock-share-price/3c-it-solutions-and-telecoms-(india)-ltd/3cit/544190/)) | Likely Positive | 26 Oct 2026 - 12:12 |
+| 2026-10-26 08:00 | Jyoti Structures Ltd | 513250 | We wish to inform you that the Company has received Notifications of Award from Power Grid Corporation of India Limited ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Neutral | 26 Oct 2026 - 08:58 |
 
-_Last updated: 25 Oct 2026 - 18:30 | Entries: 0 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-25.json)_
+_Last updated: 26 Oct 2026 - 13:50 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-26.json)_
 
 <!-- snapshot:end -->
 
