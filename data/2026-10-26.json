@@ -42,14 +42,56 @@
         "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
         "rawTime": "2026-10-26T08:58:14.6"
       }
+    ],
+    "2026-10-26T18": [
+      {
+        "newsId": "28a6fc6b-794a-45a6-acdb-184927c1dd9e",
+        "scripCode": 544042,
+        "shortName": "Bajel Projects Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Bagging of Award",
+        "announcedAt": "2026-10-26T18:31:37.887+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
+        "rawTime": "2026-10-26T18:31:37.887"
+      },
+      {
+        "newsId": "54ec69cd-a0b8-4b7b-baef-425d72d17c85",
+        "scripCode": 544042,
+        "shortName": "Bajel Projects Ltd",
+        "headline": "Announcement under Regulation 30 (LODR) - Bagging of Award",
+        "announcedAt": "2026-10-26T18:19:48.860+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/",
+        "rawTime": "2026-10-26T18:19:48.86"
+      }
+    ],
+    "2026-10-26T16": [
+      {
+        "newsId": "c9696e70-10a3-4c82-a2ba-1eb4dd46cba8",
+        "scripCode": 543928,
+        "shortName": "Cosmic CRF Ltd",
+        "headline": "We hereby inform the Exchange of the receipt of Purchase Order of Rs. 1234.10 Lakhs by the Subsidiary Company, M/s N S Engineering Projects Pvt Ltd.",
+        "announcedAt": "2026-10-26T16:03:38.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/",
+        "rawTime": "2026-10-26T16:03:38.933"
+      }
+    ],
+    "2026-10-26T15": [
+      {
+        "newsId": "02239d9f-dd29-483f-96aa-fa7848c31902",
+        "scripCode": 544856,
+        "shortName": "Fusion Klassroom Edutech Ltd",
+        "headline": "Dear Sir / Madam, Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that ....",
+        "announcedAt": "2026-10-26T15:12:17.433+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/fusion-klassroom-edutech-ltd/klassroom/544856/",
+        "rawTime": "2026-10-26T15:12:17.433"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-26T13:50:38.614+05:30",
-    "checksum": "28fe038776485b85e5d131862fd7bad4d914daccf7c94fba7839b9cb21bc4181",
-    "totalAnnouncements": 4,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-26T21:11:03.840+05:30",
+    "checksum": "82a8698889da12531a562921a9aedb80aed785f0c3422b3df1f258b4b66750a0",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-26/awards-135037.json"
+    "rawPayloadPath": "data/raw/2026-10-26/awards-211102.json"
   }
 }
