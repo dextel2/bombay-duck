@@ -29,7 +29,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-10-27 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Oct 2026 - 09:26 |
 | 2026-10-27 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Secures order form RIL to deliver ''Mega'' Desalination Plant and Remineralization Plant at Jamnagar ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 27 Oct 2026 - 08:24 |
 
-_Last updated: 27 Oct 2026 - 14:02 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-27.json)_
+_Last updated: 27 Oct 2026 - 20:33 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-27.json)_
 
 <!-- snapshot:end -->
 
