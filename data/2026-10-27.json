@@ -1,0 +1,77 @@
+{
+  "tradingDate": "2026-10-27",
+  "buckets": {
+    "2026-10-27T13": [
+      {
+        "newsId": "df51ee49-46d8-41aa-80b0-a740c419b34c",
+        "scripCode": 539522,
+        "shortName": "Grovy India Ltd",
+        "headline": "Intimation regarding the order passed by the Income Tax Appellate Tribunal in favour of the company.",
+        "announcedAt": "2026-10-27T13:36:09.037+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/grovy-india-ltd/grovy/539522/",
+        "rawTime": "2026-10-27T13:36:09.037"
+      }
+    ],
+    "2026-10-27T12": [
+      {
+        "newsId": "d11915ae-f339-4352-8814-10f62477cb8b",
+        "scripCode": 544669,
+        "shortName": "Admach Systems Ltd",
+        "headline": "Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
+        "announcedAt": "2026-10-27T12:19:14.680+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/",
+        "rawTime": "2026-10-27T12:19:14.68"
+      }
+    ],
+    "2026-10-27T10": [
+      {
+        "newsId": "4b9997ba-7311-4147-b683-fcc34b0782a1",
+        "scripCode": 526775,
+        "shortName": "Valiant Communications Ltd-$",
+        "headline": "Receipt of Orders Worth Rs. 1,476 Lacs",
+        "announcedAt": "2026-10-27T10:12:14.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+        "rawTime": "2026-10-27T10:12:14.053"
+      }
+    ],
+    "2026-10-27T09": [
+      {
+        "newsId": "fed544ef-64de-4954-b2cf-8c5bc075c017",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-27T09:28:01.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-27T09:28:01.18"
+      },
+      {
+        "newsId": "03c9b102-1614-4281-95d2-989093f45ff1",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-27T09:26:57.300+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-27T09:26:57.3"
+      }
+    ],
+    "2026-10-27T08": [
+      {
+        "newsId": "5402f5c7-41b3-4e1b-9b2c-f9ff50af427c",
+        "scripCode": 533269,
+        "shortName": "VA Tech Wabag Ltd",
+        "headline": "WABAG Secures order form RIL to deliver ''Mega'' Desalination Plant and Remineralization Plant at Jamnagar",
+        "announcedAt": "2026-10-27T08:24:20.683+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+        "rawTime": "2026-10-27T08:24:20.683"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-27T14:02:30.293+05:30",
+    "checksum": "82e3869159cc646e47dc7e3967173868c07101aa50018fa3e42c462abd606660",
+    "totalAnnouncements": 6,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-27/awards-140229.json"
+  }
+}

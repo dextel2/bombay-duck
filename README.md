@@ -18,20 +18,18 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-26 IST)
+### Today's Awarded Orders (2026-10-27 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-26 18:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of Award ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Neutral | 26 Oct 2026 - 18:31 |
-| 2026-10-26 18:00 | Bajel Projects Ltd | 544042 | Announcement under Regulation 30 (LODR) - Bagging of Award ([Link](https://www.bseindia.com/stock-share-price/bajel-projects-ltd/bajel/544042/)) | Neutral | 26 Oct 2026 - 18:19 |
-| 2026-10-26 16:00 | Cosmic CRF Ltd | 543928 | We hereby inform the Exchange of the receipt of Purchase Order of Rs. 1234.10 Lakhs by the Subsidiary Company, M/s N S Engineering Projects Pvt Ltd. ([Link](https://www.bseindia.com/stock-share-price/cosmic-crf-ltd/cosmiccrf/543928/)) | Likely Positive | 26 Oct 2026 - 16:03 |
-| 2026-10-26 15:00 | Fusion Klassroom Edutech Ltd | 544856 | Dear Sir / Madam, Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that .... ([Link](https://www.bseindia.com/stock-share-price/fusion-klassroom-edutech-ltd/klassroom/544856/)) | Neutral | 26 Oct 2026 - 15:12 |
-| 2026-10-26 13:00 | Sugs Lloyd Ltd | 544501 | Sugs LLoyd Secures Rs. 3.16 crore Rate Contract from Tata Power-DDL for SITC of 11Kv Auto Reclosure for Distribution Automation System (DAS) ([Link](https://www.bseindia.com/stock-share-price/sugs-lloyd-ltd/sugslloyd/544501/)) | Likely Positive | 26 Oct 2026 - 13:31 |
-| 2026-10-26 12:00 | Oriental Rail Infrastructure Ltd | 531859 | Receipt of award/order ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 26 Oct 2026 - 12:40 |
-| 2026-10-26 12:00 | 3C IT Solutions and Telecoms (India) Ltd | 544190 | The has informed to the stock exchange that the company has received a purchase order of Rs. 9,08,43,480/- for supply of HP desktops. ([Link](https://www.bseindia.com/stock-share-price/3c-it-solutions-and-telecoms-(india)-ltd/3cit/544190/)) | Likely Positive | 26 Oct 2026 - 12:12 |
-| 2026-10-26 08:00 | Jyoti Structures Ltd | 513250 | We wish to inform you that the Company has received Notifications of Award from Power Grid Corporation of India Limited ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Neutral | 26 Oct 2026 - 08:58 |
+| 2026-10-27 13:00 | Grovy India Ltd | 539522 | Intimation regarding the order passed by the Income Tax Appellate Tribunal in favour of the company. ([Link](https://www.bseindia.com/stock-share-price/grovy-india-ltd/grovy/539522/)) | Likely Positive | 27 Oct 2026 - 13:36 |
+| 2026-10-27 12:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 27 Oct 2026 - 12:19 |
+| 2026-10-27 10:00 | Valiant Communications Ltd-$ | 526775 | Receipt of Orders Worth Rs. 1,476 Lacs ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Likely Positive | 27 Oct 2026 - 10:12 |
+| 2026-10-27 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Oct 2026 - 09:28 |
+| 2026-10-27 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Oct 2026 - 09:26 |
+| 2026-10-27 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Secures order form RIL to deliver ''Mega'' Desalination Plant and Remineralization Plant at Jamnagar ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 27 Oct 2026 - 08:24 |
 
-_Last updated: 26 Oct 2026 - 21:11 | Entries: 8 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-26.json)_
+_Last updated: 27 Oct 2026 - 14:02 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-27.json)_
 
 <!-- snapshot:end -->
 
