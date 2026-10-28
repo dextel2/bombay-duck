@@ -33,14 +33,54 @@
         "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
         "rawTime": "2026-10-28T08:57:26.223"
       }
+    ],
+    "2026-10-28T17": [
+      {
+        "newsId": "4dd505fe-dbfc-4c2b-88da-0bf9caddfc14",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-10-28T17:54:49.533+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-10-28T17:54:49.533"
+      },
+      {
+        "newsId": "45da79a8-c79f-4bcc-a7ba-bf4f97d90710",
+        "scripCode": 531859,
+        "shortName": "Oriental Rail Infrastructure Ltd",
+        "headline": "Amendment/addition to existing order by Oriental Foundry Private Limited, Wholly-Owned Subsidiary Company from Indian Railways",
+        "announcedAt": "2026-10-28T17:39:50.303+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+        "rawTime": "2026-10-28T17:39:50.303"
+      },
+      {
+        "newsId": "d7887f1c-c36e-46e4-903a-76be78d2c934",
+        "scripCode": 532268,
+        "shortName": "Accelya Solutions India Ltd",
+        "headline": "Please find intimation of the order given by the P.F. Commissioner - II Which was received by the Company by email on 27 October, 2026 . Details are mentioned in the attached covering ....",
+        "announcedAt": "2026-10-28T17:11:55.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accelya-solutions-india-ltd/accelya/532268/",
+        "rawTime": "2026-10-28T17:11:55.79"
+      }
+    ],
+    "2026-10-28T16": [
+      {
+        "newsId": "4fbc2ac4-ecb7-4aaa-a8ea-61ef27f42e4f",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Award of order from Argentera",
+        "announcedAt": "2026-10-28T16:26:19.737+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-10-28T16:26:19.737"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-28T14:40:43.434+05:30",
-    "checksum": "4fbfd867858fa70fe67fcefcf02562cefb13ca216a9ef7817a8b66ea39341b2f",
-    "totalAnnouncements": 3,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-28T21:52:25.394+05:30",
+    "checksum": "07b037d67f621d10ae759c9b32e91fcd7fbd112fba0312a42172b0908e97b68d",
+    "totalAnnouncements": 7,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-28/awards-144042.json"
+    "rawPayloadPath": "data/raw/2026-10-28/awards-215223.json"
   }
 }

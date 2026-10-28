@@ -22,11 +22,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-28 17:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 28 Oct 2026 - 17:54 |
+| 2026-10-28 17:00 | Oriental Rail Infrastructure Ltd | 531859 | Amendment/addition to existing order by Oriental Foundry Private Limited, Wholly-Owned Subsidiary Company from Indian Railways ([Link](https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/)) | Likely Positive | 28 Oct 2026 - 17:39 |
+| 2026-10-28 17:00 | Accelya Solutions India Ltd | 532268 | Please find intimation of the order given by the P.F. Commissioner - II Which was received by the Company by email on 27 October, 2026 . Details are mentioned in the attached covering .... ([Link](https://www.bseindia.com/stock-share-price/accelya-solutions-india-ltd/accelya/532268/)) | Likely Positive | 28 Oct 2026 - 17:11 |
+| 2026-10-28 16:00 | United Drilling Tools Ltd | 522014 | Award of order from Argentera ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 28 Oct 2026 - 16:26 |
 | 2026-10-28 12:00 | Siyaram Recycling Industries Ltd | 544047 | Attached Intimation for Order updates dated 28th October, 2026 from Anurag Impex ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 28 Oct 2026 - 12:09 |
 | 2026-10-28 11:00 | Remi Edelstahl Tubulars Ltd | 513043 | Receipt of Order as per attached letter ([Link](https://www.bseindia.com/stock-share-price/remi-edelstahl-tubulars-ltd/remiedel/513043/)) | Likely Positive | 28 Oct 2026 - 11:48 |
 | 2026-10-28 08:00 | Jyoti Structures Ltd | 513250 | We wish to inform you that the company has received a Notification of Award from Power Grid Corporation of India Limited ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Neutral | 28 Oct 2026 - 08:57 |
 
-_Last updated: 28 Oct 2026 - 14:40 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-28.json)_
+_Last updated: 28 Oct 2026 - 21:52 | Entries: 7 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-28.json)_
 
 <!-- snapshot:end -->
 
