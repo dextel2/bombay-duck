@@ -18,18 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-27 IST)
+### Today's Awarded Orders (2026-10-28 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-27 13:00 | Grovy India Ltd | 539522 | Intimation regarding the order passed by the Income Tax Appellate Tribunal in favour of the company. ([Link](https://www.bseindia.com/stock-share-price/grovy-india-ltd/grovy/539522/)) | Likely Positive | 27 Oct 2026 - 13:36 |
-| 2026-10-27 12:00 | Admach Systems Ltd | 544669 | Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/admach-systems-ltd/admach/544669/)) | Likely Positive | 27 Oct 2026 - 12:19 |
-| 2026-10-27 10:00 | Valiant Communications Ltd-$ | 526775 | Receipt of Orders Worth Rs. 1,476 Lacs ([Link](https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/)) | Likely Positive | 27 Oct 2026 - 10:12 |
-| 2026-10-27 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Oct 2026 - 09:28 |
-| 2026-10-27 09:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 27 Oct 2026 - 09:26 |
-| 2026-10-27 08:00 | VA Tech Wabag Ltd | 533269 | WABAG Secures order form RIL to deliver ''Mega'' Desalination Plant and Remineralization Plant at Jamnagar ([Link](https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/)) | Likely Positive | 27 Oct 2026 - 08:24 |
+| 2026-10-28 12:00 | Siyaram Recycling Industries Ltd | 544047 | Attached Intimation for Order updates dated 28th October, 2026 from Anurag Impex ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 28 Oct 2026 - 12:09 |
+| 2026-10-28 11:00 | Remi Edelstahl Tubulars Ltd | 513043 | Receipt of Order as per attached letter ([Link](https://www.bseindia.com/stock-share-price/remi-edelstahl-tubulars-ltd/remiedel/513043/)) | Likely Positive | 28 Oct 2026 - 11:48 |
+| 2026-10-28 08:00 | Jyoti Structures Ltd | 513250 | We wish to inform you that the company has received a Notification of Award from Power Grid Corporation of India Limited ([Link](https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/)) | Neutral | 28 Oct 2026 - 08:57 |
 
-_Last updated: 27 Oct 2026 - 20:33 | Entries: 6 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-27.json)_
+_Last updated: 28 Oct 2026 - 14:40 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-28.json)_
 
 <!-- snapshot:end -->
 

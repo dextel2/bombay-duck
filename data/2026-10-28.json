@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-10-28",
+  "buckets": {
+    "2026-10-28T12": [
+      {
+        "newsId": "aebfe9fc-9e6c-42c5-af1e-01d4c7b63775",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached Intimation for Order updates dated 28th October, 2026 from Anurag Impex",
+        "announcedAt": "2026-10-28T12:09:18.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-10-28T12:09:18.963"
+      }
+    ],
+    "2026-10-28T11": [
+      {
+        "newsId": "f0767e2b-f4e9-4686-a78a-2ce41d5080aa",
+        "scripCode": 513043,
+        "shortName": "Remi Edelstahl Tubulars Ltd",
+        "headline": "Receipt of Order as per attached letter",
+        "announcedAt": "2026-10-28T11:48:35.370+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/remi-edelstahl-tubulars-ltd/remiedel/513043/",
+        "rawTime": "2026-10-28T11:48:35.37"
+      }
+    ],
+    "2026-10-28T08": [
+      {
+        "newsId": "6cb2c231-07dc-4719-97b2-3be863c9dccb",
+        "scripCode": 513250,
+        "shortName": "Jyoti Structures Ltd",
+        "headline": "We wish to inform you that the company has received a Notification of Award from Power Grid Corporation of India Limited",
+        "announcedAt": "2026-10-28T08:57:26.223+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-structures-ltd/jyotistruc/513250/",
+        "rawTime": "2026-10-28T08:57:26.223"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-28T14:40:43.434+05:30",
+    "checksum": "4fbfd867858fa70fe67fcefcf02562cefb13ca216a9ef7817a8b66ea39341b2f",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-28/awards-144042.json"
+  }
+}
