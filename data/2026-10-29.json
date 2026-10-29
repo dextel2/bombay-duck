@@ -62,14 +62,58 @@
         "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
         "rawTime": "2026-10-29T00:34:13.38"
       }
+    ],
+    "2026-10-29T20": [
+      {
+        "newsId": "cc0f1114-95a8-4c64-8e5d-71cb037a3167",
+        "scripCode": 532483,
+        "shortName": "Canara Bank",
+        "headline": "Intimation under Regulation 30 of SEBI (LODR), Regulations 2015",
+        "announcedAt": "2026-10-29T20:08:15.263+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/canara-bank/canbk/532483/",
+        "rawTime": "2026-10-29T20:08:15.263"
+      }
+    ],
+    "2026-10-29T19": [
+      {
+        "newsId": "818f8ef4-e80f-40c5-b118-bf9eb6408218",
+        "scripCode": 543963,
+        "shortName": "Shelter Pharma Ltd",
+        "headline": "Attached here with order updates recieved on 28.10.2026",
+        "announcedAt": "2026-10-29T19:45:24.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/",
+        "rawTime": "2026-10-29T19:45:24.79"
+      }
+    ],
+    "2026-10-29T18": [
+      {
+        "newsId": "62125a54-8792-4494-a506-c2136d797b7a",
+        "scripCode": 543332,
+        "shortName": "Epigral Ltd",
+        "headline": "Intimation of assessment order for A.Y. 2023-24 pertaining to F.Y. 2022-23, along with notice of demand of Rs.28.11 crore (including applicable interest).",
+        "announcedAt": "2026-10-29T18:55:47.577+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/epigral-ltd/epigral/543332/",
+        "rawTime": "2026-10-29T18:55:47.577"
+      }
+    ],
+    "2026-10-29T16": [
+      {
+        "newsId": "ba1e8645-6927-4dfe-b3ad-5b40b456ebb2",
+        "scripCode": 538635,
+        "shortName": "Snowman Logistics Ltd",
+        "headline": "Please refer attached file",
+        "announcedAt": "2026-10-29T16:25:59.810+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/snowman-logistics-ltd/snowman/538635/",
+        "rawTime": "2026-10-29T16:25:59.81"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-29T14:40:34.886+05:30",
-    "checksum": "b0223c0cf10ea7367a892a155ea608c896ac570d9f6442ad802d5021b9b88d8a",
-    "totalAnnouncements": 6,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-29T22:01:48.125+05:30",
+    "checksum": "263597f8263fcf498f03dcfee13cbaf72b9bc7d3c5a402ab987baafb5ace2b01",
+    "totalAnnouncements": 10,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-10-29/awards-144033.json"
+    "rawPayloadPath": "data/raw/2026-10-29/awards-220147.json"
   }
 }

@@ -22,6 +22,10 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-29 20:00 | Canara Bank | 532483 | Intimation under Regulation 30 of SEBI (LODR), Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/canara-bank/canbk/532483/)) | Neutral | 29 Oct 2026 - 20:08 |
+| 2026-10-29 19:00 | Shelter Pharma Ltd | 543963 | Attached here with order updates recieved on 28.10.2026 ([Link](https://www.bseindia.com/stock-share-price/shelter-pharma-ltd/shelter/543963/)) | Likely Positive | 29 Oct 2026 - 19:45 |
+| 2026-10-29 18:00 | Epigral Ltd | 543332 | Intimation of assessment order for A.Y. 2023-24 pertaining to F.Y. 2022-23, along with notice of demand of Rs.28.11 crore (including applicable interest). ([Link](https://www.bseindia.com/stock-share-price/epigral-ltd/epigral/543332/)) | Likely Positive | 29 Oct 2026 - 18:55 |
+| 2026-10-29 16:00 | Snowman Logistics Ltd | 538635 | Please refer attached file ([Link](https://www.bseindia.com/stock-share-price/snowman-logistics-ltd/snowman/538635/)) | Neutral | 29 Oct 2026 - 16:25 |
 | 2026-10-29 13:00 | Texmaco Rail & Engineering Ltd | 533326 | Intimation of Amendment in Contract from Ministry of Railways ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 29 Oct 2026 - 13:35 |
 | 2026-10-29 13:00 | Container Corporation of India Ltd | 531344 | Disclosure under Reg. 30 of the SEBI (LODR) Reg., 2015. ([Link](https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/)) | Neutral | 29 Oct 2026 - 13:30 |
 | 2026-10-29 12:00 | Siyaram Recycling Industries Ltd | 544047 | Attached herewith Intimation of Order recieved from Sahjanand Impex ([Link](https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/)) | Likely Positive | 29 Oct 2026 - 12:30 |
@@ -29,7 +33,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | 2026-10-29 10:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has received Letter of Award for Project 'Construction of 4 lane elevated corridor including approaches from Old Pune Naka to Boramani Naka on NH-65 in Solapur City .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 29 Oct 2026 - 10:52 |
 | 2026-10-29 00:00 | ACME Solar Holdings Ltd | 544283 | Execution of Power Purchase Agreement ([Link](https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/)) | Neutral | 29 Oct 2026 - 00:34 |
 
-_Last updated: 29 Oct 2026 - 14:40 | Entries: 6 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-10-29.json)_
+_Last updated: 29 Oct 2026 - 22:01 | Entries: 10 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-10-29.json)_
 
 <!-- snapshot:end -->
 
