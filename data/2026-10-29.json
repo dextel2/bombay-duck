@@ -1,0 +1,75 @@
+{
+  "tradingDate": "2026-10-29",
+  "buckets": {
+    "2026-10-29T13": [
+      {
+        "newsId": "bcd60c23-50d1-43f8-9f3e-dac8736a1b17",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Intimation of Amendment in Contract from Ministry of Railways",
+        "announcedAt": "2026-10-29T13:35:00.553+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-10-29T13:35:00.553"
+      },
+      {
+        "newsId": "f1cca320-e77c-41d6-b824-e76b354d50d9",
+        "scripCode": 531344,
+        "shortName": "Container Corporation of India Ltd",
+        "headline": "Disclosure under Reg. 30 of the SEBI (LODR) Reg., 2015.",
+        "announcedAt": "2026-10-29T13:30:10.957+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/container-corporation-of-india-ltd/concor/531344/",
+        "rawTime": "2026-10-29T13:30:10.957"
+      }
+    ],
+    "2026-10-29T12": [
+      {
+        "newsId": "4d619ac7-9a00-482e-88b6-8f1f9c31f6cb",
+        "scripCode": 544047,
+        "shortName": "Siyaram Recycling Industries Ltd",
+        "headline": "Attached herewith Intimation of Order recieved from Sahjanand Impex",
+        "announcedAt": "2026-10-29T12:30:08.783+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/siyaram-recycling-industries-ltd/siyaram/544047/",
+        "rawTime": "2026-10-29T12:30:08.783"
+      },
+      {
+        "newsId": "83698f0b-933c-4ff3-942e-7c0858c579d5",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-29T12:01:27.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-29T12:01:27.65"
+      }
+    ],
+    "2026-10-29T10": [
+      {
+        "newsId": "d747013e-0a27-4018-bcbf-4afac6933cfe",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited has received Letter of Award for Project 'Construction of 4 lane elevated corridor including approaches from Old Pune Naka to Boramani Naka on NH-65 in Solapur City ....",
+        "announcedAt": "2026-10-29T10:52:35.920+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-10-29T10:52:35.92"
+      }
+    ],
+    "2026-10-29T00": [
+      {
+        "newsId": "7c64aa79-d924-4713-8859-999de0722ecd",
+        "scripCode": 544283,
+        "shortName": "ACME Solar Holdings Ltd",
+        "headline": "Execution of Power Purchase Agreement",
+        "announcedAt": "2026-10-29T00:34:13.380+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+        "rawTime": "2026-10-29T00:34:13.38"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-29T14:40:34.886+05:30",
+    "checksum": "b0223c0cf10ea7367a892a155ea608c896ac570d9f6442ad802d5021b9b88d8a",
+    "totalAnnouncements": 6,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-10-29/awards-144033.json"
+  }
+}
