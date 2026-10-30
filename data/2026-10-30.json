@@ -49,14 +49,45 @@
         "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
         "rawTime": "2026-10-30T11:25:05.487"
       }
+    ],
+    "2026-10-30T19": [
+      {
+        "newsId": "2a73f3d9-70e1-4564-9810-4145d7fb2397",
+        "scripCode": 543528,
+        "shortName": "Venus Pipes & Tubes Ltd",
+        "headline": "intimation",
+        "announcedAt": "2026-10-30T19:01:34.573+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/venus-pipes--tubes-ltd/venuspipes/543528/",
+        "rawTime": "2026-10-30T19:01:34.573"
+      }
+    ],
+    "2026-10-30T17": [
+      {
+        "newsId": "659b015f-b9cc-4717-996e-5c934d6b354e",
+        "scripCode": 544405,
+        "shortName": "Belrise Industries Ltd",
+        "headline": "Intimation under regulation 30 of the SEBI listing regulations, 2015 regarding receipt of GST order.",
+        "announcedAt": "2026-10-30T17:31:56.953+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/belrise-industries-ltd/belrise/544405/",
+        "rawTime": "2026-10-30T17:31:56.953"
+      },
+      {
+        "newsId": "71b1f922-6120-4a0d-ac3e-3c110d59f301",
+        "scripCode": 544847,
+        "shortName": "Manipal Health Enterprises Ltd",
+        "headline": "Please find attached the disclosure under Regulation 30 read with Schedule III of the SEBI (LODR) Regulations, 2015 pertaining to actions taken/ order passed against the subsidiary Company.",
+        "announcedAt": "2026-10-30T17:20:38.953+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/manipal-health-enterprises-ltd/manipalhos/544847/",
+        "rawTime": "2026-10-30T17:20:38.953"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-10-30T14:52:35.387+05:30",
-    "checksum": "fa817bc542a3e7e709cbd59ac72addb5888e4fee57c3bd5401f08a1b9c9c8c7f",
-    "totalAnnouncements": 5,
-    "requestCount": 1,
+    "lastUpdated": "2026-10-30T21:54:08.656+05:30",
+    "checksum": "b4190c264e822f6754b7f521a0c9a3e0e4c373bbc9fa5a94f10bed921cd19aa7",
+    "totalAnnouncements": 8,
+    "requestCount": 2,
     "retryCount": 3,
-    "rawPayloadPath": "data/raw/2026-10-30/awards-145219.json"
+    "rawPayloadPath": "data/raw/2026-10-30/awards-215406.json"
   }
 }
