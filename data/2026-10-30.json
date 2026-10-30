@@ -1,0 +1,62 @@
+{
+  "tradingDate": "2026-10-30",
+  "buckets": {
+    "2026-10-30T12": [
+      {
+        "newsId": "379c058b-4cfc-4e0a-9548-d4fa283ac638",
+        "scripCode": 544735,
+        "shortName": "Novus Loyalty Ltd",
+        "headline": "Announcement of award of an order",
+        "announcedAt": "2026-10-30T12:58:53.743+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/",
+        "rawTime": "2026-10-30T12:58:53.743"
+      },
+      {
+        "newsId": "17795734-3cc3-4a65-9b50-09db413ca21b",
+        "scripCode": 543273,
+        "shortName": "Knowledge Marine & Engineering Works Ltd",
+        "headline": "We are please to inform you that the KMEW has received a work order from New Mangalore Port Authority (NMPA) for Maintenance Dredging at New Mangalore Port for the period of 3 years. The ....",
+        "announcedAt": "2026-10-30T12:04:30.733+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/knowledge-marine--engineering-works-ltd/kmew/543273/",
+        "rawTime": "2026-10-30T12:04:30.733"
+      },
+      {
+        "newsId": "b7eb76d6-6c9f-4af7-b3cb-f7b4fca79f3f",
+        "scripCode": 544418,
+        "shortName": "Oswal Pumps Ltd",
+        "headline": "As per attached intimation letter.",
+        "announcedAt": "2026-10-30T12:02:07.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+        "rawTime": "2026-10-30T12:02:07.217"
+      }
+    ],
+    "2026-10-30T11": [
+      {
+        "newsId": "9362b126-d387-4673-9d94-a4b80ed0ac60",
+        "scripCode": 530595,
+        "shortName": "TeleCanor Global Ltd",
+        "headline": "Update on Purchase Order from PrimeZen Innovations Inc",
+        "announcedAt": "2026-10-30T11:41:15.160+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/telecanor-global-ltd/telecanor/530595/",
+        "rawTime": "2026-10-30T11:41:15.16"
+      },
+      {
+        "newsId": "1de9cd97-add8-4796-ad5c-6a4927d0398a",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-10-30T11:25:05.487+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-10-30T11:25:05.487"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-10-30T14:52:35.387+05:30",
+    "checksum": "fa817bc542a3e7e709cbd59ac72addb5888e4fee57c3bd5401f08a1b9c9c8c7f",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 3,
+    "rawPayloadPath": "data/raw/2026-10-30/awards-145219.json"
+  }
+}
