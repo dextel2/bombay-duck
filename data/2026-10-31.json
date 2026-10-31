@@ -1,12 +1,55 @@
 {
   "tradingDate": "2026-10-31",
-  "buckets": {},
+  "buckets": {
+    "2026-10-31T18": [
+      {
+        "newsId": "156c44af-efd5-466e-9378-6c372fe35aaa",
+        "scripCode": 544500,
+        "shortName": "Abril Paper Tech Ltd",
+        "headline": "This has reference to our earlier disclosures dated 05/08/2026. Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, we hereby inform you that the company has received an order ....",
+        "announcedAt": "2026-10-31T18:24:12.007+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/abril-paper-tech-ltd/abril/544500/",
+        "rawTime": "2026-10-31T18:24:12.007"
+      }
+    ],
+    "2026-10-31T16": [
+      {
+        "newsId": "dbb59b61-c921-43b3-a7aa-44fe358a7722",
+        "scripCode": 522001,
+        "shortName": "Cranex Ltd",
+        "headline": "Enclosed herewith is the Intimation regarding the receipt of a Letter of Award and Purchase orders for new orders valued at approximately Rs. 12,93,31,424/- for manufacturing and supply of EOT Cranes.",
+        "announcedAt": "2026-10-31T16:29:38.503+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/",
+        "rawTime": "2026-10-31T16:29:38.503"
+      }
+    ],
+    "2026-10-31T10": [
+      {
+        "newsId": "d017b967-5d16-460e-945f-afaeba1c0fdd",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of receipt of Order",
+        "announcedAt": "2026-10-31T10:39:17.020+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-10-31T10:39:17.02"
+      },
+      {
+        "newsId": "fef6c3ba-e624-4c87-8394-0cbba3a0283e",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of receipt of Purchase Order",
+        "announcedAt": "2026-10-31T10:36:08.820+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-10-31T10:36:08.82"
+      }
+    ]
+  },
   "meta": {
-    "lastUpdated": "2026-10-31T14:39:24.071+05:30",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "totalAnnouncements": 0,
-    "requestCount": 1,
-    "retryCount": 2,
-    "rawPayloadPath": "data/raw/2026-10-31/awards-143847.json"
+    "lastUpdated": "2026-10-31T21:03:56.496+05:30",
+    "checksum": "44da9d1dc442afcf7c2abec0a06391082790d89a51b1286a10012eb3d7b792a2",
+    "totalAnnouncements": 4,
+    "requestCount": 2,
+    "retryCount": 3,
+    "rawPayloadPath": "data/raw/2026-10-31/awards-210338.json"
   }
 }
