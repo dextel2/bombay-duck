@@ -24,7 +24,7 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-01 14:00 | Jyoti Ltd-$ | 504076 | Receipt of Rectification Order received from Income Tax Department ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 01 Nov 2026 - 14:19 |
 
-_Last updated: 01 Nov 2026 - 15:26 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-01.json)_
+_Last updated: 01 Nov 2026 - 22:02 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-11-01.json)_
 
 <!-- snapshot:end -->
 
