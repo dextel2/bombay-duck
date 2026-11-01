@@ -18,16 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-10-31 IST)
+### Today's Awarded Orders (2026-11-01 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-31 18:00 | Abril Paper Tech Ltd | 544500 | This has reference to our earlier disclosures dated 05/08/2026. Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, we hereby inform you that the company has received an order .... ([Link](https://www.bseindia.com/stock-share-price/abril-paper-tech-ltd/abril/544500/)) | Likely Positive | 31 Oct 2026 - 18:24 |
-| 2026-10-31 16:00 | Cranex Ltd | 522001 | Enclosed herewith is the Intimation regarding the receipt of a Letter of Award and Purchase orders for new orders valued at approximately Rs. 12,93,31,424/- for manufacturing and supply of EOT Cranes. ([Link](https://www.bseindia.com/stock-share-price/cranex-ltd/cranex/522001/)) | Likely Positive | 31 Oct 2026 - 16:29 |
-| 2026-10-31 10:00 | Shayona Engineering Ltd | 544686 | Intimation of receipt of Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 31 Oct 2026 - 10:39 |
-| 2026-10-31 10:00 | Shayona Engineering Ltd | 544686 | Intimation of receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 31 Oct 2026 - 10:36 |
+| 2026-11-01 14:00 | Jyoti Ltd-$ | 504076 | Receipt of Rectification Order received from Income Tax Department ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 01 Nov 2026 - 14:19 |
 
-_Last updated: 31 Oct 2026 - 21:03 | Entries: 4 | Requests: 2 | Retries: 3 | [Raw JSON](data/2026-10-31.json)_
+_Last updated: 01 Nov 2026 - 15:26 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-01.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-11-01",
+  "buckets": {
+    "2026-11-01T14": [
+      {
+        "newsId": "66924a2a-8ca8-4da1-b2d4-0fb250261674",
+        "scripCode": 504076,
+        "shortName": "Jyoti Ltd-$",
+        "headline": "Receipt of Rectification Order received from Income Tax Department",
+        "announcedAt": "2026-11-01T14:19:16.950+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/",
+        "rawTime": "2026-11-01T14:19:16.95"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-01T15:26:25.250+05:30",
+    "checksum": "9851e9da47ae725d3c79cf35b338aea572f5635fd0d40c595ad07e5b8f541711",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-01/awards-152623.json"
+  }
+}
