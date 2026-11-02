@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-11-02",
+  "buckets": {
+    "2026-11-02T14": [
+      {
+        "newsId": "d9ece408-cf9d-4af0-8073-925afc280501",
+        "scripCode": 544001,
+        "shortName": "Sunita Tools Ltd",
+        "headline": "Receipt of Purchase Order: Intimation Under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-11-02T14:53:27.343+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sunita-tools-ltd/sunitatool/544001/",
+        "rawTime": "2026-11-02T14:53:27.343"
+      }
+    ],
+    "2026-11-02T13": [
+      {
+        "newsId": "cb647287-eb71-478b-8edd-072959fa3f59",
+        "scripCode": 538713,
+        "shortName": "Atishay Ltd",
+        "headline": "Bagging of new order for Deployment of 2 (Two) technical resources by Transformation Travancore Devaswom Board (TDB) In association with KITFRA - A Government of Kerala Undertaking - Order ....",
+        "announcedAt": "2026-11-02T13:46:28.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/",
+        "rawTime": "2026-11-02T13:46:28.18"
+      }
+    ],
+    "2026-11-02T11": [
+      {
+        "newsId": "a6298004-90c5-43ba-a96d-c699733b357f",
+        "scripCode": 506820,
+        "shortName": "AstraZeneca Pharma India Ltd",
+        "headline": "Please find the enclosed intimation of the Company as per the captioned subject for your reference.",
+        "announcedAt": "2026-11-02T11:51:57.930+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/astrazeneca-pharma-india-ltd/astrazen/506820/",
+        "rawTime": "2026-11-02T11:51:57.93"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-02T15:53:33.960+05:30",
+    "checksum": "829d4b395e99f1605f6fd25cd5181e075698ca102629ca3085fa3c915c2291ee",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-02/awards-155333.json"
+  }
+}

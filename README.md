@@ -18,13 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-01 IST)
+### Today's Awarded Orders (2026-11-02 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-01 14:00 | Jyoti Ltd-$ | 504076 | Receipt of Rectification Order received from Income Tax Department ([Link](https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/)) | Likely Positive | 01 Nov 2026 - 14:19 |
+| 2026-11-02 14:00 | Sunita Tools Ltd | 544001 | Receipt of Purchase Order: Intimation Under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/sunita-tools-ltd/sunitatool/544001/)) | Likely Positive | 02 Nov 2026 - 14:53 |
+| 2026-11-02 13:00 | Atishay Ltd | 538713 | Bagging of new order for Deployment of 2 (Two) technical resources by Transformation Travancore Devaswom Board (TDB) In association with KITFRA - A Government of Kerala Undertaking - Order .... ([Link](https://www.bseindia.com/stock-share-price/atishay-ltd/atishay/538713/)) | Likely Positive | 02 Nov 2026 - 13:46 |
+| 2026-11-02 11:00 | AstraZeneca Pharma India Ltd | 506820 | Please find the enclosed intimation of the Company as per the captioned subject for your reference. ([Link](https://www.bseindia.com/stock-share-price/astrazeneca-pharma-india-ltd/astrazen/506820/)) | Neutral | 02 Nov 2026 - 11:51 |
 
-_Last updated: 01 Nov 2026 - 22:02 | Entries: 1 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-11-01.json)_
+_Last updated: 02 Nov 2026 - 15:53 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-02.json)_
 
 <!-- snapshot:end -->
 
