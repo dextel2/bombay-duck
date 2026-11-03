@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-11-03",
+  "buckets": {
+    "2026-11-03T14": [
+      {
+        "newsId": "a6365c90-e66b-4991-82bc-0b8d45f7752a",
+        "scripCode": 543910,
+        "shortName": "AVG Logistics Ltd",
+        "headline": "AVG Logistics bagged a long term Contract from a Beverages Company",
+        "announcedAt": "2026-11-03T14:09:18.180+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/",
+        "rawTime": "2026-11-03T14:09:18.18"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-03T15:51:13.226+05:30",
+    "checksum": "9326e03f7577ab428fa1e4c34709706f4252cff0d5357e1d5ebbb434344ba80c",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-03/awards-155112.json"
+  }
+}
