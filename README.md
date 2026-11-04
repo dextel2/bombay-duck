@@ -18,13 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-03 IST)
+### Today's Awarded Orders (2026-11-04 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-03 14:00 | AVG Logistics Ltd | 543910 | AVG Logistics bagged a long term Contract from a Beverages Company ([Link](https://www.bseindia.com/stock-share-price/avg-logistics-ltd/avg/543910/)) | Likely Positive | 03 Nov 2026 - 14:09 |
+| 2026-11-04 13:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 04 Nov 2026 - 13:27 |
+| 2026-11-04 11:00 | Affordable Robotic & Automation Ltd | 541402 | Pursuant to Regulation 30 read with Schedule III of the SEBI LODR Regulations, 2015, we wish to inform you that the Subsidiary of the Company has received an order from the International .... ([Link](https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/)) | Likely Positive | 04 Nov 2026 - 11:36 |
+| 2026-11-04 09:00 | Rajesh Power Services Ltd | 544291 | Intimation of orders received from Dakshin Gujarat Vij Company Limited (DGVCL). ([Link](https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/)) | Likely Positive | 04 Nov 2026 - 09:51 |
+| 2026-11-04 08:00 | SPML Infra Ltd | 500402 | SPML Infra Limited has obtained orders worth Rs. 186.41 Crore from Power Grid Corporation of India Limited ([Link](https://www.bseindia.com/stock-share-price/spml-infra-ltd/spmlinfra/500402/)) | Likely Positive | 04 Nov 2026 - 08:20 |
 
-_Last updated: 03 Nov 2026 - 15:51 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-03.json)_
+_Last updated: 04 Nov 2026 - 15:45 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-04.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,57 @@
+{
+  "tradingDate": "2026-11-04",
+  "buckets": {
+    "2026-11-04T13": [
+      {
+        "newsId": "42bc11f8-1ffe-4732-8581-2c8da383313a",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-11-04T13:27:36.497+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-11-04T13:27:36.497"
+      }
+    ],
+    "2026-11-04T11": [
+      {
+        "newsId": "b3a5e498-1cf6-420b-b642-0dd2ac46c3d4",
+        "scripCode": 541402,
+        "shortName": "Affordable Robotic & Automation Ltd",
+        "headline": "Pursuant to Regulation 30 read with Schedule III of the SEBI LODR Regulations, 2015, we wish to inform you that the Subsidiary of the Company has received an order from the International ....",
+        "announcedAt": "2026-11-04T11:36:34.110+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/",
+        "rawTime": "2026-11-04T11:36:34.11"
+      }
+    ],
+    "2026-11-04T09": [
+      {
+        "newsId": "3d78dec4-a9ea-4479-8595-1ebda97f6837",
+        "scripCode": 544291,
+        "shortName": "Rajesh Power Services Ltd",
+        "headline": "Intimation of orders received from Dakshin Gujarat Vij Company Limited (DGVCL).",
+        "announcedAt": "2026-11-04T09:51:40.790+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rajesh-power-services-ltd/rajesh/544291/",
+        "rawTime": "2026-11-04T09:51:40.79"
+      }
+    ],
+    "2026-11-04T08": [
+      {
+        "newsId": "aee44383-1d07-4a47-a5b8-2f1b966b915c",
+        "scripCode": 500402,
+        "shortName": "SPML Infra Ltd",
+        "headline": "SPML Infra Limited has obtained orders worth Rs. 186.41 Crore from Power Grid Corporation of India Limited",
+        "announcedAt": "2026-11-04T08:20:50.780+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/spml-infra-ltd/spmlinfra/500402/",
+        "rawTime": "2026-11-04T08:20:50.78"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-04T15:45:20.413+05:30",
+    "checksum": "1b4eb2e57bf109d31d2a7061d48c7cc77fdf8afc2f269332947fc9b75439c8e0",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-04/awards-154519.json"
+  }
+}
