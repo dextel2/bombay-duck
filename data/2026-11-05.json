@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-11-05",
+  "buckets": {
+    "2026-11-05T15": [
+      {
+        "newsId": "4c2ada65-631c-450d-a487-3deac9a7c5f3",
+        "scripCode": 544910,
+        "shortName": "Apana Logistics Ltd",
+        "headline": "Receipt of Work Order",
+        "announcedAt": "2026-11-05T15:22:24.417+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/apana-logistics-ltd/apana/544910/",
+        "rawTime": "2026-11-05T15:22:24.417"
+      }
+    ],
+    "2026-11-05T14": [
+      {
+        "newsId": "3e2eaeb3-aa7f-45bb-8644-cc58517670d3",
+        "scripCode": 544395,
+        "shortName": "STL Networks Ltd",
+        "headline": "Receipt of order",
+        "announcedAt": "2026-11-05T14:36:30.770+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/stl-networks-ltd/stlnetwork/544395/",
+        "rawTime": "2026-11-05T14:36:30.77"
+      }
+    ],
+    "2026-11-05T13": [
+      {
+        "newsId": "a571942a-18d3-4dbc-a544-f4d501ecac09",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation for Order received for an amount 4,85,35,000 (Rupees Four Crore Eighty Five Lakhs Thirty Five Thousand Only)",
+        "announcedAt": "2026-11-05T13:29:30.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-11-05T13:29:30.14"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-05T15:38:12.949+05:30",
+    "checksum": "44e5422846276c62b021910925a248363f7698601d684d143181d6a6196c5051",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-05/awards-153810.json"
+  }
+}
