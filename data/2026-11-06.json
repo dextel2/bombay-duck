@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-11-06",
+  "buckets": {
+    "2026-11-06T15": [
+      {
+        "newsId": "0dfec75a-3fd6-4b0d-97b1-ca20c2994f2c",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "New Domestic order valuing Rs 6.98 Cr.",
+        "announcedAt": "2026-11-06T15:27:45.167+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-11-06T15:27:45.167"
+      }
+    ],
+    "2026-11-06T14": [
+      {
+        "newsId": "0f7c7f73-aaa6-433d-b497-bf797e0ce405",
+        "scripCode": 511034,
+        "shortName": "Jindal Drilling & Industries Ltd",
+        "headline": "Oil & Natural Gas Corporation Limited has isued Notification of Award to the Company for deployment of Rig Discovery I for a period of three years, at effective day rate (EDR) of ....",
+        "announcedAt": "2026-11-06T14:24:40.797+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/",
+        "rawTime": "2026-11-06T14:24:40.797"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-06T15:43:11.130+05:30",
+    "checksum": "3fbffa4d6cfd65f5802a6da055398a8c7c0e74db2f8c1e256b2890275f8dc6b3",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-06/awards-154300.json"
+  }
+}

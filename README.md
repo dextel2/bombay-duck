@@ -18,15 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-05 IST)
+### Today's Awarded Orders (2026-11-06 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-05 15:00 | Apana Logistics Ltd | 544910 | Receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/apana-logistics-ltd/apana/544910/)) | Likely Positive | 05 Nov 2026 - 15:22 |
-| 2026-11-05 14:00 | STL Networks Ltd | 544395 | Receipt of order ([Link](https://www.bseindia.com/stock-share-price/stl-networks-ltd/stlnetwork/544395/)) | Likely Positive | 05 Nov 2026 - 14:36 |
-| 2026-11-05 13:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation for Order received for an amount 4,85,35,000 (Rupees Four Crore Eighty Five Lakhs Thirty Five Thousand Only) ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 05 Nov 2026 - 13:29 |
+| 2026-11-06 15:00 | Indobell Insulations Ltd | 544334 | New Domestic order valuing Rs 6.98 Cr. ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 06 Nov 2026 - 15:27 |
+| 2026-11-06 14:00 | Jindal Drilling & Industries Ltd | 511034 | Oil & Natural Gas Corporation Limited has isued Notification of Award to the Company for deployment of Rig Discovery I for a period of three years, at effective day rate (EDR) of .... ([Link](https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/)) | Neutral | 06 Nov 2026 - 14:24 |
 
-_Last updated: 05 Nov 2026 - 15:38 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-05.json)_
+_Last updated: 06 Nov 2026 - 15:43 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-06.json)_
 
 <!-- snapshot:end -->
 
