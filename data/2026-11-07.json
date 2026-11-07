@@ -11,14 +11,25 @@
         "url": "https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/",
         "rawTime": "2026-11-07T14:28:30.06"
       }
+    ],
+    "2026-11-07T19": [
+      {
+        "newsId": "df0bd6b2-511b-4e7c-900e-122b62584d21",
+        "scripCode": 526807,
+        "shortName": "Seamec Ltd",
+        "headline": "Intimation of Letter of Award by Larsen & Toubro Limited to the Consortium of Posh India Offshore Pvt Ltd and SEAMEC Limited for PRP-X project of ONGC",
+        "announcedAt": "2026-11-07T19:04:42.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
+        "rawTime": "2026-11-07T19:04:42.033"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-11-07T14:59:14.315+05:30",
-    "checksum": "cc95c7f11b024bb67abed51319c91c2fa351ea68475f7fd426fb24594a753525",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-11-07T21:30:11.204+05:30",
+    "checksum": "9be2565fe4e9e4fae33f45d5609ea65ef80353f72058a9ec9a33bc84ee62f703",
+    "totalAnnouncements": 2,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-11-07/awards-145913.json"
+    "rawPayloadPath": "data/raw/2026-11-07/awards-213010.json"
   }
 }
