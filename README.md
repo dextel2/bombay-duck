@@ -18,14 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-06 IST)
+### Today's Awarded Orders (2026-11-07 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 15:00 | Indobell Insulations Ltd | 544334 | New Domestic order valuing Rs 6.98 Cr. ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 06 Nov 2026 - 15:27 |
-| 2026-11-06 14:00 | Jindal Drilling & Industries Ltd | 511034 | Oil & Natural Gas Corporation Limited has isued Notification of Award to the Company for deployment of Rig Discovery I for a period of three years, at effective day rate (EDR) of .... ([Link](https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/)) | Neutral | 06 Nov 2026 - 14:24 |
+| 2026-11-07 14:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of Regulation 30 of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured an order of amounting to Rs. 26.44 Crore from GRSE Ltd. ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 07 Nov 2026 - 14:28 |
 
-_Last updated: 06 Nov 2026 - 15:43 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-06.json)_
+_Last updated: 07 Nov 2026 - 14:59 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-07.json)_
 
 <!-- snapshot:end -->
 
