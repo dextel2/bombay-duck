@@ -18,14 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-07 IST)
+### Today's Awarded Orders (2026-11-08 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-11-07 19:00 | Seamec Ltd | 526807 | Intimation of Letter of Award by Larsen & Toubro Limited to the Consortium of Posh India Offshore Pvt Ltd and SEAMEC Limited for PRP-X project of ONGC ([Link](https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/)) | Neutral | 07 Nov 2026 - 19:04 |
-| 2026-11-07 14:00 | Shree Refrigerations Ltd | 544458 | Pursuant to the provisions of Regulation 30 of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured an order of amounting to Rs. 26.44 Crore from GRSE Ltd. ([Link](https://www.bseindia.com/stock-share-price/shree-refrigerations-ltd/shreeref/544458/)) | Likely Positive | 07 Nov 2026 - 14:28 |
+_No award announcements have been captured yet today._
 
-_Last updated: 07 Nov 2026 - 21:30 | Entries: 2 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-11-07.json)_
+_Last updated: 08 Nov 2026 - 15:16 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-08.json)_
 
 <!-- snapshot:end -->
 
