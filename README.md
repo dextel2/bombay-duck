@@ -18,11 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-09 IST)
+### Today's Awarded Orders (2026-11-10 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-11-10 15:00 | Punjab National Bank | 532461 | Imposition of penalty ([Link](https://www.bseindia.com/stock-share-price/punjab-national-bank/pnb/532461/)) | Review Manually | 10 Nov 2026 - 15:48 |
+| 2026-11-10 13:00 | HLE Glascoat Ltd | 522215 | HLE Glascoat Limited has informed the Exchange about Receiving of orders / contracts by the Company''s Subsidiary, Kinam Engineering Industries Private Limited. ([Link](https://www.bseindia.com/stock-share-price/hle-glascoat-ltd/hleglas/522215/)) | Likely Positive | 10 Nov 2026 - 13:16 |
+| 2026-11-10 13:00 | Kesoram Industries Ltd | 502937 | Receipt of Arbitral Award in respect of outstanding loan recoverable from Kesoram Textile Mills Limited ([Link](https://www.bseindia.com/stock-share-price/kesoram-industries-ltd/kesoramind/502937/)) | Likely Positive | 10 Nov 2026 - 13:06 |
 
-_Last updated: 09 Nov 2026 - 16:14 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-09.json)_
+_Last updated: 10 Nov 2026 - 16:09 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-10.json)_
 
 <!-- snapshot:end -->
 

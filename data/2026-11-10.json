@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-11-10",
+  "buckets": {
+    "2026-11-10T15": [
+      {
+        "newsId": "297f3a3b-e3c7-4cd6-8afa-146f99afb0e2",
+        "scripCode": 532461,
+        "shortName": "Punjab National Bank",
+        "headline": "Imposition of penalty",
+        "announcedAt": "2026-11-10T15:48:40.187+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/punjab-national-bank/pnb/532461/",
+        "rawTime": "2026-11-10T15:48:40.187"
+      }
+    ],
+    "2026-11-10T13": [
+      {
+        "newsId": "89c67d7e-60f2-4895-aa90-901a6515c3d0",
+        "scripCode": 522215,
+        "shortName": "HLE Glascoat Ltd",
+        "headline": "HLE Glascoat Limited has informed the Exchange about Receiving of orders / contracts by the Company''s Subsidiary, Kinam Engineering Industries Private Limited.",
+        "announcedAt": "2026-11-10T13:16:23.170+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/hle-glascoat-ltd/hleglas/522215/",
+        "rawTime": "2026-11-10T13:16:23.17"
+      },
+      {
+        "newsId": "5d9ab06e-edbf-4aef-9346-1471c6610288",
+        "scripCode": 502937,
+        "shortName": "Kesoram Industries Ltd",
+        "headline": "Receipt of Arbitral Award in respect of outstanding loan recoverable from Kesoram Textile Mills Limited",
+        "announcedAt": "2026-11-10T13:06:14.383+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/kesoram-industries-ltd/kesoramind/502937/",
+        "rawTime": "2026-11-10T13:06:14.383"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-10T16:09:15.336+05:30",
+    "checksum": "b37412ae9c22a64de14771212f1ff9b327ceb7ec103dd4f958465bcb70dd74ea",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-10/awards-160914.json"
+  }
+}
