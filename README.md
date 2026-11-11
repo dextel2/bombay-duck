@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-10 IST)
+### Today's Awarded Orders (2026-11-11 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-10 15:00 | Punjab National Bank | 532461 | Imposition of penalty ([Link](https://www.bseindia.com/stock-share-price/punjab-national-bank/pnb/532461/)) | Review Manually | 10 Nov 2026 - 15:48 |
-| 2026-11-10 13:00 | HLE Glascoat Ltd | 522215 | HLE Glascoat Limited has informed the Exchange about Receiving of orders / contracts by the Company''s Subsidiary, Kinam Engineering Industries Private Limited. ([Link](https://www.bseindia.com/stock-share-price/hle-glascoat-ltd/hleglas/522215/)) | Likely Positive | 10 Nov 2026 - 13:16 |
-| 2026-11-10 13:00 | Kesoram Industries Ltd | 502937 | Receipt of Arbitral Award in respect of outstanding loan recoverable from Kesoram Textile Mills Limited ([Link](https://www.bseindia.com/stock-share-price/kesoram-industries-ltd/kesoramind/502937/)) | Likely Positive | 10 Nov 2026 - 13:06 |
+| 2026-11-11 12:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has been declared as L-1 bidder for 'Development of Satellite Township Phase-l, Package- 3 (Group Housing 02) including allied works at Rakh Gund Aksha, Bemina, Srinagar .... ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Neutral | 11 Nov 2026 - 12:04 |
 
-_Last updated: 10 Nov 2026 - 16:09 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-10.json)_
+_Last updated: 11 Nov 2026 - 15:37 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-11.json)_
 
 <!-- snapshot:end -->
 
