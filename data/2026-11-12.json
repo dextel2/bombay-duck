@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-11-12",
+  "buckets": {
+    "2026-11-12T15": [
+      {
+        "newsId": "f9cfd992-578e-4af3-86af-b268d5e97712",
+        "scripCode": 544682,
+        "shortName": "GRE Renew Enertech Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015- Business Update -Fortnightly Update.",
+        "announcedAt": "2026-11-12T15:06:38.637+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/",
+        "rawTime": "2026-11-12T15:06:38.637"
+      }
+    ],
+    "2026-11-12T14": [
+      {
+        "newsId": "e12a8ec0-1dfb-4ac5-8551-ec6f3d67a64c",
+        "scripCode": 540047,
+        "shortName": "Dilip Buildcon Ltd",
+        "headline": "Dilip Buildcon Limited has declared as L-1 bidder for 'Gurugram Metro Corridor' in the state of Haryana, order worth Rs. 419.47 Crores.",
+        "announcedAt": "2026-11-12T14:09:45.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/",
+        "rawTime": "2026-11-12T14:09:45.173"
+      }
+    ],
+    "2026-11-12T13": [
+      {
+        "newsId": "ade06fdf-faa5-4b20-8907-2833611a536d",
+        "scripCode": 544538,
+        "shortName": "Praruh Technologies Ltd",
+        "headline": "Receipt of LOA from DMRC",
+        "announcedAt": "2026-11-12T13:49:14.963+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/",
+        "rawTime": "2026-11-12T13:49:14.963"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-12T16:01:05.161+05:30",
+    "checksum": "e48403e302917de2959be433ea2050e72ae8dd51e88b5aa3e2761bdabb994255",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 1,
+    "rawPayloadPath": "data/raw/2026-11-12/awards-160048.json"
+  }
+}
