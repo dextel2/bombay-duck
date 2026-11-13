@@ -18,15 +18,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-12 IST)
+### Today's Awarded Orders (2026-11-13 IST)
 
-| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
-| --- | --- | --- | --- | --- | --- |
-| 2026-11-12 15:00 | GRE Renew Enertech Ltd | 544682 | Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015- Business Update -Fortnightly Update. ([Link](https://www.bseindia.com/stock-share-price/gre-renew-enertech-ltd/grerenew/544682/)) | Neutral | 12 Nov 2026 - 15:06 |
-| 2026-11-12 14:00 | Dilip Buildcon Ltd | 540047 | Dilip Buildcon Limited has declared as L-1 bidder for 'Gurugram Metro Corridor' in the state of Haryana, order worth Rs. 419.47 Crores. ([Link](https://www.bseindia.com/stock-share-price/dilip-buildcon-ltd/dbl/540047/)) | Likely Positive | 12 Nov 2026 - 14:09 |
-| 2026-11-12 13:00 | Praruh Technologies Ltd | 544538 | Receipt of LOA from DMRC ([Link](https://www.bseindia.com/stock-share-price/praruh-technologies-ltd/praruh/544538/)) | Likely Positive | 12 Nov 2026 - 13:49 |
+_No award announcements have been captured yet today._
 
-_Last updated: 12 Nov 2026 - 16:01 | Entries: 3 | Requests: 1 | Retries: 1 | [Raw JSON](data/2026-11-12.json)_
+_Last updated: 13 Nov 2026 - 15:54 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-13.json)_
 
 <!-- snapshot:end -->
 
