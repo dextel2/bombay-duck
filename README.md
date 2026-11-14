@@ -18,11 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-13 IST)
+### Today's Awarded Orders (2026-11-14 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-11-14 12:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order from North Western Railway ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 14 Nov 2026 - 12:06 |
 
-_Last updated: 13 Nov 2026 - 15:54 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-13.json)_
+_Last updated: 14 Nov 2026 - 15:11 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-14.json)_
 
 <!-- snapshot:end -->
 
