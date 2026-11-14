@@ -22,9 +22,11 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 19:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order from IVC Logistics Limited ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 14 Nov 2026 - 19:53 |
+| 2026-11-14 17:00 | Innovision Ltd | 544732 | Intimation of Award of Order as per Regulation 30 (LODR) for Patnipartapur Fee Plaza at NH-709A from NHAI in the state of Uttar Pradesh ([Link](https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/)) | Likely Positive | 14 Nov 2026 - 17:37 |
 | 2026-11-14 12:00 | Texmaco Rail & Engineering Ltd | 533326 | Receipt of Order from North Western Railway ([Link](https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/)) | Likely Positive | 14 Nov 2026 - 12:06 |
 
-_Last updated: 14 Nov 2026 - 15:11 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-14.json)_
+_Last updated: 14 Nov 2026 - 21:46 | Entries: 3 | Requests: 2 | Retries: 0 | [Raw JSON](data/2026-11-14.json)_
 
 <!-- snapshot:end -->
 

@@ -11,14 +11,36 @@
         "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
         "rawTime": "2026-11-14T12:06:47.25"
       }
+    ],
+    "2026-11-14T19": [
+      {
+        "newsId": "2da39035-041a-49f1-ac4c-344baf573259",
+        "scripCode": 533326,
+        "shortName": "Texmaco Rail & Engineering Ltd",
+        "headline": "Receipt of Order from IVC Logistics Limited",
+        "announcedAt": "2026-11-14T19:53:51.177+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/texmaco-rail--engineering-ltd/texrail/533326/",
+        "rawTime": "2026-11-14T19:53:51.177"
+      }
+    ],
+    "2026-11-14T17": [
+      {
+        "newsId": "04d0631f-9166-486a-be71-bd6af32876ec",
+        "scripCode": 544732,
+        "shortName": "Innovision Ltd",
+        "headline": "Intimation of Award of Order as per Regulation 30 (LODR) for Patnipartapur Fee Plaza at NH-709A from NHAI in the state of Uttar Pradesh",
+        "announcedAt": "2026-11-14T17:37:47.583+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/innovision-ltd/innovision/544732/",
+        "rawTime": "2026-11-14T17:37:47.583"
+      }
     ]
   },
   "meta": {
-    "lastUpdated": "2026-11-14T15:11:24.995+05:30",
-    "checksum": "cfe0761bd5060c41192279344512cb699aed7dfb3912ff735f57964713aa6fbf",
-    "totalAnnouncements": 1,
-    "requestCount": 1,
+    "lastUpdated": "2026-11-14T21:46:37.551+05:30",
+    "checksum": "5dcc45aa6b704bfb572fa04b81775028c40c2781d8059fa9a1fbccb860d9b115",
+    "totalAnnouncements": 3,
+    "requestCount": 2,
     "retryCount": 0,
-    "rawPayloadPath": "data/raw/2026-11-14/awards-151124.json"
+    "rawPayloadPath": "data/raw/2026-11-14/awards-214630.json"
   }
 }
