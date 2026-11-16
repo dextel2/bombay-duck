@@ -1,0 +1,57 @@
+{
+  "tradingDate": "2026-11-16",
+  "buckets": {
+    "2026-11-16T14": [
+      {
+        "newsId": "24fa627b-5ea3-4733-b721-9f85e3165bc2",
+        "scripCode": 544550,
+        "shortName": "Pace Digitek Ltd",
+        "headline": "Intimation of receipt of Letter of Award aggregating to Rs. 26,913 million (including GST) from NTPC Green Energy Limited",
+        "announcedAt": "2026-11-16T14:54:34.497+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
+        "rawTime": "2026-11-16T14:54:34.497"
+      }
+    ],
+    "2026-11-16T12": [
+      {
+        "newsId": "a32d968d-f570-4af2-a3db-d11468d21d19",
+        "scripCode": 544851,
+        "shortName": "MV Electrosystems Ltd",
+        "headline": "Receipt of Letter of Acceptance",
+        "announcedAt": "2026-11-16T12:16:13.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/",
+        "rawTime": "2026-11-16T12:16:13.143"
+      }
+    ],
+    "2026-11-16T11": [
+      {
+        "newsId": "c2504874-1cf5-4aa8-8aff-fc8f98534191",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of Receipt of Purchase Order",
+        "announcedAt": "2026-11-16T11:11:47.353+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-11-16T11:11:47.353"
+      }
+    ],
+    "2026-11-16T10": [
+      {
+        "newsId": "3b2a011e-854f-47bc-81c8-211f0c7525ec",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other applicable SEBI ....",
+        "announcedAt": "2026-11-16T10:57:28.330+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-11-16T10:57:28.33"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-16T15:57:34.247+05:30",
+    "checksum": "9a25cdc31943521f409e77529cb75958e369d1d82f7326bf7df605ce1e516cf2",
+    "totalAnnouncements": 4,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-16/awards-155733.json"
+  }
+}

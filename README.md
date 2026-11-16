@@ -18,11 +18,16 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-15 IST)
+### Today's Awarded Orders (2026-11-16 IST)
 
-_No award announcements have been captured yet today._
+| Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
+| --- | --- | --- | --- | --- | --- |
+| 2026-11-16 14:00 | Pace Digitek Ltd | 544550 | Intimation of receipt of Letter of Award aggregating to Rs. 26,913 million (including GST) from NTPC Green Energy Limited ([Link](https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/)) | Likely Positive | 16 Nov 2026 - 14:54 |
+| 2026-11-16 12:00 | MV Electrosystems Ltd | 544851 | Receipt of Letter of Acceptance ([Link](https://www.bseindia.com/stock-share-price/mv-electrosystems-ltd/mvelectro/544851/)) | Likely Positive | 16 Nov 2026 - 12:16 |
+| 2026-11-16 11:00 | Shayona Engineering Ltd | 544686 | Intimation of Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 16 Nov 2026 - 11:11 |
+| 2026-11-16 10:00 | Shayona Engineering Ltd | 544686 | Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, and other applicable SEBI .... ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Neutral | 16 Nov 2026 - 10:57 |
 
-_Last updated: 15 Nov 2026 - 15:44 | Entries: 0 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-15.json)_
+_Last updated: 16 Nov 2026 - 15:57 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-16.json)_
 
 <!-- snapshot:end -->
 
