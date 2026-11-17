@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-11-17",
+  "buckets": {
+    "2026-11-17T14": [
+      {
+        "newsId": "192eaca0-957b-4aa7-b4c7-2d6ba88848e0",
+        "scripCode": 590070,
+        "shortName": "Radaan Mediaworks India Ltd",
+        "headline": "Receipt of Order from Deputy Commissioner of Income Tax, TDS Circle -2",
+        "announcedAt": "2026-11-17T14:24:12.043+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/radaan-mediaworks-india-ltd/radaan/590070/",
+        "rawTime": "2026-11-17T14:24:12.043"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-17T16:53:36.165+05:30",
+    "checksum": "57f813e3cc67ed963f4a8fbab37f74e2906cd23c044f94584b6a08193b0694ea",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-17/awards-165335.json"
+  }
+}
