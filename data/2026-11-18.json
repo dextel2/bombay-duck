@@ -1,0 +1,66 @@
+{
+  "tradingDate": "2026-11-18",
+  "buckets": {
+    "2026-11-18T16": [
+      {
+        "newsId": "e22ca914-cfbd-434a-a553-16001a5ec7d5",
+        "scripCode": 532966,
+        "shortName": "Titagarh Rail Systems Ltd",
+        "headline": "We enclose herewith disclosure under Regulation 30 of SEBI (LODR) Regulation, 2015",
+        "announcedAt": "2026-11-18T16:24:13.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/titagarh-rail-systems-ltd/titagarh/532966/",
+        "rawTime": "2026-11-18T16:24:13.05"
+      }
+    ],
+    "2026-11-18T15": [
+      {
+        "newsId": "2087525b-624b-42f1-9993-a7db5f95f333",
+        "scripCode": 544750,
+        "shortName": "Om Power Transmission Ltd",
+        "headline": "Intimation of receipt of order",
+        "announcedAt": "2026-11-18T15:26:14.577+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/",
+        "rawTime": "2026-11-18T15:26:14.577"
+      }
+    ],
+    "2026-11-18T14": [
+      {
+        "newsId": "0d8d9927-5f37-492e-9120-ddcf9da80cf3",
+        "scripCode": 544913,
+        "shortName": "Glass Wall Systems (India) Ltd",
+        "headline": "Intimation regarding receipt of Work Order",
+        "announcedAt": "2026-11-18T14:12:59.730+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/glass-wall-systems-(india)-ltd/glasswall/544913/",
+        "rawTime": "2026-11-18T14:12:59.73"
+      }
+    ],
+    "2026-11-18T13": [
+      {
+        "newsId": "1dc87de4-10fe-4973-aa15-a52da937b9a1",
+        "scripCode": 544681,
+        "shortName": "INDO SMC Ltd",
+        "headline": "Intimation of Receipt of Purchase Order",
+        "announcedAt": "2026-11-18T13:39:57.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indo-smc-ltd/indosmc/544681/",
+        "rawTime": "2026-11-18T13:39:57.143"
+      },
+      {
+        "newsId": "33a3e300-1989-4eee-a0c2-8fb72729da37",
+        "scripCode": 544885,
+        "shortName": "Gaja Alternative Asset Management Ltd",
+        "headline": "Update on Order Involving the Company''s Promoter, Directors & Subsidiary- Order of Hon''ble Supreme Court of India as per filed attached herewith",
+        "announcedAt": "2026-11-18T13:11:11.050+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/gaja-alternative-asset-management-ltd/gaja/544885/",
+        "rawTime": "2026-11-18T13:11:11.05"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-18T16:26:28.029+05:30",
+    "checksum": "fd557ad4e2da7e9014c0ad3340f4e661bbaf86f3268fdc2a0b206c0314629142",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-18/awards-162627.json"
+  }
+}
