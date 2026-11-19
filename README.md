@@ -18,17 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-18 IST)
+### Today's Awarded Orders (2026-11-19 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-18 16:00 | Titagarh Rail Systems Ltd | 532966 | We enclose herewith disclosure under Regulation 30 of SEBI (LODR) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/titagarh-rail-systems-ltd/titagarh/532966/)) | Neutral | 18 Nov 2026 - 16:24 |
-| 2026-11-18 15:00 | Om Power Transmission Ltd | 544750 | Intimation of receipt of order ([Link](https://www.bseindia.com/stock-share-price/om-power-transmission-ltd/ompower/544750/)) | Likely Positive | 18 Nov 2026 - 15:26 |
-| 2026-11-18 14:00 | Glass Wall Systems (India) Ltd | 544913 | Intimation regarding receipt of Work Order ([Link](https://www.bseindia.com/stock-share-price/glass-wall-systems-(india)-ltd/glasswall/544913/)) | Likely Positive | 18 Nov 2026 - 14:12 |
-| 2026-11-18 13:00 | INDO SMC Ltd | 544681 | Intimation of Receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/indo-smc-ltd/indosmc/544681/)) | Likely Positive | 18 Nov 2026 - 13:39 |
-| 2026-11-18 13:00 | Gaja Alternative Asset Management Ltd | 544885 | Update on Order Involving the Company''s Promoter, Directors & Subsidiary- Order of Hon''ble Supreme Court of India as per filed attached herewith ([Link](https://www.bseindia.com/stock-share-price/gaja-alternative-asset-management-ltd/gaja/544885/)) | Likely Positive | 18 Nov 2026 - 13:11 |
+| 2026-11-19 14:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 19 Nov 2026 - 14:58 |
+| 2026-11-19 14:00 | Brahmaputra Infrastructure Ltd | 535693 | Brahmaputra Infrastructure Limited recieved an LOA for 17 acres of Land on an annual lease Rent of Rs. 3.12 Crores. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 19 Nov 2026 - 14:53 |
+| 2026-11-19 14:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 19 Nov 2026 - 14:51 |
+| 2026-11-19 13:00 | Sayaji Hotels Ltd | 523710 | Pursuant to the provisions of Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations') this is to inform .... ([Link](https://www.bseindia.com/stock-share-price/sayaji-hotels-ltd/sayajihotl/523710/)) | Neutral | 19 Nov 2026 - 13:43 |
+| 2026-11-19 12:00 | East India Drums and Barrels Manufacturing Ltd | 523874 | Receipt of work of order from Indian Oil Limited. ([Link](https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/)) | Likely Positive | 19 Nov 2026 - 12:05 |
 
-_Last updated: 18 Nov 2026 - 16:26 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-18.json)_
+_Last updated: 19 Nov 2026 - 16:28 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-19.json)_
 
 <!-- snapshot:end -->
 

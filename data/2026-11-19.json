@@ -1,0 +1,64 @@
+{
+  "tradingDate": "2026-11-19",
+  "buckets": {
+    "2026-11-19T14": [
+      {
+        "newsId": "52006be6-8d55-4b96-bc70-e55025bb9179",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-11-19T14:58:34.577+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-11-19T14:58:34.577"
+      },
+      {
+        "newsId": "6bce2ac4-0e2a-40a0-8395-f786ed851929",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Brahmaputra Infrastructure Limited recieved an LOA for 17 acres of Land on an annual lease Rent of Rs. 3.12 Crores.",
+        "announcedAt": "2026-11-19T14:53:16.053+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-11-19T14:53:16.053"
+      },
+      {
+        "newsId": "9e95239f-7756-4c90-b014-7345f020a4cb",
+        "scripCode": 532475,
+        "shortName": "Aptech Ltd",
+        "headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015",
+        "announcedAt": "2026-11-19T14:51:44.647+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/",
+        "rawTime": "2026-11-19T14:51:44.647"
+      }
+    ],
+    "2026-11-19T13": [
+      {
+        "newsId": "3cce1f3f-9267-4d7a-8cf4-1d18f6a501c1",
+        "scripCode": 523710,
+        "shortName": "Sayaji Hotels Ltd",
+        "headline": "Pursuant to the provisions of Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations') this is to inform ....",
+        "announcedAt": "2026-11-19T13:43:43.187+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sayaji-hotels-ltd/sayajihotl/523710/",
+        "rawTime": "2026-11-19T13:43:43.187"
+      }
+    ],
+    "2026-11-19T12": [
+      {
+        "newsId": "1158f791-104d-4cc3-9c20-9319ac3b5c8d",
+        "scripCode": 523874,
+        "shortName": "East India Drums and Barrels Manufacturing Ltd",
+        "headline": "Receipt of work of order from Indian Oil Limited.",
+        "announcedAt": "2026-11-19T12:05:38.650+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/",
+        "rawTime": "2026-11-19T12:05:38.65"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-19T16:28:53.010+05:30",
+    "checksum": "eb6e24baafbff4d3906cabf0eb782d6cb538618572a01b8403d38a236a62c98b",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-19/awards-162852.json"
+  }
+}
