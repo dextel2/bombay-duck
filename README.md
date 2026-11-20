@@ -18,17 +18,17 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-19 IST)
+### Today's Awarded Orders (2026-11-20 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-19 14:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 19 Nov 2026 - 14:58 |
-| 2026-11-19 14:00 | Brahmaputra Infrastructure Ltd | 535693 | Brahmaputra Infrastructure Limited recieved an LOA for 17 acres of Land on an annual lease Rent of Rs. 3.12 Crores. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 19 Nov 2026 - 14:53 |
-| 2026-11-19 14:00 | Aptech Ltd | 532475 | Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ([Link](https://www.bseindia.com/stock-share-price/aptech-ltd/aptecht/532475/)) | Neutral | 19 Nov 2026 - 14:51 |
-| 2026-11-19 13:00 | Sayaji Hotels Ltd | 523710 | Pursuant to the provisions of Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations') this is to inform .... ([Link](https://www.bseindia.com/stock-share-price/sayaji-hotels-ltd/sayajihotl/523710/)) | Neutral | 19 Nov 2026 - 13:43 |
-| 2026-11-19 12:00 | East India Drums and Barrels Manufacturing Ltd | 523874 | Receipt of work of order from Indian Oil Limited. ([Link](https://www.bseindia.com/stock-share-price/east-india-drums-and-barrels-manufacturing-ltd/eastindia/523874/)) | Likely Positive | 19 Nov 2026 - 12:05 |
+| 2026-11-20 15:00 | Morarka Finance Ltd | 511549 | As per Attachment ([Link](https://www.bseindia.com/stock-share-price/morarka-finance-ltd/morarkfi/511549/)) | Neutral | 20 Nov 2026 - 15:18 |
+| 2026-11-20 14:00 | Schneider Electric Infrastructure Ltd | 534139 | Please find enclosed disclosure under regulation 30 of SEBI Listing Regulations regarding tax matters. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/)) | Neutral | 20 Nov 2026 - 14:58 |
+| 2026-11-20 12:00 | Rossell Techsys Ltd | 544294 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/rossell-techsys-ltd/rosstech/544294/)) | Likely Positive | 20 Nov 2026 - 12:42 |
+| 2026-11-20 12:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Award from National Highways Authority of India for operations at Ratowa Fee Plaza ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 20 Nov 2026 - 12:35 |
+| 2026-11-20 12:00 | Rossell Techsys Ltd | 544294 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/rossell-techsys-ltd/rosstech/544294/)) | Likely Positive | 20 Nov 2026 - 12:25 |
 
-_Last updated: 19 Nov 2026 - 16:28 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-19.json)_
+_Last updated: 20 Nov 2026 - 16:17 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-20.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,64 @@
+{
+  "tradingDate": "2026-11-20",
+  "buckets": {
+    "2026-11-20T15": [
+      {
+        "newsId": "7fe3c95f-9cd0-41ef-a05c-24bbcadcf1e9",
+        "scripCode": 511549,
+        "shortName": "Morarka Finance Ltd",
+        "headline": "As per Attachment",
+        "announcedAt": "2026-11-20T15:18:42.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/morarka-finance-ltd/morarkfi/511549/",
+        "rawTime": "2026-11-20T15:18:42.14"
+      }
+    ],
+    "2026-11-20T14": [
+      {
+        "newsId": "d6f57fdb-b2b8-4b31-86e3-9266caa96855",
+        "scripCode": 534139,
+        "shortName": "Schneider Electric Infrastructure Ltd",
+        "headline": "Please find enclosed disclosure under regulation 30 of SEBI Listing Regulations regarding tax matters.",
+        "announcedAt": "2026-11-20T14:58:13.093+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/",
+        "rawTime": "2026-11-20T14:58:13.093"
+      }
+    ],
+    "2026-11-20T12": [
+      {
+        "newsId": "0f52b507-375c-418d-b58e-af8b9c692e1a",
+        "scripCode": 544294,
+        "shortName": "Rossell Techsys Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order",
+        "announcedAt": "2026-11-20T12:42:24.077+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rossell-techsys-ltd/rosstech/544294/",
+        "rawTime": "2026-11-20T12:42:24.077"
+      },
+      {
+        "newsId": "08f04b28-8a85-46b4-9d67-fcf13bff4f47",
+        "scripCode": 543983,
+        "shortName": "EMS Ltd",
+        "headline": "Intimation of Receipt of Letter of Award from National Highways Authority of India for operations at Ratowa Fee Plaza",
+        "announcedAt": "2026-11-20T12:35:42.293+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/",
+        "rawTime": "2026-11-20T12:35:42.293"
+      },
+      {
+        "newsId": "9ab2ff4c-cfcc-4698-9d42-dc64be4c01e0",
+        "scripCode": 544294,
+        "shortName": "Rossell Techsys Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order",
+        "announcedAt": "2026-11-20T12:25:47.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/rossell-techsys-ltd/rosstech/544294/",
+        "rawTime": "2026-11-20T12:25:47.803"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-20T16:17:19.480+05:30",
+    "checksum": "3d09c6f51fc65eb2a7fa8084a4ad8ef5b3216acb7d90a4c4e7e7ea0fec533373",
+    "totalAnnouncements": 5,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-20/awards-161718.json"
+  }
+}
