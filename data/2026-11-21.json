@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-11-21",
+  "buckets": {
+    "2026-11-21T15": [
+      {
+        "newsId": "278984a7-8c6a-412d-8c2f-1b84628bfc03",
+        "scripCode": 544405,
+        "shortName": "Belrise Industries Ltd",
+        "headline": "The Belrise Industries Limited has submitted to the exchange an Order-in-Appeal passed by the Commissioner of Customs (Appeals), Mumbai Zone-III.",
+        "announcedAt": "2026-11-21T15:42:03.440+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/belrise-industries-ltd/belrise/544405/",
+        "rawTime": "2026-11-21T15:42:03.44"
+      }
+    ],
+    "2026-11-21T14": [
+      {
+        "newsId": "e82f969d-d122-46a3-af66-d01fabf07f8d",
+        "scripCode": 522014,
+        "shortName": "United Drilling Tools Ltd",
+        "headline": "Order from Vedanta Oil and Gas Limited",
+        "announcedAt": "2026-11-21T14:54:48.020+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/",
+        "rawTime": "2026-11-21T14:54:48.02"
+      },
+      {
+        "newsId": "d679895c-b161-4fa7-9946-1a20fb81b286",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-11-21T14:47:15.167+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-11-21T14:47:15.167"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-21T16:00:27.529+05:30",
+    "checksum": "d6602663c414342d7474db427f28e757c3d245d229d453f44e8bf39cf353ef6d",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-21/awards-160027.json"
+  }
+}

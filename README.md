@@ -18,17 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-20 IST)
+### Today's Awarded Orders (2026-11-21 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-20 15:00 | Morarka Finance Ltd | 511549 | As per Attachment ([Link](https://www.bseindia.com/stock-share-price/morarka-finance-ltd/morarkfi/511549/)) | Neutral | 20 Nov 2026 - 15:18 |
-| 2026-11-20 14:00 | Schneider Electric Infrastructure Ltd | 534139 | Please find enclosed disclosure under regulation 30 of SEBI Listing Regulations regarding tax matters. ([Link](https://www.bseindia.com/stock-share-price/schneider-electric-infrastructure-ltd/schneider/534139/)) | Neutral | 20 Nov 2026 - 14:58 |
-| 2026-11-20 12:00 | Rossell Techsys Ltd | 544294 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/rossell-techsys-ltd/rosstech/544294/)) | Likely Positive | 20 Nov 2026 - 12:42 |
-| 2026-11-20 12:00 | EMS Ltd | 543983 | Intimation of Receipt of Letter of Award from National Highways Authority of India for operations at Ratowa Fee Plaza ([Link](https://www.bseindia.com/stock-share-price/ems-ltd/emslimited/543983/)) | Likely Positive | 20 Nov 2026 - 12:35 |
-| 2026-11-20 12:00 | Rossell Techsys Ltd | 544294 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order ([Link](https://www.bseindia.com/stock-share-price/rossell-techsys-ltd/rosstech/544294/)) | Likely Positive | 20 Nov 2026 - 12:25 |
+| 2026-11-21 15:00 | Belrise Industries Ltd | 544405 | The Belrise Industries Limited has submitted to the exchange an Order-in-Appeal passed by the Commissioner of Customs (Appeals), Mumbai Zone-III. ([Link](https://www.bseindia.com/stock-share-price/belrise-industries-ltd/belrise/544405/)) | Likely Positive | 21 Nov 2026 - 15:42 |
+| 2026-11-21 14:00 | United Drilling Tools Ltd | 522014 | Order from Vedanta Oil and Gas Limited ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 21 Nov 2026 - 14:54 |
+| 2026-11-21 14:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 21 Nov 2026 - 14:47 |
 
-_Last updated: 20 Nov 2026 - 16:17 | Entries: 5 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-20.json)_
+_Last updated: 21 Nov 2026 - 16:00 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-21.json)_
 
 <!-- snapshot:end -->
 
