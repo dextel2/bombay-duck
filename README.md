@@ -18,15 +18,13 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-21 IST)
+### Today's Awarded Orders (2026-11-22 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-21 15:00 | Belrise Industries Ltd | 544405 | The Belrise Industries Limited has submitted to the exchange an Order-in-Appeal passed by the Commissioner of Customs (Appeals), Mumbai Zone-III. ([Link](https://www.bseindia.com/stock-share-price/belrise-industries-ltd/belrise/544405/)) | Likely Positive | 21 Nov 2026 - 15:42 |
-| 2026-11-21 14:00 | United Drilling Tools Ltd | 522014 | Order from Vedanta Oil and Gas Limited ([Link](https://www.bseindia.com/stock-share-price/united-drilling-tools-ltd/unidt/522014/)) | Likely Positive | 21 Nov 2026 - 14:54 |
-| 2026-11-21 14:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 21 Nov 2026 - 14:47 |
+| 2026-11-22 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 22 Nov 2026 - 13:10 |
 
-_Last updated: 21 Nov 2026 - 16:00 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-21.json)_
+_Last updated: 22 Nov 2026 - 16:04 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-22.json)_
 
 <!-- snapshot:end -->
 

@@ -1,0 +1,24 @@
+{
+  "tradingDate": "2026-11-22",
+  "buckets": {
+    "2026-11-22T13": [
+      {
+        "newsId": "2dbb97bd-7347-43e2-8c48-0e77f51f8907",
+        "scripCode": 543265,
+        "shortName": "RailTel Corporation of India Ltd",
+        "headline": "New Order Received",
+        "announcedAt": "2026-11-22T13:10:45.033+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+        "rawTime": "2026-11-22T13:10:45.033"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-22T16:04:50.062+05:30",
+    "checksum": "752e3b7bd6d4172f6be2ac60c11a4e5036482c8164d6a8aaa325a00bb05cd1ac",
+    "totalAnnouncements": 1,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-22/awards-160449.json"
+  }
+}
