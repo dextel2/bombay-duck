@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-11-23",
+  "buckets": {
+    "2026-11-23T15": [
+      {
+        "newsId": "5bbcedab-ab10-4f6a-91d9-a63812fe492b",
+        "scripCode": 544710,
+        "shortName": "Accord Transformer & Switchgear Ltd",
+        "headline": "Intimation of Order Received for an Amount of Rs. 44,68,40,000/-(Rupees Forty Four Crore Sixty Eight Lakhs Forty Thousand Only)",
+        "announcedAt": "2026-11-23T15:51:34.880+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/",
+        "rawTime": "2026-11-23T15:51:34.88"
+      },
+      {
+        "newsId": "23aa7156-341d-4bbe-94a5-50587f3986bf",
+        "scripCode": 544149,
+        "shortName": "Krystal Integrated Services Ltd",
+        "headline": "Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015",
+        "announcedAt": "2026-11-23T15:39:24.933+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/",
+        "rawTime": "2026-11-23T15:39:24.933"
+      }
+    ],
+    "2026-11-23T09": [
+      {
+        "newsId": "414edffa-5b30-4aa0-ab6b-a1e1948edf33",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "Larsen & Toubro Secures (Large*) Order for Deploying AI Cluster",
+        "announcedAt": "2026-11-23T09:30:55.217+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-11-23T09:30:55.217"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-23T17:05:38.741+05:30",
+    "checksum": "5108a58196eed9bf5e5f6a52d9f90aa70d0c92d89678aa8d1cd3daef1b871613",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-23/awards-170537.json"
+  }
+}

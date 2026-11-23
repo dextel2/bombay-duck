@@ -18,13 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-22 IST)
+### Today's Awarded Orders (2026-11-23 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-22 13:00 | RailTel Corporation of India Ltd | 543265 | New Order Received ([Link](https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/)) | Likely Positive | 22 Nov 2026 - 13:10 |
+| 2026-11-23 15:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation of Order Received for an Amount of Rs. 44,68,40,000/-(Rupees Forty Four Crore Sixty Eight Lakhs Forty Thousand Only) ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 23 Nov 2026 - 15:51 |
+| 2026-11-23 15:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 23 Nov 2026 - 15:39 |
+| 2026-11-23 09:00 | Larsen & Toubro Ltd | 500510 | Larsen & Toubro Secures (Large*) Order for Deploying AI Cluster ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Nov 2026 - 09:30 |
 
-_Last updated: 22 Nov 2026 - 16:04 | Entries: 1 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-22.json)_
+_Last updated: 23 Nov 2026 - 17:05 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-23.json)_
 
 <!-- snapshot:end -->
 
