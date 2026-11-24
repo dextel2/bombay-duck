@@ -18,15 +18,19 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-23 IST)
+### Today's Awarded Orders (2026-11-24 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-23 15:00 | Accord Transformer & Switchgear Ltd | 544710 | Intimation of Order Received for an Amount of Rs. 44,68,40,000/-(Rupees Forty Four Crore Sixty Eight Lakhs Forty Thousand Only) ([Link](https://www.bseindia.com/stock-share-price/accord-transformer--switchgear-ltd/accordts/544710/)) | Likely Positive | 23 Nov 2026 - 15:51 |
-| 2026-11-23 15:00 | Krystal Integrated Services Ltd | 544149 | Intimation under Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015 ([Link](https://www.bseindia.com/stock-share-price/krystal-integrated-services-ltd/krystal/544149/)) | Neutral | 23 Nov 2026 - 15:39 |
-| 2026-11-23 09:00 | Larsen & Toubro Ltd | 500510 | Larsen & Toubro Secures (Large*) Order for Deploying AI Cluster ([Link](https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/)) | Likely Positive | 23 Nov 2026 - 09:30 |
+| 2026-11-24 18:00 | G V Electricals Ltd | 544859 | Announcement under Regulation 30 - Receipt of rate contract ([Link](https://www.bseindia.com/stock-share-price/g-v-electricals-ltd/gvelectric/544859/)) | Likely Positive | 24 Nov 2026 - 18:28 |
+| 2026-11-24 16:00 | Vascon Engineers Ltd | 533156 | Vascon Engineers received Letter of Intent of Rs. 195 Crore for Construction of Shell & Core works for redevelopment Project at Borivali Mumbai from kanakia Transparent Developers Private Limited ([Link](https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/)) | Neutral | 24 Nov 2026 - 16:06 |
+| 2026-11-24 16:00 | Shayona Engineering Ltd | 544686 | Intimation of receipt of Purchase Order ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 24 Nov 2026 - 16:00 |
+| 2026-11-24 15:00 | Indobell Insulations Ltd | 544334 | Export Order for $194,736.00 ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 24 Nov 2026 - 15:42 |
+| 2026-11-24 14:00 | Affordable Robotic & Automation Ltd | 541402 | Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received purchase orders from 2 (Two) esteemed .... ([Link](https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/)) | Likely Positive | 24 Nov 2026 - 14:56 |
+| 2026-11-24 14:00 | Valecha Engineering Ltd-$ | 532389 | Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015. ([Link](https://www.bseindia.com/stock-share-price/valecha-engineering-ltd/valechaeng/532389/)) | Neutral | 24 Nov 2026 - 14:54 |
+| 2026-11-24 11:00 | Silver Touch Technologies Ltd | 543525 | Enclosed herewith Business Update on "Silver Touch Technologies has received contract cum purchase order from Gujarat Urja Vikas Nigam Limited, Government of India". ([Link](https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/)) | Likely Positive | 24 Nov 2026 - 11:15 |
 
-_Last updated: 23 Nov 2026 - 17:05 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-23.json)_
+_Last updated: 24 Nov 2026 - 18:38 | Entries: 7 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-24.json)_
 
 <!-- snapshot:end -->
 

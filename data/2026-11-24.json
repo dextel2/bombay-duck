@@ -1,0 +1,86 @@
+{
+  "tradingDate": "2026-11-24",
+  "buckets": {
+    "2026-11-24T18": [
+      {
+        "newsId": "70aff3db-ae2c-4eb1-a2d7-fcc10e4d30f3",
+        "scripCode": 544859,
+        "shortName": "G V Electricals Ltd",
+        "headline": "Announcement under Regulation 30 - Receipt of rate contract",
+        "announcedAt": "2026-11-24T18:28:14.803+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/g-v-electricals-ltd/gvelectric/544859/",
+        "rawTime": "2026-11-24T18:28:14.803"
+      }
+    ],
+    "2026-11-24T16": [
+      {
+        "newsId": "00c2d603-cdd4-494f-a066-ef6907374684",
+        "scripCode": 533156,
+        "shortName": "Vascon Engineers Ltd",
+        "headline": "Vascon Engineers received Letter of Intent of Rs. 195 Crore for Construction of Shell & Core works for redevelopment Project at Borivali Mumbai from kanakia Transparent Developers Private Limited",
+        "announcedAt": "2026-11-24T16:06:46.347+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/vascon-engineers-ltd/vasconeq/533156/",
+        "rawTime": "2026-11-24T16:06:46.347"
+      },
+      {
+        "newsId": "4139ffd9-099e-4ad1-82db-b9edea3369df",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of receipt of Purchase Order",
+        "announcedAt": "2026-11-24T16:00:07.697+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-11-24T16:00:07.697"
+      }
+    ],
+    "2026-11-24T15": [
+      {
+        "newsId": "e623c581-26a6-4639-a6ec-d9d9735066d3",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "Export Order for $194,736.00",
+        "announcedAt": "2026-11-24T15:42:32.070+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-11-24T15:42:32.07"
+      }
+    ],
+    "2026-11-24T14": [
+      {
+        "newsId": "c07a3545-f4cb-4b42-b763-f5fdd94aee89",
+        "scripCode": 541402,
+        "shortName": "Affordable Robotic & Automation Ltd",
+        "headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received purchase orders from 2 (Two) esteemed ....",
+        "announcedAt": "2026-11-24T14:56:02.080+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/affordable-robotic--automation-ltd/affordable/541402/",
+        "rawTime": "2026-11-24T14:56:02.08"
+      },
+      {
+        "newsId": "5801cb5d-8036-455c-8363-fbf83feb7da4",
+        "scripCode": 532389,
+        "shortName": "Valecha Engineering Ltd-$",
+        "headline": "Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015.",
+        "announcedAt": "2026-11-24T14:54:00.367+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/valecha-engineering-ltd/valechaeng/532389/",
+        "rawTime": "2026-11-24T14:54:00.367"
+      }
+    ],
+    "2026-11-24T11": [
+      {
+        "newsId": "5c173366-9c7a-4a9c-97c0-a9c864d80498",
+        "scripCode": 543525,
+        "shortName": "Silver Touch Technologies Ltd",
+        "headline": "Enclosed herewith Business Update on \"Silver Touch Technologies has received contract cum purchase order from Gujarat Urja Vikas Nigam Limited, Government of India\".",
+        "announcedAt": "2026-11-24T11:15:34.540+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/silver-touch-technologies-ltd/silvertuc/543525/",
+        "rawTime": "2026-11-24T11:15:34.54"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-24T18:38:41.547+05:30",
+    "checksum": "f13af4fe712a55fd86eaea3cf1f1b304e18da7fe31fc36dc287cea62a3717d05",
+    "totalAnnouncements": 7,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-24/awards-183840.json"
+  }
+}
