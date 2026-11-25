@@ -1,0 +1,44 @@
+{
+  "tradingDate": "2026-11-25",
+  "buckets": {
+    "2026-11-25T17": [
+      {
+        "newsId": "bfecb228-f5f0-4fbe-84dd-1edc71a46cfa",
+        "scripCode": 500084,
+        "shortName": "CESC Ltd",
+        "headline": "Award of order by Purvah Green Power Private Limited, a CESC Subsidiary",
+        "announcedAt": "2026-11-25T17:05:01.773+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/cesc-ltd/cesc/500084/",
+        "rawTime": "2026-11-25T17:05:01.773"
+      }
+    ],
+    "2026-11-25T11": [
+      {
+        "newsId": "93d7a80d-ca13-41c9-b2d2-58f9f495c6d8",
+        "scripCode": 544334,
+        "shortName": "Indobell Insulations Ltd",
+        "headline": "Export Order for $97,368.00",
+        "announcedAt": "2026-11-25T11:49:49.140+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/",
+        "rawTime": "2026-11-25T11:49:49.14"
+      },
+      {
+        "newsId": "7b8147a7-34c0-4f1f-b120-24a9d826dade",
+        "scripCode": 500510,
+        "shortName": "Larsen & Toubro Ltd",
+        "headline": "L&T Wins (Significant*) Order for Battery Energy Storage System in Gujarat",
+        "announcedAt": "2026-11-25T11:20:36.480+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+        "rawTime": "2026-11-25T11:20:36.48"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-25T17:27:03.637+05:30",
+    "checksum": "72f6636938efed060cfa8e81be90caf4f4044458fac3d2eba9347d02e7211374",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-25/awards-172703.json"
+  }
+}
