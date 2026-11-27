@@ -15,7 +15,7 @@
     "dev:fetch": "ts-node -r tsconfig-paths/register src/fetch-bse-awards.ts",
     "dev:merge": "ts-node -r tsconfig-paths/register src/merge-awards.ts",
     "dev:render": "ts-node -r tsconfig-paths/register src/render-readme.ts",
-    "test": "node --test"
+    "test": "node -r ts-node/register -r tsconfig-paths/register --test tests/**/*.test.ts"
   },
   "keywords": [],
   "author": "",

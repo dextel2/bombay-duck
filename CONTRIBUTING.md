@@ -1,4 +1,4 @@
-﻿# Contributing
+# Contributing
 
 Thanks for your interest in improving Bombay Duck! Follow these steps to make sure changes land smoothly.
 
@@ -19,14 +19,24 @@ Thanks for your interest in improving Bombay Duck! Follow these steps to make su
 - Stick to TypeScript in `src/`; compiled artifacts in `dist/` are generated automatically.
 - Keep changes ASCII unless the file already uses another charset.
 - Add short, meaningful comments only where logic is non-obvious.
-- Update or create unit tests in a future `tests/` directory if we add one; for now, include mocked scripts where practical.
+- Add or update tests under `tests/` when changing behaviour.
 
-## 4. Testing Checklist
+## 4. Testing
+
+```bash
+npm test
+```
+
+- Uses Node's built-in test runner (`node:test`) with TypeScript via `ts-node`.
+- Unit tests live in `tests/unit/`; fixtures in `tests/fixtures/`.
+- Tests must not call the live BSE API — use fixtures instead.
+- CI (`.github/workflows/ci.yml`) runs `npm run build` and `npm test` on every PR and push to `main`.
+
+### Checklist before opening a PR
 - `npm run build`
-- `npm run fetch` (mock or run during market hours)
-- `npm run merge`
-- `npm run render`
-- `npm run guard` (ensure `should_run` output is correct)
+- `npm test`
+- `npm run guard` (ensure `should_run` output is correct when relevant)
+- `npm run fetch` only if you intentionally need a live check during market hours
 
 ## 5. Documentation
 - Update `README.md` or other docs if behaviour or configuration changes.
