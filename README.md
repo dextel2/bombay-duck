@@ -18,16 +18,14 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-26 IST)
+### Today's Awarded Orders (2026-11-27 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-26 15:00 | JD Cables Ltd | 544524 | BSE Intimation regarding the receipt of order under Regulation 30 of SEBI (LODR) Regulations 2015 ([Link](https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/)) | Likely Positive | 26 Nov 2026 - 15:53 |
-| 2026-11-26 15:00 | Kiaasa Retail Ltd | 544711 | We are pleased to inform that the Company has received an Export Order for Supply of various Garment Articles including dress, Kurta, Kurta 2pcs set, Salwar-Kurta-Dupatta etc. for a value .... ([Link](https://www.bseindia.com/stock-share-price/kiaasa-retail-ltd/kiaasa/544711/)) | Likely Positive | 26 Nov 2026 - 15:19 |
-| 2026-11-26 15:00 | Zaggle Prepaid Ocean Services Ltd | 543985 | Pursuant to Regulation 30 of SEBI (LODR) Regulations, this is to inform you that Zaggle Prepaid Ocean Services Limited (Zaggle) has entered into an agreement with Infosys Limited ([Link](https://www.bseindia.com/stock-share-price/zaggle-prepaid-ocean-services-ltd/zaggle/543985/)) | Neutral | 26 Nov 2026 - 15:00 |
-| 2026-11-26 12:00 | Indobell Insulations Ltd | 544334 | New Domestic Order valuing Rs 1.09 Cr. ([Link](https://www.bseindia.com/stock-share-price/indobell-insulations-ltd/indobell/544334/)) | Likely Positive | 26 Nov 2026 - 12:07 |
+| 2026-11-27 14:00 | Brahmaputra Infrastructure Ltd | 535693 | Brahmaputra Infrastructure Limited declared as HI for 24 Acre Way Site Amenities Site on Delhi- Amritsar- Katra Expressway. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 27 Nov 2026 - 14:45 |
+| 2026-11-27 12:00 | Sharika Enterprises Ltd | 540786 | Intimation of receipt of Work Order from PEDA ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 27 Nov 2026 - 12:19 |
 
-_Last updated: 26 Nov 2026 - 17:15 | Entries: 4 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-26.json)_
+_Last updated: 27 Nov 2026 - 17:09 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-27.json)_
 
 <!-- snapshot:end -->
 

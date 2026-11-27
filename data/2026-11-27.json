@@ -1,0 +1,35 @@
+{
+  "tradingDate": "2026-11-27",
+  "buckets": {
+    "2026-11-27T14": [
+      {
+        "newsId": "bb7e6697-a40f-48b8-b6d3-a4e21591a166",
+        "scripCode": 535693,
+        "shortName": "Brahmaputra Infrastructure Ltd",
+        "headline": "Brahmaputra Infrastructure Limited declared as HI for 24 Acre Way Site Amenities Site on Delhi- Amritsar- Katra Expressway.",
+        "announcedAt": "2026-11-27T14:45:30.663+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/",
+        "rawTime": "2026-11-27T14:45:30.663"
+      }
+    ],
+    "2026-11-27T12": [
+      {
+        "newsId": "535349ac-8036-43da-9cb0-1953244a8af2",
+        "scripCode": 540786,
+        "shortName": "Sharika Enterprises Ltd",
+        "headline": "Intimation of receipt of Work Order from PEDA",
+        "announcedAt": "2026-11-27T12:19:36.143+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/",
+        "rawTime": "2026-11-27T12:19:36.143"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-27T17:09:00.080+05:30",
+    "checksum": "b86baee59290c30b72b22177d1906fd2ae29c06db87886734f8e2d88412a9063",
+    "totalAnnouncements": 2,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-27/awards-170859.json"
+  }
+}
