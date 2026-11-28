@@ -1,0 +1,46 @@
+{
+  "tradingDate": "2026-11-28",
+  "buckets": {
+    "2026-11-28T13": [
+      {
+        "newsId": "7b72a49a-0485-4061-a286-529b25d336a9",
+        "scripCode": 531297,
+        "shortName": "Artefact Projects Ltd",
+        "headline": "Letter of Award",
+        "announcedAt": "2026-11-28T13:28:45.173+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/",
+        "rawTime": "2026-11-28T13:28:45.173"
+      }
+    ],
+    "2026-11-28T12": [
+      {
+        "newsId": "d2cac20b-9732-439c-ab1f-978524b76906",
+        "scripCode": 544555,
+        "shortName": "Ameenji Rubber Ltd",
+        "headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and disclosure Requirements) 2015",
+        "announcedAt": "2026-11-28T12:35:43.767+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/",
+        "rawTime": "2026-11-28T12:35:43.767"
+      }
+    ],
+    "2026-11-28T11": [
+      {
+        "newsId": "e95d3fa0-0380-4636-ab85-8ae1b8a98fb1",
+        "scripCode": 544686,
+        "shortName": "Shayona Engineering Ltd",
+        "headline": "Intimation of Receipt of Purchase Order.",
+        "announcedAt": "2026-11-28T11:35:43.753+05:30",
+        "url": "https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/",
+        "rawTime": "2026-11-28T11:35:43.753"
+      }
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-11-28T16:43:51.982+05:30",
+    "checksum": "6338802bf8c9ab58a8060bd26fdada3deb21810d967d7ea00ff7cf1391e2a883",
+    "totalAnnouncements": 3,
+    "requestCount": 1,
+    "retryCount": 0,
+    "rawPayloadPath": "data/raw/2026-11-28/awards-164351.json"
+  }
+}

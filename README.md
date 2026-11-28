@@ -18,14 +18,15 @@ Bombay Duck keeps a pulse on BSE's "Award of Order / Receipt of Order" announcem
 
 <!-- snapshot:start -->
 
-### Today's Awarded Orders (2026-11-27 IST)
+### Today's Awarded Orders (2026-11-28 IST)
 
 | Hour (IST) | Company | Code | Headline | Profit Outlook | Announced At |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-27 14:00 | Brahmaputra Infrastructure Ltd | 535693 | Brahmaputra Infrastructure Limited declared as HI for 24 Acre Way Site Amenities Site on Delhi- Amritsar- Katra Expressway. ([Link](https://www.bseindia.com/stock-share-price/brahmaputra-infrastructure-ltd/brahminfra/535693/)) | Neutral | 27 Nov 2026 - 14:45 |
-| 2026-11-27 12:00 | Sharika Enterprises Ltd | 540786 | Intimation of receipt of Work Order from PEDA ([Link](https://www.bseindia.com/stock-share-price/sharika-enterprises-ltd/sharika/540786/)) | Likely Positive | 27 Nov 2026 - 12:19 |
+| 2026-11-28 13:00 | Artefact Projects Ltd | 531297 | Letter of Award ([Link](https://www.bseindia.com/stock-share-price/artefact-projects-ltd/artefact/531297/)) | Neutral | 28 Nov 2026 - 13:28 |
+| 2026-11-28 12:00 | Ameenji Rubber Ltd | 544555 | Disclosure under Regulation 30 of the SEBI (Listing Obligations and disclosure Requirements) 2015 ([Link](https://www.bseindia.com/stock-share-price/ameenji-rubber-ltd/ameenji/544555/)) | Neutral | 28 Nov 2026 - 12:35 |
+| 2026-11-28 11:00 | Shayona Engineering Ltd | 544686 | Intimation of Receipt of Purchase Order. ([Link](https://www.bseindia.com/stock-share-price/shayona-engineering-ltd/shayonaeng/544686/)) | Likely Positive | 28 Nov 2026 - 11:35 |
 
-_Last updated: 27 Nov 2026 - 17:09 | Entries: 2 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-27.json)_
+_Last updated: 28 Nov 2026 - 16:43 | Entries: 3 | Requests: 1 | Retries: 0 | [Raw JSON](data/2026-11-28.json)_
 
 <!-- snapshot:end -->
 
